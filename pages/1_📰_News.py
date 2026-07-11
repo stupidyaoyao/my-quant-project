@@ -13,7 +13,10 @@ from datetime import datetime
 
 import streamlit as st
 
+from common import inject_base_css
+
 st.set_page_config(page_title="新聞牆", layout="wide")
+inject_base_css()
 st.title("📰 相關新聞牆")
 
 NEWS_FILE = "news_log.json"

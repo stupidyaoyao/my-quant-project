@@ -9,26 +9,23 @@ import os
 import pandas as pd
 import streamlit as st
 
+from common import inject_base_css, load_log, sidebar_filter
+
 st.set_page_config(page_title="報酬率追蹤", layout="wide")
+inject_base_css()
 st.title("💰 報酬率追蹤")
 
-LOG_FILE = "paper_trading_log.csv"
-
-if not os.path.exists(LOG_FILE):
+df = load_log()
+if df is None:
     st.warning("還沒有任何紀錄，請先執行 python paper_trading_daily.py 產生資料")
     st.stop()
 
-df = pd.read_csv(LOG_FILE, encoding="utf-8-sig")
-df["日期"] = pd.to_datetime(df["日期"])
 if "浮動報酬" not in df.columns:
-    st.info("目前使用的是舊版紀錄檔，還沒有報酬率資料，執行一次 paper_trading_daily.py 後就會開始累積")
+    st.info("目前使用的是舊版紀錄檔，還沒有報酬率資料")
     st.stop()
 
-df["浮動報酬"] = pd.to_numeric(df["浮動報酬"], errors="coerce")
 tickers = df["商品"].unique().tolist()
-
-st.sidebar.header("篩選")
-selected_tickers = st.sidebar.multiselect("選擇要顯示的商品", tickers, default=tickers)
+selected_tickers = sidebar_filter(tickers)
 filtered = df[df["商品"].isin(selected_tickers)].sort_values("日期")
 
 has_return_data = filtered["浮動報酬"].notna().any()
