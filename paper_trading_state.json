@@ -12,5 +12,28 @@
     "entry_date": "2026-07-10",
     "highest_since_entry": 725.510009765625,
     "position_fraction": 0.30695466968282226
+  },
+  "AAPL": {
+    "in_position": true,
+    "entry_price": 315.32000732421875,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 315.32000732421875,
+    "position_fraction": 0.23496888629858467
+  },
+  "MSFT": {
+    "in_position": false
+  },
+  "XOM": {
+    "in_position": false
+  },
+  "PYPL": {
+    "in_position": false
+  },
+  "INTC": {
+    "in_position": true,
+    "entry_price": 109.83999633789062,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 109.83999633789062,
+    "position_fraction": 0.0732790055734208
   }
 }
