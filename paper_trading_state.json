@@ -1,3 +1,16 @@
 {
-  "in_position": false
+  "in_position": false,
+  "BTC-USD": {
+    "in_position": false
+  },
+  "ETH-USD": {
+    "in_position": false
+  },
+  "QQQ": {
+    "in_position": true,
+    "entry_price": 725.510009765625,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 725.510009765625,
+    "position_fraction": 0.30695466968282226
+  }
 }
