@@ -1,13 +1,11 @@
 """
-每日模擬交易訊號檢查（多商品版 + 批次抓取 + 報酬率記錄）
+每日模擬交易訊號檢查（多商品版 + 熱門股清單 + 新聞彙整）
 ------------------------------------------------------------
-每天執行一次，同時檢查多個商品的訊號：
-  1. 批次抓取所有商品的最新資料
+每天執行一次：
+  1. 批次抓取「固定追蹤清單」+ Yahoo Finance「今日交易量最活躍」前25檔的資料
   2. 判斷每個商品該「買進」「續抱」「賣出」還是「觀望」
-  3. 額外記錄「進場價」「浮動報酬」，讓儀表板能畫出報酬率追蹤圖
-  4. 記錄到 paper_trading_log.csv
-
-⚠️ 只給建議，不會真的幫你下單。
+  3. 記錄進場價、浮動報酬，供儀表板畫報酬率圖
+  4. 抓取所有追蹤商品的相關新聞，彙整成新聞牆資料
 
 執行方式（建議每天收盤後跑一次）：
     python paper_trading_daily.py
@@ -23,17 +21,33 @@ import numpy as np
 import yfinance as yf
 
 # ---------- 參數設定 ----------
-TICKERS = ["BTC-USD", "ETH-USD", "QQQ", "AAPL", "MSFT", "XOM", "PYPL", "INTC"]
+FIXED_TICKERS = ["BTC-USD", "ETH-USD", "QQQ", "AAPL", "MSFT", "XOM", "PYPL", "INTC"]
+MOST_ACTIVE_COUNT = 25   # 只抓第一頁，約25檔
 
 SHORT_WINDOW = 20
 LONG_WINDOW = 60
 ATR_WINDOW = 14
 ATR_MULTIPLIER = 3.0
 RISK_PER_TRADE_PCT = 0.02
+NEWS_PER_TICKER = 3      # 每檔股票抓幾則新聞
+NEWS_MAX_TOTAL = 40      # 新聞牆最多保留幾則
 
 STATE_FILE = "paper_trading_state.json"
 LOG_FILE = "paper_trading_log.csv"
-LOG_HEADER = ["日期", "商品", "收盤價", "持倉狀態", "進場價", "浮動報酬", "建議"]
+NEWS_FILE = "news_log.json"
+LOG_HEADER = ["日期", "商品", "來源", "收盤價", "持倉狀態", "進場價", "浮動報酬", "建議"]
+
+
+def fetch_most_active(count):
+    """抓 Yahoo Finance 今日交易量最活躍清單，抓不到就回傳空清單，不影響其他功能"""
+    try:
+        result = yf.screen("most_actives", count=count)
+        symbols = [q["symbol"] for q in result.get("quotes", [])]
+        print(f"成功抓到 {len(symbols)} 檔今日熱門股: {symbols}\n")
+        return symbols
+    except Exception as e:
+        print(f"⚠️ 抓取「今日熱門股」清單失敗，略過這部分（原因: {e}）\n")
+        return []
 
 
 def fetch_batch_data(tickers):
@@ -80,31 +94,28 @@ def save_all_state(all_state):
 
 
 def ensure_log_schema():
-    """確保 CSV 有正確的欄位結構；如果是舊版格式，自動遷移補上新欄位"""
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, "w", newline="", encoding="utf-8-sig") as f:
             csv.writer(f).writerow(LOG_HEADER)
         return
-
     with open(LOG_FILE, "r", encoding="utf-8-sig") as f:
         first_line = f.readline().strip()
-
     if first_line != ",".join(LOG_HEADER):
         df_old = pd.read_csv(LOG_FILE, encoding="utf-8-sig")
         for col in LOG_HEADER:
             if col not in df_old.columns:
-                df_old[col] = ""
+                df_old[col] = "" if col != "來源" else "追蹤清單"
         df_old = df_old[LOG_HEADER]
         df_old.to_csv(LOG_FILE, index=False, encoding="utf-8-sig")
-        print("已將舊版紀錄檔遷移為新格式（補上進場價/浮動報酬欄位）")
+        print("已將舊版紀錄檔遷移為新格式\n")
 
 
-def log_result(date, ticker, price, entry_price, floating_return, recommendation, in_position):
+def log_result(date, ticker, source, price, entry_price, floating_return, recommendation, in_position):
     entry_str = f"{entry_price:.2f}" if entry_price is not None else ""
     return_str = f"{floating_return:.4f}" if floating_return is not None else ""
     with open(LOG_FILE, "a", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f)
-        writer.writerow([date, ticker, f"{price:.2f}", "持倉中" if in_position else "空手",
+        writer.writerow([date, ticker, source, f"{price:.2f}", "持倉中" if in_position else "空手",
                           entry_str, return_str, recommendation])
 
 
@@ -125,11 +136,8 @@ def check_ticker(df, state):
                 position_fraction = 1.0
             recommendation = f"買進訊號！建議投入資金比例約 {position_fraction:.0%}"
             state = {
-                "in_position": True,
-                "entry_price": price,
-                "entry_date": str(today),
-                "highest_since_entry": price,
-                "position_fraction": position_fraction,
+                "in_position": True, "entry_price": price, "entry_date": str(today),
+                "highest_since_entry": price, "position_fraction": position_fraction,
             }
             entry_price_out, floating_return = price, 0.0
         else:
@@ -154,16 +162,55 @@ def check_ticker(df, state):
     return today, price, entry_price_out, floating_return, recommendation, state
 
 
+def fetch_news(tickers):
+    """抓每檔股票的相關新聞，彙整、去重、依時間排序"""
+    all_news = []
+    seen_links = set()
+    for ticker in tickers:
+        try:
+            items = yf.Ticker(ticker).news or []
+        except Exception as e:
+            print(f"⚠️ {ticker} 新聞抓取失敗，略過（原因: {e}）")
+            continue
+
+        for item in items[:NEWS_PER_TICKER]:
+            content = item.get("content", item)  # 相容不同版本的資料結構
+            link = content.get("canonicalUrl", {}).get("url") if isinstance(content.get("canonicalUrl"), dict) else content.get("link", "")
+            title = content.get("title", "")
+            if not link or link in seen_links or not title:
+                continue
+            seen_links.add(link)
+            publisher = content.get("provider", {}).get("displayName", "") if isinstance(content.get("provider"), dict) else content.get("publisher", "")
+            pub_time = content.get("pubDate") or content.get("providerPublishTime", "")
+            all_news.append({
+                "ticker": ticker, "title": title, "link": link,
+                "publisher": publisher, "published": str(pub_time),
+            })
+
+    all_news.sort(key=lambda x: x["published"], reverse=True)
+    all_news = all_news[:NEWS_MAX_TOTAL]
+    with open(NEWS_FILE, "w", encoding="utf-8") as f:
+        json.dump(all_news, f, ensure_ascii=False, indent=2)
+    print(f"已彙整 {len(all_news)} 則新聞到 {NEWS_FILE}\n")
+
+
 def main():
     ensure_log_schema()
     all_state = load_all_state()
 
+    most_active = fetch_most_active(MOST_ACTIVE_COUNT)
+    ticker_source = {t: "追蹤清單" for t in FIXED_TICKERS}
+    for t in most_active:
+        if t not in ticker_source:
+            ticker_source[t] = "今日熱門"
+
+    all_tickers = list(ticker_source.keys())
     print(f"===== 每日訊號檢查 — {datetime.now().strftime('%Y-%m-%d')} =====")
-    print(f"批次抓取 {len(TICKERS)} 個商品的資料中...\n")
+    print(f"共 {len(all_tickers)} 個商品，批次抓取資料中...\n")
 
-    batch_data = fetch_batch_data(TICKERS)
+    batch_data = fetch_batch_data(all_tickers)
 
-    for ticker in TICKERS:
+    for ticker in all_tickers:
         if ticker not in batch_data:
             print(f"【{ticker}】 資料抓取失敗，略過\n")
             continue
@@ -172,13 +219,16 @@ def main():
         today, price, entry_price, floating_return, recommendation, new_state = check_ticker(batch_data[ticker], ticker_state)
         all_state[ticker] = new_state
 
-        print(f"【{ticker}】 收盤價: ${price:,.2f}")
+        print(f"【{ticker}】({ticker_source[ticker]}) 收盤價: ${price:,.2f}")
         print(f"  判斷: {recommendation}\n")
 
-        log_result(today, ticker, price, entry_price, floating_return, recommendation, new_state.get("in_position", False))
+        log_result(today, ticker, ticker_source[ticker], price, entry_price, floating_return,
+                    recommendation, new_state.get("in_position", False))
 
     save_all_state(all_state)
-    print(f"已記錄到 {LOG_FILE}")
+    print(f"已記錄到 {LOG_FILE}\n")
+
+    fetch_news(all_tickers)
 
 
 if __name__ == "__main__":

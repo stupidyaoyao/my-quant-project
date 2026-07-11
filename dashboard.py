@@ -1,10 +1,8 @@
 """
-模擬交易儀表板（本機網頁 / 雲端部署）
-------------------------------------------
-新增功能：
-  - 依商品類型分組顯示（加密貨幣 / 股票）
-  - 持倉中的商品用綠色框特別標示
-  - 報酬率追蹤圖表
+模擬交易儀表板 — 主頁面
+------------------------------
+依來源與類型分組顯示：追蹤清單(加密貨幣/股票) + 今日熱門股
+持倉中的商品用綠色框特別標示，並附報酬率追蹤圖表。
 
 執行方式：
     streamlit run dashboard.py
@@ -26,10 +24,11 @@ if not os.path.exists(LOG_FILE):
 df = pd.read_csv(LOG_FILE, encoding="utf-8-sig")
 df["日期"] = pd.to_datetime(df["日期"])
 df["收盤價"] = pd.to_numeric(df["收盤價"], errors="coerce")
-if "浮動報酬" in df.columns:
-    df["浮動報酬"] = pd.to_numeric(df["浮動報酬"], errors="coerce")
-else:
-    df["浮動報酬"] = pd.NA
+for col in ["浮動報酬", "來源"]:
+    if col not in df.columns:
+        df[col] = "" if col == "來源" else pd.NA
+df["浮動報酬"] = pd.to_numeric(df["浮動報酬"], errors="coerce")
+df["來源"] = df["來源"].replace("", "追蹤清單").fillna("追蹤清單")
 
 
 def classify(ticker):
@@ -43,14 +42,11 @@ st.sidebar.header("篩選")
 selected_tickers = st.sidebar.multiselect("選擇要顯示的商品", tickers, default=tickers)
 filtered = df[df["商品"].isin(selected_tickers)].sort_values("日期")
 
-# ---------- 今日最新狀態（依類型分組，持倉中特別標示） ----------
-st.subheader("今日最新狀態")
 
-for group_name, emoji in [("加密貨幣", "🪙"), ("股票", "📊")]:
-    group_tickers = [t for t in selected_tickers if classify(t) == group_name]
+def render_group(title, emoji, group_tickers):
     if not group_tickers:
-        continue
-    st.markdown(f"#### {emoji} {group_name}")
+        return
+    st.markdown(f"#### {emoji} {title}")
     cols = st.columns(len(group_tickers))
     for col, ticker in zip(cols, group_tickers):
         latest_row = df[df["商品"] == ticker].sort_values("日期").iloc[-1]
@@ -77,6 +73,20 @@ for group_name, emoji in [("加密貨幣", "🪙"), ("股票", "📊")]:
                 )
             st.caption(latest_row["建議"])
 
+
+st.subheader("今日最新狀態")
+
+watchlist_tickers = df[df["來源"] == "追蹤清單"]["商品"].unique().tolist()
+hot_tickers = df[df["來源"] == "今日熱門"]["商品"].unique().tolist()
+
+crypto_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "加密貨幣"]
+stock_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "股票"]
+hot_selected = [t for t in selected_tickers if t in hot_tickers]
+
+render_group("加密貨幣", "🪙", crypto_tickers)
+render_group("股票（追蹤清單）", "📊", stock_tickers)
+render_group("今日熱門股（Yahoo Most Active）", "🔥", hot_selected)
+
 st.divider()
 
 # ---------- 報酬率追蹤 ----------
@@ -93,7 +103,7 @@ if has_return_data:
             color = "🟢" if latest_return >= 0 else "🔴"
             st.caption(f"{ticker} 浮動報酬率 (%) — 目前 {color} {latest_return:.2f}%")
 else:
-    st.info("目前還沒有持倉紀錄可以追蹤報酬率（尚未出現買進訊號，或使用的是舊版紀錄檔）")
+    st.info("目前還沒有持倉紀錄可以追蹤報酬率")
 
 st.divider()
 

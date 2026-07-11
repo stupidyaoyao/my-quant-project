@@ -35,5 +35,109 @@
     "entry_date": "2026-07-10",
     "highest_since_entry": 109.83999633789062,
     "position_fraction": 0.0732790055734208
+  },
+  "NVDA": {
+    "in_position": false
+  },
+  "NU": {
+    "in_position": false
+  },
+  "SOFI": {
+    "in_position": true,
+    "entry_price": 18.780000686645508,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 18.780000686645508,
+    "position_fraction": 0.13253686302670042
+  },
+  "AAL": {
+    "in_position": true,
+    "entry_price": 16.950000762939453,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 16.950000762939453,
+    "position_fraction": 0.1486841990944278
+  },
+  "PATH": {
+    "in_position": true,
+    "entry_price": 11.680000305175781,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 11.680000305175781,
+    "position_fraction": 0.12487211203501135
+  },
+  "FRMI": {
+    "in_position": true,
+    "entry_price": 6.590000152587891,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 6.590000152587891,
+    "position_fraction": 0.049315795729746384
+  },
+  "OPEN": {
+    "in_position": false
+  },
+  "ONDS": {
+    "in_position": false
+  },
+  "PLUG": {
+    "in_position": false
+  },
+  "NOK": {
+    "in_position": true,
+    "entry_price": 12.4399995803833,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 12.4399995803833,
+    "position_fraction": 0.1016695814138063
+  },
+  "T": {
+    "in_position": false
+  },
+  "MARA": {
+    "in_position": true,
+    "entry_price": 12.600000381469727,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 12.600000381469727,
+    "position_fraction": 0.05634882808109501
+  },
+  "F": {
+    "in_position": true,
+    "entry_price": 14.0,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 14.0,
+    "position_fraction": 0.20642446750036597
+  },
+  "BBD": {
+    "in_position": false
+  },
+  "NFLX": {
+    "in_position": false
+  },
+  "SPCX": {
+    "in_position": false
+  },
+  "META": {
+    "in_position": false
+  },
+  "CRCL": {
+    "in_position": false
+  },
+  "RIG": {
+    "in_position": false
+  },
+  "RIVN": {
+    "in_position": true,
+    "entry_price": 17.479999542236328,
+    "entry_date": "2026-07-10",
+    "highest_since_entry": 17.479999542236328,
+    "position_fraction": 0.07980171316449794
+  },
+  "TSLA": {
+    "in_position": false
+  },
+  "AMZN": {
+    "in_position": false
+  },
+  "PLTR": {
+    "in_position": false
+  },
+  "JOBY": {
+    "in_position": false
   }
 }
