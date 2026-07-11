@@ -1,10 +1,10 @@
 """
-每日模擬交易訊號檢查（多商品版）
-------------------------------------
+每日模擬交易訊號檢查（多商品版 + 批次抓取）
+------------------------------------------------
 每天執行一次，同時檢查多個商品的訊號：
-  1. 抓最新資料，判斷每個商品該「買進」「續抱」「賣出」還是「觀望」
-  2. 把每個商品的持倉狀態分別記住（存在同一個JSON裡，用商品名稱區分）
-  3. 記錄到 paper_trading_log.csv，之後可以用網頁儀表板查看
+  1. 一次性批次抓取所有商品的最新資料（比一個一個抓更快）
+  2. 判斷每個商品該「買進」「續抱」「賣出」還是「觀望」
+  3. 記錄到 paper_trading_log.csv，用網頁儀表板查看
 
 ⚠️ 只給建議，不會真的幫你下單。
 
@@ -22,7 +22,10 @@ import numpy as np
 import yfinance as yf
 
 # ---------- 參數設定 ----------
-TICKERS = ["BTC-USD", "ETH-USD", "QQQ"]   # 想追蹤的商品清單，可以自由增減
+# 想追蹤的商品清單：想加多少個都可以，逗號分隔即可
+# 加密貨幣代號要加 "-USD"，美股直接用代號（例如 AAPL、MSFT）
+TICKERS = ["BTC-USD", "ETH-USD", "QQQ", "AAPL", "MSFT", "XOM", "PYPL", "INTC"]
+
 SHORT_WINDOW = 20
 LONG_WINDOW = 60
 ATR_WINDOW = 14
@@ -33,12 +36,23 @@ STATE_FILE = "paper_trading_state.json"
 LOG_FILE = "paper_trading_log.csv"
 
 
-def fetch_recent_data(ticker):
-    df = yf.download(ticker, period="400d", auto_adjust=True, progress=False)
-    if isinstance(df.columns, pd.MultiIndex):
-        df.columns = df.columns.get_level_values(0)
-    df = df[["High", "Low", "Close"]].dropna()
-    return df
+def fetch_batch_data(tickers):
+    """一次批次抓取所有商品資料，比逐一呼叫 yf.download 快很多"""
+    raw = yf.download(tickers, period="400d", auto_adjust=True, group_by="ticker", progress=False)
+
+    data = {}
+    for ticker in tickers:
+        try:
+            if len(tickers) == 1:
+                df = raw.copy()
+            else:
+                df = raw[ticker].copy()
+            df = df[["High", "Low", "Close"]].dropna()
+            if not df.empty:
+                data[ticker] = df
+        except Exception as e:
+            print(f"⚠️ {ticker} 資料處理失敗，略過（原因: {e}）")
+    return data
 
 
 def generate_signals(df):
@@ -79,8 +93,8 @@ def log_result(date, ticker, price, recommendation, in_position):
         writer.writerow([date, ticker, f"{price:.2f}", "持倉中" if in_position else "空手", recommendation])
 
 
-def check_ticker(ticker, state):
-    df = fetch_recent_data(ticker)
+def check_ticker(df, state):
+    """df 是已經批次抓好的單一商品資料，這裡不再重新發送網路請求"""
     df = generate_signals(df)
     latest = df.iloc[-1]
     price = latest["Close"]
@@ -126,10 +140,18 @@ def check_ticker(ticker, state):
 def main():
     all_state = load_all_state()
 
-    print(f"===== 每日訊號檢查 — {datetime.now().strftime('%Y-%m-%d')} =====\n")
+    print(f"===== 每日訊號檢查 — {datetime.now().strftime('%Y-%m-%d')} =====")
+    print(f"批次抓取 {len(TICKERS)} 個商品的資料中...\n")
+
+    batch_data = fetch_batch_data(TICKERS)
+
     for ticker in TICKERS:
+        if ticker not in batch_data:
+            print(f"【{ticker}】 資料抓取失敗，略過\n")
+            continue
+
         ticker_state = all_state.get(ticker, {"in_position": False})
-        today, price, recommendation, new_state = check_ticker(ticker, ticker_state)
+        today, price, recommendation, new_state = check_ticker(batch_data[ticker], ticker_state)
         all_state[ticker] = new_state
 
         print(f"【{ticker}】 收盤價: ${price:,.2f}")
