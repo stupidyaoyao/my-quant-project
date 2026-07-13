@@ -1,11 +1,11 @@
 {
   "QQQ_long": {
-    "date": "2026-07-11",
-    "last_status": "\u8a0a\u865f\u7121\u6548\uff08\u505c\u640d\u8ddd\u96e2\u904e\u5c0f\uff09"
+    "date": "2026-07-13",
+    "last_status": "\u5c1a\u672a\u7a81\u7834"
   },
   "QQQ_short": {
-    "date": "2026-07-11",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "date": "2026-07-13",
+    "last_status": "\u8a0a\u865f\u7121\u6548\uff08\u505c\u640d\u8ddd\u96e2\u904e\u5c0f\uff09"
   },
   "AAPL_long": {
     "date": "2026-07-13",
@@ -13,11 +13,11 @@
   },
   "AAPL_short": {
     "date": "2026-07-13",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u6301\u5009\u4e2d"
   },
   "MSFT_long": {
     "date": "2026-07-13",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "MSFT_short": {
     "date": "2026-07-13",
@@ -29,7 +29,7 @@
   },
   "NVDA_short": {
     "date": "2026-07-13",
-    "last_status": "\u7b49\u5f85\u56de\u6e2c\u78ba\u8a8d"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "TSLA_long": {
     "date": "2026-07-13",
@@ -37,7 +37,7 @@
   },
   "TSLA_short": {
     "date": "2026-07-13",
-    "last_status": "\u7b49\u5f85\u56de\u6e2c\u78ba\u8a8d"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "AMZN_long": {
     "date": "2026-07-13",
@@ -69,11 +69,11 @@
   },
   "INTC_short": {
     "date": "2026-07-13",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "XOM_long": {
     "date": "2026-07-13",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u8a0a\u865f\u7121\u6548\uff08\u505c\u640d\u8ddd\u96e2\u904e\u5c0f\uff09"
   },
   "XOM_short": {
     "date": "2026-07-13",
@@ -97,7 +97,7 @@
   },
   "PYPL_long": {
     "date": "2026-07-13",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "PYPL_short": {
     "date": "2026-07-13",
