@@ -60,7 +60,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 11.850000381469727,
+    "highest_since_entry": 11.9399995803833,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -141,5 +141,42 @@
   },
   "QXO": {
     "in_position": false
+  },
+  "CLSK": {
+    "in_position": true,
+    "entry_price": 13.449999809265137,
+    "entry_date": "2026-07-14",
+    "highest_since_entry": 13.449999809265137,
+    "position_fraction": 0.06269768239703358
+  },
+  "SKHY": {
+    "in_position": false
+  },
+  "IBM": {
+    "in_position": true,
+    "entry_price": 217.07000732421875,
+    "entry_date": "2026-07-14",
+    "highest_since_entry": 217.07000732421875,
+    "position_fraction": 0.08692981316706717
+  },
+  "WULF": {
+    "in_position": true,
+    "entry_price": 19.40999984741211,
+    "entry_date": "2026-07-14",
+    "highest_since_entry": 19.40999984741211,
+    "position_fraction": 0.05132011679314334
+  },
+  "ORCL": {
+    "in_position": false
+  },
+  "BMNR": {
+    "in_position": false
+  },
+  "BAC": {
+    "in_position": true,
+    "entry_price": 60.619998931884766,
+    "entry_date": "2026-07-14",
+    "highest_since_entry": 60.619998931884766,
+    "position_fraction": 0.3259137464439582
   }
 }
