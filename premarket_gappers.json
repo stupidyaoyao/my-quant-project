@@ -1,25 +1,12 @@
 {
-  "scanned_at": "2026-07-16 23:37:52",
+  "scanned_at": "2026-07-16 15:40:08",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "MAN",
-      "price": 52.03,
-      "gap_pct": 33.33,
-      "premarket_volume": 2196896,
-      "is_premarket_data": false,
-      "catalyst": "ManpowerGroup Q2 Earnings Call Highlights",
-      "headlines": [
-        "ManpowerGroup Q2 Earnings Call Highlights",
-        "Manpower (MAN) Reports Q2 Earnings: What Key Metrics Have to Say"
-      ]
-    },
-    {
-      "rank": 2,
       "symbol": "ATAI",
       "price": 7.14,
       "gap_pct": 33.3,
-      "premarket_volume": 106016288,
+      "premarket_volume": 106187147,
       "is_premarket_data": false,
       "catalyst": "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy",
       "headlines": [
@@ -28,11 +15,24 @@
       ]
     },
     {
+      "rank": 2,
+      "symbol": "MAN",
+      "price": 51.91,
+      "gap_pct": 33.03,
+      "premarket_volume": 2213440,
+      "is_premarket_data": false,
+      "catalyst": "ManpowerGroup Q2 Earnings Call Highlights",
+      "headlines": [
+        "ManpowerGroup Q2 Earnings Call Highlights",
+        "Manpower (MAN) Reports Q2 Earnings: What Key Metrics Have to Say"
+      ]
+    },
+    {
       "rank": 3,
       "symbol": "MAAS",
-      "price": 21.74,
-      "gap_pct": 30.72,
-      "premarket_volume": 366688,
+      "price": 21.63,
+      "gap_pct": 30.54,
+      "premarket_volume": 368811,
       "is_premarket_data": false,
       "catalyst": "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
       "headlines": [
@@ -42,23 +42,10 @@
     },
     {
       "rank": 4,
-      "symbol": "RHI",
-      "price": 41.09,
-      "gap_pct": 11.96,
-      "premarket_volume": 1264217,
-      "is_premarket_data": false,
-      "catalyst": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
-      "headlines": [
-        "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
-        "MillerKnoll, Interface, and Robert Half Shares Are Falling, What You Need To Know"
-      ]
-    },
-    {
-      "rank": 5,
       "symbol": "LCID",
-      "price": 6.65,
-      "gap_pct": 11.76,
-      "premarket_volume": 20311456,
+      "price": 6.68,
+      "gap_pct": 12.27,
+      "premarket_volume": 20409637,
       "is_premarket_data": false,
       "catalyst": "Lucid Climbs 12% for a Big Second-Day Recovery as CEO Directly Rebuts Bankruptcy and Take-Private Rumors",
       "headlines": [
@@ -67,24 +54,24 @@
       ]
     },
     {
-      "rank": 6,
-      "symbol": "ABT",
-      "price": 99.07,
-      "gap_pct": 10.98,
-      "premarket_volume": 14443929,
+      "rank": 5,
+      "symbol": "RHI",
+      "price": 41.02,
+      "gap_pct": 11.78,
+      "premarket_volume": 1278420,
       "is_premarket_data": false,
-      "catalyst": "Abbott Laboratories Q2 Earnings Call Highlights",
+      "catalyst": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
       "headlines": [
-        "Abbott Laboratories Q2 Earnings Call Highlights",
-        "Why Abbott Stock Is Having Its Best Day in 24 Years"
+        "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
+        "MillerKnoll, Interface, and Robert Half Shares Are Falling, What You Need To Know"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "symbol": "GHRS",
-      "price": 29.84,
-      "gap_pct": 10.87,
-      "premarket_volume": 891605,
+      "price": 29.87,
+      "gap_pct": 10.96,
+      "premarket_volume": 893843,
       "is_premarket_data": false,
       "catalyst": "Why Psychedelic stocks are surging today",
       "headlines": [
@@ -93,11 +80,24 @@
       ]
     },
     {
+      "rank": 7,
+      "symbol": "ABT",
+      "price": 98.97,
+      "gap_pct": 10.87,
+      "premarket_volume": 14548967,
+      "is_premarket_data": false,
+      "catalyst": "Abbott Laboratories Q2 Earnings Call Highlights",
+      "headlines": [
+        "Abbott Laboratories Q2 Earnings Call Highlights",
+        "Why Abbott Stock Is Having Its Best Day in 24 Years"
+      ]
+    },
+    {
       "rank": 8,
       "symbol": "SMG",
       "price": 74.72,
       "gap_pct": 9.9,
-      "premarket_volume": 471243,
+      "premarket_volume": 472597,
       "is_premarket_data": false,
       "catalyst": "Scotts Miracle-Gro CEO Nate Baxter on Role Firm Played in America250 Initiative",
       "headlines": [
@@ -108,9 +108,9 @@
     {
       "rank": 9,
       "symbol": "MATX",
-      "price": 228.92,
-      "gap_pct": 9.58,
-      "premarket_volume": 159527,
+      "price": 229.06,
+      "gap_pct": 9.65,
+      "premarket_volume": 167363,
       "is_premarket_data": false,
       "catalyst": "Will Strong China Freight Tailwinds and Higher EPS Guidance Change Matson's (MATX) Narrative?",
       "headlines": [
@@ -121,9 +121,9 @@
     {
       "rank": 10,
       "symbol": "ERIE",
-      "price": 228.39,
-      "gap_pct": 8.66,
-      "premarket_volume": 119486,
+      "price": 228.31,
+      "gap_pct": 8.62,
+      "premarket_volume": 119763,
       "is_premarket_data": false,
       "catalyst": "AJG Stock Trading at a Discount to Industry at 2.74X: Time to Hold?",
       "headlines": [
