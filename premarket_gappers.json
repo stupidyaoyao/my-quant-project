@@ -1,0 +1,135 @@
+{
+  "scanned_at": "2026-07-16 23:37:52",
+  "gappers": [
+    {
+      "rank": 1,
+      "symbol": "MAN",
+      "price": 52.03,
+      "gap_pct": 33.33,
+      "premarket_volume": 2196896,
+      "is_premarket_data": false,
+      "catalyst": "ManpowerGroup Q2 Earnings Call Highlights",
+      "headlines": [
+        "ManpowerGroup Q2 Earnings Call Highlights",
+        "Manpower (MAN) Reports Q2 Earnings: What Key Metrics Have to Say"
+      ]
+    },
+    {
+      "rank": 2,
+      "symbol": "ATAI",
+      "price": 7.14,
+      "gap_pct": 33.3,
+      "premarket_volume": 106016288,
+      "is_premarket_data": false,
+      "catalyst": "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy",
+      "headlines": [
+        "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy",
+        "Eli Lilly Trips Into Red-Hot Psychedelics Space With A Big Takeover"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "MAAS",
+      "price": 21.74,
+      "gap_pct": 30.72,
+      "premarket_volume": 366688,
+      "is_premarket_data": false,
+      "catalyst": "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
+      "headlines": [
+        "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
+        "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Thursday Trading"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "RHI",
+      "price": 41.09,
+      "gap_pct": 11.96,
+      "premarket_volume": 1264217,
+      "is_premarket_data": false,
+      "catalyst": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
+      "headlines": [
+        "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
+        "MillerKnoll, Interface, and Robert Half Shares Are Falling, What You Need To Know"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "LCID",
+      "price": 6.65,
+      "gap_pct": 11.76,
+      "premarket_volume": 20311456,
+      "is_premarket_data": false,
+      "catalyst": "Lucid Climbs 12% for a Big Second-Day Recovery as CEO Directly Rebuts Bankruptcy and Take-Private Rumors",
+      "headlines": [
+        "Lucid Climbs 12% for a Big Second-Day Recovery as CEO Directly Rebuts Bankruptcy and Take-Private Rumors",
+        "Tesla Stock's Future Comes With A Hefty Price Tag"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "ABT",
+      "price": 99.07,
+      "gap_pct": 10.98,
+      "premarket_volume": 14443929,
+      "is_premarket_data": false,
+      "catalyst": "Abbott Laboratories Q2 Earnings Call Highlights",
+      "headlines": [
+        "Abbott Laboratories Q2 Earnings Call Highlights",
+        "Why Abbott Stock Is Having Its Best Day in 24 Years"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "GHRS",
+      "price": 29.84,
+      "gap_pct": 10.87,
+      "premarket_volume": 891605,
+      "is_premarket_data": false,
+      "catalyst": "Why Psychedelic stocks are surging today",
+      "headlines": [
+        "Why Psychedelic stocks are surging today",
+        "GH Research gains on optimism surrounding potential Eli Lilly-Atai deal (GHRS)"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "SMG",
+      "price": 74.72,
+      "gap_pct": 9.9,
+      "premarket_volume": 471243,
+      "is_premarket_data": false,
+      "catalyst": "Scotts Miracle-Gro CEO Nate Baxter on Role Firm Played in America250 Initiative",
+      "headlines": [
+        "Scotts Miracle-Gro CEO Nate Baxter on Role Firm Played in America250 Initiative",
+        "Stifel Keeps Buy Rating on Scotts Miracle-Gro (SMG) Despite Slower May Sales"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "MATX",
+      "price": 228.92,
+      "gap_pct": 9.58,
+      "premarket_volume": 159527,
+      "is_premarket_data": false,
+      "catalyst": "Will Strong China Freight Tailwinds and Higher EPS Guidance Change Matson's (MATX) Narrative?",
+      "headlines": [
+        "Will Strong China Freight Tailwinds and Higher EPS Guidance Change Matson's (MATX) Narrative?",
+        "Containers Surge Into Top US Ports Amid Tariff, Iran Uncertainty"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "ERIE",
+      "price": 228.39,
+      "gap_pct": 8.66,
+      "premarket_volume": 119486,
+      "is_premarket_data": false,
+      "catalyst": "AJG Stock Trading at a Discount to Industry at 2.74X: Time to Hold?",
+      "headlines": [
+        "AJG Stock Trading at a Discount to Industry at 2.74X: Time to Hold?",
+        "Is Erie Indemnity Stock Underperforming the Dow?"
+      ]
+    }
+  ]
+}
