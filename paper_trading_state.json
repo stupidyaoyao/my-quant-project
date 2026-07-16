@@ -17,7 +17,7 @@
     "in_position": true,
     "entry_price": 315.32000732421875,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 327.5,
+    "highest_since_entry": 330.364990234375,
     "position_fraction": 0.23496888629858467
   },
   "MSFT": {
@@ -27,7 +27,11 @@
     "in_position": false
   },
   "PYPL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 56.78499984741211,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 57.025001525878906,
+    "position_fraction": 0.18285079928952044
   },
   "INTC": {
     "in_position": true,
@@ -201,6 +205,80 @@
     "position_fraction": 0.09178422466429231
   },
   "HL": {
+    "in_position": false
+  },
+  "ATAI": {
+    "in_position": true,
+    "entry_price": 7.1930999755859375,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 7.1930999755859375,
+    "position_fraction": 0.08311948803923924
+  },
+  "ASTS": {
+    "in_position": false
+  },
+  "CPRX": {
+    "in_position": true,
+    "entry_price": 31.489999771118164,
+    "entry_date": "2026-07-15",
+    "highest_since_entry": 31.489999771118164,
+    "position_fraction": 1.0
+  },
+  "IREN": {
+    "in_position": false
+  },
+  "RKLB": {
+    "in_position": false
+  },
+  "BB": {
+    "in_position": true,
+    "entry_price": 9.664999961853027,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 9.664999961853027,
+    "position_fraction": 0.06736918491742738
+  },
+  "TSM": {
+    "in_position": true,
+    "entry_price": 415.3900146484375,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 415.3900146484375,
+    "position_fraction": 0.13827566090844007
+  },
+  "AAOI": {
+    "in_position": false
+  },
+  "GLW": {
+    "in_position": true,
+    "entry_price": 159.17955610656736,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 159.10000610351562,
+    "position_fraction": 0.05357288937844337
+  },
+  "DELL": {
+    "in_position": true,
+    "entry_price": 404.59230125427246,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 404.3901062011719,
+    "position_fraction": 0.0841277535361
+  },
+  "AVGO": {
+    "in_position": false
+  },
+  "ARM": {
+    "in_position": true,
+    "entry_price": 256.4231609344482,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 256.2950134277344,
+    "position_fraction": 0.062143988575842524
+  },
+  "ABT": {
+    "in_position": true,
+    "entry_price": 100.07000664138793,
+    "entry_date": "2026-07-16",
+    "highest_since_entry": 100.0199966430664,
+    "position_fraction": 0.20857740880533998
+  },
+  "PFE": {
     "in_position": false
   }
 }

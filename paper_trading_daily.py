@@ -29,12 +29,15 @@ LONG_WINDOW = 60
 ATR_WINDOW = 14
 ATR_MULTIPLIER = 3.0
 RISK_PER_TRADE_PCT = 0.02
+STOCK_SLIPPAGE_PCT = 0.0005   # 股票/ETF滑價 0.05%
+CRYPTO_SLIPPAGE_PCT = 0.001   # 加密貨幣滑價 0.1%（波動大、價差較寬）
 NEWS_PER_TICKER = 3      # 每檔股票抓幾則新聞
 NEWS_MAX_TOTAL = 40      # 新聞牆最多保留幾則
 
 STATE_FILE = "paper_trading_state.json"
 LOG_FILE = "paper_trading_log.csv"
 NEWS_FILE = "news_log.json"
+MOOMOO_WATCHLIST_FILE = "moomoo_watchlist.json"
 LOG_HEADER = ["日期", "商品", "來源", "收盤價", "持倉狀態", "進場價", "浮動報酬", "建議"]
 
 
@@ -48,6 +51,20 @@ def fetch_most_active(count):
     except Exception as e:
         print(f"⚠️ 抓取「今日熱門股」清單失敗，略過這部分（原因: {e}）\n")
         return []
+
+
+def load_moomoo_watchlist():
+    """讀取本機同步過來的moomoo追蹤清單，檔案不存在就回傳空清單"""
+    if os.path.exists(MOOMOO_WATCHLIST_FILE):
+        try:
+            with open(MOOMOO_WATCHLIST_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            tickers = data.get("tickers", [])
+            print(f"讀到 moomoo 追蹤清單: {tickers}\n")
+            return tickers
+        except Exception as e:
+            print(f"⚠️ 讀取 moomoo 追蹤清單失敗: {e}\n")
+    return []
 
 
 def fetch_batch_data(tickers):
@@ -119,13 +136,14 @@ def log_result(date, ticker, source, price, entry_price, floating_return, recomm
                           entry_str, return_str, recommendation])
 
 
-def check_ticker(df, state):
+def check_ticker(ticker, df, state):
     df = generate_signals(df)
     latest = df.iloc[-1]
     price = latest["Close"]
     atr = latest["ATR"]
     today = df.index[-1].date()
     entry_price_out, floating_return = None, None
+    slippage_pct = CRYPTO_SLIPPAGE_PCT if ticker.endswith("-USD") else STOCK_SLIPPAGE_PCT
 
     if not state.get("in_position", False):
         if latest["signal"] == 1:
@@ -134,12 +152,14 @@ def check_ticker(df, state):
                 position_fraction = min(1.0, RISK_PER_TRADE_PCT / stop_distance_pct) if stop_distance_pct > 0 else 1.0
             else:
                 position_fraction = 1.0
-            recommendation = f"買進訊號！建議投入資金比例約 {position_fraction:.0%}"
+            # 買進滑價：實際成交價比顯示價格貴一點
+            effective_entry_price = price * (1 + slippage_pct)
+            recommendation = f"買進訊號！建議投入資金比例約 {position_fraction:.0%}（已計入滑價，實際成交約 ${effective_entry_price:.2f}）"
             state = {
-                "in_position": True, "entry_price": price, "entry_date": str(today),
+                "in_position": True, "entry_price": effective_entry_price, "entry_date": str(today),
                 "highest_since_entry": price, "position_fraction": position_fraction,
             }
-            entry_price_out, floating_return = price, 0.0
+            entry_price_out, floating_return = effective_entry_price, 0.0
         else:
             recommendation = "空手觀望，尚未出現買進訊號"
     else:
@@ -148,13 +168,18 @@ def check_ticker(df, state):
         stop_price = highest - ATR_MULTIPLIER * atr if pd.notna(atr) else -np.inf
         stop_triggered = pd.notna(atr) and price <= stop_price
         ma_exit = latest["signal"] == 0
+        # 持倉中的浮動損益：對比目前市價，還沒真的賣出，不套用滑價
         current_return = price / entry_price - 1
         entry_price_out, floating_return = entry_price, current_return
 
         if stop_triggered or ma_exit:
             reason = "ATR停損" if stop_triggered else "均線死亡交叉"
-            recommendation = f"賣出訊號！原因：{reason}，這筆交易報酬約 {current_return:.2%}"
+            # 賣出滑價：實際成交價比顯示價格便宜一點
+            effective_exit_price = price * (1 - slippage_pct)
+            realized_return = effective_exit_price / entry_price - 1
+            recommendation = f"賣出訊號！原因：{reason}，這筆交易報酬約 {realized_return:.2%}（已計入滑價）"
             state = {"in_position": False}
+            floating_return = realized_return
         else:
             recommendation = f"續抱。浮動損益 {current_return:.2%}，目前停損價位約 ${stop_price:.2f}"
             state["highest_since_entry"] = highest
@@ -199,7 +224,12 @@ def main():
     all_state = load_all_state()
 
     most_active = fetch_most_active(MOST_ACTIVE_COUNT)
+    moomoo_tickers = load_moomoo_watchlist()
+
     ticker_source = {t: "追蹤清單" for t in FIXED_TICKERS}
+    for t in moomoo_tickers:
+        if t not in ticker_source:
+            ticker_source[t] = "moomoo清單"
     for t in most_active:
         if t not in ticker_source:
             ticker_source[t] = "今日熱門"
@@ -216,7 +246,7 @@ def main():
             continue
 
         ticker_state = all_state.get(ticker, {"in_position": False})
-        today, price, entry_price, floating_return, recommendation, new_state = check_ticker(batch_data[ticker], ticker_state)
+        today, price, entry_price, floating_return, recommendation, new_state = check_ticker(ticker, batch_data[ticker], ticker_state)
         all_state[ticker] = new_state
 
         print(f"【{ticker}】({ticker_source[ticker]}) 收盤價: ${price:,.2f}")
