@@ -12,7 +12,6 @@ import streamlit as st
 
 from common import inject_base_css
 
-st.set_page_config(page_title="盤前掃描", layout="wide")
 inject_base_css()
 st.title("盤前爆量股掃描")
 
@@ -46,7 +45,7 @@ for g in gappers:
             <div style="font-size:0.85em;color:#888;">#{g['rank']}</div>
             <b style="font-size:1.2em;">{g['symbol']}</b><br>
             <span style="font-size:1.1em;">${g['price']:,.2f}</span><br>
-            <span style="color:#2ecc71;font-weight:bold;">▲ {g['gap_pct']:+.2f}%</span>
+            <span style="color:#2ecc71;font-weight:bold;">+{g['gap_pct']:.2f}%</span>
             </div>""",
             unsafe_allow_html=True,
         )
@@ -57,5 +56,5 @@ for g in gappers:
         else:
             st.markdown("**上漲原因**：無相關新聞")
         for headline in g.get("headlines", [])[1:]:
-            st.caption(f"新聞：{headline}")
+            st.caption(headline)
     st.divider()

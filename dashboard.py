@@ -18,9 +18,8 @@ import streamlit as st
 
 from common import inject_base_css, load_log, sidebar_filter, PERIOD_OPTIONS
 
-st.set_page_config(page_title="量化交易模擬儀表板", layout="wide")
 inject_base_css()
-st.title("📈 模擬交易儀表板")
+st.title("模擬交易儀表板")
 
 df = load_log()
 if df is None:
@@ -98,16 +97,22 @@ def make_sparkline_svg(prices, width=90, height=28, color="#2ecc71"):
 
 
 def render_candlestick(ticker):
-    st.markdown(f"##### 🕯️ {ticker} K線圖")
+    st.markdown(f"##### {ticker} 走勢圖")
     period_key = f"period_choice_{ticker}"
     if period_key not in st.session_state:
         st.session_state[period_key] = "本月"
-    selected_period = st.radio(
-        "時間範圍", list(PERIOD_OPTIONS.keys()),
-        index=list(PERIOD_OPTIONS.keys()).index(st.session_state[period_key]),
-        horizontal=True, key=f"radio_{ticker}",
-    )
-    st.session_state[period_key] = selected_period
+
+    period_labels = list(PERIOD_OPTIONS.keys())
+    tab_cols = st.columns(len(period_labels))
+    for col, label in zip(tab_cols, period_labels):
+        with col:
+            is_active = st.session_state[period_key] == label
+            display = f"● {label}" if is_active else label
+            if st.button(display, key=f"period_btn_{ticker}_{label}"):
+                st.session_state[period_key] = label
+                st.rerun()
+
+    selected_period = st.session_state[period_key]
     period, interval = PERIOD_OPTIONS[selected_period]
 
     with st.spinner("抓取資料中..."):
@@ -119,25 +124,43 @@ def render_candlestick(ticker):
             date_col = data.columns[0]
             n = len(data)
             x_vals = list(range(n))
+            closes = data["Close"]
 
-            fig = go.Figure(data=[go.Candlestick(
-                x=x_vals, open=data["Open"], high=data["High"],
-                low=data["Low"], close=data["Close"],
-            )])
+            is_up = closes.iloc[-1] >= closes.iloc[0]
+            line_color = "#2ecc71" if is_up else "#e74c3c"
+            fill_rgb = "46,204,113" if is_up else "231,76,60"
+
+            fig = go.Figure()
+            fig.add_trace(go.Scatter(
+                x=x_vals, y=closes, mode="lines",
+                line=dict(color=line_color, width=2),
+                fill="tozeroy",
+                fillgradient=dict(
+                    type="vertical",
+                    colorscale=[[0, f"rgba({fill_rgb},0.35)"], [1, f"rgba({fill_rgb},0)"]],
+                ),
+                hoverinfo="skip",
+            ))
+
             date_format = "%m/%d %H:%M" if interval in ("5m", "15m") else "%Y-%m-%d"
-            tick_count = min(8, n)
+            tick_count = min(6, n)
             tick_idx = sorted(set(int(i) for i in np.linspace(0, n - 1, tick_count)))
             tick_labels = [pd.to_datetime(data[date_col].iloc[i]).strftime(date_format) for i in tick_idx]
-            fig.update_xaxes(tickmode="array", tickvals=tick_idx, ticktext=tick_labels)
-            fig.update_layout(xaxis_rangeslider_visible=False, height=380,
-                               margin=dict(l=10, r=10, t=10, b=10))
+            fig.update_xaxes(tickmode="array", tickvals=tick_idx, ticktext=tick_labels,
+                              showgrid=False, zeroline=False)
+            fig.update_yaxes(showgrid=True, gridcolor="rgba(255,255,255,0.06)", zeroline=False)
+            fig.update_layout(
+                showlegend=False, height=320,
+                margin=dict(l=10, r=10, t=10, b=10),
+                plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
+            )
             st.plotly_chart(fig, width='stretch')
             st.caption("💡 資料為點擊當下向 Yahoo Finance 即時抓取的最新報價，"
                         "不是連續推送的串流；「今日」使用5分鐘K棒，接近即時但非逐秒更新。")
         except Exception as e:
             st.error(f"抓取失敗: {e}")
 
-    if st.button("關閉K線圖", key=f"close_{ticker}"):
+    if st.button("關閉走勢圖", key=f"close_{ticker}"):
         st.session_state.selected_chart_ticker = None
         st.rerun()
     st.markdown("---")
@@ -146,7 +169,7 @@ def render_candlestick(ticker):
 SORTABLE_COLUMNS = ["商品", "現價", "漲跌", "狀態"]
 
 
-def render_header():
+def render_header(group_key):
     cols = st.columns([1.4, 1.2, 1.2, 1.3, 0.9, 0.5, 1])
     labels = ["商品", "現價", "漲跌", "走勢", "狀態"]
     for col, label in zip(cols[:5], labels):
@@ -154,7 +177,7 @@ def render_header():
             if label in SORTABLE_COLUMNS:
                 is_active = st.session_state.sort_column == label
                 arrow = ("▲" if st.session_state.sort_ascending else "▼") if is_active else ""
-                if st.button(f"{label} {arrow}", key=f"sort_header_{label}"):
+                if st.button(f"{label} {arrow}", key=f"sort_header_{group_key}_{label}", type="tertiary"):
                     if is_active:
                         st.session_state.sort_ascending = not st.session_state.sort_ascending
                     else:
@@ -174,30 +197,30 @@ def render_row(ticker):
     price, holding, pct_change, spark_prices = info["price"], info["holding"], info["pct_change"], info["spark_prices"]
 
     if pct_change is None:
-        bg_color = "rgba(255,255,255,0.03)"
+        bg_style = "linear-gradient(90deg, rgba(255,255,255,0.015) 0%, rgba(255,255,255,0.05) 100%)"
         change_color = "#888"
         arrow = "—"
         change_text = "—"
         spark_color = "#888"
     elif pct_change >= 0:
-        bg_color = "rgba(46,204,113,0.12)"
+        bg_style = "linear-gradient(90deg, rgba(46,204,113,0.03) 0%, rgba(46,204,113,0.20) 100%)"
         change_color = "#2ecc71"
         arrow = "▲"
         change_text = f"{pct_change:+.2%}"
         spark_color = "#2ecc71"
     else:
-        bg_color = "rgba(231,76,60,0.12)"
+        bg_style = "linear-gradient(90deg, rgba(231,76,60,0.03) 0%, rgba(231,76,60,0.20) 100%)"
         change_color = "#e74c3c"
         arrow = "▼"
         change_text = f"{pct_change:+.2%}"
         spark_color = "#e74c3c"
 
     spark_svg = make_sparkline_svg(spark_prices, color=spark_color)
-    status_html = ('<span style="color:#2ecc71;">🟢 持倉</span>' if holding
-                    else '<span style="color:#888;">⚪ 空手</span>')
+    status_html = ('<span style="color:#2ecc71;">● 持倉</span>' if holding
+                    else '<span style="color:#888;">○ 空手</span>')
 
     row_html = f"""
-    <div style="display:flex;align-items:center;background-color:{bg_color};
+    <div style="display:flex;align-items:center;background:{bg_style};
     border-radius:6px;padding:8px 12px;">
         <div style="flex:1.4;font-weight:700;">{ticker}</div>
         <div style="flex:1.2;">${price:,.2f}</div>
@@ -220,7 +243,7 @@ def render_row(ticker):
             st.rerun()
     with cols[2]:
         is_selected = st.session_state.selected_chart_ticker == ticker
-        label = "收起" if is_selected else "K線圖"
+        label = "收起" if is_selected else "走勢圖"
         if st.button(label, key=f"chart_btn_{ticker}"):
             st.session_state.selected_chart_ticker = None if is_selected else ticker
             st.rerun()
@@ -229,9 +252,9 @@ def render_row(ticker):
         render_candlestick(ticker)
 
 
-def render_list(ticker_list):
+def render_list(ticker_list, group_key):
     ticker_list = sort_tickers(ticker_list)
-    render_header()
+    render_header(group_key)
     for ticker in ticker_list:
         render_row(ticker)
 
@@ -264,30 +287,30 @@ if all_shown:
     ov1, ov2, ov3, ov4 = st.columns(4)
     ov1.metric("追蹤商品數", len(all_shown))
     ov2.metric("持倉中", holding_count)
-    ov3.metric("📈 上漲", up_count)
-    ov4.metric("📉 下跌", down_count)
+    ov3.metric("上漲", up_count)
+    ov4.metric("下跌", down_count)
     st.markdown("")
 
 if crypto_tickers:
-    st.markdown("#### 🪙 加密貨幣")
-    render_list(crypto_tickers)
+    st.markdown("#### 加密貨幣")
+    render_list(crypto_tickers, "crypto")
     st.markdown("")
 
 if stock_tickers:
-    st.markdown("#### 📊 股票（追蹤清單）")
-    render_list(stock_tickers)
+    st.markdown("#### 股票（追蹤清單）")
+    render_list(stock_tickers, "stock")
     st.markdown("")
 
 if moomoo_selected:
-    st.markdown("#### 🐮 moomoo 追蹤清單")
-    render_list(moomoo_selected)
+    st.markdown("#### moomoo 追蹤清單")
+    render_list(moomoo_selected, "moomoo")
     st.markdown("")
 
-st.markdown("#### 🔥 今日熱門股（Yahoo Most Active）")
-search_query = st.text_input("🔍 搜尋股票代號", placeholder="輸入代號，例如 AAPL", key="hot_search")
+st.markdown("#### 今日熱門股（Yahoo Most Active）")
+search_query = st.text_input("搜尋股票代號", placeholder="輸入代號，例如 AAPL", key="hot_search")
 filtered_hot = [t for t in hot_selected if search_query.upper() in t.upper()] if search_query else hot_selected
 if filtered_hot:
-    render_list(filtered_hot)
+    render_list(filtered_hot, "hot")
 else:
     st.info("找不到符合的商品" if search_query else "目前沒有今日熱門股資料")
 

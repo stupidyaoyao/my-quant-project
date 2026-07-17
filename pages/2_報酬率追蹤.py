@@ -11,9 +11,8 @@ import streamlit as st
 
 from common import inject_base_css, load_log, sidebar_filter
 
-st.set_page_config(page_title="報酬率追蹤", layout="wide")
 inject_base_css()
-st.title("💰 報酬率追蹤")
+st.title("報酬率追蹤")
 
 df = load_log()
 if df is None:
@@ -40,6 +39,6 @@ for ticker in return_tickers:
         series = t_df.set_index("日期")["浮動報酬"] * 100
         st.line_chart(series, height=220, width='stretch')
         latest_return = series.iloc[-1]
-        color = "🟢" if latest_return >= 0 else "🔴"
+        color = "▲" if latest_return >= 0 else "▼"
         st.caption(f"{ticker} 浮動報酬率 (%) — 目前 {color} {latest_return:.2f}%")
         st.divider()

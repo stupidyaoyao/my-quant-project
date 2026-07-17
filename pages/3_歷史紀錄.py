@@ -9,9 +9,8 @@ import streamlit as st
 
 from common import inject_base_css, load_log
 
-st.set_page_config(page_title="歷史紀錄", layout="wide")
 inject_base_css()
-st.title("📋 歷史判斷紀錄")
+st.title("歷史判斷紀錄")
 
 df = load_log()
 if df is None:
@@ -19,7 +18,7 @@ if df is None:
     st.stop()
 
 tickers = df["商品"].unique().tolist()
-with st.sidebar.expander("🔍 篩選", expanded=False):
+with st.sidebar.expander("篩選", expanded=False):
     selected_tickers = st.multiselect("選擇要顯示的商品", tickers, default=tickers)
 
 date_filter = st.radio(
