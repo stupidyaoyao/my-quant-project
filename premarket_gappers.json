@@ -1,134 +1,69 @@
 {
-  "scanned_at": "2026-07-16 15:40:08",
+  "scanned_at": "2026-07-17 13:55:41",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ATAI",
-      "price": 7.14,
-      "gap_pct": 33.3,
-      "premarket_volume": 106187147,
+      "symbol": "SLS",
+      "price": 12.9,
+      "gap_pct": 9.79,
+      "premarket_volume": 1481507,
       "is_premarket_data": false,
-      "catalyst": "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy",
+      "catalyst": "SLS Stock Hits July Low As AML Readout Nears — Retail Bulls See ‘Stellar’ Hint In CEO’s Fox Appearance Next Week",
       "headlines": [
-        "Eli Lilly to buy psychedelic drugmaker AtaiBeckley for up to $3.8 billion in bet on depression therapy",
-        "Eli Lilly Trips Into Red-Hot Psychedelics Space With A Big Takeover"
+        "SLS Stock Hits July Low As AML Readout Nears — Retail Bulls See ‘Stellar’ Hint In CEO’s Fox Appearance Next Week",
+        "SLS, IBRX Rise Overnight: Retail Bets On Big Pharma Buyouts As J&J Chases No. 1 Oncology Spot"
       ]
     },
     {
       "rank": 2,
-      "symbol": "MAN",
-      "price": 51.91,
-      "gap_pct": 33.03,
-      "premarket_volume": 2213440,
+      "symbol": "TRVI",
+      "price": 18.72,
+      "gap_pct": 7.86,
+      "premarket_volume": 1088592,
       "is_premarket_data": false,
-      "catalyst": "ManpowerGroup Q2 Earnings Call Highlights",
+      "catalyst": "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters.",
       "headlines": [
-        "ManpowerGroup Q2 Earnings Call Highlights",
-        "Manpower (MAN) Reports Q2 Earnings: What Key Metrics Have to Say"
+        "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters.",
+        "Trevi Therapeutics Maps Haduvio Chronic Cough Push, Sees Cash Runway Into 2030"
       ]
     },
     {
       "rank": 3,
-      "symbol": "MAAS",
-      "price": 21.63,
-      "gap_pct": 30.54,
-      "premarket_volume": 368811,
+      "symbol": "TRV",
+      "price": 363.13,
+      "gap_pct": 7.49,
+      "premarket_volume": 704532,
       "is_premarket_data": false,
-      "catalyst": "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
+      "catalyst": "Travelers Q2 2026 earnings: Profit jumps 46% on lower catastrophe losses",
       "headlines": [
-        "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
-        "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Thursday Trading"
+        "Travelers Q2 2026 earnings: Profit jumps 46% on lower catastrophe losses",
+        "Travelers (TRV) Q2 Earnings Top Estimates"
       ]
     },
     {
       "rank": 4,
-      "symbol": "LCID",
-      "price": 6.68,
-      "gap_pct": 12.27,
-      "premarket_volume": 20409637,
+      "symbol": "MAN",
+      "price": 55.22,
+      "gap_pct": 6.77,
+      "premarket_volume": 411058,
       "is_premarket_data": false,
-      "catalyst": "Lucid Climbs 12% for a Big Second-Day Recovery as CEO Directly Rebuts Bankruptcy and Take-Private Rumors",
+      "catalyst": "ManpowerGroup (MAN) Stock Still Looks Undervalued As It Jumps 72% YTD",
       "headlines": [
-        "Lucid Climbs 12% for a Big Second-Day Recovery as CEO Directly Rebuts Bankruptcy and Take-Private Rumors",
-        "Tesla Stock's Future Comes With A Hefty Price Tag"
+        "ManpowerGroup (MAN) Stock Still Looks Undervalued As It Jumps 72% YTD",
+        "ManpowerGroup (MAN) Is Up 37.8% After Q2 Beat And Upbeat AI-Driven Guidance Has The Bull Case Changed?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "RHI",
-      "price": 41.02,
-      "gap_pct": 11.78,
-      "premarket_volume": 1278420,
+      "symbol": "VG",
+      "price": 13.31,
+      "gap_pct": 5.09,
+      "premarket_volume": 1867962,
       "is_premarket_data": false,
-      "catalyst": "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
+      "catalyst": "Top Analyst Reports for NVIDIA, Oracle & Analog Device",
       "headlines": [
-        "High ROE & Robust Liquidity Position Aid RHI Amid High Competition",
-        "MillerKnoll, Interface, and Robert Half Shares Are Falling, What You Need To Know"
-      ]
-    },
-    {
-      "rank": 6,
-      "symbol": "GHRS",
-      "price": 29.87,
-      "gap_pct": 10.96,
-      "premarket_volume": 893843,
-      "is_premarket_data": false,
-      "catalyst": "Why Psychedelic stocks are surging today",
-      "headlines": [
-        "Why Psychedelic stocks are surging today",
-        "GH Research gains on optimism surrounding potential Eli Lilly-Atai deal (GHRS)"
-      ]
-    },
-    {
-      "rank": 7,
-      "symbol": "ABT",
-      "price": 98.97,
-      "gap_pct": 10.87,
-      "premarket_volume": 14548967,
-      "is_premarket_data": false,
-      "catalyst": "Abbott Laboratories Q2 Earnings Call Highlights",
-      "headlines": [
-        "Abbott Laboratories Q2 Earnings Call Highlights",
-        "Why Abbott Stock Is Having Its Best Day in 24 Years"
-      ]
-    },
-    {
-      "rank": 8,
-      "symbol": "SMG",
-      "price": 74.72,
-      "gap_pct": 9.9,
-      "premarket_volume": 472597,
-      "is_premarket_data": false,
-      "catalyst": "Scotts Miracle-Gro CEO Nate Baxter on Role Firm Played in America250 Initiative",
-      "headlines": [
-        "Scotts Miracle-Gro CEO Nate Baxter on Role Firm Played in America250 Initiative",
-        "Stifel Keeps Buy Rating on Scotts Miracle-Gro (SMG) Despite Slower May Sales"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "MATX",
-      "price": 229.06,
-      "gap_pct": 9.65,
-      "premarket_volume": 167363,
-      "is_premarket_data": false,
-      "catalyst": "Will Strong China Freight Tailwinds and Higher EPS Guidance Change Matson's (MATX) Narrative?",
-      "headlines": [
-        "Will Strong China Freight Tailwinds and Higher EPS Guidance Change Matson's (MATX) Narrative?",
-        "Containers Surge Into Top US Ports Amid Tariff, Iran Uncertainty"
-      ]
-    },
-    {
-      "rank": 10,
-      "symbol": "ERIE",
-      "price": 228.31,
-      "gap_pct": 8.62,
-      "premarket_volume": 119763,
-      "is_premarket_data": false,
-      "catalyst": "AJG Stock Trading at a Discount to Industry at 2.74X: Time to Hold?",
-      "headlines": [
-        "AJG Stock Trading at a Discount to Industry at 2.74X: Time to Hold?",
-        "Is Erie Indemnity Stock Underperforming the Dow?"
+        "Top Analyst Reports for NVIDIA, Oracle & Analog Device",
+        "New Strong Buy Stocks for July 15th"
       ]
     }
   ]
