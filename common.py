@@ -135,8 +135,8 @@ def inject_base_css():
             margin: 0 !important;
             background: transparent !important;
         }
-        .st-key-nav_group_row div[role="radiogroup"] label > div:first-child > div:first-child,
-        .st-key-nav_subgroup_row div[role="radiogroup"] label > div:first-child > div:first-child {
+        .st-key-nav_group_row div[role="radiogroup"] label > div:nth-child(2) > div:first-child > div:first-child,
+        .st-key-nav_subgroup_row div[role="radiogroup"] label > div:nth-child(2) > div:first-child > div:first-child {
             display: none !important;
         }
         .st-key-nav_group_row div[role="radiogroup"] label p,
