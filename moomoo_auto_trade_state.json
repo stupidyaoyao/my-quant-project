@@ -1,0 +1,20 @@
+{
+  "QQQ": {
+    "in_position": true,
+    "entry_price": 692.9199829101562,
+    "highest_since_entry": 692.9199829101562,
+    "qty": 460
+  },
+  "AAPL": {
+    "in_position": true,
+    "entry_price": 332.2699890136719,
+    "highest_since_entry": 332.2699890136719,
+    "qty": 839
+  },
+  "INTC": {
+    "in_position": true,
+    "entry_price": 92.55999755859375,
+    "highest_since_entry": 92.55999755859375,
+    "qty": 740
+  }
+}

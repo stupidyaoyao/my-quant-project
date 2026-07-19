@@ -205,11 +205,20 @@ def get_account_info(trd_ctx):
     return acc_id, net_assets, position_count, available_cash
 
 
+def write_heartbeat(message):
+    """不管有沒有進入交易時段，每次執行都留一筆紀錄，方便確認排程有沒有真的在跑"""
+    with open("orb_scheduler_heartbeat.log", "a", encoding="utf-8") as f:
+        f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {message}\n")
+
+
 def main():
     in_window, reason = is_within_trading_window()
     if not in_window:
+        write_heartbeat(f"跳過（{reason}）")
         print(f"目前不在交易時段內，跳過本次執行（{reason}）")
         return
+
+    write_heartbeat("開始執行交易邏輯")
 
     state = load_state()
     today_str = datetime.now(ET_TZ).strftime("%Y-%m-%d")

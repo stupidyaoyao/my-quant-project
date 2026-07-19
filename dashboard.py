@@ -1,13 +1,10 @@
 """
-模擬交易儀表板 — 主頁面（清單式排版 + 搜尋/排序）
+均線策略模擬 — 總覽子頁面（函式化，供 app.py 路由器呼叫）
 ------------------------------------------------------
 - 整行依漲跌染色（紅跌綠漲）
 - 今日熱門股下方可搜尋代號
-- 支援排序：持倉優先 / 現價高到低 / 現價低到高 / 漲幅最大 / 跌幅最大 / 代號A-Z
-- 全部攤開顯示，不再收合
-
-執行方式：
-    streamlit run dashboard.py
+- 支援排序：點表頭切換升冪/降冪
+- moomoo同步清單、今日熱門股一併顯示
 """
 
 import pandas as pd
@@ -16,39 +13,17 @@ import yfinance as yf
 import plotly.graph_objects as go
 import streamlit as st
 
-from common import inject_base_css, load_log, sidebar_filter, PERIOD_OPTIONS
+from common import load_log, sidebar_filter, PERIOD_OPTIONS
 
-inject_base_css()
-st.title("模擬交易儀表板")
-
-df = load_log()
-if df is None:
-    st.warning("還沒有任何紀錄，請先執行 python paper_trading_daily.py 產生資料")
-    st.stop()
+_df = None
 
 
 def classify(ticker):
     return "加密貨幣" if str(ticker).endswith("-USD") else "股票"
 
 
-df["類型"] = df["商品"].apply(classify)
-all_tickers = df["商品"].unique().tolist()
-selected_tickers = sidebar_filter(all_tickers)
-
-only_holding = st.sidebar.checkbox("只顯示持倉", value=False)
-
-if "selected_chart_ticker" not in st.session_state:
-    st.session_state.selected_chart_ticker = None
-if "pinned_tickers" not in st.session_state:
-    st.session_state.pinned_tickers = set()
-if "sort_column" not in st.session_state:
-    st.session_state.sort_column = "商品"
-if "sort_ascending" not in st.session_state:
-    st.session_state.sort_ascending = True
-
-
 def get_ticker_info(ticker):
-    history = df[df["商品"] == ticker].sort_values("日期")
+    history = _df[_df["商品"] == ticker].sort_values("日期")
     latest_row = history.iloc[-1]
     price = latest_row["收盤價"]
     holding = latest_row["持倉狀態"] == "持倉中"
@@ -61,7 +36,7 @@ def get_ticker_info(ticker):
     return {"price": price, "holding": holding, "pct_change": pct_change, "spark_prices": spark_prices}
 
 
-def sort_tickers(ticker_list, mode=None):
+def sort_tickers(ticker_list):
     info = {t: get_ticker_info(t) for t in ticker_list}
     col = st.session_state.sort_column
     asc = st.session_state.sort_ascending
@@ -198,22 +173,13 @@ def render_row(ticker):
 
     if pct_change is None:
         bg_style = "linear-gradient(90deg, rgba(255,255,255,0.015) 0%, rgba(255,255,255,0.05) 100%)"
-        change_color = "#888"
-        arrow = "—"
-        change_text = "—"
-        spark_color = "#888"
+        change_color, arrow, change_text, spark_color = "#888", "—", "—", "#888"
     elif pct_change >= 0:
         bg_style = "linear-gradient(90deg, rgba(46,204,113,0.03) 0%, rgba(46,204,113,0.20) 100%)"
-        change_color = "#2ecc71"
-        arrow = "▲"
-        change_text = f"{pct_change:+.2%}"
-        spark_color = "#2ecc71"
+        change_color, arrow, change_text, spark_color = "#2ecc71", "▲", f"{pct_change:+.2%}", "#2ecc71"
     else:
         bg_style = "linear-gradient(90deg, rgba(231,76,60,0.03) 0%, rgba(231,76,60,0.20) 100%)"
-        change_color = "#e74c3c"
-        arrow = "▼"
-        change_text = f"{pct_change:+.2%}"
-        spark_color = "#e74c3c"
+        change_color, arrow, change_text, spark_color = "#e74c3c", "▼", f"{pct_change:+.2%}", "#e74c3c"
 
     spark_svg = make_sparkline_svg(spark_prices, color=spark_color)
     status_html = ('<span style="color:#2ecc71;">● 持倉</span>' if holding
@@ -259,60 +225,79 @@ def render_list(ticker_list, group_key):
         render_row(ticker)
 
 
-st.subheader("今日最新狀態")
+def render_overview():
+    global _df
+    st.title("均線策略模擬 — 總覽")
 
-watchlist_tickers = df[df["來源"] == "追蹤清單"]["商品"].unique().tolist()
-hot_tickers = df[df["來源"] == "今日熱門"]["商品"].unique().tolist()
-moomoo_tickers = df[df["來源"] == "moomoo清單"]["商品"].unique().tolist() if "moomoo清單" in df["來源"].unique() else []
+    _df = load_log()
+    if _df is None:
+        st.warning("還沒有任何紀錄，請先執行 python paper_trading_daily.py 產生資料")
+        return
 
-crypto_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "加密貨幣"]
-stock_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "股票"]
-hot_selected = [t for t in selected_tickers if t in hot_tickers]
-moomoo_selected = [t for t in selected_tickers if t in moomoo_tickers]
+    _df["類型"] = _df["商品"].apply(classify)
+    all_tickers = _df["商品"].unique().tolist()
+    selected_tickers = sidebar_filter(all_tickers, key="overview")
+    only_holding = st.sidebar.checkbox("只顯示持倉", value=False)
 
-if only_holding:
-    crypto_tickers = [t for t in crypto_tickers if get_ticker_info(t)["holding"]]
-    stock_tickers = [t for t in stock_tickers if get_ticker_info(t)["holding"]]
-    hot_selected = [t for t in hot_selected if get_ticker_info(t)["holding"]]
-    moomoo_selected = [t for t in moomoo_selected if get_ticker_info(t)["holding"]]
+    if "selected_chart_ticker" not in st.session_state:
+        st.session_state.selected_chart_ticker = None
+    if "pinned_tickers" not in st.session_state:
+        st.session_state.pinned_tickers = set()
+    if "sort_column" not in st.session_state:
+        st.session_state.sort_column = "商品"
+    if "sort_ascending" not in st.session_state:
+        st.session_state.sort_ascending = True
 
-# ---------- 總覽列 ----------
-all_shown = crypto_tickers + stock_tickers + hot_selected + moomoo_selected
-if all_shown:
-    infos = {t: get_ticker_info(t) for t in all_shown}
-    holding_count = sum(1 for i in infos.values() if i["holding"])
-    up_count = sum(1 for i in infos.values() if i["pct_change"] is not None and i["pct_change"] > 0)
-    down_count = sum(1 for i in infos.values() if i["pct_change"] is not None and i["pct_change"] < 0)
+    st.subheader("今日最新狀態")
 
-    ov1, ov2, ov3, ov4 = st.columns(4)
-    ov1.metric("追蹤商品數", len(all_shown))
-    ov2.metric("持倉中", holding_count)
-    ov3.metric("上漲", up_count)
-    ov4.metric("下跌", down_count)
-    st.markdown("")
+    watchlist_tickers = _df[_df["來源"] == "追蹤清單"]["商品"].unique().tolist()
+    hot_tickers = _df[_df["來源"] == "今日熱門"]["商品"].unique().tolist()
+    moomoo_tickers = _df[_df["來源"] == "moomoo清單"]["商品"].unique().tolist() if "moomoo清單" in _df["來源"].unique() else []
 
-if crypto_tickers:
-    st.markdown("#### 加密貨幣")
-    render_list(crypto_tickers, "crypto")
-    st.markdown("")
+    crypto_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "加密貨幣"]
+    stock_tickers = [t for t in selected_tickers if t in watchlist_tickers and classify(t) == "股票"]
+    hot_selected = [t for t in selected_tickers if t in hot_tickers]
+    moomoo_selected = [t for t in selected_tickers if t in moomoo_tickers]
 
-if stock_tickers:
-    st.markdown("#### 股票（追蹤清單）")
-    render_list(stock_tickers, "stock")
-    st.markdown("")
+    if only_holding:
+        crypto_tickers = [t for t in crypto_tickers if get_ticker_info(t)["holding"]]
+        stock_tickers = [t for t in stock_tickers if get_ticker_info(t)["holding"]]
+        hot_selected = [t for t in hot_selected if get_ticker_info(t)["holding"]]
+        moomoo_selected = [t for t in moomoo_selected if get_ticker_info(t)["holding"]]
 
-if moomoo_selected:
-    st.markdown("#### moomoo 追蹤清單")
-    render_list(moomoo_selected, "moomoo")
-    st.markdown("")
+    all_shown = crypto_tickers + stock_tickers + hot_selected + moomoo_selected
+    if all_shown:
+        infos = {t: get_ticker_info(t) for t in all_shown}
+        holding_count = sum(1 for i in infos.values() if i["holding"])
+        up_count = sum(1 for i in infos.values() if i["pct_change"] is not None and i["pct_change"] > 0)
+        down_count = sum(1 for i in infos.values() if i["pct_change"] is not None and i["pct_change"] < 0)
 
-st.markdown("#### 今日熱門股（Yahoo Most Active）")
-search_query = st.text_input("搜尋股票代號", placeholder="輸入代號，例如 AAPL", key="hot_search")
-filtered_hot = [t for t in hot_selected if search_query.upper() in t.upper()] if search_query else hot_selected
-if filtered_hot:
-    render_list(filtered_hot, "hot")
-else:
-    st.info("找不到符合的商品" if search_query else "目前沒有今日熱門股資料")
+        ov1, ov2, ov3, ov4 = st.columns(4)
+        ov1.metric("追蹤商品數", len(all_shown))
+        ov2.metric("持倉中", holding_count)
+        ov3.metric("上漲", up_count)
+        ov4.metric("下跌", down_count)
+        st.markdown("")
 
-st.divider()
-st.caption("💡 完整歷史紀錄請至左側選單「歷史紀錄」分頁；報酬率追蹤圖表請至「報酬率追蹤」分頁")
+    if crypto_tickers:
+        st.markdown("#### 加密貨幣")
+        render_list(crypto_tickers, "crypto")
+        st.markdown("")
+
+    if stock_tickers:
+        st.markdown("#### 股票（追蹤清單）")
+        render_list(stock_tickers, "stock")
+        st.markdown("")
+
+    if moomoo_selected:
+        st.markdown("#### moomoo 追蹤清單")
+        render_list(moomoo_selected, "moomoo")
+        st.markdown("")
+
+    st.markdown("#### 今日熱門股（Yahoo Most Active）")
+    search_query = st.text_input("搜尋股票代號", placeholder="輸入代號，例如 AAPL", key="hot_search")
+    filtered_hot = [t for t in hot_selected if search_query.upper() in t.upper()] if search_query else hot_selected
+    if filtered_hot:
+        render_list(filtered_hot, "hot")
+    else:
+        st.info("找不到符合的商品" if search_query else "目前沒有今日熱門股資料")

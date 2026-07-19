@@ -1,0 +1,77 @@
+{
+  "QQQ": {
+    "date": "2026-07-17",
+    "in_position": true,
+    "entry_price": 696.1099853515625,
+    "stop_price": 694.3699951171875,
+    "qty": 1438
+  },
+  "AAPL": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "MSFT": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "INTC": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "ATAI": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "MAN": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "MAAS": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "LCID": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "RHI": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "GHRS": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "ABT": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "SMG": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "SLS": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "WULF": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "IREN": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "MRVL": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "MARA": {
+    "date": "2026-07-17",
+    "in_position": false
+  },
+  "CRWV": {
+    "date": "2026-07-17",
+    "in_position": false
+  }
+}
