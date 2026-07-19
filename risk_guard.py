@@ -103,18 +103,22 @@ def check_earnings_soon(ticker, days_ahead=EARNINGS_BLACKOUT_DAYS):
     return True, ""
 
 
-def calculate_position_size(entry_price, stop_price, net_assets):
+def calculate_position_size(entry_price, stop_price, net_assets, available_cash=None):
     """
-    規則：不使用槓桿。永遠依net_assets（實際資產）計算部位大小，
-    完全不採用moomoo顯示的buying_power（含槓桿的購買力）
+    規則：不使用槓桿。風險金額(願意虧多少)依net_assets(總資產)的2%計算，
+    但實際能買的股數上限，要依available_cash(真正還沒被佔用的現金)計算，
+    不能用net_assets去算股數上限，否則會忽略掉已經被其他部位佔用的錢。
     """
+    if available_cash is None:
+        available_cash = net_assets  # 沒有提供的話，退回舊行為（僅供單策略獨立使用時）
+
     risk = abs(entry_price - stop_price)
     if risk <= 0 or net_assets <= 0:
         return 0
     risk_amount = net_assets * RISK_PER_TRADE_PCT
     shares_by_risk = int(risk_amount / risk)
-    shares_by_capital = int(net_assets / entry_price)  # 不能超過實際資產能買的數量
-    return max(0, min(shares_by_risk, shares_by_capital))
+    shares_by_cash = int(available_cash / entry_price) if entry_price > 0 else 0
+    return max(0, min(shares_by_risk, shares_by_cash))
 
 
 def pretrade_check(strategy_name, ticker, current_equity, current_position_count):
