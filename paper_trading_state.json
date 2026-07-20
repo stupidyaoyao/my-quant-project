@@ -4,7 +4,11 @@
     "in_position": false
   },
   "ETH-USD": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 1898.116190673828,
+    "entry_date": "2026-07-20",
+    "highest_since_entry": 1896.219970703125,
+    "position_fraction": 0.20222419232574626
   },
   "QQQ": {
     "in_position": true,
@@ -47,7 +51,7 @@
     "in_position": true,
     "entry_price": 13.880000114440918,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 13.880000114440918,
+    "highest_since_entry": 13.989999771118164,
     "position_fraction": 0.17503936488047464
   },
   "SOFI": {
@@ -68,7 +72,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 12.149999618530273,
+    "highest_since_entry": 12.15999984741211,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -94,11 +98,7 @@
     "in_position": false
   },
   "MARA": {
-    "in_position": true,
-    "entry_price": 12.600000381469727,
-    "entry_date": "2026-07-10",
-    "highest_since_entry": 12.600000381469727,
-    "position_fraction": 0.05634882808109501
+    "in_position": false
   },
   "F": {
     "in_position": true,
@@ -268,7 +268,7 @@
     "in_position": true,
     "entry_price": 256.4231609344482,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 267.19000244140625,
+    "highest_since_entry": 269.6099853515625,
     "position_fraction": 0.062143988575842524
   },
   "ABT": {
@@ -307,5 +307,25 @@
     "entry_date": "2026-07-17",
     "highest_since_entry": 3.569999933242798,
     "position_fraction": 0.14059069317290682
+  },
+  "AMC": {
+    "in_position": true,
+    "entry_price": 2.461230038166046,
+    "entry_date": "2026-07-20",
+    "highest_since_entry": 2.4600000381469727,
+    "position_fraction": 0.08968750757184708
+  },
+  "ACHR": {
+    "in_position": false
+  },
+  "WBD": {
+    "in_position": false
+  },
+  "CIFR": {
+    "in_position": true,
+    "entry_price": 20.550270915985106,
+    "entry_date": "2026-07-20",
+    "highest_since_entry": 20.540000915527344,
+    "position_fraction": 0.05912310862677679
   }
 }
