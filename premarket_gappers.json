@@ -1,69 +1,134 @@
 {
-  "scanned_at": "2026-07-17 13:55:41",
+  "scanned_at": "2026-07-20 14:26:30",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "SLS",
-      "price": 12.9,
-      "gap_pct": 9.79,
-      "premarket_volume": 1481507,
+      "symbol": "IREN",
+      "price": 39.02,
+      "gap_pct": 16.05,
+      "premarket_volume": 29041661,
       "is_premarket_data": false,
-      "catalyst": "SLS Stock Hits July Low As AML Readout Nears — Retail Bulls See ‘Stellar’ Hint In CEO’s Fox Appearance Next Week",
+      "catalyst": "IREN (NasdaqGS:IREN) Lands New AI Cloud Deals With Microsoft And NVIDIA",
       "headlines": [
-        "SLS Stock Hits July Low As AML Readout Nears — Retail Bulls See ‘Stellar’ Hint In CEO’s Fox Appearance Next Week",
-        "SLS, IBRX Rise Overnight: Retail Bets On Big Pharma Buyouts As J&J Chases No. 1 Oncology Spot"
+        "IREN (NasdaqGS:IREN) Lands New AI Cloud Deals With Microsoft And NVIDIA",
+        "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound"
       ]
     },
     {
       "rank": 2,
-      "symbol": "TRVI",
-      "price": 18.72,
-      "gap_pct": 7.86,
-      "premarket_volume": 1088592,
+      "symbol": "CIFR",
+      "price": 20.07,
+      "gap_pct": 14.29,
+      "premarket_volume": 11503909,
       "is_premarket_data": false,
-      "catalyst": "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters.",
+      "catalyst": "Cipher Digital (CIFR) Stock May Be Overvalued On AI Lease Revenue Shift",
       "headlines": [
-        "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters.",
-        "Trevi Therapeutics Maps Haduvio Chronic Cough Push, Sees Cash Runway Into 2030"
+        "Cipher Digital (CIFR) Stock May Be Overvalued On AI Lease Revenue Shift",
+        "Cipher Digital Inc. (CIFR) Declines More Than Market: Some Information for Investors"
       ]
     },
     {
       "rank": 3,
-      "symbol": "TRV",
-      "price": 363.13,
-      "gap_pct": 7.49,
-      "premarket_volume": 704532,
+      "symbol": "HUT",
+      "price": 103.3,
+      "gap_pct": 12.96,
+      "premarket_volume": 3046828,
       "is_premarket_data": false,
-      "catalyst": "Travelers Q2 2026 earnings: Profit jumps 46% on lower catastrophe losses",
+      "catalyst": "KBW maintains HUT ‘Outperform’ rating, $138 price target following $19.6B Beacon Point deal",
       "headlines": [
-        "Travelers Q2 2026 earnings: Profit jumps 46% on lower catastrophe losses",
-        "Travelers (TRV) Q2 Earnings Top Estimates"
+        "KBW maintains HUT ‘Outperform’ rating, $138 price target following $19.6B Beacon Point deal",
+        "Hut 8 fully commercializes 1 GW Beacon Point campus with second AI lease"
       ]
     },
     {
       "rank": 4,
-      "symbol": "MAN",
-      "price": 55.22,
-      "gap_pct": 6.77,
-      "premarket_volume": 411058,
+      "symbol": "NUVB",
+      "price": 6.49,
+      "gap_pct": 11.8,
+      "premarket_volume": 3376455,
       "is_premarket_data": false,
-      "catalyst": "ManpowerGroup (MAN) Stock Still Looks Undervalued As It Jumps 72% YTD",
+      "catalyst": "RBC Capital Cuts PT on Nuvation Bio (NUVB) in Q2 Preview",
       "headlines": [
-        "ManpowerGroup (MAN) Stock Still Looks Undervalued As It Jumps 72% YTD",
-        "ManpowerGroup (MAN) Is Up 37.8% After Q2 Beat And Upbeat AI-Driven Guidance Has The Bull Case Changed?"
+        "RBC Capital Cuts PT on Nuvation Bio (NUVB) in Q2 Preview",
+        "Can Nuvation Bio Inc (NUVB) Stock Soar 150% From Current Level?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "VG",
-      "price": 13.31,
-      "gap_pct": 5.09,
-      "premarket_volume": 1867962,
+      "symbol": "CLSK",
+      "price": 14.31,
+      "gap_pct": 9.82,
+      "premarket_volume": 8870132,
       "is_premarket_data": false,
-      "catalyst": "Top Analyst Reports for NVIDIA, Oracle & Analog Device",
+      "catalyst": "CleanSpark (CLSK) Stock Looks Stretched On Sales But Reasonable On Growth",
       "headlines": [
-        "Top Analyst Reports for NVIDIA, Oracle & Analog Device",
-        "New Strong Buy Stocks for July 15th"
+        "CleanSpark (CLSK) Stock Looks Stretched On Sales But Reasonable On Growth",
+        "CleanSpark (CLSK) Rises As Market Takes a Dip: Key Facts"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "APLD",
+      "price": 28.05,
+      "gap_pct": 8.75,
+      "premarket_volume": 7701051,
+      "is_premarket_data": false,
+      "catalyst": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
+      "headlines": [
+        "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
+        "CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "MARA",
+      "price": 11.62,
+      "gap_pct": 8.75,
+      "premarket_volume": 10673906,
+      "is_premarket_data": false,
+      "catalyst": "Marathon Digital Holdings, Inc. (MARA) Declines More Than Market: Some Information for Investors",
+      "headlines": [
+        "Marathon Digital Holdings, Inc. (MARA) Declines More Than Market: Some Information for Investors",
+        "Price Prediction: MicroStrategy Has 260% Upside as Bitcoin Adoption Accelerates"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "LITE",
+      "price": 793.98,
+      "gap_pct": 8.35,
+      "premarket_volume": 1572486,
+      "is_premarket_data": false,
+      "catalyst": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+      "headlines": [
+        "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+        "Barclays upgrades Lumentum, cuts Allegro, Penguin before chip earnings"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "AXTI",
+      "price": 49.34,
+      "gap_pct": 7.58,
+      "premarket_volume": 3219012,
+      "is_premarket_data": false,
+      "catalyst": "AXTI Falls Below 50-Day SMA: Is It Time to Hold or Exit the Stock?",
+      "headlines": [
+        "AXTI Falls Below 50-Day SMA: Is It Time to Hold or Exit the Stock?",
+        "Why Investors Are Dumping AXT (AXTI) Ahead of Earnings"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "BTDR",
+      "price": 11.54,
+      "gap_pct": 7.45,
+      "premarket_volume": 1316908,
+      "is_premarket_data": false,
+      "catalyst": "Why Traders Are Running From Bitdeer Technologies (BTDR)",
+      "headlines": [
+        "Why Traders Are Running From Bitdeer Technologies (BTDR)",
+        "MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises."
       ]
     }
   ]
