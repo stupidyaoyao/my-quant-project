@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-20 14:26:30",
+  "scanned_at": "2026-07-21 14:11:16",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "IREN",
-      "price": 39.02,
-      "gap_pct": 16.05,
-      "premarket_volume": 29041661,
+      "symbol": "AEHR",
+      "price": 93.02,
+      "gap_pct": 20.24,
+      "premarket_volume": 1444680,
       "is_premarket_data": false,
-      "catalyst": "IREN (NasdaqGS:IREN) Lands New AI Cloud Deals With Microsoft And NVIDIA",
+      "catalyst": "Best Momentum Stocks to Buy for July 20th",
       "headlines": [
-        "IREN (NasdaqGS:IREN) Lands New AI Cloud Deals With Microsoft And NVIDIA",
-        "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound"
+        "Best Momentum Stocks to Buy for July 20th",
+        "Is Aehr Test Systems (AEHR) Stock Outpacing Its Computer and Technology Peers This Year?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "CIFR",
-      "price": 20.07,
-      "gap_pct": 14.29,
-      "premarket_volume": 11503909,
+      "symbol": "COIN",
+      "price": 178.71,
+      "gap_pct": 11.39,
+      "premarket_volume": 3741374,
       "is_premarket_data": false,
-      "catalyst": "Cipher Digital (CIFR) Stock May Be Overvalued On AI Lease Revenue Shift",
+      "catalyst": "Morgan Stanley's E*TRADE embraces crypto trading",
       "headlines": [
-        "Cipher Digital (CIFR) Stock May Be Overvalued On AI Lease Revenue Shift",
-        "Cipher Digital Inc. (CIFR) Declines More Than Market: Some Information for Investors"
+        "Morgan Stanley's E*TRADE embraces crypto trading",
+        "Trump Oversees Ethics Provisions As Clarity Act Nears Vote"
       ]
     },
     {
       "rank": 3,
-      "symbol": "HUT",
-      "price": 103.3,
-      "gap_pct": 12.96,
-      "premarket_volume": 3046828,
+      "symbol": "BE",
+      "price": 217.82,
+      "gap_pct": 10.54,
+      "premarket_volume": 3597113,
       "is_premarket_data": false,
-      "catalyst": "KBW maintains HUT ‘Outperform’ rating, $138 price target following $19.6B Beacon Point deal",
+      "catalyst": "ORCL, BE, HUT, Or IREN: Retail Investors Are Split Between Two Data Center Stocks Despite Diverging Returns",
       "headlines": [
-        "KBW maintains HUT ‘Outperform’ rating, $138 price target following $19.6B Beacon Point deal",
-        "Hut 8 fully commercializes 1 GW Beacon Point campus with second AI lease"
+        "ORCL, BE, HUT, Or IREN: Retail Investors Are Split Between Two Data Center Stocks Despite Diverging Returns",
+        "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Pressure Eases"
       ]
     },
     {
       "rank": 4,
-      "symbol": "NUVB",
-      "price": 6.49,
-      "gap_pct": 11.8,
-      "premarket_volume": 3376455,
+      "symbol": "DOCN",
+      "price": 131.43,
+      "gap_pct": 10.36,
+      "premarket_volume": 886278,
       "is_premarket_data": false,
-      "catalyst": "RBC Capital Cuts PT on Nuvation Bio (NUVB) in Q2 Preview",
+      "catalyst": "Here’s Why Investors Favour DigitalOcean Holdings (DOCN)",
       "headlines": [
-        "RBC Capital Cuts PT on Nuvation Bio (NUVB) in Q2 Preview",
-        "Can Nuvation Bio Inc (NUVB) Stock Soar 150% From Current Level?"
+        "Here’s Why Investors Favour DigitalOcean Holdings (DOCN)",
+        "Oppenheimer Names Nvidia Among Its 'Best of the Best' Momentum Stocks"
       ]
     },
     {
       "rank": 5,
-      "symbol": "CLSK",
-      "price": 14.31,
-      "gap_pct": 9.82,
-      "premarket_volume": 8870132,
+      "symbol": "MMM",
+      "price": 175.51,
+      "gap_pct": 10.31,
+      "premarket_volume": 3289568,
       "is_premarket_data": false,
-      "catalyst": "CleanSpark (CLSK) Stock Looks Stretched On Sales But Reasonable On Growth",
+      "catalyst": "3M stock jumps on raised outlook as company's turnaround gains traction",
       "headlines": [
-        "CleanSpark (CLSK) Stock Looks Stretched On Sales But Reasonable On Growth",
-        "CleanSpark (CLSK) Rises As Market Takes a Dip: Key Facts"
+        "3M stock jumps on raised outlook as company's turnaround gains traction",
+        "Earnings live: Charles Schwab stock dips, Halliburton Middle East revenue declines"
       ]
     },
     {
       "rank": 6,
-      "symbol": "APLD",
-      "price": 28.05,
-      "gap_pct": 8.75,
-      "premarket_volume": 7701051,
+      "symbol": "HAS",
+      "price": 89.92,
+      "gap_pct": 10.22,
+      "premarket_volume": 2950398,
       "is_premarket_data": false,
-      "catalyst": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
+      "catalyst": "Michaels CEO breaks down the retailer's value playbook",
       "headlines": [
-        "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
-        "CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies"
+        "Michaels CEO breaks down the retailer's value playbook",
+        "Hasbro Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 7,
-      "symbol": "MARA",
-      "price": 11.62,
-      "gap_pct": 8.75,
-      "premarket_volume": 10673906,
+      "symbol": "NBIS",
+      "price": 199.33,
+      "gap_pct": 9.15,
+      "premarket_volume": 5468227,
       "is_premarket_data": false,
-      "catalyst": "Marathon Digital Holdings, Inc. (MARA) Declines More Than Market: Some Information for Investors",
+      "catalyst": "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive",
       "headlines": [
-        "Marathon Digital Holdings, Inc. (MARA) Declines More Than Market: Some Information for Investors",
-        "Price Prediction: MicroStrategy Has 260% Upside as Bitcoin Adoption Accelerates"
+        "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive",
+        "NVIDIA reports 9.3% beneficial ownership of Nebius through shares and warrant"
       ]
     },
     {
       "rank": 8,
-      "symbol": "LITE",
-      "price": 793.98,
-      "gap_pct": 8.35,
-      "premarket_volume": 1572486,
+      "symbol": "OUST",
+      "price": 37.9,
+      "gap_pct": 9.03,
+      "premarket_volume": 1083746,
       "is_premarket_data": false,
-      "catalyst": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+      "catalyst": "Vicor (VICR) Surpasses Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
-        "Barclays upgrades Lumentum, cuts Allegro, Penguin before chip earnings"
+        "Vicor (VICR) Surpasses Q2 Earnings and Revenue Estimates",
+        "Why Ouster, Inc. (OUST) Dipped More Than Broader Market Today"
       ]
     },
     {
       "rank": 9,
-      "symbol": "AXTI",
-      "price": 49.34,
-      "gap_pct": 7.58,
-      "premarket_volume": 3219012,
+      "symbol": "TER",
+      "price": 363.35,
+      "gap_pct": 8.87,
+      "premarket_volume": 626403,
       "is_premarket_data": false,
-      "catalyst": "AXTI Falls Below 50-Day SMA: Is It Time to Hold or Exit the Stock?",
+      "catalyst": "3 S&P 500 Stocks We Think Twice About",
       "headlines": [
-        "AXTI Falls Below 50-Day SMA: Is It Time to Hold or Exit the Stock?",
-        "Why Investors Are Dumping AXT (AXTI) Ahead of Earnings"
+        "3 S&P 500 Stocks We Think Twice About",
+        "4 AI Semiconductor Supply-Chain Stocks to Buy on the Recent Dip"
       ]
     },
     {
       "rank": 10,
-      "symbol": "BTDR",
-      "price": 11.54,
-      "gap_pct": 7.45,
-      "premarket_volume": 1316908,
+      "symbol": "CBRS",
+      "price": 192.53,
+      "gap_pct": 8.85,
+      "premarket_volume": 1196661,
       "is_premarket_data": false,
-      "catalyst": "Why Traders Are Running From Bitdeer Technologies (BTDR)",
+      "catalyst": "Trading in Pre-IPO Companies Is Suddenly Big Business. Here's Why Hyperliquid Could Be the Biggest Winner.",
       "headlines": [
-        "Why Traders Are Running From Bitdeer Technologies (BTDR)",
-        "MARA Stock Leads Digital Rally On Data Center Development Plans. Bitcoin Rises."
+        "Trading in Pre-IPO Companies Is Suddenly Big Business. Here's Why Hyperliquid Could Be the Biggest Winner.",
+        "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model"
       ]
     }
   ]
