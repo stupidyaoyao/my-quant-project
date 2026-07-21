@@ -7,7 +7,7 @@
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 1896.219970703125,
+    "highest_since_entry": 1917.97998046875,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
@@ -51,7 +51,7 @@
     "in_position": true,
     "entry_price": 13.880000114440918,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 13.989999771118164,
+    "highest_since_entry": 14.390000343322754,
     "position_fraction": 0.17503936488047464
   },
   "SOFI": {
@@ -104,7 +104,7 @@
     "in_position": true,
     "entry_price": 14.0,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 14.229999542236328,
+    "highest_since_entry": 14.270000457763672,
     "position_fraction": 0.20642446750036597
   },
   "BBD": {
@@ -194,7 +194,7 @@
     "in_position": true,
     "entry_price": 904.280029296875,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 904.280029296875,
+    "highest_since_entry": 970.8200073242188,
     "position_fraction": 0.06624649335003534
   },
   "IOVA": {
@@ -251,7 +251,7 @@
     "in_position": true,
     "entry_price": 159.17955610656736,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 159.10000610351562,
+    "highest_since_entry": 162.41000366210938,
     "position_fraction": 0.05357288937844337
   },
   "DELL": {
@@ -268,7 +268,7 @@
     "in_position": true,
     "entry_price": 256.4231609344482,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 269.6099853515625,
+    "highest_since_entry": 289.7300109863281,
     "position_fraction": 0.062143988575842524
   },
   "ABT": {
@@ -325,7 +325,10 @@
     "in_position": true,
     "entry_price": 20.550270915985106,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 20.540000915527344,
+    "highest_since_entry": 22.889999389648438,
     "position_fraction": 0.05912310862677679
+  },
+  "CDE": {
+    "in_position": false
   }
 }
