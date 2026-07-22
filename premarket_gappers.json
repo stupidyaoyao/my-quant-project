@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-21 14:11:16",
+  "scanned_at": "2026-07-22 14:15:46",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AEHR",
-      "price": 93.02,
-      "gap_pct": 20.24,
-      "premarket_volume": 1444680,
+      "symbol": "ARWR",
+      "price": 94.44,
+      "gap_pct": 26.74,
+      "premarket_volume": 2313709,
       "is_premarket_data": false,
-      "catalyst": "Best Momentum Stocks to Buy for July 20th",
+      "catalyst": "Why Arrowhead Shot Sky-High, While Chief Rival Ionis Toppled",
       "headlines": [
-        "Best Momentum Stocks to Buy for July 20th",
-        "Is Aehr Test Systems (AEHR) Stock Outpacing Its Computer and Technology Peers This Year?"
+        "Why Arrowhead Shot Sky-High, While Chief Rival Ionis Toppled",
+        "ARWR Stock On Track To Hit Over 5-Year Highs – Retail Cheers Phase 3 Breakthrough As Arrowhead Targets Broader FDA Approval"
       ]
     },
     {
       "rank": 2,
-      "symbol": "COIN",
-      "price": 178.71,
-      "gap_pct": 11.39,
-      "premarket_volume": 3741374,
+      "symbol": "SMCI",
+      "price": 31.17,
+      "gap_pct": 22.24,
+      "premarket_volume": 62502109,
       "is_premarket_data": false,
-      "catalyst": "Morgan Stanley's E*TRADE embraces crypto trading",
+      "catalyst": "Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",
       "headlines": [
-        "Morgan Stanley's E*TRADE embraces crypto trading",
-        "Trump Oversees Ethics Provisions As Clarity Act Nears Vote"
+        "Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",
+        "Supermicro stock jumps on gross margin raise amid record $60 billion backlog"
       ]
     },
     {
       "rank": 3,
-      "symbol": "BE",
-      "price": 217.82,
-      "gap_pct": 10.54,
-      "premarket_volume": 3597113,
+      "symbol": "PAG",
+      "price": 216.48,
+      "gap_pct": 10.91,
+      "premarket_volume": 520268,
       "is_premarket_data": false,
-      "catalyst": "ORCL, BE, HUT, Or IREN: Retail Investors Are Split Between Two Data Center Stocks Despite Diverging Returns",
+      "catalyst": "3 Reasons to Sell PAG and 1 Stock to Buy Instead",
       "headlines": [
-        "ORCL, BE, HUT, Or IREN: Retail Investors Are Split Between Two Data Center Stocks Despite Diverging Returns",
-        "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Pressure Eases"
+        "3 Reasons to Sell PAG and 1 Stock to Buy Instead",
+        "Penske Automotive Group (PAG) Stock Trades Up, Here Is Why"
       ]
     },
     {
       "rank": 4,
-      "symbol": "DOCN",
-      "price": 131.43,
-      "gap_pct": 10.36,
-      "premarket_volume": 886278,
+      "symbol": "WAB",
+      "price": 291.54,
+      "gap_pct": 10.63,
+      "premarket_volume": 480036,
       "is_premarket_data": false,
-      "catalyst": "Here’s Why Investors Favour DigitalOcean Holdings (DOCN)",
+      "catalyst": "Wabtec shares edge higher after second-quarter earnings beat and raised full-year outlook (NYSE:WAB)",
       "headlines": [
-        "Here’s Why Investors Favour DigitalOcean Holdings (DOCN)",
-        "Oppenheimer Names Nvidia Among Its 'Best of the Best' Momentum Stocks"
+        "Wabtec shares edge higher after second-quarter earnings beat and raised full-year outlook (NYSE:WAB)",
+        "Westinghouse Air Brake Technologies (WAB) Q2 Earnings and Revenues Surpass Estimates"
       ]
     },
     {
       "rank": 5,
-      "symbol": "MMM",
-      "price": 175.51,
-      "gap_pct": 10.31,
-      "premarket_volume": 3289568,
+      "symbol": "DELL",
+      "price": 443.38,
+      "gap_pct": 9.71,
+      "premarket_volume": 2095158,
       "is_premarket_data": false,
-      "catalyst": "3M stock jumps on raised outlook as company's turnaround gains traction",
+      "catalyst": "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
       "headlines": [
-        "3M stock jumps on raised outlook as company's turnaround gains traction",
-        "Earnings live: Charles Schwab stock dips, Halliburton Middle East revenue declines"
+        "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
+        "Super Micro Jumps 13% on Record $60B Order Backlog; Dell, HPE Rally on AI Server Read-Through"
       ]
     },
     {
       "rank": 6,
-      "symbol": "HAS",
-      "price": 89.92,
-      "gap_pct": 10.22,
-      "premarket_volume": 2950398,
+      "symbol": "WFRD",
+      "price": 90.66,
+      "gap_pct": 8.81,
+      "premarket_volume": 374513,
       "is_premarket_data": false,
-      "catalyst": "Michaels CEO breaks down the retailer's value playbook",
+      "catalyst": "3 Cash-Producing Stocks with Open Questions",
       "headlines": [
-        "Michaels CEO breaks down the retailer's value playbook",
-        "Hasbro Q2 Earnings Call Highlights"
+        "3 Cash-Producing Stocks with Open Questions",
+        "Weatherford (WFRD) Q2 Earnings Lag Estimates"
       ]
     },
     {
       "rank": 7,
-      "symbol": "NBIS",
-      "price": 199.33,
-      "gap_pct": 9.15,
-      "premarket_volume": 5468227,
+      "symbol": "SKM",
+      "price": 34.42,
+      "gap_pct": 7.74,
+      "premarket_volume": 504533,
       "is_premarket_data": false,
-      "catalyst": "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive",
+      "catalyst": "SK Telecom (SKM) Announces Plan for 15GW AI Data Center Capacity",
       "headlines": [
-        "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive",
-        "NVIDIA reports 9.3% beneficial ownership of Nebius through shares and warrant"
+        "SK Telecom (SKM) Announces Plan for 15GW AI Data Center Capacity",
+        "Is NVIDIA (NVDA) One of the Top High-Conviction Stocks to Buy According to Hedge Funds?"
       ]
     },
     {
       "rank": 8,
-      "symbol": "OUST",
-      "price": 37.9,
-      "gap_pct": 9.03,
-      "premarket_volume": 1083746,
+      "symbol": "NG",
+      "price": 6.04,
+      "gap_pct": 7.37,
+      "premarket_volume": 1712944,
       "is_premarket_data": false,
-      "catalyst": "Vicor (VICR) Surpasses Q2 Earnings and Revenue Estimates",
+      "catalyst": "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
       "headlines": [
-        "Vicor (VICR) Surpasses Q2 Earnings and Revenue Estimates",
-        "Why Ouster, Inc. (OUST) Dipped More Than Broader Market Today"
+        "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
+        "NovaGold Q2 2026 Earnings Call Focuses on Donlin Progress"
       ]
     },
     {
       "rank": 9,
-      "symbol": "TER",
-      "price": 363.35,
-      "gap_pct": 8.87,
-      "premarket_volume": 626403,
+      "symbol": "CME",
+      "price": 253.84,
+      "gap_pct": 6.93,
+      "premarket_volume": 698132,
       "is_premarket_data": false,
-      "catalyst": "3 S&P 500 Stocks We Think Twice About",
+      "catalyst": "CME Group Q2 Earnings Call Highlights",
       "headlines": [
-        "3 S&P 500 Stocks We Think Twice About",
-        "4 AI Semiconductor Supply-Chain Stocks to Buy on the Recent Dip"
+        "CME Group Q2 Earnings Call Highlights",
+        "CME Group shares edge higher after second-quarter earnings beat expectations (NASDAQ:CME)"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CBRS",
-      "price": 192.53,
-      "gap_pct": 8.85,
-      "premarket_volume": 1196661,
+      "symbol": "OGC",
+      "price": 25.06,
+      "gap_pct": 6.68,
+      "premarket_volume": 72283,
       "is_premarket_data": false,
-      "catalyst": "Trading in Pre-IPO Companies Is Suddenly Big Business. Here's Why Hyperliquid Could Be the Biggest Winner.",
+      "catalyst": "OceanaGold (TSX:OGC) Valuation Check After Recent Share Price Weakness",
       "headlines": [
-        "Trading in Pre-IPO Companies Is Suddenly Big Business. Here's Why Hyperliquid Could Be the Biggest Winner.",
-        "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model"
+        "OceanaGold (TSX:OGC) Valuation Check After Recent Share Price Weakness",
+        "RBC Capital Markets Maintains OceanaGold's Outperform Rating, C$78 Price Target"
       ]
     }
   ]
