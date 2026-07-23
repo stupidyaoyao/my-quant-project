@@ -38,11 +38,7 @@
     "position_fraction": 0.18285079928952044
   },
   "INTC": {
-    "in_position": true,
-    "entry_price": 109.83999633789062,
-    "entry_date": "2026-07-10",
-    "highest_since_entry": 109.83999633789062,
-    "position_fraction": 0.0732790055734208
+    "in_position": false
   },
   "NVDA": {
     "in_position": false
@@ -62,7 +58,11 @@
     "position_fraction": 0.13253686302670042
   },
   "AAL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 13.561777805328369,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 13.555000305175781,
+    "position_fraction": 0.12194055378552596
   },
   "PATH": {
     "in_position": true,
@@ -335,6 +335,35 @@
     "in_position": false
   },
   "SMR": {
+    "in_position": false
+  },
+  "HBAN": {
+    "in_position": true,
+    "entry_price": 17.408699618339536,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 17.399999618530273,
+    "position_fraction": 0.2704412448848868
+  },
+  "CLF": {
+    "in_position": false
+  },
+  "GOOGL": {
+    "in_position": false
+  },
+  "QS": {
+    "in_position": false
+  },
+  "NOW": {
+    "in_position": true,
+    "entry_price": 91.98597244262695,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 91.94000244140625,
+    "position_fraction": 0.099049754744027
+  },
+  "ACI": {
+    "in_position": false
+  },
+  "CMCSA": {
     "in_position": false
   }
 }
