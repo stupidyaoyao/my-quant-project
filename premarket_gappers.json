@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-22 14:15:46",
+  "scanned_at": "2026-07-23 14:23:41",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ARWR",
-      "price": 94.44,
-      "gap_pct": 26.74,
-      "premarket_volume": 2313709,
+      "symbol": "NVCR",
+      "price": 19.47,
+      "gap_pct": 25.05,
+      "premarket_volume": 2566522,
       "is_premarket_data": false,
-      "catalyst": "Why Arrowhead Shot Sky-High, While Chief Rival Ionis Toppled",
+      "catalyst": "NovoCure Q2 Earnings Call Highlights",
       "headlines": [
-        "Why Arrowhead Shot Sky-High, While Chief Rival Ionis Toppled",
-        "ARWR Stock On Track To Hit Over 5-Year Highs – Retail Cheers Phase 3 Breakthrough As Arrowhead Targets Broader FDA Approval"
+        "NovoCure Q2 Earnings Call Highlights",
+        "NovoCure (NVCR) Reports Q2 Loss, Beats Revenue Estimates"
       ]
     },
     {
       "rank": 2,
-      "symbol": "SMCI",
-      "price": 31.17,
-      "gap_pct": 22.24,
-      "premarket_volume": 62502109,
+      "symbol": "CLF",
+      "price": 11.24,
+      "gap_pct": 18.94,
+      "premarket_volume": 16850853,
       "is_premarket_data": false,
-      "catalyst": "Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",
+      "catalyst": "Cleveland-Cliffs shares jump as upbeat third-quarter forecast outweighs earnings miss (NYSE:CLF)",
       "headlines": [
-        "Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",
-        "Supermicro stock jumps on gross margin raise amid record $60 billion backlog"
+        "Cleveland-Cliffs shares jump as upbeat third-quarter forecast outweighs earnings miss (NYSE:CLF)",
+        "Cleveland-Cliffs Revenue Up on Continued Steel Demand"
       ]
     },
     {
       "rank": 3,
-      "symbol": "PAG",
-      "price": 216.48,
-      "gap_pct": 10.91,
-      "premarket_volume": 520268,
+      "symbol": "MEDP",
+      "price": 613.23,
+      "gap_pct": 16.11,
+      "premarket_volume": 365886,
       "is_premarket_data": false,
-      "catalyst": "3 Reasons to Sell PAG and 1 Stock to Buy Instead",
+      "catalyst": "Medpace Notches A Big Bookings Beat, And Reverses Its First-Quarter Malaise",
       "headlines": [
-        "3 Reasons to Sell PAG and 1 Stock to Buy Instead",
-        "Penske Automotive Group (PAG) Stock Trades Up, Here Is Why"
+        "Medpace Notches A Big Bookings Beat, And Reverses Its First-Quarter Malaise",
+        "The 'Standout Performance' That Could Save Thermo Fisher, Danaher And Others"
       ]
     },
     {
       "rank": 4,
-      "symbol": "WAB",
-      "price": 291.54,
-      "gap_pct": 10.63,
-      "premarket_volume": 480036,
+      "symbol": "URI",
+      "price": 1159.17,
+      "gap_pct": 11.99,
+      "premarket_volume": 328170,
       "is_premarket_data": false,
-      "catalyst": "Wabtec shares edge higher after second-quarter earnings beat and raised full-year outlook (NYSE:WAB)",
+      "catalyst": "S&P 500 Earnings: URI Flashes Buy Signal As Google Hikes Capex",
       "headlines": [
-        "Wabtec shares edge higher after second-quarter earnings beat and raised full-year outlook (NYSE:WAB)",
-        "Westinghouse Air Brake Technologies (WAB) Q2 Earnings and Revenues Surpass Estimates"
+        "S&P 500 Earnings: URI Flashes Buy Signal As Google Hikes Capex",
+        "This Boom Is for the AI-Anxious. 10 Ways to Cash In."
       ]
     },
     {
       "rank": 5,
-      "symbol": "DELL",
-      "price": 443.38,
-      "gap_pct": 9.71,
-      "premarket_volume": 2095158,
+      "symbol": "ALLE",
+      "price": 156.56,
+      "gap_pct": 11.88,
+      "premarket_volume": 873765,
       "is_premarket_data": false,
-      "catalyst": "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
+      "catalyst": "Allegion Q2 Earnings Call Highlights",
       "headlines": [
-        "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
-        "Super Micro Jumps 13% on Record $60B Order Backlog; Dell, HPE Rally on AI Server Read-Through"
+        "Allegion Q2 Earnings Call Highlights",
+        "Allegion raises full-year outlook after strong second-quarter earnings (NYSE:ALLE)"
       ]
     },
     {
       "rank": 6,
-      "symbol": "WFRD",
-      "price": 90.66,
-      "gap_pct": 8.81,
-      "premarket_volume": 374513,
+      "symbol": "IMAX",
+      "price": 43.77,
+      "gap_pct": 11.37,
+      "premarket_volume": 1592505,
       "is_premarket_data": false,
-      "catalyst": "3 Cash-Producing Stocks with Open Questions",
+      "catalyst": "IMAX (NYSE:IMAX) Delivers Impressive Q2 CY2026, Stock Soars",
       "headlines": [
-        "3 Cash-Producing Stocks with Open Questions",
-        "Weatherford (WFRD) Q2 Earnings Lag Estimates"
+        "IMAX (NYSE:IMAX) Delivers Impressive Q2 CY2026, Stock Soars",
+        "IMAX Stock Crests Buy Point On Pre-'Odyssey' Earnings Surge"
       ]
     },
     {
       "rank": 7,
-      "symbol": "SKM",
-      "price": 34.42,
-      "gap_pct": 7.74,
-      "premarket_volume": 504533,
+      "symbol": "LMT",
+      "price": 572.33,
+      "gap_pct": 11.27,
+      "premarket_volume": 1069293,
       "is_premarket_data": false,
-      "catalyst": "SK Telecom (SKM) Announces Plan for 15GW AI Data Center Capacity",
+      "catalyst": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
       "headlines": [
-        "SK Telecom (SKM) Announces Plan for 15GW AI Data Center Capacity",
-        "Is NVIDIA (NVDA) One of the Top High-Conviction Stocks to Buy According to Hedge Funds?"
+        "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
+        "Stocks to Watch: Alphabet, Tesla, Nestle, Intel"
       ]
     },
     {
       "rank": 8,
-      "symbol": "NG",
-      "price": 6.04,
-      "gap_pct": 7.37,
-      "premarket_volume": 1712944,
+      "symbol": "DGX",
+      "price": 231.7,
+      "gap_pct": 10.42,
+      "premarket_volume": 1234289,
       "is_premarket_data": false,
-      "catalyst": "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
+      "catalyst": "Quest Diagnostics Surges After Hims- And Oura-Tied Beat",
       "headlines": [
-        "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
-        "NovaGold Q2 2026 Earnings Call Focuses on Donlin Progress"
+        "Quest Diagnostics Surges After Hims- And Oura-Tied Beat",
+        "Quest’s (NYSE:DGX) Q2 CY2026: Beats On Revenue, Stock Soars"
       ]
     },
     {
       "rank": 9,
-      "symbol": "CME",
-      "price": 253.84,
-      "gap_pct": 6.93,
-      "premarket_volume": 698132,
+      "symbol": "CCS",
+      "price": 71.01,
+      "gap_pct": 10.04,
+      "premarket_volume": 155736,
       "is_premarket_data": false,
-      "catalyst": "CME Group Q2 Earnings Call Highlights",
+      "catalyst": "Century Communities Inc (CCS) Q2 2026 Earnings Call Highlights: Strong Growth Amid Challenges",
       "headlines": [
-        "CME Group Q2 Earnings Call Highlights",
-        "CME Group shares edge higher after second-quarter earnings beat expectations (NASDAQ:CME)"
+        "Century Communities Inc (CCS) Q2 2026 Earnings Call Highlights: Strong Growth Amid Challenges",
+        "Century Communities Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 10,
-      "symbol": "OGC",
-      "price": 25.06,
-      "gap_pct": 6.68,
-      "premarket_volume": 72283,
+      "symbol": "KALU",
+      "price": 180.04,
+      "gap_pct": 9.57,
+      "premarket_volume": 102526,
       "is_premarket_data": false,
-      "catalyst": "OceanaGold (TSX:OGC) Valuation Check After Recent Share Price Weakness",
+      "catalyst": "Kaiser Aluminum (KALU) Beats Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "OceanaGold (TSX:OGC) Valuation Check After Recent Share Price Weakness",
-        "RBC Capital Markets Maintains OceanaGold's Outperform Rating, C$78 Price Target"
+        "Kaiser Aluminum (KALU) Beats Q2 Earnings and Revenue Estimates",
+        "Trump Signs Orders On Aluminum And Defense Supply Chains — AA, KALU, CENX, MP Stocks In Focus"
       ]
     }
   ]
