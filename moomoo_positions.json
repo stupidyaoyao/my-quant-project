@@ -1,0 +1,49 @@
+{
+  "synced_at": "2026-07-25 00:50:10",
+  "simulate": {
+    "net_assets": 990423.114,
+    "today_pl": 0.0,
+    "positions": [
+      {
+        "code": "US.QQQ",
+        "name": "Invesco QQQ Trust",
+        "qty": 1898.0,
+        "cost_price": 695.027,
+        "current_price": 688.83,
+        "market_value": 1307399.34,
+        "pl": -11761.906,
+        "pl_ratio": -0.8916200377827048
+      },
+      {
+        "code": "US.INTC",
+        "name": "Intel",
+        "qty": 740.0,
+        "cost_price": 92.10999999999999,
+        "current_price": 95.945,
+        "market_value": 70999.3,
+        "pl": 2837.9,
+        "pl_ratio": 4.163500162848768
+      },
+      {
+        "code": "US.AAPL",
+        "name": "Apple",
+        "qty": 839.0,
+        "cost_price": 333.06,
+        "current_price": 333.03,
+        "market_value": 279412.17,
+        "pl": -25.17,
+        "pl_ratio": -0.00900738605656638
+      },
+      {
+        "code": "US.NASA",
+        "name": "Tema Space Innovators ETF",
+        "qty": 1.0,
+        "cost_price": 29.12,
+        "current_price": 22.19,
+        "market_value": 22.19,
+        "pl": -6.93,
+        "pl_ratio": -23.798076923076923
+      }
+    ]
+  }
+}
