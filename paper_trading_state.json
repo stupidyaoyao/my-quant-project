@@ -1,7 +1,11 @@
 {
   "in_position": false,
   "BTC-USD": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 64422.858499999995,
+    "entry_date": "2026-07-25",
+    "highest_since_entry": 64358.5,
+    "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
     "in_position": true,
@@ -11,7 +15,11 @@
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 692.3060019836425,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 691.9600219726562,
+    "position_fraction": 0.344626077750224
   },
   "AAPL": {
     "in_position": true,
@@ -93,7 +101,11 @@
     "in_position": false
   },
   "F": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 14.157074618339538,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 14.149999618530273,
+    "position_fraction": 0.23541288108217243
   },
   "BBD": {
     "in_position": true,
@@ -257,7 +269,11 @@
     "in_position": false
   },
   "ARM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 283.1815285491943,
+    "entry_date": "2026-07-23",
+    "highest_since_entry": 283.0400085449219,
+    "position_fraction": 0.08323507975327846
   },
   "ABT": {
     "in_position": true,
@@ -352,6 +368,9 @@
     "in_position": false
   },
   "CMCSA": {
+    "in_position": false
+  },
+  "VZ": {
     "in_position": false
   }
 }
