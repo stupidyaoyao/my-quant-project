@@ -1,0 +1,66 @@
+{
+  "scanned_at": "2026-07-25 18:23:22",
+  "news_count": 30,
+  "candidates": [
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 9,
+      "example_headline": "Review & Preview: An Earnings Week to Forget"
+    },
+    {
+      "symbol": "AMZN",
+      "company_name": "Amazon",
+      "mention_count": 3,
+      "example_headline": "Nasdaq lags on angst over AI spending ahead of earnings reports"
+    },
+    {
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 3,
+      "example_headline": "Nasdaq lags on angst over AI spending ahead of earnings reports"
+    },
+    {
+      "symbol": "DLR",
+      "company_name": "Digital Realty",
+      "mention_count": 3,
+      "example_headline": "Nasdaq lags on angst over AI spending ahead of earnings reports"
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft",
+      "mention_count": 3,
+      "example_headline": "Nasdaq lags on angst over AI spending ahead of earnings reports"
+    },
+    {
+      "symbol": "SLB",
+      "company_name": "Schlumberger",
+      "mention_count": 3,
+      "example_headline": "Nasdaq lags on angst over AI spending ahead of earnings reports"
+    },
+    {
+      "symbol": "VICI",
+      "company_name": "Vici Properties",
+      "mention_count": 3,
+      "example_headline": "VICI Properties Inc. (VICI) Outperforms Broader Market: What You Need to Know"
+    },
+    {
+      "symbol": "HOOD",
+      "company_name": "Robinhood Markets",
+      "mention_count": 2,
+      "example_headline": "Trump's new tariff push has investors rethinking their playbook"
+    },
+    {
+      "symbol": "PSKY",
+      "company_name": "Paramount Skydance Corporation",
+      "mention_count": 2,
+      "example_headline": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus"
+    },
+    {
+      "symbol": "QCOM",
+      "company_name": "Qualcomm",
+      "mention_count": 2,
+      "example_headline": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus"
+    }
+  ]
+}

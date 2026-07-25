@@ -403,6 +403,41 @@ def render_news():
             unsafe_allow_html=True,
         )
 
+# ---------- 均線策略模擬：新聞選股 ----------
+def render_news_driven():
+    st.title("新聞選股候選")
+    st.caption("跟盤前掃描相反：先掃大盤新聞，不管股價現在有沒有動，找出今天被財經新聞提到最多次的S&P500公司")
+
+    DATA_FILE = "news_driven_candidates.json"
+    if not os.path.exists(DATA_FILE):
+        st.warning("還沒有掃描資料，請先執行 python news_driven_scanner.py 產生資料")
+        return
+
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    st.caption(f"掃描時間：{data.get('scanned_at', '未知時間')}，共比對 {data.get('news_count', 0)} 則新聞")
+    candidates = data.get("candidates", [])
+    if not candidates:
+        st.info("今天沒有比對到任何S&P500公司被新聞提及")
+        return
+
+    for c in candidates:
+        col1, col2 = st.columns([1, 4])
+        with col1:
+            st.markdown(
+                f"""<div style="border:2px solid #6366f1;border-radius:10px;padding:12px;
+                background-color:rgba(99,102,241,0.10);text-align:center;">
+                <b style="font-size:1.2em;">{c['symbol']}</b><br>
+                <span style="color:#6366f1;font-weight:bold;">被提到 {c['mention_count']} 次</span>
+                </div>""",
+                unsafe_allow_html=True,
+            )
+        with col2:
+            st.markdown(f"**{c.get('company_name') or c['symbol']}**")
+            st.markdown(f"**範例新聞**：{c.get('example_headline') or '無'}")
+        st.divider()
+
 # ---------- 均線策略模擬：報酬率追蹤 ----------
 def render_returns():
     st.title("報酬率追蹤")
@@ -771,7 +806,7 @@ st.set_page_config(page_title="量化交易模擬儀表板", layout="wide")
 inject_base_css()
 
 NAV_STRUCTURE = {
-    "均線策略模擬": ["總覽", "新聞", "報酬率追蹤", "歷史紀錄"],
+    "均線策略模擬": ["總覽", "新聞", "新聞選股", "報酬率追蹤", "歷史紀錄"],
     "ORB當沖模擬": ["盤前掃描", "ORB當沖監控", "歷史紀錄"],
     "moomoo實際帳戶": ["帳戶持倉"],
 }
@@ -816,6 +851,8 @@ if group == "均線策略模擬":
         render_overview()
     elif sub == "新聞":
         render_news()
+    elif sub == "新聞選股":
+        render_news_driven()
     elif sub == "報酬率追蹤":
         render_returns()
     elif sub == "歷史紀錄":
