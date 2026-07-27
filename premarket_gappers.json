@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-24 14:06:22",
+  "scanned_at": "2026-07-27 14:53:38",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "RNG",
-      "price": 48.03,
-      "gap_pct": 24.46,
-      "premarket_volume": 1737065,
+      "symbol": "BMNR",
+      "price": 17.48,
+      "gap_pct": 10.7,
+      "premarket_volume": 23646532,
       "is_premarket_data": false,
-      "catalyst": "RingCentral Inc (RNG) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and AI Expansion ...",
+      "catalyst": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
       "headlines": [
-        "RingCentral Inc (RNG) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and AI Expansion ...",
-        "RingCentral Q2 Earnings Call Highlights"
+        "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
+        "Bitmine Buys Another 10,000 Ethereum"
       ]
     },
     {
       "rank": 2,
-      "symbol": "THC",
-      "price": 243.54,
-      "gap_pct": 22.37,
-      "premarket_volume": 918033,
+      "symbol": "IONQ",
+      "price": 35.78,
+      "gap_pct": 8.96,
+      "premarket_volume": 12287251,
       "is_premarket_data": false,
-      "catalyst": "Tenet Healthcare shares jump after second-quarter earnings and guidance top forecasts",
+      "catalyst": "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc.",
       "headlines": [
-        "Tenet Healthcare shares jump after second-quarter earnings and guidance top forecasts",
-        "Compared to Estimates, Tenet (THC) Q2 Earnings: A Look at Key Metrics"
+        "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc.",
+        "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls"
       ]
     },
     {
       "rank": 3,
-      "symbol": "WKC",
-      "price": 40.81,
-      "gap_pct": 12.52,
-      "premarket_volume": 726335,
+      "symbol": "RGTI",
+      "price": 15.39,
+      "gap_pct": 8.8,
+      "premarket_volume": 14079330,
       "is_premarket_data": false,
-      "catalyst": "World Kinect Corp (WKC) Q2 2026 Earnings Call Highlights: Record Profits and Raised Guidance ...",
+      "catalyst": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
       "headlines": [
-        "World Kinect Corp (WKC) Q2 2026 Earnings Call Highlights: Record Profits and Raised Guidance ...",
-        "World Kinect Q2 Earnings Call Highlights"
+        "D-Wave leads quantum stocks higher as AT&T expands computing deal",
+        "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc."
       ]
     },
     {
       "rank": 4,
-      "symbol": "SSNC",
-      "price": 73.84,
-      "gap_pct": 10.29,
-      "premarket_volume": 796644,
+      "symbol": "RHI",
+      "price": 38.27,
+      "gap_pct": 8.46,
+      "premarket_volume": 353526,
       "is_premarket_data": false,
-      "catalyst": "SS&C Technologies Holdings Inc (SSNC) Q2 2026 Earnings Call Highlights: Record Revenue and ...",
+      "catalyst": "Robert Half shares gain after BMO upgrades the stock",
       "headlines": [
-        "SS&C Technologies Holdings Inc (SSNC) Q2 2026 Earnings Call Highlights: Record Revenue and ...",
-        "SS&C Technologies (SSNC) Q2 Earnings and Revenues Surpass Estimates"
+        "Robert Half shares gain after BMO upgrades the stock",
+        "Robert Half (RHI) Falls On Earnings And Guidance But Is The Valuation Now Compelling"
       ]
     },
     {
       "rank": 5,
-      "symbol": "ENVA",
-      "price": 237.28,
-      "gap_pct": 9.03,
-      "premarket_volume": 159887,
+      "symbol": "JBS",
+      "price": 13.28,
+      "gap_pct": 8.15,
+      "premarket_volume": 3170067,
       "is_premarket_data": false,
-      "catalyst": "Enova International Inc (ENVA) Q2 2026 Earnings Call Highlights: Strong Growth and Strategic Moves",
+      "catalyst": "Wall Street Analysts Predict a 59.35% Upside in JBS N.V. (JBS): Here's  What You Should Know",
       "headlines": [
-        "Enova International Inc (ENVA) Q2 2026 Earnings Call Highlights: Strong Growth and Strategic Moves",
-        "Enova International Q2 Earnings Call Highlights"
+        "Wall Street Analysts Predict a 59.35% Upside in JBS N.V. (JBS): Here's  What You Should Know",
+        "Can New Products Drive Mama's Creations' Next Growth Wave?"
       ]
     },
     {
       "rank": 6,
-      "symbol": "SLB",
-      "price": 50.98,
-      "gap_pct": 7.95,
-      "premarket_volume": 5997571,
+      "symbol": "PEGA",
+      "price": 28.96,
+      "gap_pct": 7.98,
+      "premarket_volume": 776112,
       "is_premarket_data": false,
-      "catalyst": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
+      "catalyst": "Is PATH Broken, Or Just Violently Marked Down?",
       "headlines": [
-        "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
-        "Sector Update: Energy Stocks Decline Pre-Bell Friday"
+        "Is PATH Broken, Or Just Violently Marked Down?",
+        "ServiceNow’s quiet $1B cybersecurity boom"
       ]
     },
     {
       "rank": 7,
-      "symbol": "MBLY",
-      "price": 8.04,
-      "gap_pct": 7.63,
-      "premarket_volume": 2205755,
+      "symbol": "WDAY",
+      "price": 145.86,
+      "gap_pct": 7.77,
+      "premarket_volume": 1544704,
       "is_premarket_data": false,
-      "catalyst": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "catalyst": "Stock Market Today: Dow Rallies On U.S.-Iran War Pause; Software Players Surge As Oil Prices Skid (Live Coverage)",
       "headlines": [
-        "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-        "Mobileye Global Inc (MBLY) Q2 2026 Earnings Call Highlights: Strong Profit Growth Amid Flat Revenue"
+        "Stock Market Today: Dow Rallies On U.S.-Iran War Pause; Software Players Surge As Oil Prices Skid (Live Coverage)",
+        "Dow Jones and Nasdaq make solid start to 'massive week' as oil tumbles"
       ]
     },
     {
       "rank": 8,
-      "symbol": "SKYW",
-      "price": 103.08,
-      "gap_pct": 7.1,
-      "premarket_volume": 57523,
+      "symbol": "HUBS",
+      "price": 220.73,
+      "gap_pct": 7.73,
+      "premarket_volume": 327131,
       "is_premarket_data": false,
-      "catalyst": "SkyWest Inc (SKYW) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and Strategic Fleet ...",
+      "catalyst": "2 Cash-Producing Stocks to Target This Week and 1 We Turn Down",
       "headlines": [
-        "SkyWest Inc (SKYW) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and Strategic Fleet ...",
-        "SkyWest Q2 Earnings Call Highlights"
+        "2 Cash-Producing Stocks to Target This Week and 1 We Turn Down",
+        "HubSpot (HUBS) Stock Still Looks Overvalued As AI Agent Tools Launch"
       ]
     },
     {
       "rank": 9,
-      "symbol": "FAF",
-      "price": 73.36,
-      "gap_pct": 6.37,
-      "premarket_volume": 82185,
+      "symbol": "W",
+      "price": 90.66,
+      "gap_pct": 7.7,
+      "premarket_volume": 812359,
       "is_premarket_data": false,
-      "catalyst": "First American Financial Corp (FAF) Q2 2026 Earnings Call Highlights: Record Commercial Revenue ...",
+      "catalyst": "Weak housing market hurts big and bulky last-mile delivery",
       "headlines": [
-        "First American Financial Corp (FAF) Q2 2026 Earnings Call Highlights: Record Commercial Revenue ...",
-        "First American Financial Q2 Earnings Call Highlights"
+        "Weak housing market hurts big and bulky last-mile delivery",
+        "Zacks.com featured highlights include Wayfair, United Natural Foods, WD40, Natural Gas Services Group and GormanRupp"
       ]
     },
     {
       "rank": 10,
-      "symbol": "EQIX",
-      "price": 1096.74,
-      "gap_pct": 6.11,
-      "premarket_volume": 105111,
+      "symbol": "TEAM",
+      "price": 93.48,
+      "gap_pct": 7.6,
+      "premarket_volume": 1332241,
       "is_premarket_data": false,
-      "catalyst": "Equinix to Post Q2 Earnings: What's in Store for the Stock?",
+      "catalyst": "Zacks Investment Ideas feature highlights: Salesforce, Atlassian and Workday",
       "headlines": [
-        "Equinix to Post Q2 Earnings: What's in Store for the Stock?",
-        "Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?"
+        "Zacks Investment Ideas feature highlights: Salesforce, Atlassian and Workday",
+        "3 Reasons Investors Love Atlassian (TEAM)"
       ]
     }
   ]
