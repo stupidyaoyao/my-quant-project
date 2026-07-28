@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-27 14:53:38",
+  "scanned_at": "2026-07-28 14:27:51",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "BMNR",
-      "price": 17.48,
-      "gap_pct": 10.7,
-      "premarket_volume": 23646532,
+      "symbol": "KNSA",
+      "price": 77.72,
+      "gap_pct": 22.32,
+      "premarket_volume": 661794,
       "is_premarket_data": false,
-      "catalyst": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
+      "catalyst": "Kiniksa Pharmaceuticals International Q2 Earnings Call Highlights",
       "headlines": [
-        "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
-        "Bitmine Buys Another 10,000 Ethereum"
+        "Kiniksa Pharmaceuticals International Q2 Earnings Call Highlights",
+        "Kiniksa Pharmaceuticals International, plc (KNSA) Q2 Earnings Match Estimates"
       ]
     },
     {
       "rank": 2,
-      "symbol": "IONQ",
-      "price": 35.78,
-      "gap_pct": 8.96,
-      "premarket_volume": 12287251,
+      "symbol": "ITRI",
+      "price": 103.64,
+      "gap_pct": 22.25,
+      "premarket_volume": 1074073,
       "is_premarket_data": false,
-      "catalyst": "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc.",
+      "catalyst": "Itron (NASDAQ:ITRI) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
       "headlines": [
-        "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc.",
-        "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls"
+        "Itron (NASDAQ:ITRI) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
+        "Itron (ITRI) To Report Earnings Tomorrow: Here Is What To Expect"
       ]
     },
     {
       "rank": 3,
-      "symbol": "RGTI",
-      "price": 15.39,
-      "gap_pct": 8.8,
-      "premarket_volume": 14079330,
+      "symbol": "RGEN",
+      "price": 150.09,
+      "gap_pct": 14.52,
+      "premarket_volume": 655806,
       "is_premarket_data": false,
-      "catalyst": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
+      "catalyst": "Repligen (RGEN) Beats Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "D-Wave leads quantum stocks higher as AT&T expands computing deal",
-        "D-Wave Quantum Rises 7% on Expanded AT&T Deal, Lifting IonQ, Rigetti, Quantum Computing Inc."
+        "Repligen (RGEN) Beats Q2 Earnings and Revenue Estimates",
+        "Repligen (NASDAQ:RGEN) Posts Better-Than-Expected Sales In Q2 CY2026"
       ]
     },
     {
       "rank": 4,
-      "symbol": "RHI",
-      "price": 38.27,
-      "gap_pct": 8.46,
-      "premarket_volume": 353526,
+      "symbol": "IQV",
+      "price": 242.86,
+      "gap_pct": 13.9,
+      "premarket_volume": 1473934,
       "is_premarket_data": false,
-      "catalyst": "Robert Half shares gain after BMO upgrades the stock",
+      "catalyst": "IQVIA Holdings (IQV) Q2 Earnings and Revenues Beat Estimates",
       "headlines": [
-        "Robert Half shares gain after BMO upgrades the stock",
-        "Robert Half (RHI) Falls On Earnings And Guidance But Is The Valuation Now Compelling"
+        "IQVIA Holdings (IQV) Q2 Earnings and Revenues Beat Estimates",
+        "IQVIA’s (NYSE:IQV) Q2 CY2026 Sales Top Estimates, Stock Soars"
       ]
     },
     {
       "rank": 5,
-      "symbol": "JBS",
-      "price": 13.28,
-      "gap_pct": 8.15,
-      "premarket_volume": 3170067,
+      "symbol": "AWI",
+      "price": 184.61,
+      "gap_pct": 11.74,
+      "premarket_volume": 369368,
       "is_premarket_data": false,
-      "catalyst": "Wall Street Analysts Predict a 59.35% Upside in JBS N.V. (JBS): Here's  What You Should Know",
+      "catalyst": "Armstrong World Industries (AWI) Surpasses Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "Wall Street Analysts Predict a 59.35% Upside in JBS N.V. (JBS): Here's  What You Should Know",
-        "Can New Products Drive Mama's Creations' Next Growth Wave?"
+        "Armstrong World Industries (AWI) Surpasses Q2 Earnings and Revenue Estimates",
+        "Armstrong World’s (NYSE:AWI) Q2 CY2026: Beats On Revenue, Full-Year Outlook Slightly Exceeds Expectations"
       ]
     },
     {
       "rank": 6,
-      "symbol": "PEGA",
-      "price": 28.96,
-      "gap_pct": 7.98,
-      "premarket_volume": 776112,
+      "symbol": "TRU",
+      "price": 85.67,
+      "gap_pct": 10.91,
+      "premarket_volume": 1626626,
       "is_premarket_data": false,
-      "catalyst": "Is PATH Broken, Or Just Violently Marked Down?",
+      "catalyst": "TransUnion Tops Second-Quarter Expectations and Increases Full-Year Forecast",
       "headlines": [
-        "Is PATH Broken, Or Just Violently Marked Down?",
-        "ServiceNow’s quiet $1B cybersecurity boom"
+        "TransUnion Tops Second-Quarter Expectations and Increases Full-Year Forecast",
+        "TransUnion (TRU) Beats Q2 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 7,
-      "symbol": "WDAY",
-      "price": 145.86,
-      "gap_pct": 7.77,
-      "premarket_volume": 1544704,
+      "symbol": "UL",
+      "price": 66.75,
+      "gap_pct": 8.76,
+      "premarket_volume": 2467081,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Dow Rallies On U.S.-Iran War Pause; Software Players Surge As Oil Prices Skid (Live Coverage)",
+      "catalyst": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
       "headlines": [
-        "Stock Market Today: Dow Rallies On U.S.-Iran War Pause; Software Players Surge As Oil Prices Skid (Live Coverage)",
-        "Dow Jones and Nasdaq make solid start to 'massive week' as oil tumbles"
+        "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
+        "Stocks to Watch: SK Hynix, Mercedes-Benz, Coca-Cola, J&J"
       ]
     },
     {
       "rank": 8,
-      "symbol": "HUBS",
-      "price": 220.73,
-      "gap_pct": 7.73,
-      "premarket_volume": 327131,
+      "symbol": "SHW",
+      "price": 354.07,
+      "gap_pct": 8.19,
+      "premarket_volume": 1069120,
       "is_premarket_data": false,
-      "catalyst": "2 Cash-Producing Stocks to Target This Week and 1 We Turn Down",
+      "catalyst": "Sherwin-Williams Shares Jump After Earnings Beat and Higher Full-Year Outlook",
       "headlines": [
-        "2 Cash-Producing Stocks to Target This Week and 1 We Turn Down",
-        "HubSpot (HUBS) Stock Still Looks Overvalued As AI Agent Tools Launch"
+        "Sherwin-Williams Shares Jump After Earnings Beat and Higher Full-Year Outlook",
+        "Sherwin-Williams (SHW) Q2 Earnings and Revenues Beat Estimates"
       ]
     },
     {
       "rank": 9,
-      "symbol": "W",
-      "price": 90.66,
-      "gap_pct": 7.7,
-      "premarket_volume": 812359,
+      "symbol": "SOLV",
+      "price": 86.93,
+      "gap_pct": 8.03,
+      "premarket_volume": 581712,
       "is_premarket_data": false,
-      "catalyst": "Weak housing market hurts big and bulky last-mile delivery",
+      "catalyst": "3 Reasons SOLV is Risky and 1 Stock to Buy Instead",
       "headlines": [
-        "Weak housing market hurts big and bulky last-mile delivery",
-        "Zacks.com featured highlights include Wayfair, United Natural Foods, WD40, Natural Gas Services Group and GormanRupp"
+        "3 Reasons SOLV is Risky and 1 Stock to Buy Instead",
+        "Here's Why You Should Hold Solventum Stock in Your Portfolio for Now"
       ]
     },
     {
       "rank": 10,
-      "symbol": "TEAM",
-      "price": 93.48,
-      "gap_pct": 7.6,
-      "premarket_volume": 1332241,
+      "symbol": "ICLR",
+      "price": 181.84,
+      "gap_pct": 7.73,
+      "premarket_volume": 396321,
       "is_premarket_data": false,
-      "catalyst": "Zacks Investment Ideas feature highlights: Salesforce, Atlassian and Workday",
+      "catalyst": "Icon PLC (ICLR) Up 5.8% Since Last Earnings Report: Can It Continue?",
       "headlines": [
-        "Zacks Investment Ideas feature highlights: Salesforce, Atlassian and Workday",
-        "3 Reasons Investors Love Atlassian (TEAM)"
+        "Icon PLC (ICLR) Up 5.8% Since Last Earnings Report: Can It Continue?",
+        "ICON Plc (ICLR) is Strengthening After Challenges"
       ]
     }
   ]
