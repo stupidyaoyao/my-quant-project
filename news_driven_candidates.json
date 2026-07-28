@@ -1,66 +1,66 @@
 {
-  "scanned_at": "2026-07-27 14:27:19",
+  "scanned_at": "2026-07-28 13:59:57",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
-      "mention_count": 1,
-      "example_headline": "Is AI spending actually a sore spot for Big Tech margins?"
-    },
-    {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 1,
-      "example_headline": "Is AI spending actually a sore spot for Big Tech margins?"
-    },
-    {
-      "symbol": "META",
-      "company_name": "Meta Platforms",
-      "mention_count": 1,
-      "example_headline": "Is AI spending actually a sore spot for Big Tech margins?"
-    },
-    {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
-      "mention_count": 1,
-      "example_headline": "Is AI spending actually a sore spot for Big Tech margins?"
-    },
-    {
-      "symbol": "QCOM",
-      "company_name": "Qualcomm",
-      "mention_count": 1,
-      "example_headline": "Is AI spending actually a sore spot for Big Tech margins?"
-    },
-    {
-      "symbol": "DAL",
-      "company_name": "Delta Air Lines",
-      "mention_count": 1,
-      "example_headline": "Don't Look Now, but Delta Air Lines Stock Is Up Nearly 50% in the Past Year"
-    },
-    {
-      "symbol": "CSCO",
-      "company_name": "Cisco",
-      "mention_count": 1,
-      "example_headline": "What Cisco's Big Run Actually Adds To Your Portfolio"
-    },
-    {
-      "symbol": "AVGO",
-      "company_name": "Broadcom",
-      "mention_count": 1,
-      "example_headline": "The Broadcom Trade Is A Bet On The Market You Already Own, Amplified"
+      "symbol": "ON",
+      "company_name": "ON Semiconductor",
+      "mention_count": 3,
+      "example_headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks"
     },
     {
       "symbol": "GLW",
       "company_name": "Corning Inc.",
       "mention_count": 1,
-      "example_headline": "Corning Incorporated (GLW) Rose on Growing AI Fiber and Optical Demand"
+      "example_headline": "Earnings live: PayPal stock slides amid turnaround, Corning plunges"
     },
     {
-      "symbol": "CRM",
-      "company_name": "Salesforce",
+      "symbol": "PYPL",
+      "company_name": "PayPal",
       "mention_count": 1,
-      "example_headline": "Dow Jones and Nasdaq tipped for strong start, oil tumbles as Iran tensions ease"
+      "example_headline": "Earnings live: PayPal stock slides amid turnaround, Corning plunges"
+    },
+    {
+      "symbol": "CVX",
+      "company_name": "Chevron Corporation",
+      "mention_count": 1,
+      "example_headline": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices"
+    },
+    {
+      "symbol": "LRCX",
+      "company_name": "Lam Research",
+      "mention_count": 1,
+      "example_headline": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending"
+    },
+    {
+      "symbol": "MCD",
+      "company_name": "McDonald's",
+      "mention_count": 1,
+      "example_headline": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment"
+    },
+    {
+      "symbol": "ACN",
+      "company_name": "Accenture",
+      "mention_count": 1,
+      "example_headline": "Accenture (ACN) Faces Growth Concerns"
+    },
+    {
+      "symbol": "T",
+      "company_name": "AT&T",
+      "mention_count": 1,
+      "example_headline": "AT&T (T) Remains Competitive Despite Satellite Connectivity Concerns"
+    },
+    {
+      "symbol": "TEL",
+      "company_name": "TE Connectivity",
+      "mention_count": 1,
+      "example_headline": "AT&T (T) Remains Competitive Despite Satellite Connectivity Concerns"
+    },
+    {
+      "symbol": "TMUS",
+      "company_name": "T-Mobile US",
+      "mention_count": 1,
+      "example_headline": "T-Mobile US (TMUS) Lagged on Emerging Network Competition Concerns"
     }
   ]
 }
