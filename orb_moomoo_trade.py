@@ -211,6 +211,67 @@ def write_heartbeat(message):
         f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {message}\n")
 
 
+def evaluate_exit_condition(ticker_state, current_price, today_str):
+    """
+    判斷一筆已持倉的ORB部位現在該不該出場。
+    回傳 None（續抱）或出場原因字串。
+    ORB是當沖策略，設計上不該跨日持倉，所以除了停損/停利，
+    只要進場日不是今天，也強制出場（避免部位像QQQ那樣被卡住忘記平倉）。
+    """
+    entry_price = ticker_state["entry_price"]
+    stop_price = ticker_state["stop_price"]
+    risk = entry_price - stop_price
+    target_price = entry_price + TAKE_PROFIT_R * risk
+
+    if current_price <= stop_price:
+        return "停損"
+    if current_price >= target_price:
+        return "停利"
+    if ticker_state.get("date") != today_str:
+        return "逾期強制平倉（ORB為當沖策略，不應跨日持倉）"
+    return None
+
+
+def monitor_open_positions(trd_ctx, acc_id, state, today_str):
+    """
+    掃描帳上所有still in_position的ORB部位並檢查出場條件——
+    刻意不只看「今天的watchlist」，因為像QQQ這種被EXCLUDE_TICKERS排除的股票，
+    如果只掃watchlist永遠不會被檢查到，部位會被永久卡住。
+    回傳出場成功的股數，用來讓呼叫端更新position_count。
+    """
+    closed_count = 0
+    for ticker, ticker_state in list(state.items()):
+        if not ticker_state.get("in_position"):
+            continue
+
+        print(f"----- {ticker}（既有持倉，檢查出場條件）-----")
+        try:
+            df_today = fetch_today_data(ticker)
+            if df_today.empty:
+                raise ValueError("抓到的資料是空的")
+            current_price = float(df_today["Close"].iloc[-1])
+        except Exception as e:
+            print(f"⚠️ 出場檢查資料抓取失敗，這次先跳過: {e}\n")
+            continue
+
+        reason = evaluate_exit_condition(ticker_state, current_price, today_str)
+        if reason is None:
+            print(f"持倉中，續抱（目前價格 ${current_price:.2f}）\n")
+            continue
+
+        qty = ticker_state["qty"]
+        print(f"🔴 觸發出場（{reason}），準備賣出 {qty} 股 @ 市價")
+        ret, data = risk_guard.safe_place_order(trd_ctx, acc_id, f"US.{ticker}", qty, "short")
+        if ret == ft.RET_OK:
+            print(f"出場成功\n")
+            state[ticker] = {"date": today_str, "in_position": False}
+            closed_count += 1
+        else:
+            print(f"⚠️ 出場下單失敗: {data}\n")
+
+    return closed_count
+
+
 def main():
     in_window, reason = is_within_trading_window()
     if not in_window:
@@ -234,6 +295,12 @@ def main():
         acc_id, net_assets, position_count, available_cash = get_account_info(trd_ctx)
         print(f"帳戶資產: ${net_assets:,.2f}，可用現金: ${available_cash:,.2f}，目前持倉數: {position_count}\n")
 
+        closed_count = monitor_open_positions(trd_ctx, acc_id, state, today_str)
+        if closed_count:
+            save_state(state)  # 先落地一次，避免下面掃描新進場訊號時萬一出錯，出場結果沒存到
+            acc_id, net_assets, position_count, available_cash = get_account_info(trd_ctx)
+            print(f"出場後帳戶資產: ${net_assets:,.2f}，可用現金: ${available_cash:,.2f}，目前持倉數: {position_count}\n")
+
         for ticker in tickers:
             print(f"----- {ticker} -----")
             ticker_state = state.get(ticker, {})
@@ -242,7 +309,7 @@ def main():
                 ticker_state = {"date": today_str, "in_position": False}
 
             if ticker_state.get("in_position"):
-                print("已持倉中，本程式暫不處理出場（出場交給另一支停損監控程式）\n")
+                print("已持倉中，等待出場條件觸發\n")
                 state[ticker] = ticker_state
                 continue
 

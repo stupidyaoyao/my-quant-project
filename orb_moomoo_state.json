@@ -1,10 +1,7 @@
 {
   "QQQ": {
-    "date": "2026-07-17",
-    "in_position": true,
-    "entry_price": 696.1099853515625,
-    "stop_price": 694.3699951171875,
-    "qty": 1438
+    "date": "2026-07-28",
+    "in_position": false
   },
   "AAPL": {
     "date": "2026-07-17",
@@ -23,7 +20,7 @@
     "in_position": false
   },
   "MAN": {
-    "date": "2026-07-17",
+    "date": "2026-07-20",
     "in_position": false
   },
   "MAAS": {
@@ -31,7 +28,7 @@
     "in_position": false
   },
   "LCID": {
-    "date": "2026-07-17",
+    "date": "2026-07-20",
     "in_position": false
   },
   "RHI": {
@@ -51,15 +48,15 @@
     "in_position": false
   },
   "SLS": {
-    "date": "2026-07-17",
+    "date": "2026-07-20",
     "in_position": false
   },
   "WULF": {
-    "date": "2026-07-17",
+    "date": "2026-07-20",
     "in_position": false
   },
   "IREN": {
-    "date": "2026-07-17",
+    "date": "2026-07-28",
     "in_position": false
   },
   "MRVL": {
@@ -67,11 +64,127 @@
     "in_position": false
   },
   "MARA": {
-    "date": "2026-07-17",
+    "date": "2026-07-28",
     "in_position": false
   },
   "CRWV": {
-    "date": "2026-07-17",
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "MU": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "OPEN": {
+    "date": "2026-07-20",
+    "in_position": false
+  },
+  "ONDS": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "PLUG": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "AMC": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "NOK": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "TRVI": {
+    "date": "2026-07-20",
+    "in_position": false
+  },
+  "VG": {
+    "date": "2026-07-20",
+    "in_position": false
+  },
+  "NVDA": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "SPCX": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "ACHR": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "KEEL": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "CIFR": {
+    "date": "2026-07-20",
+    "in_position": false
+  },
+  "CLSK": {
+    "date": "2026-07-20",
+    "in_position": false
+  },
+  "APLD": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "MBLY": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "SMR": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "IONQ": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "BMNR": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "PATH": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "GLW": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "RNG": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "THC": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "ENVA": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "SKYW": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "PLTR": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "NVTS": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "AMD": {
+    "date": "2026-07-28",
+    "in_position": false
+  },
+  "SNDK": {
+    "date": "2026-07-28",
     "in_position": false
   }
 }

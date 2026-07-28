@@ -1,3 +1,6 @@
 ﻿venv/
+venv_tradingagents/
 __pycache__/
 *.pyc
+.env
+results/
