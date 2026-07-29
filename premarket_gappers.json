@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-28 14:27:51",
+  "scanned_at": "2026-07-29 14:25:50",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "KNSA",
-      "price": 77.72,
-      "gap_pct": 22.32,
-      "premarket_volume": 661794,
+      "symbol": "HURN",
+      "price": 158.28,
+      "gap_pct": 30.41,
+      "premarket_volume": 239138,
       "is_premarket_data": false,
-      "catalyst": "Kiniksa Pharmaceuticals International Q2 Earnings Call Highlights",
+      "catalyst": "Huron Consulting Group Inc (HURN) Q2 2026 Earnings Call Highlights: Record Revenue Growth and ...",
       "headlines": [
-        "Kiniksa Pharmaceuticals International Q2 Earnings Call Highlights",
-        "Kiniksa Pharmaceuticals International, plc (KNSA) Q2 Earnings Match Estimates"
+        "Huron Consulting Group Inc (HURN) Q2 2026 Earnings Call Highlights: Record Revenue Growth and ...",
+        "Huron Consulting Group Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 2,
-      "symbol": "ITRI",
-      "price": 103.64,
-      "gap_pct": 22.25,
-      "premarket_volume": 1074073,
+      "symbol": "MANH",
+      "price": 211.41,
+      "gap_pct": 25.72,
+      "premarket_volume": 661882,
       "is_premarket_data": false,
-      "catalyst": "Itron (NASDAQ:ITRI) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
+      "catalyst": "MANH Q2 Earnings Beat Estimates, Cloud Growth Fuels Revenues",
       "headlines": [
-        "Itron (NASDAQ:ITRI) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
-        "Itron (ITRI) To Report Earnings Tomorrow: Here Is What To Expect"
+        "MANH Q2 Earnings Beat Estimates, Cloud Growth Fuels Revenues",
+        "Manhattan Associates Inc (MANH) Q2 2026 Earnings Call Highlights: Record Growth in Cloud ..."
       ]
     },
     {
       "rank": 3,
-      "symbol": "RGEN",
-      "price": 150.09,
-      "gap_pct": 14.52,
-      "premarket_volume": 655806,
+      "symbol": "GRMN",
+      "price": 296.66,
+      "gap_pct": 16.96,
+      "premarket_volume": 713724,
       "is_premarket_data": false,
-      "catalyst": "Repligen (RGEN) Beats Q2 Earnings and Revenue Estimates",
+      "catalyst": "Garmin (GRMN) Q2 Earnings and Revenues Beat Estimates",
       "headlines": [
-        "Repligen (RGEN) Beats Q2 Earnings and Revenue Estimates",
-        "Repligen (NASDAQ:RGEN) Posts Better-Than-Expected Sales In Q2 CY2026"
+        "Garmin (GRMN) Q2 Earnings and Revenues Beat Estimates",
+        "Garmin Stock Jumps On Second-Quarter Beat, Raised Outlook"
       ]
     },
     {
       "rank": 4,
-      "symbol": "IQV",
-      "price": 242.86,
-      "gap_pct": 13.9,
-      "premarket_volume": 1473934,
+      "symbol": "CBZ",
+      "price": 54.52,
+      "gap_pct": 16.75,
+      "premarket_volume": 8056619,
       "is_premarket_data": false,
-      "catalyst": "IQVIA Holdings (IQV) Q2 Earnings and Revenues Beat Estimates",
+      "catalyst": "Grant Thornton acquires CBIZ in $5 billion cash deal",
       "headlines": [
-        "IQVIA Holdings (IQV) Q2 Earnings and Revenues Beat Estimates",
-        "IQVIA’s (NYSE:IQV) Q2 CY2026 Sales Top Estimates, Stock Soars"
+        "Grant Thornton acquires CBIZ in $5 billion cash deal",
+        "Grant Thornton Advisors to Buy CBIZ for $3 Billion"
       ]
     },
     {
       "rank": 5,
-      "symbol": "AWI",
-      "price": 184.61,
-      "gap_pct": 11.74,
-      "premarket_volume": 369368,
+      "symbol": "NEO",
+      "price": 15.34,
+      "gap_pct": 14.44,
+      "premarket_volume": 1499876,
       "is_premarket_data": false,
-      "catalyst": "Armstrong World Industries (AWI) Surpasses Q2 Earnings and Revenue Estimates",
+      "catalyst": "NeoGenomics Inc (NEO) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and Raised ...",
       "headlines": [
-        "Armstrong World Industries (AWI) Surpasses Q2 Earnings and Revenue Estimates",
-        "Armstrong World’s (NYSE:AWI) Q2 CY2026: Beats On Revenue, Full-Year Outlook Slightly Exceeds Expectations"
+        "NeoGenomics Inc (NEO) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and Raised ...",
+        "NeoGenomics Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 6,
-      "symbol": "TRU",
-      "price": 85.67,
-      "gap_pct": 10.91,
-      "premarket_volume": 1626626,
+      "symbol": "EXLS",
+      "price": 34.74,
+      "gap_pct": 13.81,
+      "premarket_volume": 1019065,
       "is_premarket_data": false,
-      "catalyst": "TransUnion Tops Second-Quarter Expectations and Increases Full-Year Forecast",
+      "catalyst": "ExlService Holdings (EXLS) Tops Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "TransUnion Tops Second-Quarter Expectations and Increases Full-Year Forecast",
-        "TransUnion (TRU) Beats Q2 Earnings and Revenue Estimates"
+        "ExlService Holdings (EXLS) Tops Q2 Earnings and Revenue Estimates",
+        "EXL (NASDAQ:EXLS) Surprises With Strong Q2 CY2026, Full-Year Sales Guidance is Optimistic"
       ]
     },
     {
       "rank": 7,
-      "symbol": "UL",
-      "price": 66.75,
-      "gap_pct": 8.76,
-      "premarket_volume": 2467081,
+      "symbol": "LAD",
+      "price": 407.18,
+      "gap_pct": 13.64,
+      "premarket_volume": 326591,
       "is_premarket_data": false,
-      "catalyst": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
+      "catalyst": "Lithia Motors Shares Jump After Second-Quarter Earnings Beat Expectations",
       "headlines": [
-        "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
-        "Stocks to Watch: SK Hynix, Mercedes-Benz, Coca-Cola, J&J"
+        "Lithia Motors Shares Jump After Second-Quarter Earnings Beat Expectations",
+        "Lithia Motors (LAD) Q2 Earnings and Revenues Top Estimates"
       ]
     },
     {
       "rank": 8,
-      "symbol": "SHW",
-      "price": 354.07,
-      "gap_pct": 8.19,
-      "premarket_volume": 1069120,
+      "symbol": "MBIN",
+      "price": 55.31,
+      "gap_pct": 13.42,
+      "premarket_volume": 92294,
       "is_premarket_data": false,
-      "catalyst": "Sherwin-Williams Shares Jump After Earnings Beat and Higher Full-Year Outlook",
+      "catalyst": "Merchants Bancorp (MBIN) Beat Expectations, Is The Stock Still Undervalued?",
       "headlines": [
-        "Sherwin-Williams Shares Jump After Earnings Beat and Higher Full-Year Outlook",
-        "Sherwin-Williams (SHW) Q2 Earnings and Revenues Beat Estimates"
+        "Merchants Bancorp (MBIN) Beat Expectations, Is The Stock Still Undervalued?",
+        "Merchants Bancorp (MBIN) Q2 Earnings and Revenues Top Estimates"
       ]
     },
     {
       "rank": 9,
-      "symbol": "SOLV",
-      "price": 86.93,
-      "gap_pct": 8.03,
-      "premarket_volume": 581712,
+      "symbol": "AVTR",
+      "price": 13.98,
+      "gap_pct": 12.56,
+      "premarket_volume": 12617160,
       "is_premarket_data": false,
-      "catalyst": "3 Reasons SOLV is Risky and 1 Stock to Buy Instead",
+      "catalyst": "Avantor, Inc. (AVTR) Beats Q2 Earnings and Revenue Estimates",
       "headlines": [
-        "3 Reasons SOLV is Risky and 1 Stock to Buy Instead",
-        "Here's Why You Should Hold Solventum Stock in Your Portfolio for Now"
+        "Avantor, Inc. (AVTR) Beats Q2 Earnings and Revenue Estimates",
+        "Avantor (NYSE:AVTR) Delivers Impressive Q2 CY2026, Stock Soars"
       ]
     },
     {
       "rank": 10,
-      "symbol": "ICLR",
-      "price": 181.84,
-      "gap_pct": 7.73,
-      "premarket_volume": 396321,
+      "symbol": "EDU",
+      "price": 56.78,
+      "gap_pct": 11.8,
+      "premarket_volume": 235330,
       "is_premarket_data": false,
-      "catalyst": "Icon PLC (ICLR) Up 5.8% Since Last Earnings Report: Can It Continue?",
+      "catalyst": "New Oriental Shares Rise Despite Earnings Miss as Revenue Beats Expectations",
       "headlines": [
-        "Icon PLC (ICLR) Up 5.8% Since Last Earnings Report: Can It Continue?",
-        "ICON Plc (ICLR) is Strengthening After Challenges"
+        "New Oriental Shares Rise Despite Earnings Miss as Revenue Beats Expectations",
+        "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading"
       ]
     }
   ]
