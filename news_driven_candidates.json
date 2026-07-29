@@ -1,66 +1,54 @@
 {
-  "scanned_at": "2026-07-28 13:59:57",
+  "scanned_at": "2026-07-29 14:03:56",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "ON",
       "company_name": "ON Semiconductor",
-      "mention_count": 3,
-      "example_headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks"
+      "mention_count": 2,
+      "example_headline": "Dow and Nasdaq stock set for another mixed open ahead of Fed decision"
     },
     {
-      "symbol": "GLW",
-      "company_name": "Corning Inc.",
-      "mention_count": 1,
-      "example_headline": "Earnings live: PayPal stock slides amid turnaround, Corning plunges"
+      "symbol": "CAT",
+      "company_name": "Caterpillar Inc.",
+      "mention_count": 2,
+      "example_headline": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures"
     },
     {
-      "symbol": "PYPL",
-      "company_name": "PayPal",
+      "symbol": "MSFT",
+      "company_name": "Microsoft",
       "mention_count": 1,
-      "example_headline": "Earnings live: PayPal stock slides amid turnaround, Corning plunges"
+      "example_headline": "Microsoft's Earnings Could Reset the AI Trade"
     },
     {
-      "symbol": "CVX",
-      "company_name": "Chevron Corporation",
+      "symbol": "STT",
+      "company_name": "State Street Corporation",
       "mention_count": 1,
-      "example_headline": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices"
+      "example_headline": "State Street vs. First Trust: Is a Broad Healthcare or Biotech Focus Better for Your Portfolio?"
     },
     {
-      "symbol": "LRCX",
-      "company_name": "Lam Research",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending"
+      "example_headline": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures"
     },
     {
-      "symbol": "MCD",
-      "company_name": "McDonald's",
+      "symbol": "GD",
+      "company_name": "General Dynamics",
       "mention_count": 1,
-      "example_headline": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment"
+      "example_headline": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat"
     },
     {
-      "symbol": "ACN",
-      "company_name": "Accenture",
+      "symbol": "BALL",
+      "company_name": "Ball Corporation",
       "mention_count": 1,
-      "example_headline": "Accenture (ACN) Faces Growth Concerns"
+      "example_headline": "Trump Says US Will ‘Hit Iran Hard’ If Negotiations Fail – Stock Futures Fall, Oil Prices Start Climbing Again"
     },
     {
-      "symbol": "T",
-      "company_name": "AT&T",
+      "symbol": "TXN",
+      "company_name": "Texas Instruments",
       "mention_count": 1,
-      "example_headline": "AT&T (T) Remains Competitive Despite Satellite Connectivity Concerns"
-    },
-    {
-      "symbol": "TEL",
-      "company_name": "TE Connectivity",
-      "mention_count": 1,
-      "example_headline": "AT&T (T) Remains Competitive Despite Satellite Connectivity Concerns"
-    },
-    {
-      "symbol": "TMUS",
-      "company_name": "T-Mobile US",
-      "mention_count": 1,
-      "example_headline": "T-Mobile US (TMUS) Lagged on Emerging Network Competition Concerns"
+      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Bloom Energy, Caesars Entertainment, CarMax, Caterpillar, Ford, MPLX LP, Noble, Reddit, Texas Instruments, and More"
     }
   ]
 }
