@@ -1,54 +1,60 @@
 {
-  "scanned_at": "2026-07-29 14:03:56",
+  "scanned_at": "2026-07-30 13:52:50",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "ON",
-      "company_name": "ON Semiconductor",
-      "mention_count": 2,
-      "example_headline": "Dow and Nasdaq stock set for another mixed open ahead of Fed decision"
-    },
-    {
-      "symbol": "CAT",
-      "company_name": "Caterpillar Inc.",
-      "mention_count": 2,
-      "example_headline": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures"
-    },
-    {
       "symbol": "MSFT",
       "company_name": "Microsoft",
-      "mention_count": 1,
-      "example_headline": "Microsoft's Earnings Could Reset the AI Trade"
+      "mention_count": 6,
+      "example_headline": "Wall St opens higher as Microsoft's results temper some AI jitters"
     },
     {
-      "symbol": "STT",
-      "company_name": "State Street Corporation",
-      "mention_count": 1,
-      "example_headline": "State Street vs. First Trust: Is a Broad Healthcare or Biotech Focus Better for Your Portfolio?"
+      "symbol": "NDAQ",
+      "company_name": "Nasdaq, Inc.",
+      "mention_count": 3,
+      "example_headline": "Technology Stocks Set to Lift Wall Street at the Open After Sharp Sell-Off: Dow Jones, S&P, Nasdaq, Futures"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 1,
-      "example_headline": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures"
+      "symbol": "META",
+      "company_name": "Meta Platforms",
+      "mention_count": 3,
+      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
     },
     {
-      "symbol": "GD",
-      "company_name": "General Dynamics",
-      "mention_count": 1,
-      "example_headline": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat"
+      "symbol": "AMZN",
+      "company_name": "Amazon",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
     },
     {
-      "symbol": "BALL",
-      "company_name": "Ball Corporation",
-      "mention_count": 1,
-      "example_headline": "Trump Says US Will ‘Hit Iran Hard’ If Negotiations Fail – Stock Futures Fall, Oil Prices Start Climbing Again"
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
     },
     {
-      "symbol": "TXN",
-      "company_name": "Texas Instruments",
+      "symbol": "FTNT",
+      "company_name": "Fortinet",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+    },
+    {
+      "symbol": "SBUX",
+      "company_name": "Starbucks",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+    },
+    {
+      "symbol": "QCOM",
+      "company_name": "Qualcomm",
       "mention_count": 1,
-      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Bloom Energy, Caesars Entertainment, CarMax, Caterpillar, Ford, MPLX LP, Noble, Reddit, Texas Instruments, and More"
+      "example_headline": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations"
+    },
+    {
+      "symbol": "BMY",
+      "company_name": "Bristol Myers Squibb",
+      "mention_count": 1,
+      "example_headline": "Bristol Myers Raises Earnings Guidance, Stock Falls"
     }
   ]
 }
