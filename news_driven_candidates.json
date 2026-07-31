@@ -1,60 +1,48 @@
 {
-  "scanned_at": "2026-07-30 13:52:50",
+  "scanned_at": "2026-07-31 13:58:45",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
-      "mention_count": 6,
-      "example_headline": "Wall St opens higher as Microsoft's results temper some AI jitters"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
-      "mention_count": 3,
-      "example_headline": "Technology Stocks Set to Lift Wall Street at the Open After Sharp Sell-Off: Dow Jones, S&P, Nasdaq, Futures"
-    },
-    {
-      "symbol": "META",
-      "company_name": "Meta Platforms",
-      "mention_count": 3,
-      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
-    },
-    {
       "symbol": "AMZN",
       "company_name": "Amazon",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+      "mention_count": 15,
+      "example_headline": "Amazon's surging cloud business is growing at a breakneck pace: Chart"
     },
     {
       "symbol": "AAPL",
       "company_name": "Apple Inc.",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+      "mention_count": 13,
+      "example_headline": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)"
     },
     {
-      "symbol": "FTNT",
-      "company_name": "Fortinet",
+      "symbol": "ETN",
+      "company_name": "Eaton Corporation",
       "mention_count": 2,
-      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+      "example_headline": "Eaton Stock Jumps on AI Relief After Earnings Beat"
     },
     {
-      "symbol": "SBUX",
-      "company_name": "Starbucks",
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 2,
-      "example_headline": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar"
+      "example_headline": "Amazon fuels AI optimism; Apple sinks premarket on weak outlook"
     },
     {
-      "symbol": "QCOM",
-      "company_name": "Qualcomm",
+      "symbol": "HOOD",
+      "company_name": "Robinhood Markets",
       "mention_count": 1,
-      "example_headline": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations"
+      "example_headline": "Robinhood wants to become 'the financial super-app': CFO explains"
     },
     {
-      "symbol": "BMY",
-      "company_name": "Bristol Myers Squibb",
+      "symbol": "PEP",
+      "company_name": "PepsiCo",
       "mention_count": 1,
-      "example_headline": "Bristol Myers Raises Earnings Guidance, Stock Falls"
+      "example_headline": "PepsiCo Has Gone Practically Nowhere for a Year. Here's Why That Could Change in the Second Half of 2026."
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft",
+      "mention_count": 1,
+      "example_headline": "Microsoft Stock Just Had Its Best Day Since 2008"
     }
   ]
 }
