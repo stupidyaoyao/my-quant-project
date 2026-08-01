@@ -18,7 +18,11 @@
     "in_position": false
   },
   "AAPL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 309.0644586639404,
+    "entry_date": "2026-07-31",
+    "highest_since_entry": 308.9100036621094,
+    "position_fraction": 0.207975135103483
   },
   "MSFT": {
     "in_position": false
