@@ -1,48 +1,60 @@
 {
-  "scanned_at": "2026-07-31 13:58:45",
+  "scanned_at": "2026-08-03 14:32:45",
   "news_count": 30,
   "candidates": [
     {
+      "symbol": "BA",
+      "company_name": "Boeing",
+      "mention_count": 2,
+      "example_headline": "Boeing Stock Gets Rare Double Upgrade. Why Wall Street’s Excited."
+    },
+    {
+      "symbol": "BAC",
+      "company_name": "Bank of America",
+      "mention_count": 2,
+      "example_headline": "Beat the Market the Zacks Way: Credo, Victoria's Secret, Bank of America in Focus"
+    },
+    {
       "symbol": "AMZN",
       "company_name": "Amazon",
-      "mention_count": 15,
-      "example_headline": "Amazon's surging cloud business is growing at a breakneck pace: Chart"
-    },
-    {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 13,
-      "example_headline": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)"
-    },
-    {
-      "symbol": "ETN",
-      "company_name": "Eaton Corporation",
       "mention_count": 2,
-      "example_headline": "Eaton Stock Jumps on AI Relief After Earnings Beat"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 2,
-      "example_headline": "Amazon fuels AI optimism; Apple sinks premarket on weak outlook"
-    },
-    {
-      "symbol": "HOOD",
-      "company_name": "Robinhood Markets",
-      "mention_count": 1,
-      "example_headline": "Robinhood wants to become 'the financial super-app': CFO explains"
-    },
-    {
-      "symbol": "PEP",
-      "company_name": "PepsiCo",
-      "mention_count": 1,
-      "example_headline": "PepsiCo Has Gone Practically Nowhere for a Year. Here's Why That Could Change in the Second Half of 2026."
+      "example_headline": "Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week"
     },
     {
       "symbol": "MSFT",
       "company_name": "Microsoft",
+      "mention_count": 2,
+      "example_headline": "Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week"
+    },
+    {
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
       "mention_count": 1,
-      "example_headline": "Microsoft Stock Just Had Its Best Day Since 2008"
+      "example_headline": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 1,
+      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+    },
+    {
+      "symbol": "MU",
+      "company_name": "Micron Technology",
+      "mention_count": 1,
+      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+    },
+    {
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 1,
+      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+    },
+    {
+      "symbol": "WDC",
+      "company_name": "Western Digital",
+      "mention_count": 1,
+      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
     }
   ]
 }
