@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-07-31 14:26:02",
+  "scanned_at": "2026-08-03 14:57:30",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AXTI",
-      "price": 59.42,
-      "gap_pct": 26.54,
-      "premarket_volume": 14130719,
+      "symbol": "ATKR",
+      "price": 93.56,
+      "gap_pct": 28.23,
+      "premarket_volume": 4461084,
       "is_premarket_data": false,
-      "catalyst": "AXT Inc (AXTI) (Q2 2026) Earnings Call Highlights: Record Revenue and Profitability Surge on ...",
+      "catalyst": "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
       "headlines": [
-        "AXT Inc (AXTI) (Q2 2026) Earnings Call Highlights: Record Revenue and Profitability Surge on ...",
-        "AXT (AXTI) Q2 2026 Earnings Call Transcript"
+        "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
+        "Atkore (NYSE:ATKR) Reports Upbeat Q2 CY2026, Stock Jumps 27.2%"
       ]
     },
     {
       "rank": 2,
-      "symbol": "IESC",
-      "price": 720.64,
-      "gap_pct": 26.09,
-      "premarket_volume": 113102,
+      "symbol": "CNH",
+      "price": 11.75,
+      "gap_pct": 14.63,
+      "premarket_volume": 13820618,
       "is_premarket_data": false,
-      "catalyst": "Data Center Builder Spikes After Goldman Initiates Coverage At Buy Rating",
+      "catalyst": "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
       "headlines": [
-        "Data Center Builder Spikes After Goldman Initiates Coverage At Buy Rating",
-        "Nvidia’s CEO Just Predicted a New Blue-Collar Millionaire Class. Here Are 5 Stocks Worth Watching."
+        "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
+        "Agco (AGCO) Lags Q2 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 3,
-      "symbol": "NWL",
-      "price": 6.17,
-      "gap_pct": 20.14,
-      "premarket_volume": 21256346,
+      "symbol": "AXTI",
+      "price": 68.91,
+      "gap_pct": 14.02,
+      "premarket_volume": 7742797,
       "is_premarket_data": false,
-      "catalyst": "We Found 5 Hot Summer Bargain Dividend Stocks Trading Under $10 Everyone Knows",
+      "catalyst": "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive",
       "headlines": [
-        "We Found 5 Hot Summer Bargain Dividend Stocks Trading Under $10 Everyone Knows",
-        "Newell Brands Q2 Earnings Call Highlights"
+        "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive",
+        "AXT (AXTI) Is Down 11.3% After Major Indium Phosphide AI Deal And Q2 Earnings Beat"
       ]
     },
     {
       "rank": 4,
-      "symbol": "SPXC",
-      "price": 229.67,
-      "gap_pct": 15.24,
-      "premarket_volume": 207354,
+      "symbol": "FSLR",
+      "price": 239.74,
+      "gap_pct": 13.6,
+      "premarket_volume": 1854855,
       "is_premarket_data": false,
-      "catalyst": "SPX Technologies Inc (SPXC) (Q2 2026) Earnings Call Highlights: Strong Growth and Raised Guidance",
+      "catalyst": "First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y",
       "headlines": [
-        "SPX Technologies Inc (SPXC) (Q2 2026) Earnings Call Highlights: Strong Growth and Raised Guidance",
-        "SPX Technologies (SPXC) Q2 Earnings and Revenues Surpass Estimates"
+        "First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y",
+        "FSLR Q2 Earnings Call Highlights Domestic Solar Push"
       ]
     },
     {
       "rank": 5,
-      "symbol": "AMZN",
-      "price": 268.56,
-      "gap_pct": 14.04,
-      "premarket_volume": 47000194,
+      "symbol": "CRWV",
+      "price": 81.28,
+      "gap_pct": 13.25,
+      "premarket_volume": 15662502,
       "is_premarket_data": false,
-      "catalyst": "Amazon's surging cloud business is growing at a breakneck pace: Chart",
+      "catalyst": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
       "headlines": [
-        "Amazon's surging cloud business is growing at a breakneck pace: Chart",
-        "The AI spending boom is forcing a rethink on stock buybacks: One Big Investment Idea"
+        "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
+        "Price Prediction: CoreWeave Will Trade at This Price in 2027"
       ]
     },
     {
       "rank": 6,
-      "symbol": "BSBR",
-      "price": 5.7,
-      "gap_pct": 12.77,
-      "premarket_volume": 2768177,
+      "symbol": "ALM",
+      "price": 12.49,
+      "gap_pct": 12.93,
+      "premarket_volume": 2572468,
       "is_premarket_data": false,
-      "catalyst": "Santander Brasil (BSBR) Q2 2026 Earnings Call Transcript",
+      "catalyst": "Are Basic Materials Stocks Lagging  Almonty Industries Inc. (ALM) This Year?",
       "headlines": [
-        "Santander Brasil (BSBR) Q2 2026 Earnings Call Transcript",
-        "Banco Santander (Brasil) SA (BSBR) Q2 2026 Earnings Call Highlights: Navigating Challenges with ..."
+        "Are Basic Materials Stocks Lagging  Almonty Industries Inc. (ALM) This Year?",
+        "Almonty Industries (TSX:AII) Stock Looks Pricey As Sangdong Offtake Deal Expands"
       ]
     },
     {
       "rank": 7,
-      "symbol": "DLB",
-      "price": 58.38,
-      "gap_pct": 12.75,
-      "premarket_volume": 211948,
+      "symbol": "BFLY",
+      "price": 8.01,
+      "gap_pct": 12.66,
+      "premarket_volume": 2637161,
       "is_premarket_data": false,
-      "catalyst": "Dolby's Q3 Earnings Beat Estimates on Lower Operating Expenses",
+      "catalyst": "Butterfly Network (BFLY) Faces A 1% Fair Value Gap After Earnings And Guidance Raise",
       "headlines": [
-        "Dolby's Q3 Earnings Beat Estimates on Lower Operating Expenses",
-        "Dolby Laboratories Q3 Earnings Call Highlights"
+        "Butterfly Network (BFLY) Faces A 1% Fair Value Gap After Earnings And Guidance Raise",
+        "Butterfly Network Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 8,
-      "symbol": "CDNA",
-      "price": 42.78,
-      "gap_pct": 12.28,
-      "premarket_volume": 560202,
+      "symbol": "NBIS",
+      "price": 213.0,
+      "gap_pct": 11.86,
+      "premarket_volume": 11150977,
       "is_premarket_data": false,
-      "catalyst": "CareDx Q2 Earnings Call Highlights",
+      "catalyst": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
       "headlines": [
-        "CareDx Q2 Earnings Call Highlights",
-        "CareDx (CDNA) Beats Q2 Earnings and Revenue Estimates"
+        "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
+        "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds"
       ]
     },
     {
       "rank": 9,
-      "symbol": "SPSC",
-      "price": 72.79,
-      "gap_pct": 10.57,
-      "premarket_volume": 348407,
+      "symbol": "NWL",
+      "price": 6.25,
+      "gap_pct": 11.7,
+      "premarket_volume": 5424646,
       "is_premarket_data": false,
-      "catalyst": "SPS Commerce Inc (SPSC) (Q2 2026) Earnings Call Highlights: Strategic Divestiture Sharpens ...",
+      "catalyst": "Consumer goods giant quietly wows investors after terrible streak",
       "headlines": [
-        "SPS Commerce Inc (SPSC) (Q2 2026) Earnings Call Highlights: Strategic Divestiture Sharpens ...",
-        "SPS Commerce (SPSC) Q2 2026 Earnings Call Transcript"
+        "Consumer goods giant quietly wows investors after terrible streak",
+        "Why Newell Brands (NWL) Is Up 10.2% After Tariff-Aided Q2 Beat And Higher 2026 Guidance"
       ]
     },
     {
       "rank": 10,
-      "symbol": "DXCM",
-      "price": 82.16,
-      "gap_pct": 10.22,
-      "premarket_volume": 3971302,
+      "symbol": "XE",
+      "price": 18.16,
+      "gap_pct": 11.34,
+      "premarket_volume": 1568288,
       "is_premarket_data": false,
-      "catalyst": "DexCom Inc (DXCM) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised Guidance ...",
+      "catalyst": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
       "headlines": [
-        "DexCom Inc (DXCM) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised Guidance ...",
-        "DexCom (DXCM) Q2 2026 Earnings Call Transcript"
+        "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
+        "SpaceX Stock May Be Down 51%, But It's Still Outperforming These 2 Other Recent IPOs"
       ]
     }
   ]
