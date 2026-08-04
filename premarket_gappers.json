@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-08-03 14:57:30",
+  "scanned_at": "2026-08-04 14:33:21",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ATKR",
-      "price": 93.56,
-      "gap_pct": 28.23,
-      "premarket_volume": 4461084,
+      "symbol": "W",
+      "price": 115.35,
+      "gap_pct": 29.16,
+      "premarket_volume": 4831794,
       "is_premarket_data": false,
-      "catalyst": "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
+      "catalyst": "Wayfair Shares Decline Despite Better-Than-Expected Second-Quarter Results",
       "headlines": [
-        "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
-        "Atkore (NYSE:ATKR) Reports Upbeat Q2 CY2026, Stock Jumps 27.2%"
+        "Wayfair Shares Decline Despite Better-Than-Expected Second-Quarter Results",
+        "Wayfair Sees Recovery in U.S. Furniture Demand After Slow Stretch"
       ]
     },
     {
       "rank": 2,
-      "symbol": "CNH",
-      "price": 11.75,
-      "gap_pct": 14.63,
-      "premarket_volume": 13820618,
+      "symbol": "PAY",
+      "price": 43.62,
+      "gap_pct": 26.36,
+      "premarket_volume": 994132,
       "is_premarket_data": false,
-      "catalyst": "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
+      "catalyst": "Paymentus Holdings Inc (PAY) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
       "headlines": [
-        "CNH Industrial (CNH) Q2 Earnings and Revenues Beat Estimates",
-        "Agco (AGCO) Lags Q2 Earnings and Revenue Estimates"
+        "Paymentus Holdings Inc (PAY) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+        "Paymentus Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 3,
-      "symbol": "AXTI",
-      "price": 68.91,
-      "gap_pct": 14.02,
-      "premarket_volume": 7742797,
+      "symbol": "PLTR",
+      "price": 157.57,
+      "gap_pct": 25.4,
+      "premarket_volume": 60244742,
       "is_premarket_data": false,
-      "catalyst": "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive",
+      "catalyst": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
       "headlines": [
-        "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive",
-        "AXT (AXTI) Is Down 11.3% After Major Indium Phosphide AI Deal And Q2 Earnings Beat"
+        "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+        "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms"
       ]
     },
     {
       "rank": 4,
-      "symbol": "FSLR",
-      "price": 239.74,
-      "gap_pct": 13.6,
-      "premarket_volume": 1854855,
+      "symbol": "VOYG",
+      "price": 34.97,
+      "gap_pct": 24.83,
+      "premarket_volume": 1674068,
       "is_premarket_data": false,
-      "catalyst": "First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y",
+      "catalyst": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
       "headlines": [
-        "First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y",
-        "FSLR Q2 Earnings Call Highlights Domestic Solar Push"
+        "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
+        "Why Is VOYG Stock Surging 15% Overnight?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "CRWV",
-      "price": 81.28,
-      "gap_pct": 13.25,
-      "premarket_volume": 15662502,
+      "symbol": "UFPT",
+      "price": 319.1,
+      "gap_pct": 19.28,
+      "premarket_volume": 194306,
       "is_premarket_data": false,
-      "catalyst": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
+      "catalyst": "3 of Wall Street’s Favorite Stocks with Warning Signs",
       "headlines": [
-        "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
-        "Price Prediction: CoreWeave Will Trade at This Price in 2027"
+        "3 of Wall Street’s Favorite Stocks with Warning Signs",
+        "UFP Technologies (UFPT) Beats Q2 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ALM",
-      "price": 12.49,
-      "gap_pct": 12.93,
-      "premarket_volume": 2572468,
+      "symbol": "ZBRA",
+      "price": 342.27,
+      "gap_pct": 17.36,
+      "premarket_volume": 806997,
       "is_premarket_data": false,
-      "catalyst": "Are Basic Materials Stocks Lagging  Almonty Industries Inc. (ALM) This Year?",
+      "catalyst": "Why SYM Beats A Bond At Its Own Game",
       "headlines": [
-        "Are Basic Materials Stocks Lagging  Almonty Industries Inc. (ALM) This Year?",
-        "Almonty Industries (TSX:AII) Stock Looks Pricey As Sangdong Offtake Deal Expands"
+        "Why SYM Beats A Bond At Its Own Game",
+        "Zebra Technologies (ZBRA) Beats Q2 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 7,
-      "symbol": "BFLY",
-      "price": 8.01,
-      "gap_pct": 12.66,
-      "premarket_volume": 2637161,
+      "symbol": "AAOI",
+      "price": 129.06,
+      "gap_pct": 17.09,
+      "premarket_volume": 9437993,
       "is_premarket_data": false,
-      "catalyst": "Butterfly Network (BFLY) Faces A 1% Fair Value Gap After Earnings And Guidance Raise",
+      "catalyst": "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
       "headlines": [
-        "Butterfly Network (BFLY) Faces A 1% Fair Value Gap After Earnings And Guidance Raise",
-        "Butterfly Network Q2 Earnings Call Highlights"
+        "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
+        "Optical component stocks rally on proposed U.S. ban on Chinese tech"
       ]
     },
     {
       "rank": 8,
-      "symbol": "NBIS",
-      "price": 213.0,
-      "gap_pct": 11.86,
-      "premarket_volume": 11150977,
+      "symbol": "IT",
+      "price": 175.0,
+      "gap_pct": 15.49,
+      "premarket_volume": 679379,
       "is_premarket_data": false,
-      "catalyst": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
+      "catalyst": "Gartner Shares Jump After Strong Second-Quarter Performance and Higher Guidance",
       "headlines": [
-        "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
-        "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds"
+        "Gartner Shares Jump After Strong Second-Quarter Performance and Higher Guidance",
+        "Gartner (IT) Q2 Earnings and Revenues Beat Estimates"
       ]
     },
     {
       "rank": 9,
-      "symbol": "NWL",
-      "price": 6.25,
-      "gap_pct": 11.7,
-      "premarket_volume": 5424646,
+      "symbol": "SNAP",
+      "price": 5.72,
+      "gap_pct": 13.59,
+      "premarket_volume": 35016128,
       "is_premarket_data": false,
-      "catalyst": "Consumer goods giant quietly wows investors after terrible streak",
+      "catalyst": "Snap stock jumps 13% on improved advertising, World Cup boost",
       "headlines": [
-        "Consumer goods giant quietly wows investors after terrible streak",
-        "Why Newell Brands (NWL) Is Up 10.2% After Tariff-Aided Q2 Beat And Higher 2026 Guidance"
+        "Snap stock jumps 13% on improved advertising, World Cup boost",
+        "Snap posts Q2 2026 earnings beat on improving ad sales"
       ]
     },
     {
       "rank": 10,
-      "symbol": "XE",
-      "price": 18.16,
-      "gap_pct": 11.34,
-      "premarket_volume": 1568288,
+      "symbol": "EWTX",
+      "price": 43.43,
+      "gap_pct": 13.16,
+      "premarket_volume": 2006992,
       "is_premarket_data": false,
-      "catalyst": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
+      "catalyst": "Edgewise Therapeutics (EWTX) Trades At A Rich P B, Is The Premium Justified?",
       "headlines": [
-        "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
-        "SpaceX Stock May Be Down 51%, But It's Still Outperforming These 2 Other Recent IPOs"
+        "Edgewise Therapeutics (EWTX) Trades At A Rich P B, Is The Premium Justified?",
+        "Viking Therapeutics to Report Q2 Earnings: What's in Store for the Stock?"
       ]
     }
   ]
