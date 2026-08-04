@@ -1,60 +1,54 @@
 {
-  "scanned_at": "2026-08-03 14:32:45",
+  "scanned_at": "2026-08-04 14:04:10",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "BA",
-      "company_name": "Boeing",
-      "mention_count": 2,
-      "example_headline": "Boeing Stock Gets Rare Double Upgrade. Why Wall Street’s Excited."
-    },
-    {
-      "symbol": "BAC",
-      "company_name": "Bank of America",
-      "mention_count": 2,
-      "example_headline": "Beat the Market the Zacks Way: Credo, Victoria's Secret, Bank of America in Focus"
-    },
-    {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
-      "mention_count": 2,
-      "example_headline": "Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week"
+      "symbol": "CAT",
+      "company_name": "Caterpillar Inc.",
+      "mention_count": 6,
+      "example_headline": "Stock Market Today: Dow Rallies On U.S.-Iran Hopes; Caterpillar, Palantir Soar On Earnings (Live Coverage)"
     },
     {
       "symbol": "MSFT",
       "company_name": "Microsoft",
       "mention_count": 2,
-      "example_headline": "Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week"
+      "example_headline": "Correction: US Equity Markets End Higher Monday as Crude Oil Falls on US-Iran's New Round of Talks"
     },
     {
-      "symbol": "AMD",
-      "company_name": "Advanced Micro Devices",
+      "symbol": "MCD",
+      "company_name": "McDonald's",
       "mention_count": 1,
-      "example_headline": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss"
+      "example_headline": "McDonald's sales growth slows as budget-conscious consumers remain under stress"
     },
     {
       "symbol": "INTC",
       "company_name": "Intel",
       "mention_count": 1,
-      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+      "example_headline": "S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost"
     },
     {
-      "symbol": "MU",
-      "company_name": "Micron Technology",
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
       "mention_count": 1,
-      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
     },
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
+      "symbol": "EBAY",
+      "company_name": "eBay Inc.",
       "mention_count": 1,
-      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
     },
     {
-      "symbol": "WDC",
-      "company_name": "Western Digital",
+      "symbol": "INTU",
+      "company_name": "Intuit",
       "mention_count": 1,
-      "example_headline": "New Month, Same Jitters: AI Anxiety Creeps Into August"
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
+    },
+    {
+      "symbol": "PLTR",
+      "company_name": "Palantir Technologies",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
     }
   ]
 }
