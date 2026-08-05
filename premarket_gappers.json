@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-08-04 14:33:21",
+  "scanned_at": "2026-08-05 14:26:45",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "W",
-      "price": 115.35,
-      "gap_pct": 29.16,
-      "premarket_volume": 4831794,
+      "symbol": "MTRN",
+      "price": 284.56,
+      "gap_pct": 25.3,
+      "premarket_volume": 199023,
       "is_premarket_data": false,
-      "catalyst": "Wayfair Shares Decline Despite Better-Than-Expected Second-Quarter Results",
+      "catalyst": "Materion (MTRN) Q2 Earnings and Revenues Beat Estimates",
       "headlines": [
-        "Wayfair Shares Decline Despite Better-Than-Expected Second-Quarter Results",
-        "Wayfair Sees Recovery in U.S. Furniture Demand After Slow Stretch"
+        "Materion (MTRN) Q2 Earnings and Revenues Beat Estimates",
+        "Wheaton Precious Metals to Report Q2 Earnings: What to Expect?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "PAY",
-      "price": 43.62,
-      "gap_pct": 26.36,
-      "premarket_volume": 994132,
+      "symbol": "SHOP",
+      "price": 144.46,
+      "gap_pct": 17.16,
+      "premarket_volume": 13799196,
       "is_premarket_data": false,
-      "catalyst": "Paymentus Holdings Inc (PAY) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+      "catalyst": "Shopify Second-Quarter Results Top Street Views Amid Robust Growth Across Key Metrics",
       "headlines": [
-        "Paymentus Holdings Inc (PAY) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
-        "Paymentus Q2 Earnings Call Highlights"
+        "Shopify Second-Quarter Results Top Street Views Amid Robust Growth Across Key Metrics",
+        "Shopify Stock Jumps 28% on a \"Monster Quarter\""
       ]
     },
     {
       "rank": 3,
-      "symbol": "PLTR",
-      "price": 157.57,
-      "gap_pct": 25.4,
-      "premarket_volume": 60244742,
+      "symbol": "ZETA",
+      "price": 28.41,
+      "gap_pct": 17.1,
+      "premarket_volume": 19865991,
       "is_premarket_data": false,
-      "catalyst": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+      "catalyst": "Is Zeta Global Holdings (ZETA) Cheap After Earnings And Raised Guidance?",
       "headlines": [
-        "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
-        "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms"
+        "Is Zeta Global Holdings (ZETA) Cheap After Earnings And Raised Guidance?",
+        "Why Zeta Global Holdings (ZETA) Is Up 10.8% After Another Beat-and-Raise AI-Driven Quarter And What's Next"
       ]
     },
     {
       "rank": 4,
-      "symbol": "VOYG",
-      "price": 34.97,
-      "gap_pct": 24.83,
-      "premarket_volume": 1674068,
+      "symbol": "TVTX",
+      "price": 65.53,
+      "gap_pct": 16.98,
+      "premarket_volume": 1670442,
       "is_premarket_data": false,
-      "catalyst": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
+      "catalyst": "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
       "headlines": [
-        "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
-        "Why Is VOYG Stock Surging 15% Overnight?"
+        "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
+        "Travere Therapeutics Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 5,
-      "symbol": "UFPT",
-      "price": 319.1,
-      "gap_pct": 19.28,
-      "premarket_volume": 194306,
+      "symbol": "QLYS",
+      "price": 188.31,
+      "gap_pct": 16.92,
+      "premarket_volume": 566529,
       "is_premarket_data": false,
-      "catalyst": "3 of Wall Street’s Favorite Stocks with Warning Signs",
+      "catalyst": "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
       "headlines": [
-        "3 of Wall Street’s Favorite Stocks with Warning Signs",
-        "UFP Technologies (UFPT) Beats Q2 Earnings and Revenue Estimates"
+        "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
+        "Qualys (QLYS) Could Be 41% Overvalued Following Its Raised 2026 Guidance"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ZBRA",
-      "price": 342.27,
-      "gap_pct": 17.36,
-      "premarket_volume": 806997,
+      "symbol": "DT",
+      "price": 52.55,
+      "gap_pct": 14.98,
+      "premarket_volume": 4521832,
       "is_premarket_data": false,
-      "catalyst": "Why SYM Beats A Bond At Its Own Game",
+      "catalyst": "Dynatrace shares jump after earnings beat and upbeat profit outlook",
       "headlines": [
-        "Why SYM Beats A Bond At Its Own Game",
-        "Zebra Technologies (ZBRA) Beats Q2 Earnings and Revenue Estimates"
+        "Dynatrace shares jump after earnings beat and upbeat profit outlook",
+        "Dynatrace Earnings, Revenue, Key Metric Top Views. The Stock Is Surging."
       ]
     },
     {
       "rank": 7,
-      "symbol": "AAOI",
-      "price": 129.06,
-      "gap_pct": 17.09,
-      "premarket_volume": 9437993,
+      "symbol": "AXTI",
+      "price": 74.22,
+      "gap_pct": 13.73,
+      "premarket_volume": 6157070,
       "is_premarket_data": false,
-      "catalyst": "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
+      "catalyst": "AXT (AXTI) Q2 2026 Earnings Call Transcript",
       "headlines": [
-        "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
-        "Optical component stocks rally on proposed U.S. ban on Chinese tech"
+        "AXT (AXTI) Q2 2026 Earnings Call Transcript",
+        "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive"
       ]
     },
     {
       "rank": 8,
-      "symbol": "IT",
-      "price": 175.0,
-      "gap_pct": 15.49,
-      "premarket_volume": 679379,
+      "symbol": "INTA",
+      "price": 36.92,
+      "gap_pct": 12.64,
+      "premarket_volume": 581152,
       "is_premarket_data": false,
-      "catalyst": "Gartner Shares Jump After Strong Second-Quarter Performance and Higher Guidance",
+      "catalyst": "Intapp Inc (INTA) (Q4 2026) Earnings Call Highlights: Cloud ARR Surges 29% as Firm AI Strategy ...",
       "headlines": [
-        "Gartner Shares Jump After Strong Second-Quarter Performance and Higher Guidance",
-        "Gartner (IT) Q2 Earnings and Revenues Beat Estimates"
+        "Intapp Inc (INTA) (Q4 2026) Earnings Call Highlights: Cloud ARR Surges 29% as Firm AI Strategy ...",
+        "Intapp Q4 Earnings Call Highlights"
       ]
     },
     {
       "rank": 9,
-      "symbol": "SNAP",
-      "price": 5.72,
-      "gap_pct": 13.59,
-      "premarket_volume": 35016128,
+      "symbol": "TWST",
+      "price": 111.61,
+      "gap_pct": 12.24,
+      "premarket_volume": 1079393,
       "is_premarket_data": false,
-      "catalyst": "Snap stock jumps 13% on improved advertising, World Cup boost",
+      "catalyst": "Twist Bioscience Corporation Q3 2026 Earnings Call Summary",
       "headlines": [
-        "Snap stock jumps 13% on improved advertising, World Cup boost",
-        "Snap posts Q2 2026 earnings beat on improving ad sales"
+        "Twist Bioscience Corporation Q3 2026 Earnings Call Summary",
+        "Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered"
       ]
     },
     {
       "rank": 10,
-      "symbol": "EWTX",
-      "price": 43.43,
-      "gap_pct": 13.16,
-      "premarket_volume": 2006992,
+      "symbol": "AUGO",
+      "price": 64.81,
+      "gap_pct": 12.15,
+      "premarket_volume": 217726,
       "is_premarket_data": false,
-      "catalyst": "Edgewise Therapeutics (EWTX) Trades At A Rich P B, Is The Premium Justified?",
+      "catalyst": "Aura Minerals (AUGO) Pulls Back Sharply, Is It Still A Bargain?",
       "headlines": [
-        "Edgewise Therapeutics (EWTX) Trades At A Rich P B, Is The Premium Justified?",
-        "Viking Therapeutics to Report Q2 Earnings: What's in Store for the Stock?"
+        "Aura Minerals (AUGO) Pulls Back Sharply, Is It Still A Bargain?",
+        "Aura Minerals (AUGO) Earnings Expected to Grow: Should You Buy?"
       ]
     }
   ]
