@@ -1,54 +1,24 @@
 {
-  "scanned_at": "2026-08-04 14:04:10",
+  "scanned_at": "2026-08-05 14:01:45",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "CAT",
-      "company_name": "Caterpillar Inc.",
-      "mention_count": 6,
-      "example_headline": "Stock Market Today: Dow Rallies On U.S.-Iran Hopes; Caterpillar, Palantir Soar On Earnings (Live Coverage)"
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
+      "mention_count": 7,
+      "example_headline": "Wall St opens higher as Mideast hopes offset SpaceX, AMD drag"
     },
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
+      "symbol": "NDAQ",
+      "company_name": "Nasdaq, Inc.",
       "mention_count": 2,
-      "example_headline": "Correction: US Equity Markets End Higher Monday as Crude Oil Falls on US-Iran's New Round of Talks"
+      "example_headline": "U.S. stocks set for stronger open as market rally gathers pace: Dow Jones, S&P, Nasdaq, Wall Street Futures"
     },
     {
       "symbol": "MCD",
       "company_name": "McDonald's",
       "mention_count": 1,
-      "example_headline": "McDonald's sales growth slows as budget-conscious consumers remain under stress"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 1,
-      "example_headline": "S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost"
-    },
-    {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
-    },
-    {
-      "symbol": "EBAY",
-      "company_name": "eBay Inc.",
-      "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
-      "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
-    },
-    {
-      "symbol": "PLTR",
-      "company_name": "Palantir Technologies",
-      "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More"
+      "example_headline": "McDonald's names new US head as sales growth slows in Q2"
     }
   ]
 }
