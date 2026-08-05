@@ -21,7 +21,7 @@
     "in_position": true,
     "entry_price": 309.0644586639404,
     "entry_date": "2026-07-31",
-    "highest_since_entry": 309.3800048828125,
+    "highest_since_entry": 311.0,
     "position_fraction": 0.207975135103483
   },
   "MSFT": {
@@ -69,7 +69,7 @@
     "in_position": true,
     "entry_price": 13.561777805328369,
     "entry_date": "2026-07-23",
-    "highest_since_entry": 16.559999465942383,
+    "highest_since_entry": 16.579999923706055,
     "position_fraction": 0.12194055378552596
   },
   "PATH": {
@@ -289,7 +289,7 @@
     "in_position": true,
     "entry_price": 3.571784933209419,
     "entry_date": "2026-07-17",
-    "highest_since_entry": 3.7200000286102295,
+    "highest_since_entry": 3.740000009536743,
     "position_fraction": 0.14059069317290682
   },
   "AMC": {
@@ -418,5 +418,32 @@
     "entry_date": "2026-08-04",
     "highest_since_entry": 44.279998779296875,
     "position_fraction": 0.1656432516157546
+  },
+  "UBER": {
+    "in_position": false
+  },
+  "AMD": {
+    "in_position": true,
+    "entry_price": 482.2910127868652,
+    "entry_date": "2026-08-05",
+    "highest_since_entry": 482.04998779296875,
+    "position_fraction": 0.07740576736882014
+  },
+  "SHOP": {
+    "in_position": true,
+    "entry_price": 144.31212549591064,
+    "entry_date": "2026-08-05",
+    "highest_since_entry": 144.24000549316406,
+    "position_fraction": 0.11845929001914769
+  },
+  "FIG": {
+    "in_position": true,
+    "entry_price": 28.164074618339537,
+    "entry_date": "2026-08-05",
+    "highest_since_entry": 28.149999618530273,
+    "position_fraction": 0.10449147276095876
+  },
+  "CPNG": {
+    "in_position": false
   }
 }
