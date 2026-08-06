@@ -1,134 +1,17 @@
 {
-  "scanned_at": "2026-08-05 14:26:45",
+  "scanned_at": "2026-08-06 14:29:21",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "MTRN",
-      "price": 284.56,
-      "gap_pct": 25.3,
-      "premarket_volume": 199023,
-      "is_premarket_data": false,
-      "catalyst": "Materion (MTRN) Q2 Earnings and Revenues Beat Estimates",
-      "headlines": [
-        "Materion (MTRN) Q2 Earnings and Revenues Beat Estimates",
-        "Wheaton Precious Metals to Report Q2 Earnings: What to Expect?"
-      ]
-    },
-    {
-      "rank": 2,
-      "symbol": "SHOP",
-      "price": 144.46,
-      "gap_pct": 17.16,
-      "premarket_volume": 13799196,
-      "is_premarket_data": false,
-      "catalyst": "Shopify Second-Quarter Results Top Street Views Amid Robust Growth Across Key Metrics",
-      "headlines": [
-        "Shopify Second-Quarter Results Top Street Views Amid Robust Growth Across Key Metrics",
-        "Shopify Stock Jumps 28% on a \"Monster Quarter\""
-      ]
-    },
-    {
-      "rank": 3,
-      "symbol": "ZETA",
-      "price": 28.41,
-      "gap_pct": 17.1,
-      "premarket_volume": 19865991,
-      "is_premarket_data": false,
-      "catalyst": "Is Zeta Global Holdings (ZETA) Cheap After Earnings And Raised Guidance?",
-      "headlines": [
-        "Is Zeta Global Holdings (ZETA) Cheap After Earnings And Raised Guidance?",
-        "Why Zeta Global Holdings (ZETA) Is Up 10.8% After Another Beat-and-Raise AI-Driven Quarter And What's Next"
-      ]
-    },
-    {
-      "rank": 4,
-      "symbol": "TVTX",
-      "price": 65.53,
-      "gap_pct": 16.98,
-      "premarket_volume": 1670442,
-      "is_premarket_data": false,
-      "catalyst": "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
-      "headlines": [
-        "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
-        "Travere Therapeutics Q2 Earnings Call Highlights"
-      ]
-    },
-    {
-      "rank": 5,
-      "symbol": "QLYS",
-      "price": 188.31,
-      "gap_pct": 16.92,
-      "premarket_volume": 566529,
-      "is_premarket_data": false,
-      "catalyst": "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
-      "headlines": [
-        "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
-        "Qualys (QLYS) Could Be 41% Overvalued Following Its Raised 2026 Guidance"
-      ]
-    },
-    {
-      "rank": 6,
-      "symbol": "DT",
-      "price": 52.55,
-      "gap_pct": 14.98,
-      "premarket_volume": 4521832,
-      "is_premarket_data": false,
-      "catalyst": "Dynatrace shares jump after earnings beat and upbeat profit outlook",
-      "headlines": [
-        "Dynatrace shares jump after earnings beat and upbeat profit outlook",
-        "Dynatrace Earnings, Revenue, Key Metric Top Views. The Stock Is Surging."
-      ]
-    },
-    {
-      "rank": 7,
       "symbol": "AXTI",
-      "price": 74.22,
-      "gap_pct": 13.73,
-      "premarket_volume": 6157070,
+      "price": 68.61,
+      "gap_pct": 5.12,
+      "premarket_volume": 13552792,
       "is_premarket_data": false,
       "catalyst": "AXT (AXTI) Q2 2026 Earnings Call Transcript",
       "headlines": [
         "AXT (AXTI) Q2 2026 Earnings Call Transcript",
         "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive"
-      ]
-    },
-    {
-      "rank": 8,
-      "symbol": "INTA",
-      "price": 36.92,
-      "gap_pct": 12.64,
-      "premarket_volume": 581152,
-      "is_premarket_data": false,
-      "catalyst": "Intapp Inc (INTA) (Q4 2026) Earnings Call Highlights: Cloud ARR Surges 29% as Firm AI Strategy ...",
-      "headlines": [
-        "Intapp Inc (INTA) (Q4 2026) Earnings Call Highlights: Cloud ARR Surges 29% as Firm AI Strategy ...",
-        "Intapp Q4 Earnings Call Highlights"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "TWST",
-      "price": 111.61,
-      "gap_pct": 12.24,
-      "premarket_volume": 1079393,
-      "is_premarket_data": false,
-      "catalyst": "Twist Bioscience Corporation Q3 2026 Earnings Call Summary",
-      "headlines": [
-        "Twist Bioscience Corporation Q3 2026 Earnings Call Summary",
-        "Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered"
-      ]
-    },
-    {
-      "rank": 10,
-      "symbol": "AUGO",
-      "price": 64.81,
-      "gap_pct": 12.15,
-      "premarket_volume": 217726,
-      "is_premarket_data": false,
-      "catalyst": "Aura Minerals (AUGO) Pulls Back Sharply, Is It Still A Bargain?",
-      "headlines": [
-        "Aura Minerals (AUGO) Pulls Back Sharply, Is It Still A Bargain?",
-        "Aura Minerals (AUGO) Earnings Expected to Grow: Should You Buy?"
       ]
     }
   ]
