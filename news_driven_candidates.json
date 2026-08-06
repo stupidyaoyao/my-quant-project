@@ -1,24 +1,48 @@
 {
-  "scanned_at": "2026-08-05 14:01:45",
+  "scanned_at": "2026-08-06 14:00:39",
   "news_count": 30,
   "candidates": [
     {
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 8,
+      "example_headline": "Stock Market Today: Dow Up, Nasdaq Falls As AI Names Sandisk, Western Digital Sink After Earnings (Live Coverage)"
+    },
+    {
+      "symbol": "WDC",
+      "company_name": "Western Digital",
+      "mention_count": 8,
+      "example_headline": "Stock Market Today: Dow Up, Nasdaq Falls As AI Names Sandisk, Western Digital Sink After Earnings (Live Coverage)"
+    },
+    {
+      "symbol": "APP",
+      "company_name": "AppLovin",
+      "mention_count": 2,
+      "example_headline": "Nasdaq heading lower on earnings falls for AppLovin, Western Digital and SanDisk"
+    },
+    {
+      "symbol": "HONA",
+      "company_name": "Honeywell Aerospace",
+      "mention_count": 1,
+      "example_headline": "Honeywell Aerospace Stock Plunges. Its First Standalone Quarter Was a Mess."
+    },
+    {
       "symbol": "AMD",
       "company_name": "Advanced Micro Devices",
-      "mention_count": 7,
-      "example_headline": "Wall St opens higher as Mideast hopes offset SpaceX, AMD drag"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
-      "mention_count": 2,
-      "example_headline": "U.S. stocks set for stronger open as market rally gathers pace: Dow Jones, S&P, Nasdaq, Wall Street Futures"
-    },
-    {
-      "symbol": "MCD",
-      "company_name": "McDonald's",
       "mention_count": 1,
-      "example_headline": "McDonald's names new US head as sales growth slows in Q2"
+      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
+    },
+    {
+      "symbol": "DDOG",
+      "company_name": "Datadog",
+      "mention_count": 1,
+      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
+    },
+    {
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 1,
+      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
     }
   ]
 }
