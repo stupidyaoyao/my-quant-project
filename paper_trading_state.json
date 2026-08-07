@@ -21,14 +21,14 @@
     "in_position": true,
     "entry_price": 309.0644586639404,
     "entry_date": "2026-07-31",
-    "highest_since_entry": 312.4100036621094,
+    "highest_since_entry": 313.3299865722656,
     "position_fraction": 0.207975135103483
   },
   "MSFT": {
     "in_position": true,
     "entry_price": 493.056402557373,
     "entry_date": "2026-08-04",
-    "highest_since_entry": 499.8599853515625,
+    "highest_since_entry": 499.989990234375,
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
@@ -76,7 +76,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 14.100000381469727,
+    "highest_since_entry": 15.050000190734863,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -146,7 +146,7 @@
     "in_position": true,
     "entry_price": 155.99795816802978,
     "entry_date": "2026-08-06",
-    "highest_since_entry": 155.9199981689453,
+    "highest_since_entry": 172.00999450683594,
     "position_fraction": 0.12326387822608927
   },
   "JOBY": {
@@ -271,14 +271,14 @@
     "position_fraction": 0.20857740880533998
   },
   "PFE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 26.773380228996274,
+    "entry_date": "2026-08-07",
+    "highest_since_entry": 26.760000228881836,
+    "position_fraction": 0.3517526954482469
   },
   "RKT": {
-    "in_position": true,
-    "entry_price": 14.907449618339538,
-    "entry_date": "2026-07-16",
-    "highest_since_entry": 14.899999618530273,
-    "position_fraction": 0.1290641702205597
+    "in_position": false
   },
   "SNAP": {
     "in_position": false
@@ -462,5 +462,22 @@
     "entry_date": "2026-08-06",
     "highest_since_entry": 40.810001373291016,
     "position_fraction": 0.12304744647356856
+  },
+  "BTG": {
+    "in_position": false
+  },
+  "DOCS": {
+    "in_position": true,
+    "entry_price": 27.413699618339535,
+    "entry_date": "2026-08-07",
+    "highest_since_entry": 27.399999618530273,
+    "position_fraction": 0.08030059769416077
+  },
+  "DV": {
+    "in_position": true,
+    "entry_price": 13.216605038166046,
+    "entry_date": "2026-08-07",
+    "highest_since_entry": 13.210000038146973,
+    "position_fraction": 0.14863577465992406
   }
 }
