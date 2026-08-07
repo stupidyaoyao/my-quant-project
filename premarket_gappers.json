@@ -1,17 +1,17 @@
 {
-  "scanned_at": "2026-08-06 14:29:21",
+  "scanned_at": "2026-08-07 13:20:05",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AXTI",
-      "price": 68.61,
-      "gap_pct": 5.12,
-      "premarket_volume": 13552792,
+      "symbol": "RAPP",
+      "price": 46.35,
+      "gap_pct": 9.21,
+      "premarket_volume": 396691,
       "is_premarket_data": false,
-      "catalyst": "AXT (AXTI) Q2 2026 Earnings Call Transcript",
+      "catalyst": "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors?",
       "headlines": [
-        "AXT (AXTI) Q2 2026 Earnings Call Transcript",
-        "AXT (AXTI) Turns Profitable As AI Demand Story Keeps Undervalued View Alive"
+        "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors?",
+        "Is Rapport Therapeutics, Inc. (RAPP) A Good Stock To Buy Now?"
       ]
     }
   ]
