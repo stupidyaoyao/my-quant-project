@@ -1,48 +1,24 @@
 {
-  "scanned_at": "2026-08-06 14:00:39",
+  "scanned_at": "2026-08-07 12:56:48",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 8,
-      "example_headline": "Stock Market Today: Dow Up, Nasdaq Falls As AI Names Sandisk, Western Digital Sink After Earnings (Live Coverage)"
-    },
-    {
-      "symbol": "WDC",
-      "company_name": "Western Digital",
-      "mention_count": 8,
-      "example_headline": "Stock Market Today: Dow Up, Nasdaq Falls As AI Names Sandisk, Western Digital Sink After Earnings (Live Coverage)"
-    },
-    {
-      "symbol": "APP",
-      "company_name": "AppLovin",
-      "mention_count": 2,
-      "example_headline": "Nasdaq heading lower on earnings falls for AppLovin, Western Digital and SanDisk"
-    },
-    {
-      "symbol": "HONA",
-      "company_name": "Honeywell Aerospace",
+      "symbol": "BRK-B",
+      "company_name": "Berkshire Hathaway",
       "mention_count": 1,
-      "example_headline": "Honeywell Aerospace Stock Plunges. Its First Standalone Quarter Was a Mess."
+      "example_headline": "Warren Buffett's Berkshire Hathaway just sent a surprising signal"
     },
     {
-      "symbol": "AMD",
-      "company_name": "Advanced Micro Devices",
+      "symbol": "ABT",
+      "company_name": "Abbott Laboratories",
       "mention_count": 1,
-      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
+      "example_headline": "What Makes Abbott Laboratories (ABT) a Compelling Investment Opportunity with Reliable Growth"
     },
     {
-      "symbol": "DDOG",
-      "company_name": "Datadog",
+      "symbol": "MCD",
+      "company_name": "McDonald's",
       "mention_count": 1,
-      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
-    },
-    {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 1,
-      "example_headline": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers"
+      "example_headline": "McDonald (MCD): A Consistent Dividend Payer Since 1976"
     }
   ]
 }
