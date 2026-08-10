@@ -1,17 +1,17 @@
 {
-  "scanned_at": "2026-08-07 13:20:05",
+  "scanned_at": "2026-08-10 13:25:57",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "RAPP",
-      "price": 46.35,
-      "gap_pct": 9.21,
-      "premarket_volume": 396691,
+      "symbol": "BVC",
+      "price": 12.55,
+      "gap_pct": 16.85,
+      "premarket_volume": 66155,
       "is_premarket_data": false,
-      "catalyst": "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors?",
+      "catalyst": "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
       "headlines": [
-        "What Does the Sale of Rapport Therapeutics Stock Worth Over $400,000 by the Chief Operating Officer Mean for Investors?",
-        "Is Rapport Therapeutics, Inc. (RAPP) A Good Stock To Buy Now?"
+        "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
+        "Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple"
       ]
     }
   ]
