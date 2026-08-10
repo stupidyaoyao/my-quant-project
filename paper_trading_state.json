@@ -28,14 +28,14 @@
     "in_position": true,
     "entry_price": 493.056402557373,
     "entry_date": "2026-08-04",
-    "highest_since_entry": 499.989990234375,
+    "highest_since_entry": 506.05999755859375,
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
     "in_position": true,
     "entry_price": 157.04848622131348,
     "entry_date": "2026-07-30",
-    "highest_since_entry": 156.97000122070312,
+    "highest_since_entry": 159.7899932861328,
     "position_fraction": 0.27931041143519414
   },
   "PYPL": {
@@ -76,7 +76,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 15.050000190734863,
+    "highest_since_entry": 15.59000015258789,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -99,7 +99,11 @@
     "in_position": false
   },
   "T": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 24.062024236679076,
+    "entry_date": "2026-08-10",
+    "highest_since_entry": 24.049999237060547,
+    "position_fraction": 0.205743998100693
   },
   "MARA": {
     "in_position": false
@@ -146,7 +150,7 @@
     "in_position": true,
     "entry_price": 155.99795816802978,
     "entry_date": "2026-08-06",
-    "highest_since_entry": 172.00999450683594,
+    "highest_since_entry": 175.22999572753906,
     "position_fraction": 0.12326387822608927
   },
   "JOBY": {
@@ -274,7 +278,7 @@
     "in_position": true,
     "entry_price": 26.773380228996274,
     "entry_date": "2026-08-07",
-    "highest_since_entry": 26.760000228881836,
+    "highest_since_entry": 27.049999237060547,
     "position_fraction": 0.3517526954482469
   },
   "RKT": {
@@ -479,5 +483,12 @@
     "entry_date": "2026-08-07",
     "highest_since_entry": 13.210000038146973,
     "position_fraction": 0.14863577465992406
+  },
+  "ABCL": {
+    "in_position": true,
+    "entry_price": 9.344670152664184,
+    "entry_date": "2026-08-10",
+    "highest_since_entry": 9.34000015258789,
+    "position_fraction": 0.10083670902234557
   }
 }
