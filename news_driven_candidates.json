@@ -1,24 +1,18 @@
 {
-  "scanned_at": "2026-08-07 12:56:48",
+  "scanned_at": "2026-08-10 13:00:54",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
-      "mention_count": 1,
-      "example_headline": "Warren Buffett's Berkshire Hathaway just sent a surprising signal"
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 2,
+      "example_headline": "Why JPMorgan Raised Its S&P 500 Target Despite Looming September Risks"
     },
     {
-      "symbol": "ABT",
-      "company_name": "Abbott Laboratories",
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
       "mention_count": 1,
-      "example_headline": "What Makes Abbott Laboratories (ABT) a Compelling Investment Opportunity with Reliable Growth"
-    },
-    {
-      "symbol": "MCD",
-      "company_name": "McDonald's",
-      "mention_count": 1,
-      "example_headline": "McDonald (MCD): A Consistent Dividend Payer Since 1976"
+      "example_headline": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead"
     }
   ]
 }
