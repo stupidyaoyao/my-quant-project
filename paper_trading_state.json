@@ -35,7 +35,7 @@
     "in_position": true,
     "entry_price": 157.04848622131348,
     "entry_date": "2026-07-30",
-    "highest_since_entry": 159.7899932861328,
+    "highest_since_entry": 159.8000030517578,
     "position_fraction": 0.27931041143519414
   },
   "PYPL": {
@@ -76,15 +76,11 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 15.59000015258789,
+    "highest_since_entry": 15.720000267028809,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
-    "in_position": true,
-    "entry_price": 6.590000152587891,
-    "entry_date": "2026-07-10",
-    "highest_since_entry": 7.400000095367432,
-    "position_fraction": 0.049315795729746384
+    "in_position": false
   },
   "OPEN": {
     "in_position": false
@@ -112,11 +108,7 @@
     "in_position": false
   },
   "BBD": {
-    "in_position": true,
-    "entry_price": 3.7318650190830227,
-    "entry_date": "2026-07-22",
-    "highest_since_entry": 3.7300000190734863,
-    "position_fraction": 0.2748031160527479
+    "in_position": false
   },
   "NFLX": {
     "in_position": false
@@ -294,11 +286,7 @@
     "in_position": false
   },
   "GRAB": {
-    "in_position": true,
-    "entry_price": 3.571784933209419,
-    "entry_date": "2026-07-17",
-    "highest_since_entry": 3.740000009536743,
-    "position_fraction": 0.14059069317290682
+    "in_position": false
   },
   "AMC": {
     "in_position": true,
@@ -490,5 +478,14 @@
     "entry_date": "2026-08-10",
     "highest_since_entry": 9.34000015258789,
     "position_fraction": 0.10083670902234557
+  },
+  "RIOT": {
+    "in_position": false
+  },
+  "NIO": {
+    "in_position": false
+  },
+  "ONON": {
+    "in_position": false
   }
 }
