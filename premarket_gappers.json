@@ -1,18 +1,4 @@
 {
-  "scanned_at": "2026-08-10 13:25:57",
-  "gappers": [
-    {
-      "rank": 1,
-      "symbol": "BVC",
-      "price": 12.55,
-      "gap_pct": 16.85,
-      "premarket_volume": 66155,
-      "is_premarket_data": false,
-      "catalyst": "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
-      "headlines": [
-        "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
-        "Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple"
-      ]
-    }
-  ]
+  "scanned_at": "2026-08-11 13:22:25",
+  "gappers": []
 }
