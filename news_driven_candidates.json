@@ -1,18 +1,30 @@
 {
-  "scanned_at": "2026-08-10 13:00:54",
+  "scanned_at": "2026-08-11 12:57:03",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 2,
-      "example_headline": "Why JPMorgan Raised Its S&P 500 Target Despite Looming September Risks"
+      "symbol": "WAT",
+      "company_name": "Waters Corporation",
+      "mention_count": 1,
+      "example_headline": "This stock market indicator just flashed a warning not seen since the dot-com bubble"
     },
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "JPM",
+      "company_name": "JPMorgan Chase",
       "mention_count": 1,
-      "example_headline": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead"
+      "example_headline": "Memory chip crunch could last 2 more years, JPMorgan says"
+    },
+    {
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 1,
+      "example_headline": "JPMorgan Sets Jaw-Dropping S&P 500 Target for Year-End 2026"
+    },
+    {
+      "symbol": "MU",
+      "company_name": "Micron Technology",
+      "mention_count": 1,
+      "example_headline": "Micron Says Customers Are Scrambling for Memory Even at ‘Very High’ Prices"
     }
   ]
 }
