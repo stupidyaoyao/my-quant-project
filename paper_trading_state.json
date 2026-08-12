@@ -49,7 +49,11 @@
     "in_position": false
   },
   "NVDA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 224.20204133605955,
+    "entry_date": "2026-08-12",
+    "highest_since_entry": 224.08999633789062,
+    "position_fraction": 0.19069169230318334
   },
   "NU": {
     "in_position": true,
@@ -66,11 +70,7 @@
     "position_fraction": 0.12128766341754749
   },
   "AAL": {
-    "in_position": true,
-    "entry_price": 13.561777805328369,
-    "entry_date": "2026-07-23",
-    "highest_since_entry": 16.579999923706055,
-    "position_fraction": 0.12194055378552596
+    "in_position": false
   },
   "PATH": {
     "in_position": true,
@@ -250,7 +250,7 @@
     "in_position": true,
     "entry_price": 404.59230125427246,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 467.2699890136719,
+    "highest_since_entry": 484.5,
     "position_fraction": 0.0841277535361
   },
   "AVGO": {
@@ -487,5 +487,18 @@
   },
   "ONON": {
     "in_position": false
+  },
+  "NBIS": {
+    "in_position": false
+  },
+  "UWMC": {
+    "in_position": false
+  },
+  "ITUB": {
+    "in_position": true,
+    "entry_price": 7.403700095415115,
+    "entry_date": "2026-08-12",
+    "highest_since_entry": 7.400000095367432,
+    "position_fraction": 0.23737471072829766
   }
 }
