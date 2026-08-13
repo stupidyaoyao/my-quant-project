@@ -1,30 +1,48 @@
 {
-  "scanned_at": "2026-08-12 13:02:16",
+  "scanned_at": "2026-08-13 13:03:11",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 4,
-      "example_headline": "Stock Market Today: Dow Rises On Key Inflation Data; Nvidia Partner CoreWeave Soars On Results (Live Coverage)"
+      "symbol": "CSCO",
+      "company_name": "Cisco",
+      "mention_count": 7,
+      "example_headline": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway"
+    },
+    {
+      "symbol": "COHR",
+      "company_name": "Coherent Corp.",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally"
     },
     {
       "symbol": "LITE",
       "company_name": "Lumentum",
-      "mention_count": 3,
-      "example_headline": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers"
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally"
     },
     {
-      "symbol": "ADI",
-      "company_name": "Analog Devices",
+      "symbol": "WELL",
+      "company_name": "Welltower",
       "mention_count": 1,
-      "example_headline": "2 Reasons to Avoid ADI and 1 Stock to Buy Instead"
+      "example_headline": "What Makes Welltower (WELL) a Bullish Bet?"
+    },
+    {
+      "symbol": "AVGO",
+      "company_name": "Broadcom",
+      "mention_count": 1,
+      "example_headline": "Broadcom (AVGO) Strengthens Market Position with Major Customers and Strategic Agreements"
     },
     {
       "symbol": "SMCI",
       "company_name": "Supermicro",
       "mention_count": 1,
       "example_headline": "Tech stocks today: CoreWeave and Supermicro results win over investors"
+    },
+    {
+      "symbol": "NDAQ",
+      "company_name": "Nasdaq, Inc.",
+      "mention_count": 1,
+      "example_headline": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus"
     }
   ]
 }
