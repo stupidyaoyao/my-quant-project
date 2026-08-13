@@ -42,7 +42,7 @@
     "in_position": true,
     "entry_price": 56.78499984741211,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 59.779998779296875,
+    "highest_since_entry": 60.59000015258789,
     "position_fraction": 0.18285079928952044
   },
   "INTC": {
@@ -52,7 +52,7 @@
     "in_position": true,
     "entry_price": 224.20204133605955,
     "entry_date": "2026-08-12",
-    "highest_since_entry": 224.08999633789062,
+    "highest_since_entry": 225.3000030517578,
     "position_fraction": 0.19069169230318334
   },
   "NU": {
@@ -76,7 +76,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 15.720000267028809,
+    "highest_since_entry": 16.68000030517578,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -250,7 +250,7 @@
     "in_position": true,
     "entry_price": 404.59230125427246,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 484.5,
+    "highest_since_entry": 494.510009765625,
     "position_fraction": 0.0841277535361
   },
   "AVGO": {
@@ -500,5 +500,25 @@
     "entry_date": "2026-08-12",
     "highest_since_entry": 7.400000095367432,
     "position_fraction": 0.23737471072829766
+  },
+  "ARX": {
+    "in_position": false
+  },
+  "CSCO": {
+    "in_position": false
+  },
+  "CLBT": {
+    "in_position": true,
+    "entry_price": 10.80540019083023,
+    "entry_date": "2026-08-13",
+    "highest_since_entry": 10.800000190734863,
+    "position_fraction": 0.06749246665423198
+  },
+  "PCG": {
+    "in_position": true,
+    "entry_price": 17.468729084014893,
+    "entry_date": "2026-08-13",
+    "highest_since_entry": 17.459999084472656,
+    "position_fraction": 0.21859159599709968
   }
 }
