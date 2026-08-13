@@ -1,4 +1,135 @@
 {
-  "scanned_at": "2026-08-12 13:26:19",
-  "gappers": []
+  "scanned_at": "2026-08-13 13:34:35",
+  "gappers": [
+    {
+      "rank": 1,
+      "symbol": "ARX",
+      "price": 19.55,
+      "gap_pct": 43.82,
+      "premarket_volume": 22890014,
+      "is_premarket_data": false,
+      "catalyst": "Accelerant, Harmonic surge, Cisco slides premarket on margin outlook",
+      "headlines": [
+        "Accelerant, Harmonic surge, Cisco slides premarket on margin outlook",
+        "Accelerant to Go Private in $4.4B Deal with Thoma Bravo"
+      ]
+    },
+    {
+      "rank": 2,
+      "symbol": "BIRK",
+      "price": 42.27,
+      "gap_pct": 14.99,
+      "premarket_volume": 655662,
+      "is_premarket_data": false,
+      "catalyst": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Producer Inflation Data Release",
+      "headlines": [
+        "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Producer Inflation Data Release",
+        "Birkenstock (BIRK) Q3 Earnings Lag Estimates"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "XE",
+      "price": 23.38,
+      "gap_pct": 14.91,
+      "premarket_volume": 880935,
+      "is_premarket_data": false,
+      "catalyst": "X-energy Shares Rise as Q2 Revenue Jumps 154% on Reactor Development Progress",
+      "headlines": [
+        "X-energy Shares Rise as Q2 Revenue Jumps 154% on Reactor Development Progress",
+        "How to Play X-Energy Stock Ahead of Q2 Earnings Release?"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "ENS",
+      "price": 213.84,
+      "gap_pct": 14.63,
+      "premarket_volume": 104120,
+      "is_premarket_data": false,
+      "catalyst": "EnerSys (ENS) Surpasses Q1 Earnings and Revenue Estimates",
+      "headlines": [
+        "EnerSys (ENS) Surpasses Q1 Earnings and Revenue Estimates",
+        "EnerSys (NYSE:ENS) Posts Better-Than-Expected Sales In Q2 CY2026, Stock Jumps 14.1%"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "TBBB",
+      "price": 47.02,
+      "gap_pct": 11.33,
+      "premarket_volume": 131296,
+      "is_premarket_data": false,
+      "catalyst": "BBB Foods (TBBB) Reports Q2 Earnings: What Key Metrics Have to Say",
+      "headlines": [
+        "BBB Foods (TBBB) Reports Q2 Earnings: What Key Metrics Have to Say",
+        "BBB Foods (TBBB) Reports Q2 Loss, Beats Revenue Estimates"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "AVAH",
+      "price": 10.07,
+      "gap_pct": 11.25,
+      "premarket_volume": 327395,
+      "is_premarket_data": false,
+      "catalyst": "Aveanna Healthcare (AVAH) Beats Q2 Earnings and Revenue Estimates",
+      "headlines": [
+        "Aveanna Healthcare (AVAH) Beats Q2 Earnings and Revenue Estimates",
+        "Will Lower PDS Margin Affect Aveanna Healthcare's Q2 Earnings?"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "BLSH",
+      "price": 26.75,
+      "gap_pct": 8.65,
+      "premarket_volume": 201127,
+      "is_premarket_data": false,
+      "catalyst": "Bullish (BLSH) Q2 Earnings and Revenues Top Estimates",
+      "headlines": [
+        "Bullish (BLSH) Q2 Earnings and Revenues Top Estimates",
+        "Bullish (BLSH) Heads Into Earnings With A Pricey Valuation In Focus"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "HPE",
+      "price": 63.1,
+      "gap_pct": 7.33,
+      "premarket_volume": 3629399,
+      "is_premarket_data": false,
+      "catalyst": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+      "headlines": [
+        "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+        "Dell, HP and HPE Shares Rise After Lenovo Delivers Strong Quarterly Growth"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "EROC",
+      "price": 14.71,
+      "gap_pct": 6.45,
+      "premarket_volume": 461405,
+      "is_premarket_data": false,
+      "catalyst": "Erock (EROC) Soars 23% as Anthropic Deal Brightens Outlook",
+      "headlines": [
+        "Erock (EROC) Soars 23% as Anthropic Deal Brightens Outlook",
+        "ERock Shares Jump on Anthropic Deal"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "BRSL",
+      "price": 12.03,
+      "gap_pct": 6.41,
+      "premarket_volume": 127061,
+      "is_premarket_data": false,
+      "catalyst": "Brightstar Lottery (BRSL) Q2 2026 Earnings Call Transcript",
+      "headlines": [
+        "Brightstar Lottery (BRSL) Q2 2026 Earnings Call Transcript",
+        "Brightstar Lottery Q2 Earnings Call Highlights"
+      ]
+    }
+  ]
 }
