@@ -1,48 +1,24 @@
 {
-  "scanned_at": "2026-08-13 13:03:11",
+  "scanned_at": "2026-08-14 12:59:16",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "CSCO",
-      "company_name": "Cisco",
-      "mention_count": 7,
-      "example_headline": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway"
+      "symbol": "AMAT",
+      "company_name": "Applied Materials",
+      "mention_count": 6,
+      "example_headline": "Stock Market Today: Dow Falls After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)"
     },
     {
-      "symbol": "COHR",
-      "company_name": "Coherent Corp.",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 3,
+      "example_headline": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles"
     },
     {
-      "symbol": "LITE",
-      "company_name": "Lumentum",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally"
-    },
-    {
-      "symbol": "WELL",
-      "company_name": "Welltower",
+      "symbol": "ROK",
+      "company_name": "Rockwell Automation",
       "mention_count": 1,
-      "example_headline": "What Makes Welltower (WELL) a Bullish Bet?"
-    },
-    {
-      "symbol": "AVGO",
-      "company_name": "Broadcom",
-      "mention_count": 1,
-      "example_headline": "Broadcom (AVGO) Strengthens Market Position with Major Customers and Strategic Agreements"
-    },
-    {
-      "symbol": "SMCI",
-      "company_name": "Supermicro",
-      "mention_count": 1,
-      "example_headline": "Tech stocks today: CoreWeave and Supermicro results win over investors"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
-      "mention_count": 1,
-      "example_headline": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus"
+      "example_headline": "Rockwell Automation’s (ROK) Strength Lies in Operations"
     }
   ]
 }
