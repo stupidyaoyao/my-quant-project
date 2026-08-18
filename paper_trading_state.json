@@ -35,7 +35,7 @@
     "in_position": true,
     "entry_price": 157.04848622131348,
     "entry_date": "2026-07-30",
-    "highest_since_entry": 161.4600067138672,
+    "highest_since_entry": 165.55999755859375,
     "position_fraction": 0.27931041143519414
   },
   "PYPL": {
@@ -538,5 +538,26 @@
   },
   "DNN": {
     "in_position": false
+  },
+  "AUR": {
+    "in_position": true,
+    "entry_price": 6.153075095415115,
+    "entry_date": "2026-08-18",
+    "highest_since_entry": 6.150000095367432,
+    "position_fraction": 0.09409837094171804
+  },
+  "SAN": {
+    "in_position": true,
+    "entry_price": 14.247119771003723,
+    "entry_date": "2026-08-18",
+    "highest_since_entry": 14.239999771118164,
+    "position_fraction": 0.32536096045589485
+  },
+  "KLAR": {
+    "in_position": true,
+    "entry_price": 15.067530419826507,
+    "entry_date": "2026-08-18",
+    "highest_since_entry": 15.0600004196167,
+    "position_fraction": 0.08774579878876207
   }
 }
