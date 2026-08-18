@@ -1,36 +1,66 @@
 {
-  "scanned_at": "2026-08-17 12:37:32",
+  "scanned_at": "2026-08-18 12:38:36",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "SNDK",
       "company_name": "Sandisk",
-      "mention_count": 4,
-      "example_headline": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)"
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)"
     },
     {
-      "symbol": "WMT",
-      "company_name": "Walmart",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
       "mention_count": 2,
-      "example_headline": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire"
+      "example_headline": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)"
     },
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "NOC",
+      "company_name": "Northrop Grumman",
       "mention_count": 1,
-      "example_headline": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More"
+      "example_headline": "Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
+      "symbol": "CSCO",
+      "company_name": "Cisco",
       "mention_count": 1,
-      "example_headline": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More"
+      "example_headline": "Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)"
     },
     {
-      "symbol": "WDAY",
-      "company_name": "Workday, Inc.",
+      "symbol": "TXN",
+      "company_name": "Texas Instruments",
       "mention_count": 1,
-      "example_headline": "Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More"
+      "example_headline": "Texas Instruments Incorporated (TXN) Attractive on Strategic Advantages"
+    },
+    {
+      "symbol": "GLW",
+      "company_name": "Corning Inc.",
+      "mention_count": 1,
+      "example_headline": "Improving Demand Strengthens Corning (GLW)"
+    },
+    {
+      "symbol": "LITE",
+      "company_name": "Lumentum",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
+    },
+    {
+      "symbol": "MU",
+      "company_name": "Micron Technology",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
+    },
+    {
+      "symbol": "TPR",
+      "company_name": "Tapestry, Inc.",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
+    },
+    {
+      "symbol": "BAC",
+      "company_name": "Bank of America",
+      "mention_count": 1,
+      "example_headline": "The Stock Market Party Has Yet to End. But Rising Bond Yields Might Be the Unwanted Guest."
     }
   ]
 }
