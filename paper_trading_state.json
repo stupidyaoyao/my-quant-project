@@ -4,14 +4,14 @@
     "in_position": true,
     "entry_price": 64422.858499999995,
     "entry_date": "2026-07-25",
-    "highest_since_entry": 65320.69921875,
+    "highest_since_entry": 69121.3515625,
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 1948.56005859375,
+    "highest_since_entry": 2254.419921875,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
@@ -21,7 +21,7 @@
     "in_position": true,
     "entry_price": 309.0644586639404,
     "entry_date": "2026-07-31",
-    "highest_since_entry": 313.3299865722656,
+    "highest_since_entry": 316.8299865722656,
     "position_fraction": 0.207975135103483
   },
   "MSFT": {
@@ -182,7 +182,11 @@
     "in_position": false
   },
   "BMNR": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 20.25011977100372,
+    "entry_date": "2026-08-19",
+    "highest_since_entry": 20.239999771118164,
+    "position_fraction": 0.12992201036754286
   },
   "BAC": {
     "in_position": true,
@@ -208,7 +212,7 @@
     "in_position": true,
     "entry_price": 18.82940969467163,
     "entry_date": "2026-08-17",
-    "highest_since_entry": 18.81999969482422,
+    "highest_since_entry": 20.540000915527344,
     "position_fraction": 0.13460024144157154
   },
   "ATAI": {
@@ -282,7 +286,7 @@
     "in_position": true,
     "entry_price": 26.773380228996274,
     "entry_date": "2026-08-07",
-    "highest_since_entry": 27.049999237060547,
+    "highest_since_entry": 28.239999771118164,
     "position_fraction": 0.3517526954482469
   },
   "RKT": {
@@ -317,7 +321,11 @@
     "in_position": false
   },
   "CDE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 20.940465305328367,
+    "entry_date": "2026-08-19",
+    "highest_since_entry": 20.93000030517578,
+    "position_fraction": 0.11743039214393562
   },
   "SMCI": {
     "in_position": false
@@ -559,5 +567,22 @@
     "entry_date": "2026-08-18",
     "highest_since_entry": 15.0600004196167,
     "position_fraction": 0.08774579878876207
+  },
+  "MRNA": {
+    "in_position": true,
+    "entry_price": 174.4671948852539,
+    "entry_date": "2026-08-19",
+    "highest_since_entry": 174.3800048828125,
+    "position_fraction": 0.09998879664102028
+  },
+  "WBS": {
+    "in_position": true,
+    "entry_price": 77.60878469467163,
+    "entry_date": "2026-08-19",
+    "highest_since_entry": 77.56999969482422,
+    "position_fraction": 0.7134935719302996
+  },
+  "MSTR": {
+    "in_position": false
   }
 }
