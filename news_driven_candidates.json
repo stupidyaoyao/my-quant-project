@@ -1,66 +1,66 @@
 {
-  "scanned_at": "2026-08-18 12:38:36",
+  "scanned_at": "2026-08-19 12:39:56",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 4,
+      "example_headline": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat"
+    },
+    {
+      "symbol": "MRNA",
+      "company_name": "Moderna",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)"
+      "example_headline": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)"
     },
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Tech Futures Sink As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)"
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)"
     },
     {
-      "symbol": "NOC",
-      "company_name": "Northrop Grumman",
-      "mention_count": 1,
-      "example_headline": "Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 3,
+      "example_headline": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat"
     },
     {
-      "symbol": "CSCO",
-      "company_name": "Cisco",
+      "symbol": "AVGO",
+      "company_name": "Broadcom",
       "mention_count": 1,
-      "example_headline": "Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)"
+      "example_headline": "Billionaire Cathie Wood's Ark Invest Bought $27 Million of Nvidia and $16 Million of Broadcom During the Recent Sell-Off. Is Now the Time to Follow Her Lead?"
     },
     {
-      "symbol": "TXN",
-      "company_name": "Texas Instruments",
+      "symbol": "CIEN",
+      "company_name": "Ciena",
       "mention_count": 1,
-      "example_headline": "Texas Instruments Incorporated (TXN) Attractive on Strategic Advantages"
+      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
     },
     {
-      "symbol": "GLW",
-      "company_name": "Corning Inc.",
+      "symbol": "CME",
+      "company_name": "CME Group",
       "mention_count": 1,
-      "example_headline": "Improving Demand Strengthens Corning (GLW)"
+      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
     },
     {
-      "symbol": "LITE",
-      "company_name": "Lumentum",
+      "symbol": "DLTR",
+      "company_name": "Dollar Tree",
       "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
+      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
     },
     {
-      "symbol": "MU",
-      "company_name": "Micron Technology",
+      "symbol": "HONA",
+      "company_name": "Honeywell Aerospace",
       "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
+      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
     },
     {
-      "symbol": "TPR",
-      "company_name": "Tapestry, Inc.",
+      "symbol": "IVZ",
+      "company_name": "Invesco",
       "mention_count": 1,
-      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, America Movil, Bath & Body Works, Duolingo, Gorilla Technology, Lumentum Holdings, Micron Technology, Tapestry,and More"
-    },
-    {
-      "symbol": "BAC",
-      "company_name": "Bank of America",
-      "mention_count": 1,
-      "example_headline": "The Stock Market Party Has Yet to End. But Rising Bond Yields Might Be the Unwanted Guest."
+      "example_headline": "Invesco Nasdaq Biotech vs. Invesco Pharma: How Do These ETFs Stack Up?"
     }
   ]
 }
