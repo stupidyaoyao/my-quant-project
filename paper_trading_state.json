@@ -4,14 +4,14 @@
     "in_position": true,
     "entry_price": 64422.858499999995,
     "entry_date": "2026-07-25",
-    "highest_since_entry": 69121.3515625,
+    "highest_since_entry": 72700.046875,
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 2254.419921875,
+    "highest_since_entry": 2312.85009765625,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
@@ -35,14 +35,14 @@
     "in_position": true,
     "entry_price": 157.04848622131348,
     "entry_date": "2026-07-30",
-    "highest_since_entry": 165.55999755859375,
+    "highest_since_entry": 166.14999389648438,
     "position_fraction": 0.27931041143519414
   },
   "PYPL": {
     "in_position": true,
     "entry_price": 56.78499984741211,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 61.65999984741211,
+    "highest_since_entry": 62.29999923706055,
     "position_fraction": 0.18285079928952044
   },
   "INTC": {
@@ -185,7 +185,7 @@
     "in_position": true,
     "entry_price": 20.25011977100372,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 20.239999771118164,
+    "highest_since_entry": 21.56999969482422,
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
@@ -205,7 +205,7 @@
     "in_position": true,
     "entry_price": 4.739999771118164,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 6.210000038146973,
+    "highest_since_entry": 8.989999771118164,
     "position_fraction": 0.09178422466429231
   },
   "HL": {
@@ -538,7 +538,7 @@
     "in_position": true,
     "entry_price": 17.468729084014893,
     "entry_date": "2026-08-13",
-    "highest_since_entry": 17.459999084472656,
+    "highest_since_entry": 17.959999084472656,
     "position_fraction": 0.21859159599709968
   },
   "NKE": {
@@ -583,6 +583,22 @@
     "position_fraction": 0.7134935719302996
   },
   "MSTR": {
+    "in_position": false
+  },
+  "WMT": {
+    "in_position": false
+  },
+  "BULL": {
+    "in_position": true,
+    "entry_price": 8.85442538166046,
+    "entry_date": "2026-08-20",
+    "highest_since_entry": 8.850000381469727,
+    "position_fraction": 0.14168095692186883
+  },
+  "PURR": {
+    "in_position": false
+  },
+  "VALE": {
     "in_position": false
   }
 }
