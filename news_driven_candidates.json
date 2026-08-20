@@ -1,66 +1,30 @@
 {
-  "scanned_at": "2026-08-19 12:39:56",
+  "scanned_at": "2026-08-20 12:41:52",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 4,
-      "example_headline": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat"
+      "symbol": "WMT",
+      "company_name": "Walmart",
+      "mention_count": 7,
+      "example_headline": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)"
     },
     {
       "symbol": "MRNA",
       "company_name": "Moderna",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)"
+      "mention_count": 2,
+      "example_headline": "BofA upgrades Moderna after 177% rally driven by cancer vaccine breakthrough"
     },
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Rises Ahead Of Fed Minutes; Moderna Soars On Cancer Drug News (Live Coverage)"
-    },
-    {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 3,
-      "example_headline": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat"
-    },
-    {
-      "symbol": "AVGO",
-      "company_name": "Broadcom",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "Billionaire Cathie Wood's Ark Invest Bought $27 Million of Nvidia and $16 Million of Broadcom During the Recent Sell-Off. Is Now the Time to Follow Her Lead?"
+      "example_headline": "1 Healthcare Stock to Target This Week and 2 Facing Headwinds"
     },
     {
-      "symbol": "CIEN",
-      "company_name": "Ciena",
+      "symbol": "BAC",
+      "company_name": "Bank of America",
       "mention_count": 1,
-      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
-    },
-    {
-      "symbol": "CME",
-      "company_name": "CME Group",
-      "mention_count": 1,
-      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
-    },
-    {
-      "symbol": "DLTR",
-      "company_name": "Dollar Tree",
-      "mention_count": 1,
-      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
-    },
-    {
-      "symbol": "HONA",
-      "company_name": "Honeywell Aerospace",
-      "mention_count": 1,
-      "example_headline": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More"
-    },
-    {
-      "symbol": "IVZ",
-      "company_name": "Invesco",
-      "mention_count": 1,
-      "example_headline": "Invesco Nasdaq Biotech vs. Invesco Pharma: How Do These ETFs Stack Up?"
+      "example_headline": "BofA upgrades Moderna after 177% rally driven by cancer vaccine breakthrough"
     }
   ]
 }
