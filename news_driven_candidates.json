@@ -1,66 +1,24 @@
 {
-  "scanned_at": "2026-08-21 12:39:58",
+  "scanned_at": "2026-08-24 12:42:52",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 4,
-      "example_headline": "Here's what Nvidia needs to do to unlock an even better stock valuation"
+      "mention_count": 12,
+      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq futures slip after US-Canada talks break down"
     },
     {
-      "symbol": "WMT",
-      "company_name": "Walmart",
-      "mention_count": 4,
-      "example_headline": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck"
+      "symbol": "AMGN",
+      "company_name": "Amgen",
+      "mention_count": 3,
+      "example_headline": "Beat the Market Like Zacks: Amgen, FirstCash, Delek in Focus"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 2,
-      "example_headline": "SpaceX Stock Just Earned Another Sell Rating. Why It Could Fall 25%."
-    },
-    {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
+      "symbol": "MS",
+      "company_name": "Morgan Stanley",
       "mention_count": 1,
-      "example_headline": "Bonds, Cryptos, Moderna Play Havoc With Markets. 2 Reasons for More Chaos."
-    },
-    {
-      "symbol": "MRNA",
-      "company_name": "Moderna",
-      "mention_count": 1,
-      "example_headline": "Bonds, Cryptos, Moderna Play Havoc With Markets. 2 Reasons for More Chaos."
-    },
-    {
-      "symbol": "AVGO",
-      "company_name": "Broadcom",
-      "mention_count": 1,
-      "example_headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More"
-    },
-    {
-      "symbol": "EFX",
-      "company_name": "Equifax",
-      "mention_count": 1,
-      "example_headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More"
-    },
-    {
-      "symbol": "MRVL",
-      "company_name": "Marvell Technology",
-      "mention_count": 1,
-      "example_headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More"
-    },
-    {
-      "symbol": "TER",
-      "company_name": "Teradyne",
-      "mention_count": 1,
-      "example_headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More"
-    },
-    {
-      "symbol": "ROST",
-      "company_name": "Ross Stores",
-      "mention_count": 1,
-      "example_headline": "Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast"
+      "example_headline": "This S&P 500 sector offers the best hedge against rising oil prices"
     }
   ]
 }
