@@ -4,7 +4,7 @@
     "in_position": true,
     "entry_price": 64422.858499999995,
     "entry_date": "2026-07-25",
-    "highest_since_entry": 78245.0703125,
+    "highest_since_entry": 78854.15625,
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
@@ -127,7 +127,11 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.772884980916976,
+    "entry_date": "2026-08-24",
+    "highest_since_entry": 5.769999980926514,
+    "position_fraction": 0.15862547447885805
   },
   "RIVN": {
     "in_position": false
@@ -185,7 +189,7 @@
     "in_position": true,
     "entry_price": 20.25011977100372,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 22.829999923706055,
+    "highest_since_entry": 24.139999389648438,
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
@@ -293,7 +297,11 @@
     "in_position": false
   },
   "SNAP": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.532765209913253,
+    "entry_date": "2026-08-24",
+    "highest_since_entry": 5.53000020980835,
+    "position_fraction": 0.13804045008282903
   },
   "KEEL": {
     "in_position": false
@@ -312,7 +320,11 @@
     "position_fraction": 0.08968750757184708
   },
   "ACHR": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 6.0730351717472075,
+    "entry_date": "2026-08-24",
+    "highest_since_entry": 6.070000171661377,
+    "position_fraction": 0.07426050214765281
   },
   "WBD": {
     "in_position": false
@@ -480,7 +492,11 @@
     "position_fraction": 0.12304744647356856
   },
   "BTG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.722859790086746,
+    "entry_date": "2026-08-24",
+    "highest_since_entry": 5.71999979019165,
+    "position_fraction": 0.14351259362232197
   },
   "DOCS": {
     "in_position": true,
