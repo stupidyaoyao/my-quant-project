@@ -66,7 +66,7 @@
     "in_position": true,
     "entry_price": 16.478234313011168,
     "entry_date": "2026-07-30",
-    "highest_since_entry": 18.90999984741211,
+    "highest_since_entry": 19.0,
     "position_fraction": 0.12128766341754749
   },
   "AAL": {
@@ -86,7 +86,11 @@
     "in_position": false
   },
   "ONDS": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 8.244119771003723,
+    "entry_date": "2026-08-25",
+    "highest_since_entry": 8.239999771118164,
+    "position_fraction": 0.0935604160974496
   },
   "PLUG": {
     "in_position": false
@@ -189,7 +193,7 @@
     "in_position": true,
     "entry_price": 20.25011977100372,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 24.139999389648438,
+    "highest_since_entry": 24.81999969482422,
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
@@ -300,7 +304,7 @@
     "in_position": true,
     "entry_price": 5.532765209913253,
     "entry_date": "2026-08-24",
-    "highest_since_entry": 5.53000020980835,
+    "highest_since_entry": 5.920000076293945,
     "position_fraction": 0.13804045008282903
   },
   "KEEL": {
@@ -310,7 +314,11 @@
     "in_position": false
   },
   "GRAB": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 3.5817899236679076,
+    "entry_date": "2026-08-25",
+    "highest_since_entry": 3.5799999237060547,
+    "position_fraction": 0.20436292164247047
   },
   "AMC": {
     "in_position": true,
@@ -336,14 +344,14 @@
     "in_position": true,
     "entry_price": 20.940465305328367,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 20.969999313354492,
+    "highest_since_entry": 21.59000015258789,
     "position_fraction": 0.11743039214393562
   },
   "SMCI": {
     "in_position": true,
     "entry_price": 37.25862167930603,
     "entry_date": "2026-08-21",
-    "highest_since_entry": 37.2400016784668,
+    "highest_since_entry": 38.459999084472656,
     "position_fraction": 0.09741405958700664
   },
   "SMR": {
@@ -495,7 +503,7 @@
     "in_position": true,
     "entry_price": 5.722859790086746,
     "entry_date": "2026-08-24",
-    "highest_since_entry": 5.71999979019165,
+    "highest_since_entry": 5.869999885559082,
     "position_fraction": 0.14351259362232197
   },
   "DOCS": {
@@ -565,7 +573,11 @@
     "in_position": false
   },
   "DNN": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 3.7218600286245342,
+    "entry_date": "2026-08-25",
+    "highest_since_entry": 3.7200000286102295,
+    "position_fraction": 0.14406642877564607
   },
   "AUR": {
     "in_position": true,
@@ -622,6 +634,9 @@
     "in_position": false
   },
   "HOOD": {
+    "in_position": false
+  },
+  "DKS": {
     "in_position": false
   }
 }
