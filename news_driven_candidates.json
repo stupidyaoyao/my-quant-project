@@ -1,24 +1,30 @@
 {
-  "scanned_at": "2026-08-24 12:42:52",
+  "scanned_at": "2026-08-25 12:41:07",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 12,
-      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq futures slip after US-Canada talks break down"
+      "mention_count": 8,
+      "example_headline": "Nvidia stock is on a 7-day losing streak ahead of its big earnings report"
     },
     {
-      "symbol": "AMGN",
-      "company_name": "Amgen",
-      "mention_count": 3,
-      "example_headline": "Beat the Market Like Zacks: Amgen, FirstCash, Delek in Focus"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)"
     },
     {
-      "symbol": "MS",
-      "company_name": "Morgan Stanley",
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 2,
+      "example_headline": "Premarket movers: AMD upgraded, Bloom energy surges"
+    },
+    {
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
       "mention_count": 1,
-      "example_headline": "This S&P 500 sector offers the best hedge against rising oil prices"
+      "example_headline": "Premarket movers: AMD upgraded, Bloom energy surges"
     }
   ]
 }
