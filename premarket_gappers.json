@@ -1,4 +1,30 @@
 {
-  "scanned_at": "2026-08-25 13:01:01",
-  "gappers": []
+  "scanned_at": "2026-08-26 13:06:22",
+  "gappers": [
+    {
+      "rank": 1,
+      "symbol": "PLBL",
+      "price": 6.09,
+      "gap_pct": 7.41,
+      "premarket_volume": 204059,
+      "is_premarket_data": false,
+      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
+      "headlines": [
+        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
+      ]
+    },
+    {
+      "rank": 2,
+      "symbol": "COAG",
+      "price": 49.65,
+      "gap_pct": 6.39,
+      "premarket_volume": 527133,
+      "is_premarket_data": false,
+      "catalyst": "Sector Update: Healthcare Stocks Advance Late Afternoon",
+      "headlines": [
+        "Sector Update: Healthcare Stocks Advance Late Afternoon",
+        "Hemab Therapeutics Details Post-IPO Pipeline Push, Sutacimig Phase III Plans"
+      ]
+    }
+  ]
 }
