@@ -1,30 +1,42 @@
 {
-  "scanned_at": "2026-08-26 12:44:41",
+  "scanned_at": "2026-08-27 21:43:01",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 22,
-      "example_headline": "4 reasons Nvidia stock is lagging"
+      "mention_count": 21,
+      "example_headline": "Stock Market Today, Aug. 27: Nvidia Surges on Blowout Results and Surprising Guidance"
+    },
+    {
+      "symbol": "CRWD",
+      "company_name": "CrowdStrike",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
+    },
+    {
+      "symbol": "IBM",
+      "company_name": "IBM",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
+    },
+    {
+      "symbol": "CRM",
+      "company_name": "Salesforce",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
     },
     {
       "symbol": "INTC",
       "company_name": "Intel",
-      "mention_count": 4,
-      "example_headline": "Market Braces for Crunch Nvidia Earnings, PCE Report. Stock Futures Fall."
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
-      "mention_count": 2,
-      "example_headline": "Premarket movers: Nvidia in focus, Intuit slides and Semtech surges"
-    },
-    {
-      "symbol": "AMGN",
-      "company_name": "Amgen",
       "mention_count": 1,
-      "example_headline": "2 Reasons to Like AMGN (and 1 Not So Much)"
+      "example_headline": "Chipmakers are outshining Big Tech in the AI rally"
     }
   ]
 }
