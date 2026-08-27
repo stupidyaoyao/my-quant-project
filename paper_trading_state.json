@@ -15,7 +15,11 @@
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 711.7256801147461,
+    "entry_date": "2026-08-26",
+    "highest_since_entry": 711.3699951171875,
+    "position_fraction": 0.592872301037528
   },
   "AAPL": {
     "in_position": true,
@@ -76,7 +80,7 @@
     "in_position": true,
     "entry_price": 11.680000305175781,
     "entry_date": "2026-07-10",
-    "highest_since_entry": 16.68000030517578,
+    "highest_since_entry": 16.760000228881836,
     "position_fraction": 0.12487211203501135
   },
   "FRMI": {
@@ -112,11 +116,7 @@
     "in_position": false
   },
   "BBD": {
-    "in_position": true,
-    "entry_price": 3.091544914126396,
-    "entry_date": "2026-08-17",
-    "highest_since_entry": 3.0899999141693115,
-    "position_fraction": 0.21858347691893706
+    "in_position": false
   },
   "NFLX": {
     "in_position": false
@@ -193,7 +193,7 @@
     "in_position": true,
     "entry_price": 20.25011977100372,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 24.81999969482422,
+    "highest_since_entry": 24.90999984741211,
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
@@ -220,7 +220,7 @@
     "in_position": true,
     "entry_price": 18.82940969467163,
     "entry_date": "2026-08-17",
-    "highest_since_entry": 20.540000915527344,
+    "highest_since_entry": 20.700000762939453,
     "position_fraction": 0.13460024144157154
   },
   "ATAI": {
@@ -317,7 +317,7 @@
     "in_position": true,
     "entry_price": 3.5817899236679076,
     "entry_date": "2026-08-25",
-    "highest_since_entry": 3.5799999237060547,
+    "highest_since_entry": 3.640000104904175,
     "position_fraction": 0.20436292164247047
   },
   "AMC": {
@@ -403,7 +403,11 @@
     "in_position": false
   },
   "BSX": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 48.194083168029785,
+    "entry_date": "2026-08-26",
+    "highest_since_entry": 48.16999816894531,
+    "position_fraction": 0.18977912538371075
   },
   "BE": {
     "in_position": false
