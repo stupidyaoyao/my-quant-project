@@ -1,29 +1,134 @@
 {
-  "scanned_at": "2026-08-26 13:06:22",
+  "scanned_at": "2026-08-27 22:10:33",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "PLBL",
-      "price": 6.09,
-      "gap_pct": 7.41,
-      "premarket_volume": 204059,
+      "symbol": "OKTA",
+      "price": 172.91,
+      "gap_pct": 28.63,
+      "premarket_volume": 16326436,
       "is_premarket_data": false,
-      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
+      "catalyst": "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
       "headlines": [
-        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
+        "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
+        "CrowdStrike vs. Okta: Which Cybersecurity Stock Is the Better Buy After Q2 Earnings?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "COAG",
-      "price": 49.65,
-      "gap_pct": 6.39,
-      "premarket_volume": 527133,
+      "symbol": "CRM",
+      "price": 252.05,
+      "gap_pct": 22.58,
+      "premarket_volume": 55409963,
       "is_premarket_data": false,
-      "catalyst": "Sector Update: Healthcare Stocks Advance Late Afternoon",
+      "catalyst": "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
       "headlines": [
-        "Sector Update: Healthcare Stocks Advance Late Afternoon",
-        "Hemab Therapeutics Details Post-IPO Pipeline Push, Sutacimig Phase III Plans"
+        "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
+        "AI Winner or Victim? Inside Salesforce's Q2 earnings"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "CRWD",
+      "price": 227.96,
+      "gap_pct": 20.5,
+      "premarket_volume": 23369966,
+      "is_premarket_data": false,
+      "catalyst": "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
+      "headlines": [
+        "Tech investors are looking at AI with 'more nuance' as it fuels software demand",
+        "CrowdStrike vs. Okta: Which Cybersecurity Stock Is the Better Buy After Q2 Earnings?"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "VEEV",
+      "price": 282.13,
+      "gap_pct": 15.2,
+      "premarket_volume": 6408234,
+      "is_premarket_data": false,
+      "catalyst": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today’s Market",
+      "headlines": [
+        "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today’s Market",
+        "Veeva Systems Executing Successfully Across CRM, AI, Commercial Cloud, Truist Securities Says"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "SNPS",
+      "price": 464.89,
+      "gap_pct": 13.39,
+      "premarket_volume": 4068779,
+      "is_premarket_data": false,
+      "catalyst": "Tech, Media & Telecom Roundup: Market Talk",
+      "headlines": [
+        "Tech, Media & Telecom Roundup: Market Talk",
+        "SNPS Q3 Earnings Call Highlights EDA Acceleration, Outlook Raised"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "FIG",
+      "price": 30.62,
+      "gap_pct": 13.28,
+      "premarket_volume": 27511908,
+      "is_premarket_data": false,
+      "catalyst": "Anthropic Weighs Shareholder Sales In Mega-IPO, Breaking From SpaceX: Report",
+      "headlines": [
+        "Anthropic Weighs Shareholder Sales In Mega-IPO, Breaking From SpaceX: Report",
+        "Figma Stock Price Prediction: Wall Street’s $30 Target May Be Too Low"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "PANW",
+      "price": 382.85,
+      "gap_pct": 12.83,
+      "premarket_volume": 7294515,
+      "is_premarket_data": false,
+      "catalyst": "CrowdStrike vs. Okta: Which Cybersecurity Stock Is the Better Buy After Q2 Earnings?",
+      "headlines": [
+        "CrowdStrike vs. Okta: Which Cybersecurity Stock Is the Better Buy After Q2 Earnings?",
+        "SNPS Q3 Earnings Beat Estimates on EDA and Ansys Strength"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "SAIL",
+      "price": 20.45,
+      "gap_pct": 12.24,
+      "premarket_volume": 8438179,
+      "is_premarket_data": false,
+      "catalyst": "Palo Alto Networks, Okta, SailPoint Seen Benefiting as Agentic Identity Security Shifts to Platforms, Morgan Stanley Says",
+      "headlines": [
+        "Palo Alto Networks, Okta, SailPoint Seen Benefiting as Agentic Identity Security Shifts to Platforms, Morgan Stanley Says",
+        "SailPoint (SAIL) Holds A Special Call, Is The Stock Already Overvalued?"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "FROG",
+      "price": 104.03,
+      "gap_pct": 12.1,
+      "premarket_volume": 3822238,
+      "is_premarket_data": false,
+      "catalyst": "Dow Jones Futures: Market Rallies Into Fed Chief Warsh; Nvidia Jumps, But This Sector Is On Fire",
+      "headlines": [
+        "Dow Jones Futures: Market Rallies Into Fed Chief Warsh; Nvidia Jumps, But This Sector Is On Fire",
+        "2 Software Stocks to Target This Week and 1 We Brush Off"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "MAAS",
+      "price": 16.54,
+      "gap_pct": 11.83,
+      "premarket_volume": 126438,
+      "is_premarket_data": false,
+      "catalyst": "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
+      "headlines": [
+        "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge",
+        "Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Thursday Trading"
       ]
     }
   ]
