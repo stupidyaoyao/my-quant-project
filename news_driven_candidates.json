@@ -1,42 +1,30 @@
 {
-  "scanned_at": "2026-08-27 21:43:01",
+  "scanned_at": "2026-08-28 21:42:32",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 21,
-      "example_headline": "Stock Market Today, Aug. 27: Nvidia Surges on Blowout Results and Surprising Guidance"
-    },
-    {
-      "symbol": "CRWD",
-      "company_name": "CrowdStrike",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
-    },
-    {
-      "symbol": "IBM",
-      "company_name": "IBM",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
+      "symbol": "PYPL",
+      "company_name": "PayPal",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today, Aug. 28: PayPal Falls 13% After Stripe and Advent Abandon $50B Takeover"
     },
     {
       "symbol": "MSFT",
       "company_name": "Microsoft",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures: Microsoft, Titans Mask Market Weakness. Here's What To Do."
     },
     {
-      "symbol": "CRM",
-      "company_name": "Salesforce",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
+      "symbol": "XOM",
+      "company_name": "ExxonMobil",
       "mention_count": 1,
-      "example_headline": "Chipmakers are outshining Big Tech in the AI rally"
+      "example_headline": "The Number ExxonMobil No Longer Puts In Front Of Its Results"
+    },
+    {
+      "symbol": "PANW",
+      "company_name": "Palo Alto Networks",
+      "mention_count": 1,
+      "example_headline": "Palo Alto Networks Stock Surged With The Whole Security Group"
     }
   ]
 }
