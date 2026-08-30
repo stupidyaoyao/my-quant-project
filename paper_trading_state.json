@@ -36,10 +36,18 @@
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 156.78836171722412,
+    "entry_date": "2026-08-28",
+    "highest_since_entry": 156.7100067138672,
+    "position_fraction": 0.34394261678921206
   },
   "PYPL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 53.686829847335815,
+    "entry_date": "2026-08-28",
+    "highest_since_entry": 53.65999984741211,
+    "position_fraction": 0.18281678668908746
   },
   "INTC": {
     "in_position": false
