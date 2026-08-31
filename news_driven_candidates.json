@@ -1,30 +1,54 @@
 {
-  "scanned_at": "2026-08-28 21:42:32",
+  "scanned_at": "2026-08-31 18:44:17",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "PYPL",
-      "company_name": "PayPal",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today, Aug. 28: PayPal Falls 13% After Stripe and Advent Abandon $50B Takeover"
+      "symbol": "PCG",
+      "company_name": "PG&E Corporation",
+      "mention_count": 3,
+      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
     },
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures: Microsoft, Titans Mask Market Weakness. Here's What To Do."
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 3,
+      "example_headline": "Tim Cook’s Tough Act to Follow at Apple"
     },
     {
-      "symbol": "XOM",
-      "company_name": "ExxonMobil",
+      "symbol": "EIX",
+      "company_name": "Edison International",
       "mention_count": 1,
-      "example_headline": "The Number ExxonMobil No Longer Puts In Front Of Its Results"
+      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
     },
     {
-      "symbol": "PANW",
-      "company_name": "Palo Alto Networks",
+      "symbol": "SRE",
+      "company_name": "Sempra",
       "mention_count": 1,
-      "example_headline": "Palo Alto Networks Stock Surged With The Whole Security Group"
+      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+    },
+    {
+      "symbol": "SO",
+      "company_name": "Southern Company",
+      "mention_count": 1,
+      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+    },
+    {
+      "symbol": "ICE",
+      "company_name": "Intercontinental Exchange",
+      "mention_count": 1,
+      "example_headline": "ICE Stock Trades at 8.3% Discount to 52-Week High: More Upside Left?"
+    },
+    {
+      "symbol": "SNA",
+      "company_name": "Snap-on",
+      "mention_count": 1,
+      "example_headline": "3 Reasons SNA is Risky and 1 Stock to Buy Instead"
+    },
+    {
+      "symbol": "TTWO",
+      "company_name": "Take-Two Interactive",
+      "mention_count": 1,
+      "example_headline": "Why Take-Two Interactive Stock Is Sinking Today"
     }
   ]
 }
