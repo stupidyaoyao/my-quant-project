@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-08-28 22:10:36",
+  "scanned_at": "2026-08-31 19:04:39",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ESTC",
-      "price": 99.91,
-      "gap_pct": 19.31,
-      "premarket_volume": 10104560,
+      "symbol": "ASST",
+      "price": 24.2,
+      "gap_pct": 11.33,
+      "premarket_volume": 11755663,
       "is_premarket_data": false,
-      "catalyst": "Why Is Elastic (ESTC) Stock Rocketing Higher Today",
+      "catalyst": "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
       "headlines": [
-        "Why Is Elastic (ESTC) Stock Rocketing Higher Today",
-        "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today’s Market"
+        "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
+        "The Smallest Bitcoin Treasury Stock Saw A Bigger August Than Strategy — While GME Sits Out"
       ]
     },
     {
       "rank": 2,
-      "symbol": "GAP",
-      "price": 23.48,
-      "gap_pct": 12.94,
-      "premarket_volume": 26351139,
+      "symbol": "CRCL",
+      "price": 94.67,
+      "gap_pct": 8.64,
+      "premarket_volume": 11552105,
       "is_premarket_data": false,
-      "catalyst": "What Gap’s shoppers are telling investors about the consumer",
+      "catalyst": "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%",
       "headlines": [
-        "What Gap’s shoppers are telling investors about the consumer",
-        "Stocks to Watch Recap: PayPal, Marvell, Gap, Amazon"
+        "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%",
+        "BlackRock's BUIDL Reclaims Top Spot for Tokenized Treasuries, Bolstering RWA Market"
       ]
     },
     {
       "rank": 3,
-      "symbol": "SOLS",
-      "price": 63.53,
-      "gap_pct": 12.76,
-      "premarket_volume": 16437232,
+      "symbol": "STDN",
+      "price": 15.21,
+      "gap_pct": 7.91,
+      "premarket_volume": 1098303,
       "is_premarket_data": false,
-      "catalyst": "Solstice Stock Jumps After Calling Off a Major Acquisition",
+      "catalyst": "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
       "headlines": [
-        "Solstice Stock Jumps After Calling Off a Major Acquisition",
-        "Element Solutions & Solstice Mutually End Merger Agreement"
+        "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
+        "Standard Nuclear (STDN) Stock Climbed, So What Is Driving Attention Today?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "TOP",
-      "price": 16.73,
-      "gap_pct": 8.5,
-      "premarket_volume": 246943,
+      "symbol": "CHA",
+      "price": 11.61,
+      "gap_pct": 7.5,
+      "premarket_volume": 3213229,
       "is_premarket_data": false,
-      "catalyst": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes",
+      "catalyst": "Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary",
       "headlines": [
-        "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes",
-        "TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
+        "Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary",
+        "Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ..."
       ]
     },
     {
       "rank": 5,
-      "symbol": "TRLV",
-      "price": 11.82,
-      "gap_pct": 7.16,
-      "premarket_volume": 1363138,
+      "symbol": "CAR",
+      "price": 148.4,
+      "gap_pct": 7.44,
+      "premarket_volume": 241379,
       "is_premarket_data": false,
-      "catalyst": "Trulieve Cannabis Q2 Earnings Call Highlights",
+      "catalyst": "Avis Budget Group (CAR) Stock Looks Like A Bargain On Sales But Weaker On Returns",
       "headlines": [
-        "Trulieve Cannabis Q2 Earnings Call Highlights",
-        "Trulieve Cannabis (TRLV) Reports Steeper Losses And Lower Sales, Is The Valuation Discount Justified?"
+        "Avis Budget Group (CAR) Stock Looks Like A Bargain On Sales But Weaker On Returns",
+        "Zohran Mamdani Cracks Down on NYC Car Rental Companies, Issues 56 Summonses Over Hidden Fees: Warns Businesses to Tell People the 'Real Price'"
       ]
     },
     {
       "rank": 6,
-      "symbol": "FLUT",
-      "price": 101.78,
-      "gap_pct": 7.13,
-      "premarket_volume": 3015667,
+      "symbol": "XE",
+      "price": 18.41,
+      "gap_pct": 6.91,
+      "premarket_volume": 4868698,
       "is_premarket_data": false,
-      "catalyst": "DKNG Soars Nearly 10%, FLUT Jumps 8% — DraftKings, Flutter Entertainment Rally On Ruling That Sports Bets Aren’t Swaps",
+      "catalyst": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?",
       "headlines": [
-        "DKNG Soars Nearly 10%, FLUT Jumps 8% — DraftKings, Flutter Entertainment Rally On Ruling That Sports Bets Aren’t Swaps",
-        "DraftKings vs. Flutter: Which Stock Has Better Growth Prospects?"
+        "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?",
+        "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?"
       ]
     },
     {
       "rank": 7,
-      "symbol": "WDAY",
-      "price": 204.72,
-      "gap_pct": 5.76,
-      "premarket_volume": 8655791,
+      "symbol": "ASND",
+      "price": 264.15,
+      "gap_pct": 6.55,
+      "premarket_volume": 731928,
       "is_premarket_data": false,
-      "catalyst": "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today’s Market",
+      "catalyst": "ASND, BMRN Stocks Rise: Street Calls Patent Peace A Clean Overhang Lift, Keep Ratings Unchanged",
       "headlines": [
-        "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today’s Market",
-        "Stocks to Watch Recap: PayPal, Marvell, Gap, Amazon"
+        "ASND, BMRN Stocks Rise: Street Calls Patent Peace A Clean Overhang Lift, Keep Ratings Unchanged",
+        "European Equities Traded in the US as American Depositary Receipts Edge Lower in Monday Trading"
       ]
     },
     {
       "rank": 8,
-      "symbol": "DPZ",
-      "price": 350.0,
-      "gap_pct": 5.4,
-      "premarket_volume": 1037349,
+      "symbol": "RBLX",
+      "price": 40.89,
+      "gap_pct": 6.13,
+      "premarket_volume": 10744400,
       "is_premarket_data": false,
-      "catalyst": "Wendy’s Stock Has Plunged, but History Shows How It Could Come Back",
+      "catalyst": "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
       "headlines": [
-        "Wendy’s Stock Has Plunged, but History Shows How It Could Come Back",
-        "Domino’s Pizza Rallies 5%, Chipotle Edges Higher: Does a Low P/E Signal Value After a 19% YTD Drop?"
+        "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
+        "Can Gaming Become the Next Revenue Pillar for Netflix Stock?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "LULU",
-      "price": 120.81,
-      "gap_pct": 5.05,
-      "premarket_volume": 3900557,
+      "symbol": "COIN",
+      "price": 189.33,
+      "gap_pct": 5.98,
+      "premarket_volume": 5560827,
       "is_premarket_data": false,
-      "catalyst": "6 things investors need to watch in the week ahead",
+      "catalyst": "Nvidia’s Scarcity Runs Out in Five Years: ‘A Chip Designed by OpenAI, by AI’",
       "headlines": [
-        "6 things investors need to watch in the week ahead",
-        "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today’s Market"
+        "Nvidia’s Scarcity Runs Out in Five Years: ‘A Chip Designed by OpenAI, by AI’",
+        "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CVI",
-      "price": 41.76,
-      "gap_pct": 5.03,
-      "premarket_volume": 929667,
+      "symbol": "BBAR",
+      "price": 15.29,
+      "gap_pct": 5.7,
+      "premarket_volume": 964845,
       "is_premarket_data": false,
-      "catalyst": "Carl Icahn Trims Stakes in JetBlue and American Electric Power",
+      "catalyst": "Banco BBVA Argentina SA (BBAR) (Q2 2026) Earnings Call Highlights: Net Income Surges 44. ...",
       "headlines": [
-        "Carl Icahn Trims Stakes in JetBlue and American Electric Power",
-        "CVR Energy (CVI) Draws Options Attention, Is The Upside Already Priced In?"
+        "Banco BBVA Argentina SA (BBAR) (Q2 2026) Earnings Call Highlights: Net Income Surges 44. ...",
+        "BBVA Banco Frances Q2 Earnings Call Highlights"
       ]
     }
   ]
