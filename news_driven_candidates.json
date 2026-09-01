@@ -1,54 +1,54 @@
 {
-  "scanned_at": "2026-08-31 18:44:17",
+  "scanned_at": "2026-09-01 16:01:54",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "PCG",
-      "company_name": "PG&E Corporation",
-      "mention_count": 3,
-      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 5,
+      "example_headline": "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)"
     },
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 3,
-      "example_headline": "Tim Cook’s Tough Act to Follow at Apple"
+      "symbol": "KEYS",
+      "company_name": "Keysight Technologies",
+      "mention_count": 2,
+      "example_headline": "Buy 5 AI-Powered Momentum Stocks for September After a Strong August"
     },
     {
-      "symbol": "EIX",
-      "company_name": "Edison International",
+      "symbol": "SMCI",
+      "company_name": "Supermicro",
+      "mention_count": 2,
+      "example_headline": "Buy 5 AI-Powered Momentum Stocks for September After a Strong August"
+    },
+    {
+      "symbol": "GOOG",
+      "company_name": "Alphabet Inc. (Class C)",
       "mention_count": 1,
-      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+      "example_headline": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue"
     },
     {
-      "symbol": "SRE",
-      "company_name": "Sempra",
+      "symbol": "MSCI",
+      "company_name": "MSCI",
       "mention_count": 1,
-      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+      "example_headline": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue"
     },
     {
-      "symbol": "SO",
-      "company_name": "Southern Company",
+      "symbol": "AMZN",
+      "company_name": "Amazon",
       "mention_count": 1,
-      "example_headline": "California Utility Stocks Plummet After Wildfire Legislation Announced"
+      "example_headline": "Why SpaceX Is the Next Amazon—and What It Means for the Stock"
     },
     {
-      "symbol": "ICE",
-      "company_name": "Intercontinental Exchange",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "ICE Stock Trades at 8.3% Discount to 52-Week High: More Upside Left?"
+      "example_headline": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50"
     },
     {
-      "symbol": "SNA",
-      "company_name": "Snap-on",
+      "symbol": "UBER",
+      "company_name": "Uber",
       "mention_count": 1,
-      "example_headline": "3 Reasons SNA is Risky and 1 Stock to Buy Instead"
-    },
-    {
-      "symbol": "TTWO",
-      "company_name": "Take-Two Interactive",
-      "mention_count": 1,
-      "example_headline": "Why Take-Two Interactive Stock Is Sinking Today"
+      "example_headline": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50"
     }
   ]
 }
