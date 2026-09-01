@@ -25,7 +25,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 319.70001220703125,
+    "highest_since_entry": 325.1300048828125,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -39,7 +39,7 @@
     "in_position": true,
     "entry_price": 156.78836171722412,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 160.9499969482422,
+    "highest_since_entry": 164.5500030517578,
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
@@ -134,7 +134,7 @@
     "in_position": true,
     "entry_price": 5.772884980916976,
     "entry_date": "2026-08-24",
-    "highest_since_entry": 5.800000190734863,
+    "highest_since_entry": 5.920000076293945,
     "position_fraction": 0.15862547447885805
   },
   "RIVN": {
@@ -294,7 +294,7 @@
     "in_position": true,
     "entry_price": 26.773380228996274,
     "entry_date": "2026-08-07",
-    "highest_since_entry": 28.459999084472656,
+    "highest_since_entry": 28.549999237060547,
     "position_fraction": 0.3517526954482469
   },
   "RKT": {
@@ -567,7 +567,11 @@
     "position_fraction": 0.06749246665423198
   },
   "PCG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 14.067030419826507,
+    "entry_date": "2026-09-01",
+    "highest_since_entry": 14.0600004196167,
+    "position_fraction": 0.09403562604099232
   },
   "NKE": {
     "in_position": false
@@ -666,5 +670,15 @@
   },
   "IONQ": {
     "in_position": false
+  },
+  "FRVO": {
+    "in_position": false
+  },
+  "PBR": {
+    "in_position": true,
+    "entry_price": 20.340164923667906,
+    "entry_date": "2026-09-01",
+    "highest_since_entry": 20.329999923706055,
+    "position_fraction": 0.23009955085622238
   }
 }
