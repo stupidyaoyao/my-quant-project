@@ -1,134 +1,95 @@
 {
-  "scanned_at": "2026-08-31 19:04:39",
+  "scanned_at": "2026-09-01 16:28:35",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ASST",
-      "price": 24.2,
-      "gap_pct": 11.33,
-      "premarket_volume": 11755663,
+      "symbol": "FRVO",
+      "price": 19.29,
+      "gap_pct": 25.39,
+      "premarket_volume": 21767518,
       "is_premarket_data": false,
-      "catalyst": "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
+      "catalyst": "Top Midday Stories: Anthropic Reportedly Agrees to $35 Billion Computing Deal With Lambda; GoPro to Merge With Starman Optical",
       "headlines": [
-        "Strive Jumps 7% as Strategy Ends 10-Week Bitcoin Pause With $370M Buy",
-        "The Smallest Bitcoin Treasury Stock Saw A Bigger August Than Strategy — While GME Sits Out"
+        "Top Midday Stories: Anthropic Reportedly Agrees to $35 Billion Computing Deal With Lambda; GoPro to Merge With Starman Optical",
+        "Fervo Energy Stock Surges 25%. The Geothermal Company Will Be Powering Google."
       ]
     },
     {
       "rank": 2,
-      "symbol": "CRCL",
-      "price": 94.67,
-      "gap_pct": 8.64,
-      "premarket_volume": 11552105,
+      "symbol": "MMED",
+      "price": 22.25,
+      "gap_pct": 9.8,
+      "premarket_volume": 2451025,
       "is_premarket_data": false,
-      "catalyst": "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%",
+      "catalyst": "MiniMed Group Q1 Earnings Call Highlights",
       "headlines": [
-        "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%",
-        "BlackRock's BUIDL Reclaims Top Spot for Tokenized Treasuries, Bolstering RWA Market"
+        "MiniMed Group Q1 Earnings Call Highlights",
+        "Medtronic Tops Earnings Estimates and Makes $700M Robot Surgeon Investment. Is It Gaining on Intuitive Surgical?"
       ]
     },
     {
       "rank": 3,
-      "symbol": "STDN",
-      "price": 15.21,
-      "gap_pct": 7.91,
-      "premarket_volume": 1098303,
+      "symbol": "CRK",
+      "price": 15.71,
+      "gap_pct": 8.91,
+      "premarket_volume": 6037178,
       "is_premarket_data": false,
-      "catalyst": "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
+      "catalyst": "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO",
       "headlines": [
-        "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
-        "Standard Nuclear (STDN) Stock Climbed, So What Is Driving Attention Today?"
+        "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO",
+        "Comstock Resources shares rise 5% after $1.65 billion SOCAR agreement and $450 million drilling venture"
       ]
     },
     {
       "rank": 4,
-      "symbol": "CHA",
-      "price": 11.61,
-      "gap_pct": 7.5,
-      "premarket_volume": 3213229,
+      "symbol": "KLRA",
+      "price": 16.73,
+      "gap_pct": 8.64,
+      "premarket_volume": 476357,
       "is_premarket_data": false,
-      "catalyst": "Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary",
+      "catalyst": "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
       "headlines": [
-        "Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary",
-        "Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ..."
+        "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
+        "Kailera Therapeutics (KLRA) Reports Wider Losses And Names New CTO, Is The Low P B Justified?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "CAR",
-      "price": 148.4,
-      "gap_pct": 7.44,
-      "premarket_volume": 241379,
+      "symbol": "MRNA",
+      "price": 148.95,
+      "gap_pct": 6.14,
+      "premarket_volume": 13256183,
       "is_premarket_data": false,
-      "catalyst": "Avis Budget Group (CAR) Stock Looks Like A Bargain On Sales But Weaker On Returns",
+      "catalyst": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial",
       "headlines": [
-        "Avis Budget Group (CAR) Stock Looks Like A Bargain On Sales But Weaker On Returns",
-        "Zohran Mamdani Cracks Down on NYC Car Rental Companies, Issues 56 Summonses Over Hidden Fees: Warns Businesses to Tell People the 'Real Price'"
+        "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial",
+        "Healthcare ETFs to Watch Post Merck-Moderna Cancer Vaccine Breakthrough"
       ]
     },
     {
       "rank": 6,
-      "symbol": "XE",
-      "price": 18.41,
-      "gap_pct": 6.91,
-      "premarket_volume": 4868698,
+      "symbol": "DUOL",
+      "price": 157.34,
+      "gap_pct": 6.06,
+      "premarket_volume": 1204076,
       "is_premarket_data": false,
-      "catalyst": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?",
+      "catalyst": "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
       "headlines": [
-        "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?",
-        "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?"
+        "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
+        "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls"
       ]
     },
     {
       "rank": 7,
-      "symbol": "ASND",
-      "price": 264.15,
-      "gap_pct": 6.55,
-      "premarket_volume": 731928,
+      "symbol": "NVS",
+      "price": 160.99,
+      "gap_pct": 5.87,
+      "premarket_volume": 2501418,
       "is_premarket_data": false,
-      "catalyst": "ASND, BMRN Stocks Rise: Street Calls Patent Peace A Clean Overhang Lift, Keep Ratings Unchanged",
+      "catalyst": "Novartis Reports 3 Patient Deaths. Why the Stock Is Heading for Its Best Day Since 2023.",
       "headlines": [
-        "ASND, BMRN Stocks Rise: Street Calls Patent Peace A Clean Overhang Lift, Keep Ratings Unchanged",
-        "European Equities Traded in the US as American Depositary Receipts Edge Lower in Monday Trading"
-      ]
-    },
-    {
-      "rank": 8,
-      "symbol": "RBLX",
-      "price": 40.89,
-      "gap_pct": 6.13,
-      "premarket_volume": 10744400,
-      "is_premarket_data": false,
-      "catalyst": "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
-      "headlines": [
-        "EU to Hold ChatGPT, Reddit, Roblox to Higher Standard of Scrutiny",
-        "Can Gaming Become the Next Revenue Pillar for Netflix Stock?"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "COIN",
-      "price": 189.33,
-      "gap_pct": 5.98,
-      "premarket_volume": 5560827,
-      "is_premarket_data": false,
-      "catalyst": "Nvidia’s Scarcity Runs Out in Five Years: ‘A Chip Designed by OpenAI, by AI’",
-      "headlines": [
-        "Nvidia’s Scarcity Runs Out in Five Years: ‘A Chip Designed by OpenAI, by AI’",
-        "Bitmine Rises 4% as ETH Holdings Near 5% of Supply, Circle Internet Group Surges 8%, Coinbase Climbs 5%"
-      ]
-    },
-    {
-      "rank": 10,
-      "symbol": "BBAR",
-      "price": 15.29,
-      "gap_pct": 5.7,
-      "premarket_volume": 964845,
-      "is_premarket_data": false,
-      "catalyst": "Banco BBVA Argentina SA (BBAR) (Q2 2026) Earnings Call Highlights: Net Income Surges 44. ...",
-      "headlines": [
-        "Banco BBVA Argentina SA (BBAR) (Q2 2026) Earnings Call Highlights: Net Income Surges 44. ...",
-        "BBVA Banco Frances Q2 Earnings Call Highlights"
+        "Novartis Reports 3 Patient Deaths. Why the Stock Is Heading for Its Best Day Since 2023.",
+        "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO"
       ]
     }
   ]
