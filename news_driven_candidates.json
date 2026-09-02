@@ -1,54 +1,54 @@
 {
-  "scanned_at": "2026-09-01 16:01:54",
+  "scanned_at": "2026-09-02 15:56:11",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 5,
-      "example_headline": "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)"
+      "symbol": "ADP",
+      "company_name": "Automatic Data Processing",
+      "mention_count": 2,
+      "example_headline": "ADP August 2026 private payrolls miss expectations at 38,000"
+    },
+    {
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
+      "mention_count": 1,
+      "example_headline": "What to expect over the next 12 months from S&P 500 returns"
+    },
+    {
+      "symbol": "GLW",
+      "company_name": "Corning Inc.",
+      "mention_count": 1,
+      "example_headline": "Owens Corning (OC): Buy, Sell, or Hold Post Q2 Earnings?"
+    },
+    {
+      "symbol": "NFLX",
+      "company_name": "Netflix",
+      "mention_count": 1,
+      "example_headline": "Netflix, MercadoLibre, and Tesla Are All Underperforming the S&P 500. Here's the 1 Stock I'd Buy in September."
+    },
+    {
+      "symbol": "WMB",
+      "company_name": "Williams Companies",
+      "mention_count": 1,
+      "example_headline": "The Williams Companies (WMB) Up 5.2% Since Last Earnings Report: Can It Continue?"
+    },
+    {
+      "symbol": "VRTX",
+      "company_name": "Vertex Pharmaceuticals",
+      "mention_count": 1,
+      "example_headline": "Why Is Vertex (VRTX) Up 14.4% Since Last Earnings Report?"
     },
     {
       "symbol": "KEYS",
       "company_name": "Keysight Technologies",
-      "mention_count": 2,
-      "example_headline": "Buy 5 AI-Powered Momentum Stocks for September After a Strong August"
-    },
-    {
-      "symbol": "SMCI",
-      "company_name": "Supermicro",
-      "mention_count": 2,
-      "example_headline": "Buy 5 AI-Powered Momentum Stocks for September After a Strong August"
-    },
-    {
-      "symbol": "GOOG",
-      "company_name": "Alphabet Inc. (Class C)",
       "mention_count": 1,
-      "example_headline": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue"
+      "example_headline": "The Zacks Analyst Blog Highlights NVIDIA, Super Micro Computer, Semtech, SiTime and Keysight Technologies"
     },
     {
-      "symbol": "MSCI",
-      "company_name": "MSCI",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
       "mention_count": 1,
-      "example_headline": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue"
-    },
-    {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
-      "mention_count": 1,
-      "example_headline": "Why SpaceX Is the Next Amazon—and What It Means for the Stock"
-    },
-    {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 1,
-      "example_headline": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50"
-    },
-    {
-      "symbol": "UBER",
-      "company_name": "Uber",
-      "mention_count": 1,
-      "example_headline": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50"
+      "example_headline": "The Zacks Analyst Blog Highlights NVIDIA, Super Micro Computer, Semtech, SiTime and Keysight Technologies"
     }
   ]
 }
