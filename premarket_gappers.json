@@ -1,95 +1,131 @@
 {
-  "scanned_at": "2026-09-01 16:28:35",
+  "scanned_at": "2026-09-02 16:27:04",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "FRVO",
-      "price": 19.29,
-      "gap_pct": 25.39,
-      "premarket_volume": 21767518,
+      "symbol": "SGLD",
+      "price": 11.66,
+      "gap_pct": 129.08,
+      "premarket_volume": 5626339,
       "is_premarket_data": false,
-      "catalyst": "Top Midday Stories: Anthropic Reportedly Agrees to $35 Billion Computing Deal With Lambda; GoPro to Merge With Starman Optical",
-      "headlines": [
-        "Top Midday Stories: Anthropic Reportedly Agrees to $35 Billion Computing Deal With Lambda; GoPro to Merge With Starman Optical",
-        "Fervo Energy Stock Surges 25%. The Geothermal Company Will Be Powering Google."
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 2,
-      "symbol": "MMED",
-      "price": 22.25,
-      "gap_pct": 9.8,
-      "premarket_volume": 2451025,
+      "symbol": "GTLB",
+      "price": 50.84,
+      "gap_pct": 12.75,
+      "premarket_volume": 19344923,
       "is_premarket_data": false,
-      "catalyst": "MiniMed Group Q1 Earnings Call Highlights",
+      "catalyst": "Dell and GitLab stocks soar, MongoDB sinks on Q2 earnings",
       "headlines": [
-        "MiniMed Group Q1 Earnings Call Highlights",
-        "Medtronic Tops Earnings Estimates and Makes $700M Robot Surgeon Investment. Is It Gaining on Intuitive Surgical?"
+        "Dell and GitLab stocks soar, MongoDB sinks on Q2 earnings",
+        "Most Active Options Report: DELL, CRDO, GTLB, RUN, ALLY"
       ]
     },
     {
       "rank": 3,
-      "symbol": "CRK",
-      "price": 15.71,
-      "gap_pct": 8.91,
-      "premarket_volume": 6037178,
+      "symbol": "ASTS",
+      "price": 60.92,
+      "gap_pct": 9.18,
+      "premarket_volume": 11612089,
       "is_premarket_data": false,
-      "catalyst": "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO",
+      "catalyst": "AST SpaceMobile (ASTS) Draws Insider Interest, Is The Recent Pullback A Buying Opportunity?",
       "headlines": [
-        "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO",
-        "Comstock Resources shares rise 5% after $1.65 billion SOCAR agreement and $450 million drilling venture"
+        "AST SpaceMobile (ASTS) Draws Insider Interest, Is The Recent Pullback A Buying Opportunity?",
+        "AST SpaceMobile Stock Soars on New Buy Call"
       ]
     },
     {
       "rank": 4,
-      "symbol": "KLRA",
-      "price": 16.73,
-      "gap_pct": 8.64,
-      "premarket_volume": 476357,
+      "symbol": "KSS",
+      "price": 19.26,
+      "gap_pct": 8.08,
+      "premarket_volume": 1711733,
       "is_premarket_data": false,
-      "catalyst": "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
+      "catalyst": "Kohl’s Rallies 7% on Rotation Into Beaten-Down Retail, Macy’s Climbs 3%, Abercrombie & Fitch Slips",
       "headlines": [
-        "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
-        "Kailera Therapeutics (KLRA) Reports Wider Losses And Names New CTO, Is The Low P B Justified?"
+        "Kohl’s Rallies 7% on Rotation Into Beaten-Down Retail, Macy’s Climbs 3%, Abercrombie & Fitch Slips",
+        "Pick These 5 Bargain Stocks With Exciting EV-to-EBITDA Ratios"
       ]
     },
     {
       "rank": 5,
-      "symbol": "MRNA",
-      "price": 148.95,
-      "gap_pct": 6.14,
-      "premarket_volume": 13256183,
+      "symbol": "DELL",
+      "price": 458.75,
+      "gap_pct": 7.94,
+      "premarket_volume": 19931149,
       "is_premarket_data": false,
-      "catalyst": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial",
+      "catalyst": "Dell stock surges on record orders for AI servers",
       "headlines": [
-        "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial",
-        "Healthcare ETFs to Watch Post Merck-Moderna Cancer Vaccine Breakthrough"
+        "Dell stock surges on record orders for AI servers",
+        "Dell and GitLab stocks soar, MongoDB sinks on Q2 earnings"
       ]
     },
     {
       "rank": 6,
-      "symbol": "DUOL",
-      "price": 157.34,
-      "gap_pct": 6.06,
-      "premarket_volume": 1204076,
+      "symbol": "SIRI",
+      "price": 29.74,
+      "gap_pct": 7.68,
+      "premarket_volume": 3107261,
       "is_premarket_data": false,
-      "catalyst": "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
+      "catalyst": "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
       "headlines": [
-        "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
-        "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls"
+        "Sirius XM upgraded, Toast downgraded: Wall Street's top analyst calls",
+        "Sirius XM Rises 6% on Deutsche Bank Upgrade and $45 Price Target, Spotify Holds Steady"
       ]
     },
     {
       "rank": 7,
-      "symbol": "NVS",
-      "price": 160.99,
-      "gap_pct": 5.87,
-      "premarket_volume": 2501418,
+      "symbol": "CHTR",
+      "price": 157.03,
+      "gap_pct": 7.42,
+      "premarket_volume": 917246,
       "is_premarket_data": false,
-      "catalyst": "Novartis Reports 3 Patient Deaths. Why the Stock Is Heading for Its Best Day Since 2023.",
+      "catalyst": "Charter (CHTR) Stock Still Looks Undervalued After Its 82% Five Year Fall",
       "headlines": [
-        "Novartis Reports 3 Patient Deaths. Why the Stock Is Heading for Its Best Day Since 2023.",
-        "Most Active Options Report: GPRO, NVS, CRK, HWM, FRVO"
+        "Charter (CHTR) Stock Still Looks Undervalued After Its 82% Five Year Fall",
+        "Charter Communications (CHTR) Could Be 50% Undervalued Following Its CFO Transition"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "ALNY",
+      "price": 264.14,
+      "gap_pct": 7.33,
+      "premarket_volume": 1646267,
+      "is_premarket_data": false,
+      "catalyst": "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue?",
+      "headlines": [
+        "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue?",
+        "4 Rare Disease Drugmakers With Strong Long-Term Growth Prospects"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "FOUR",
+      "price": 44.06,
+      "gap_pct": 7.27,
+      "premarket_volume": 566741,
+      "is_premarket_data": false,
+      "catalyst": "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
+      "headlines": [
+        "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
+        "Why Shift4 Payments (FOUR) Is Back In The Spotlight"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "EXK",
+      "price": 10.97,
+      "gap_pct": 7.18,
+      "premarket_volume": 5662211,
+      "is_premarket_data": false,
+      "catalyst": "Basic Materials Roundup: Market Talk",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Endeavour Silver (TSX:EDR) Stock May Be Fairly Valued On Terronera Restart"
       ]
     }
   ]
