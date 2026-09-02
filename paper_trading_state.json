@@ -46,7 +46,7 @@
     "in_position": true,
     "entry_price": 53.686829847335815,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 53.65999984741211,
+    "highest_since_entry": 54.66999816894531,
     "position_fraction": 0.18281678668908746
   },
   "INTC": {
@@ -63,7 +63,7 @@
     "in_position": true,
     "entry_price": 13.880000114440918,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 15.229999542236328,
+    "highest_since_entry": 15.399999618530273,
     "position_fraction": 0.17503936488047464
   },
   "SOFI": {
@@ -134,7 +134,7 @@
     "in_position": true,
     "entry_price": 5.772884980916976,
     "entry_date": "2026-08-24",
-    "highest_since_entry": 5.920000076293945,
+    "highest_since_entry": 6.21999979019165,
     "position_fraction": 0.15862547447885805
   },
   "RIVN": {
@@ -274,11 +274,7 @@
     "position_fraction": 0.0841277535361
   },
   "AVGO": {
-    "in_position": true,
-    "entry_price": 393.1864852294922,
-    "entry_date": "2026-08-14",
-    "highest_since_entry": 392.989990234375,
-    "position_fraction": 0.15557139358004288
+    "in_position": false
   },
   "ARM": {
     "in_position": false
@@ -294,7 +290,7 @@
     "in_position": true,
     "entry_price": 26.773380228996274,
     "entry_date": "2026-08-07",
-    "highest_since_entry": 28.549999237060547,
+    "highest_since_entry": 29.020000457763672,
     "position_fraction": 0.3517526954482469
   },
   "RKT": {
@@ -314,11 +310,7 @@
     "in_position": false
   },
   "GRAB": {
-    "in_position": true,
-    "entry_price": 3.5817899236679076,
-    "entry_date": "2026-08-25",
-    "highest_since_entry": 3.640000104904175,
-    "position_fraction": 0.20436292164247047
+    "in_position": false
   },
   "AMC": {
     "in_position": true,
@@ -567,11 +559,7 @@
     "position_fraction": 0.06749246665423198
   },
   "PCG": {
-    "in_position": true,
-    "entry_price": 14.067030419826507,
-    "entry_date": "2026-09-01",
-    "highest_since_entry": 14.0600004196167,
-    "position_fraction": 0.09403562604099232
+    "in_position": false
   },
   "NKE": {
     "in_position": false
@@ -678,7 +666,7 @@
     "in_position": true,
     "entry_price": 20.340164923667906,
     "entry_date": "2026-09-01",
-    "highest_since_entry": 20.329999923706055,
+    "highest_since_entry": 20.860000610351562,
     "position_fraction": 0.23009955085622238
   }
 }
