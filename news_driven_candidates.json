@@ -1,48 +1,48 @@
 {
-  "scanned_at": "2026-09-03 15:45:00",
+  "scanned_at": "2026-09-04 15:43:52",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "CIEN",
-      "company_name": "Ciena",
+      "symbol": "MU",
+      "company_name": "Micron Technology",
       "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Leads Charge As Fed's Waller Signals This; Ciena Drops (Live Coverage)"
+      "example_headline": "Micron, SanDisk Jump 4% Even as Hot Jobs Report Briefly Flips Fed Hike Odds Above 50%"
     },
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Leads Charge As Fed's Waller Signals This; Ciena Drops (Live Coverage)"
-    },
-    {
-      "symbol": "MS",
-      "company_name": "Morgan Stanley",
-      "mention_count": 2,
-      "example_headline": "Morgan Stanley has a strong message for worried AI stock investors"
-    },
-    {
-      "symbol": "CME",
-      "company_name": "CME Group",
-      "mention_count": 2,
-      "example_headline": "Market Now Sees 50/50 Odds of September Rate Hike"
-    },
-    {
-      "symbol": "WYNN",
-      "company_name": "Wynn Resorts",
+      "symbol": "MGM",
+      "company_name": "MGM Resorts",
       "mention_count": 1,
-      "example_headline": "Why Is Wynn (WYNN) Down 9.5% Since Last Earnings Report?"
+      "example_headline": "Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares"
     },
     {
-      "symbol": "ZBRA",
-      "company_name": "Zebra Technologies",
+      "symbol": "ICE",
+      "company_name": "Intercontinental Exchange",
       "mention_count": 1,
-      "example_headline": "Why Is Zebra (ZBRA) Down 4.9% Since Last Earnings Report?"
+      "example_headline": "Here’s What Pressured Intercontinental Exchange (ICE)"
     },
     {
-      "symbol": "WAT",
-      "company_name": "Waters Corporation",
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
       "mention_count": 1,
-      "example_headline": "Why Is Waters (WAT) Up 3.1% Since Last Earnings Report?"
+      "example_headline": "Micron, SanDisk Jump 4% Even as Hot Jobs Report Briefly Flips Fed Hike Odds Above 50%"
+    },
+    {
+      "symbol": "UBER",
+      "company_name": "Uber",
+      "mention_count": 1,
+      "example_headline": "Is 2026 the New 1929? Graham Stephan on 5 Warning Signs of a Stock Market Crash"
+    },
+    {
+      "symbol": "ALL",
+      "company_name": "Allstate",
+      "mention_count": 1,
+      "example_headline": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate"
+    },
+    {
+      "symbol": "ADM",
+      "company_name": "Archer Daniels Midland",
+      "mention_count": 1,
+      "example_headline": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Travelers Companies, Virtu Financial, Paycom Software and The Allstate"
     }
   ]
 }
