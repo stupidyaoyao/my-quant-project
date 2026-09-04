@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-03 16:17:07",
+  "scanned_at": "2026-09-04 16:12:52",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "SNOW",
-      "price": 370.82,
-      "gap_pct": 21.25,
-      "premarket_volume": 13401303,
+      "symbol": "ALAB",
+      "price": 317.5,
+      "gap_pct": 12.26,
+      "premarket_volume": 3697318,
       "is_premarket_data": false,
-      "catalyst": "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
+      "catalyst": "Watch These 2 Energy Stocks — S&P 500 Addition Could Come Before Quarter's End",
       "headlines": [
-        "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
-        "Snowflake (SNOW) price skyrockets after posting strong quarterly results"
+        "Watch These 2 Energy Stocks — S&P 500 Addition Could Come Before Quarter's End",
+        "ALAB Stock Down 24% in a Month: Should Investors Buy the Dip or Wait?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "HCM",
-      "price": 14.12,
-      "gap_pct": 17.25,
-      "premarket_volume": 308871,
+      "symbol": "CBRS",
+      "price": 212.18,
+      "gap_pct": 11.42,
+      "premarket_volume": 9448508,
       "is_premarket_data": false,
-      "catalyst": "Panmure and Cavendish reiterate buy on Hutchmed after GSK deal",
+      "catalyst": "3 Top AI Stocks With Revenue Growth Over 26%",
       "headlines": [
-        "Panmure and Cavendish reiterate buy on Hutchmed after GSK deal",
-        "HUTCHMED shares jump 17% on US$1.3 billion GSK cancer drug deal"
+        "3 Top AI Stocks With Revenue Growth Over 26%",
+        "NVIDIA’s MediaTek Bet Shows How It Plans to Defend Its AI Moat"
       ]
     },
     {
       "rank": 3,
-      "symbol": "HOOD",
-      "price": 123.5,
-      "gap_pct": 15.43,
-      "premarket_volume": 33372959,
+      "symbol": "AEHR",
+      "price": 84.33,
+      "gap_pct": 10.57,
+      "premarket_volume": 2807352,
       "is_premarket_data": false,
-      "catalyst": "Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers",
+      "catalyst": "William Blair Says These Stocks Are Must-Own Picks",
       "headlines": [
-        "Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers",
-        "Nvidia, Broadcom, Tesla, HPE, Ultragenyx, Snowflake, Robinhood, Ciena, and More Stocks That Explain Today’s Market"
+        "William Blair Says These Stocks Are Must-Own Picks",
+        "Is Aehr Test Systems (AEHR) Trading At A Premium For Too Long?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "CRCL",
-      "price": 101.46,
-      "gap_pct": 14.46,
-      "premarket_volume": 15337824,
+      "symbol": "AXTI",
+      "price": 61.49,
+      "gap_pct": 9.41,
+      "premarket_volume": 6545091,
       "is_premarket_data": false,
-      "catalyst": "Wall Street firms are all in on a stablecoin launch",
+      "catalyst": "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
       "headlines": [
-        "Wall Street firms are all in on a stablecoin launch",
-        "Circle Internet Surges 14% Despite Wall Street Building Rival Stablecoin; Coinbase Spikes 10%"
+        "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
+        "Here's Why AXT (AXTI) Is a Great 'Buy the Bottom' Stock Now"
       ]
     },
     {
       "rank": 5,
-      "symbol": "SMMT",
-      "price": 16.58,
-      "gap_pct": 13.56,
-      "premarket_volume": 6384182,
+      "symbol": "SNDK",
+      "price": 1699.92,
+      "gap_pct": 9.32,
+      "premarket_volume": 9139022,
       "is_premarket_data": false,
-      "catalyst": "Why Is Corcept (CORT) Down 1.2% Since Last Earnings Report?",
+      "catalyst": "Why Sandisk Stock Rallied Today",
       "headlines": [
-        "Why Is Corcept (CORT) Down 1.2% Since Last Earnings Report?",
-        "Summit Therapeutics (SMMT) Stock Climbed, So What Is Behind The Move?"
+        "Why Sandisk Stock Rallied Today",
+        "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue?"
       ]
     },
     {
       "rank": 6,
-      "symbol": "MSTR",
-      "price": 139.54,
-      "gap_pct": 13.27,
-      "premarket_volume": 22246358,
+      "symbol": "BLTE",
+      "price": 186.2,
+      "gap_pct": 8.83,
+      "premarket_volume": 249538,
       "is_premarket_data": false,
-      "catalyst": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
+      "catalyst": "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
       "headlines": [
-        "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
-        "Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows"
+        "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
+        "Here Are Friday’s Top Wall Street Analyst Research Calls: Ambarella, Cal-Maine Foods, Lennar, Ormat Technologies, Paychex, PulteGroup, Shell plc, TotalEnergies, W.P. Carey, and More"
       ]
     },
     {
       "rank": 7,
-      "symbol": "HSAI",
-      "price": 18.7,
-      "gap_pct": 12.69,
-      "premarket_volume": 1340177,
+      "symbol": "COHU",
+      "price": 49.91,
+      "gap_pct": 8.54,
+      "premarket_volume": 267336,
       "is_premarket_data": false,
-      "catalyst": "Will GeoCue Partnership Accelerate Ouster's Lidar Growth?",
+      "catalyst": "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy?",
       "headlines": [
-        "Will GeoCue Partnership Accelerate Ouster's Lidar Growth?",
-        "Hesai’s (HSAI) Robotics Bet Just Started Paying Off In A Big Way"
+        "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy?",
+        "Aehr Test Systems Sinks 10%, Teradyne Falls 5%, FormFactor Drops 6%: What’s Hitting These Semiconductor Test Equipment Stocks?"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BLSH",
-      "price": 36.77,
-      "gap_pct": 12.64,
-      "premarket_volume": 1180048,
+      "symbol": "KLAC",
+      "price": 186.69,
+      "gap_pct": 7.95,
+      "premarket_volume": 5653333,
       "is_premarket_data": false,
-      "catalyst": "The Smallest Bitcoin Treasury Stock Saw A Bigger August Than Strategy — While GME Sits Out",
+      "catalyst": "KLA (KLAC) Could Be 26% Undervalued After Its Recent Pullback",
       "headlines": [
-        "The Smallest Bitcoin Treasury Stock Saw A Bigger August Than Strategy — While GME Sits Out",
-        "Bullish Provides $100 Million to USD.AI for AI Chip Financing"
+        "KLA (KLAC) Could Be 26% Undervalued After Its Recent Pullback",
+        "Teradyne Stock Plunges 15% in a Month: Should You Buy the Dip?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BULL",
-      "price": 10.1,
-      "gap_pct": 12.17,
-      "premarket_volume": 18385938,
+      "symbol": "TSEM",
+      "price": 222.29,
+      "gap_pct": 7.82,
+      "premarket_volume": 639889,
       "is_premarket_data": false,
-      "catalyst": "Robinhood Rallies 11% on Price Target Hikes, Webull Climbs 7%, Interactive Brokers Gains 4%",
+      "catalyst": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, GitLab, GLOBAL FOUNDRIES, Martin Marietta Materials, Rocket Lab USA, Strategy, Toast, Tower Semiconductor, and More",
       "headlines": [
-        "Robinhood Rallies 11% on Price Target Hikes, Webull Climbs 7%, Interactive Brokers Gains 4%",
-        "Coinbase Powers Webull's Crypto Trading Expansion in Canada"
+        "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, GitLab, GLOBAL FOUNDRIES, Martin Marietta Materials, Rocket Lab USA, Strategy, Toast, Tower Semiconductor, and More",
+        "The Firm That Filed a Bet Against Taiwan Semiconductor Then Launched a Foundry Fund Five Days Later"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CIFR",
-      "price": 16.99,
-      "gap_pct": 11.91,
-      "premarket_volume": 18998092,
+      "symbol": "SMTC",
+      "price": 145.65,
+      "gap_pct": 7.57,
+      "premarket_volume": 1090846,
       "is_premarket_data": false,
-      "catalyst": "Sam Altman Sees “Unsustainable Silliness” in AI Compute Spending. These Are the Stocks Traders Are Watching.",
+      "catalyst": "1 Growth Stock to Stash and 2 Facing Headwinds",
       "headlines": [
-        "Sam Altman Sees “Unsustainable Silliness” in AI Compute Spending. These Are the Stocks Traders Are Watching.",
-        "Cipher starts gas laterals to support 2.5 GW HPC power expansion"
+        "1 Growth Stock to Stash and 2 Facing Headwinds",
+        "Is Semtech (SMTC) Undervalued After Record Revenue And Higher Guidance?"
       ]
     }
   ]
