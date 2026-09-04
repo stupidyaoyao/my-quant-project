@@ -56,7 +56,7 @@
     "in_position": true,
     "entry_price": 224.20204133605955,
     "entry_date": "2026-08-12",
-    "highest_since_entry": 228.4499969482422,
+    "highest_since_entry": 230.36000061035156,
     "position_fraction": 0.19069169230318334
   },
   "NU": {
@@ -77,11 +77,7 @@
     "in_position": false
   },
   "PATH": {
-    "in_position": true,
-    "entry_price": 11.680000305175781,
-    "entry_date": "2026-07-10",
-    "highest_since_entry": 18.670000076293945,
-    "position_fraction": 0.12487211203501135
+    "in_position": false
   },
   "FRMI": {
     "in_position": false
@@ -113,13 +109,21 @@
     "in_position": false
   },
   "F": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 14.62730988550186,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 14.619999885559082,
+    "position_fraction": 0.2503730078639318
   },
   "BBD": {
     "in_position": false
   },
   "NFLX": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 78.289125,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 78.25,
+    "position_fraction": 0.223959821505165
   },
   "SPCX": {
     "in_position": false
@@ -270,7 +274,7 @@
     "in_position": true,
     "entry_price": 404.59230125427246,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 516.3900146484375,
+    "highest_since_entry": 524.1400146484375,
     "position_fraction": 0.0841277535361
   },
   "AVGO": {
@@ -343,7 +347,7 @@
     "in_position": true,
     "entry_price": 37.25862167930603,
     "entry_date": "2026-08-21",
-    "highest_since_entry": 38.459999084472656,
+    "highest_since_entry": 39.59000015258789,
     "position_fraction": 0.09741405958700664
   },
   "SMR": {
@@ -679,5 +683,15 @@
     "entry_date": "2026-09-03",
     "highest_since_entry": 54.439998626708984,
     "position_fraction": 0.124642882130349
+  },
+  "LULU": {
+    "in_position": true,
+    "entry_price": 100.66030561065674,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 100.61000061035156,
+    "position_fraction": 0.11000783943731234
+  },
+  "PL": {
+    "in_position": false
   }
 }
