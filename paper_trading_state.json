@@ -77,7 +77,11 @@
     "in_position": false
   },
   "PATH": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 15.197594580173492,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 15.1899995803833,
+    "position_fraction": 0.1056118607634232
   },
   "FRMI": {
     "in_position": false
