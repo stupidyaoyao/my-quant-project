@@ -1,77 +1,12 @@
 {
-  "scanned_at": "2026-09-04 16:12:52",
+  "scanned_at": "2026-09-07 17:40:47",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ALAB",
-      "price": 317.5,
-      "gap_pct": 12.26,
-      "premarket_volume": 3697318,
-      "is_premarket_data": false,
-      "catalyst": "Watch These 2 Energy Stocks — S&P 500 Addition Could Come Before Quarter's End",
-      "headlines": [
-        "Watch These 2 Energy Stocks — S&P 500 Addition Could Come Before Quarter's End",
-        "ALAB Stock Down 24% in a Month: Should Investors Buy the Dip or Wait?"
-      ]
-    },
-    {
-      "rank": 2,
-      "symbol": "CBRS",
-      "price": 212.18,
-      "gap_pct": 11.42,
-      "premarket_volume": 9448508,
-      "is_premarket_data": false,
-      "catalyst": "3 Top AI Stocks With Revenue Growth Over 26%",
-      "headlines": [
-        "3 Top AI Stocks With Revenue Growth Over 26%",
-        "NVIDIA’s MediaTek Bet Shows How It Plans to Defend Its AI Moat"
-      ]
-    },
-    {
-      "rank": 3,
-      "symbol": "AEHR",
-      "price": 84.33,
-      "gap_pct": 10.57,
-      "premarket_volume": 2807352,
-      "is_premarket_data": false,
-      "catalyst": "William Blair Says These Stocks Are Must-Own Picks",
-      "headlines": [
-        "William Blair Says These Stocks Are Must-Own Picks",
-        "Is Aehr Test Systems (AEHR) Trading At A Premium For Too Long?"
-      ]
-    },
-    {
-      "rank": 4,
-      "symbol": "AXTI",
-      "price": 61.49,
-      "gap_pct": 9.41,
-      "premarket_volume": 6545091,
-      "is_premarket_data": false,
-      "catalyst": "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
-      "headlines": [
-        "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
-        "Here's Why AXT (AXTI) Is a Great 'Buy the Bottom' Stock Now"
-      ]
-    },
-    {
-      "rank": 5,
-      "symbol": "SNDK",
-      "price": 1699.92,
-      "gap_pct": 9.32,
-      "premarket_volume": 9139022,
-      "is_premarket_data": false,
-      "catalyst": "Why Sandisk Stock Rallied Today",
-      "headlines": [
-        "Why Sandisk Stock Rallied Today",
-        "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue?"
-      ]
-    },
-    {
-      "rank": 6,
       "symbol": "BLTE",
-      "price": 186.2,
-      "gap_pct": 8.83,
-      "premarket_volume": 249538,
+      "price": 193.61,
+      "gap_pct": 13.16,
+      "premarket_volume": 738953,
       "is_premarket_data": false,
       "catalyst": "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
       "headlines": [
@@ -80,11 +15,37 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 2,
+      "symbol": "AEHR",
+      "price": 86.26,
+      "gap_pct": 13.1,
+      "premarket_volume": 4520762,
+      "is_premarket_data": false,
+      "catalyst": "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
+      "headlines": [
+        "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
+        "Are Computer and Technology Stocks Lagging  Aehr Test Systems (AEHR) This Year?"
+      ]
+    },
+    {
+      "rank": 3,
+      "symbol": "SNDK",
+      "price": 1740.0,
+      "gap_pct": 11.9,
+      "premarket_volume": 16556967,
+      "is_premarket_data": false,
+      "catalyst": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+      "headlines": [
+        "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+        "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?"
+      ]
+    },
+    {
+      "rank": 4,
       "symbol": "COHU",
-      "price": 49.91,
-      "gap_pct": 8.54,
-      "premarket_volume": 267336,
+      "price": 50.72,
+      "gap_pct": 10.31,
+      "premarket_volume": 873315,
       "is_premarket_data": false,
       "catalyst": "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy?",
       "headlines": [
@@ -93,42 +54,81 @@
       ]
     },
     {
-      "rank": 8,
-      "symbol": "KLAC",
-      "price": 186.69,
-      "gap_pct": 7.95,
-      "premarket_volume": 5653333,
+      "rank": 5,
+      "symbol": "CBRS",
+      "price": 210.05,
+      "gap_pct": 10.3,
+      "premarket_volume": 13761584,
       "is_premarket_data": false,
-      "catalyst": "KLA (KLAC) Could Be 26% Undervalued After Its Recent Pullback",
+      "catalyst": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
       "headlines": [
-        "KLA (KLAC) Could Be 26% Undervalued After Its Recent Pullback",
-        "Teradyne Stock Plunges 15% in a Month: Should You Buy the Dip?"
+        "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+        "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "ALAB",
+      "price": 310.4,
+      "gap_pct": 9.75,
+      "premarket_volume": 6536259,
+      "is_premarket_data": false,
+      "catalyst": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+      "headlines": [
+        "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+        "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "AXTI",
+      "price": 61.64,
+      "gap_pct": 9.68,
+      "premarket_volume": 10899283,
+      "is_premarket_data": false,
+      "catalyst": "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
+      "headlines": [
+        "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
+        "Here's Why AXT (AXTI) Is a Great 'Buy the Bottom' Stock Now"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "SMTC",
+      "price": 147.88,
+      "gap_pct": 9.22,
+      "premarket_volume": 2801670,
+      "is_premarket_data": false,
+      "catalyst": "5 Top-Ranked Growth Stocks to Strengthen Your Portfolio in September",
+      "headlines": [
+        "5 Top-Ranked Growth Stocks to Strengthen Your Portfolio in September",
+        "Semtech (SMTC) Stock Looks Strong On Returns But Overvalued On Earnings"
       ]
     },
     {
       "rank": 9,
-      "symbol": "TSEM",
-      "price": 222.29,
-      "gap_pct": 7.82,
-      "premarket_volume": 639889,
+      "symbol": "TARS",
+      "price": 90.78,
+      "gap_pct": 9.1,
+      "premarket_volume": 1595936,
       "is_premarket_data": false,
-      "catalyst": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, GitLab, GLOBAL FOUNDRIES, Martin Marietta Materials, Rocket Lab USA, Strategy, Toast, Tower Semiconductor, and More",
+      "catalyst": "Sector Update: Healthcare Stocks Decline Late Afternoon",
       "headlines": [
-        "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, GitLab, GLOBAL FOUNDRIES, Martin Marietta Materials, Rocket Lab USA, Strategy, Toast, Tower Semiconductor, and More",
-        "The Firm That Filed a Bet Against Taiwan Semiconductor Then Launched a Foundry Fund Five Days Later"
+        "Sector Update: Healthcare Stocks Decline Late Afternoon",
+        "Tarsus Pharmaceuticals (TARS) Stock Looks Reasonable On Sales While Earnings Stay Weak"
       ]
     },
     {
       "rank": 10,
-      "symbol": "SMTC",
-      "price": 145.65,
-      "gap_pct": 7.57,
-      "premarket_volume": 1090846,
+      "symbol": "TTMI",
+      "price": 125.6,
+      "gap_pct": 8.85,
+      "premarket_volume": 2321384,
       "is_premarket_data": false,
-      "catalyst": "1 Growth Stock to Stash and 2 Facing Headwinds",
+      "catalyst": "TTM Technologies (TTMI) Earnings Beat Keeps Its Valuation Narrative In Focus",
       "headlines": [
-        "1 Growth Stock to Stash and 2 Facing Headwinds",
-        "Is Semtech (SMTC) Undervalued After Record Revenue And Higher Guidance?"
+        "TTM Technologies (TTMI) Earnings Beat Keeps Its Valuation Narrative In Focus",
+        "TTM Technologies (TTMI) Stock Looks Pricey On Cash Flow But Fair On Earnings"
       ]
     }
   ]
