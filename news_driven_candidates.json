@@ -1,66 +1,48 @@
 {
-  "scanned_at": "2026-09-07 17:12:11",
+  "scanned_at": "2026-09-08 15:57:33",
   "news_count": 30,
   "candidates": [
     {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 3,
+      "example_headline": "Strong Results Lifted Garrett Motion (GTX) in Q2"
+    },
+    {
+      "symbol": "AMGN",
+      "company_name": "Amgen",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)"
+    },
+    {
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 2,
+      "example_headline": "SpaceX Stock Can Gain Nearly 50%, New Bull Says"
+    },
+    {
+      "symbol": "REGN",
+      "company_name": "Regeneron Pharmaceuticals",
+      "mention_count": 1,
+      "example_headline": "Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock"
+    },
+    {
+      "symbol": "KR",
+      "company_name": "Kroger",
+      "mention_count": 1,
+      "example_headline": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales"
+    },
+    {
+      "symbol": "AMZN",
+      "company_name": "Amazon",
+      "mention_count": 1,
+      "example_headline": "Prediction: This Megacap Stock Could Crush the S&P 500 Through 2030"
+    },
+    {
       "symbol": "ORCL",
       "company_name": "Oracle Corporation",
-      "mention_count": 5,
-      "example_headline": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week"
-    },
-    {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 4,
-      "example_headline": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals"
-    },
-    {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 3,
-      "example_headline": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner"
-    },
-    {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals"
-    },
-    {
-      "symbol": "ADBE",
-      "company_name": "Adobe Inc.",
-      "mention_count": 2,
-      "example_headline": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week"
-    },
-    {
-      "symbol": "T",
-      "company_name": "AT&T",
       "mention_count": 1,
-      "example_headline": "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It’s Not Even Close)"
-    },
-    {
-      "symbol": "VZ",
-      "company_name": "Verizon",
-      "mention_count": 1,
-      "example_headline": "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It’s Not Even Close)"
-    },
-    {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
-      "mention_count": 1,
-      "example_headline": "Berkshire Hathaway B (BRK.B) Down 3% Since Last Earnings Report: Can It Rebound?"
-    },
-    {
-      "symbol": "PEP",
-      "company_name": "PepsiCo",
-      "mention_count": 1,
-      "example_headline": "What's Wrong With PepsiCo Stock?"
-    },
-    {
-      "symbol": "JBL",
-      "company_name": "Jabil",
-      "mention_count": 1,
-      "example_headline": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?"
+      "example_headline": "Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028"
     }
   ]
 }
