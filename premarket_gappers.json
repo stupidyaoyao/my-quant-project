@@ -1,90 +1,116 @@
 {
-  "scanned_at": "2026-09-07 17:40:47",
+  "scanned_at": "2026-09-08 16:30:07",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "BLTE",
-      "price": 193.61,
-      "gap_pct": 13.16,
-      "premarket_volume": 738953,
+      "symbol": "ROIV",
+      "price": 41.87,
+      "gap_pct": 19.85,
+      "premarket_volume": 12507007,
       "is_premarket_data": false,
-      "catalyst": "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
+      "catalyst": "Why These Two Hot Biotech Stocks Just Surged To Record Highs",
       "headlines": [
-        "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
-        "Here Are Friday’s Top Wall Street Analyst Research Calls: Ambarella, Cal-Maine Foods, Lennar, Ormat Technologies, Paychex, PulteGroup, Shell plc, TotalEnergies, W.P. Carey, and More"
+        "Why These Two Hot Biotech Stocks Just Surged To Record Highs",
+        "Roivant Stock Surges on 'Robust' Data from Rare Lung Disease Candidate"
       ]
     },
     {
       "rank": 2,
-      "symbol": "AEHR",
-      "price": 86.26,
-      "gap_pct": 13.1,
-      "premarket_volume": 4520762,
+      "symbol": "SEI",
+      "price": 63.77,
+      "gap_pct": 15.95,
+      "premarket_volume": 2396655,
       "is_premarket_data": false,
-      "catalyst": "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
+      "catalyst": "Sector Update: Energy Stocks Rise Pre-Bell Tuesday",
       "headlines": [
-        "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
-        "Are Computer and Technology Stocks Lagging  Aehr Test Systems (AEHR) This Year?"
+        "Sector Update: Energy Stocks Rise Pre-Bell Tuesday",
+        "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Rising Oil Prices"
       ]
     },
     {
       "rank": 3,
-      "symbol": "SNDK",
-      "price": 1740.0,
-      "gap_pct": 11.9,
-      "premarket_volume": 16556967,
+      "symbol": "SMR",
+      "price": 11.15,
+      "gap_pct": 14.95,
+      "premarket_volume": 27951326,
       "is_premarket_data": false,
-      "catalyst": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+      "catalyst": "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
       "headlines": [
-        "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
-        "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?"
+        "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
+        "Can Hydrogen Become a Key Growth Driver for NuScale Power?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "COHU",
-      "price": 50.72,
-      "gap_pct": 10.31,
-      "premarket_volume": 873315,
+      "symbol": "CRWV",
+      "price": 102.41,
+      "gap_pct": 14.6,
+      "premarket_volume": 30153185,
       "is_premarket_data": false,
-      "catalyst": "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy?",
+      "catalyst": "Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)",
       "headlines": [
-        "AEHR vs. COHU: Which Semiconductor Equipment Stock Is The Better Buy?",
-        "Aehr Test Systems Sinks 10%, Teradyne Falls 5%, FormFactor Drops 6%: What’s Hitting These Semiconductor Test Equipment Stocks?"
+        "Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)",
+        "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips"
       ]
     },
     {
       "rank": 5,
-      "symbol": "CBRS",
-      "price": 210.05,
-      "gap_pct": 10.3,
-      "premarket_volume": 13761584,
+      "symbol": "FRMI",
+      "price": 5.75,
+      "gap_pct": 12.31,
+      "premarket_volume": 12677789,
       "is_premarket_data": false,
-      "catalyst": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+      "catalyst": "A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test",
       "headlines": [
-        "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
-        "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?"
+        "A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test",
+        "Sector Update: Energy Stocks Gain Late Afternoon"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ALAB",
-      "price": 310.4,
-      "gap_pct": 9.75,
-      "premarket_volume": 6536259,
+      "symbol": "PS",
+      "price": 43.62,
+      "gap_pct": 11.62,
+      "premarket_volume": 360889,
       "is_premarket_data": false,
-      "catalyst": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+      "catalyst": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
       "headlines": [
-        "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
-        "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added"
+        "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
+        "Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High"
       ]
     },
     {
       "rank": 7,
+      "symbol": "LITE",
+      "price": 981.68,
+      "gap_pct": 11.4,
+      "premarket_volume": 4424318,
+      "is_premarket_data": false,
+      "catalyst": "Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)",
+      "headlines": [
+        "Stock Market Today: Dow Dives 600 Points, Oil Pops; Aerospace Stock Up After Trump Attack (Live Coverage)",
+        "Stewart Asset Management: AI Infrastructure Drives Lumentum Holdings’ (LITE) Potential"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "IOND",
+      "price": 84.74,
+      "gap_pct": 11.25,
+      "premarket_volume": 686504,
+      "is_premarket_data": false,
+      "catalyst": "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
+      "headlines": [
+        "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
+        "Is Ionic Digital (IOND) Fully Priced After Its Revenue Reported A Premium Valuation?"
+      ]
+    },
+    {
+      "rank": 9,
       "symbol": "AXTI",
-      "price": 61.64,
-      "gap_pct": 9.68,
-      "premarket_volume": 10899283,
+      "price": 68.31,
+      "gap_pct": 10.82,
+      "premarket_volume": 7975388,
       "is_premarket_data": false,
       "catalyst": "AXT's Supply Agreements Expand: Can They Strengthen Revenue Growth?",
       "headlines": [
@@ -93,42 +119,16 @@
       ]
     },
     {
-      "rank": 8,
-      "symbol": "SMTC",
-      "price": 147.88,
-      "gap_pct": 9.22,
-      "premarket_volume": 2801670,
-      "is_premarket_data": false,
-      "catalyst": "5 Top-Ranked Growth Stocks to Strengthen Your Portfolio in September",
-      "headlines": [
-        "5 Top-Ranked Growth Stocks to Strengthen Your Portfolio in September",
-        "Semtech (SMTC) Stock Looks Strong On Returns But Overvalued On Earnings"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "TARS",
-      "price": 90.78,
-      "gap_pct": 9.1,
-      "premarket_volume": 1595936,
-      "is_premarket_data": false,
-      "catalyst": "Sector Update: Healthcare Stocks Decline Late Afternoon",
-      "headlines": [
-        "Sector Update: Healthcare Stocks Decline Late Afternoon",
-        "Tarsus Pharmaceuticals (TARS) Stock Looks Reasonable On Sales While Earnings Stay Weak"
-      ]
-    },
-    {
       "rank": 10,
-      "symbol": "TTMI",
-      "price": 125.6,
-      "gap_pct": 8.85,
-      "premarket_volume": 2321384,
+      "symbol": "INFQ",
+      "price": 14.21,
+      "gap_pct": 10.54,
+      "premarket_volume": 7975183,
       "is_premarket_data": false,
-      "catalyst": "TTM Technologies (TTMI) Earnings Beat Keeps Its Valuation Narrative In Focus",
+      "catalyst": "Infleqtion Landed a $20 Million NASA Contract — Here's What Else Happened Recently",
       "headlines": [
-        "TTM Technologies (TTMI) Earnings Beat Keeps Its Valuation Narrative In Focus",
-        "TTM Technologies (TTMI) Stock Looks Pricey On Cash Flow But Fair On Earnings"
+        "Infleqtion Landed a $20 Million NASA Contract — Here's What Else Happened Recently",
+        "Why IBM, Microsoft Back Move for Quantum Policy Czar"
       ]
     }
   ]
