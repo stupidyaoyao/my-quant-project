@@ -235,7 +235,7 @@
     "in_position": true,
     "entry_price": 7.1930999755859375,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 7.21999979019165,
+    "highest_since_entry": 7.389999866485596,
     "position_fraction": 0.08311948803923924
   },
   "ASTS": {
@@ -315,7 +315,11 @@
     "in_position": false
   },
   "SOUN": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 6.743369771003723,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 6.739999771118164,
+    "position_fraction": 0.13914327015969705
   },
   "GRAB": {
     "in_position": false
@@ -355,7 +359,11 @@
     "position_fraction": 0.09741405958700664
   },
   "SMR": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 9.704849809169769,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 9.699999809265137,
+    "position_fraction": 0.10370370710231415
   },
   "HBAN": {
     "in_position": true,
@@ -430,7 +438,11 @@
     "position_fraction": 0.08784460991995546
   },
   "CRWV": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 89.40468061065674,
+    "entry_date": "2026-09-04",
+    "highest_since_entry": 89.36000061035156,
+    "position_fraction": 0.11833525872401154
   },
   "GME": {
     "in_position": false
@@ -696,6 +708,9 @@
     "position_fraction": 0.11000783943731234
   },
   "PL": {
+    "in_position": false
+  },
+  "RGTI": {
     "in_position": false
   }
 }
