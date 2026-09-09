@@ -1,48 +1,36 @@
 {
-  "scanned_at": "2026-09-08 15:57:33",
+  "scanned_at": "2026-09-09 15:53:18",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 3,
-      "example_headline": "Strong Results Lifted Garrett Motion (GTX) in Q2"
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 4,
+      "example_headline": "Apple’s iPhone Rally Might Have to Wait"
     },
     {
-      "symbol": "AMGN",
-      "company_name": "Amgen",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Dives, Oil Spikes After Saudi Attacks; Amgen Swoons On These Results (Live Coverage)"
+      "symbol": "MMM",
+      "company_name": "3M",
+      "mention_count": 1,
+      "example_headline": "3M Stock Rises 9.1% in a Year: Time to Buy, Hold or Exit?"
     },
     {
       "symbol": "TGT",
       "company_name": "Target Corporation",
-      "mention_count": 2,
-      "example_headline": "SpaceX Stock Can Gain Nearly 50%, New Bull Says"
+      "mention_count": 1,
+      "example_headline": "Brent oil passes $100 on Mideast flare-up, stoking inflation worries"
     },
     {
-      "symbol": "REGN",
-      "company_name": "Regeneron Pharmaceuticals",
+      "symbol": "BALL",
+      "company_name": "Ball Corporation",
       "mention_count": 1,
-      "example_headline": "Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock"
+      "example_headline": "Stock Market Today (Sept. 9, 2026): Nasdaq futures fall as U.S.-Iran tensions boost oil prices"
     },
     {
-      "symbol": "KR",
-      "company_name": "Kroger",
+      "symbol": "COIN",
+      "company_name": "Coinbase",
       "mention_count": 1,
-      "example_headline": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales"
-    },
-    {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
-      "mention_count": 1,
-      "example_headline": "Prediction: This Megacap Stock Could Crush the S&P 500 Through 2030"
-    },
-    {
-      "symbol": "ORCL",
-      "company_name": "Oracle Corporation",
-      "mention_count": 1,
-      "example_headline": "Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028"
+      "example_headline": "Coinbase’s Kalshi Push Gets New Backbone With ION’s Real-Time Trading Tech"
     }
   ]
 }
