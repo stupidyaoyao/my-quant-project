@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-09 16:26:55",
+  "scanned_at": "2026-09-10 16:16:49",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "PLSE",
-      "price": 57.5,
-      "gap_pct": 17.85,
-      "premarket_volume": 723060,
+      "symbol": "AVAV",
+      "price": 155.74,
+      "gap_pct": 10.59,
+      "premarket_volume": 5888298,
       "is_premarket_data": false,
-      "catalyst": "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns",
+      "catalyst": "AeroVironment (AVAV) Q1 2027 Earnings Call Transcript",
       "headlines": [
-        "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns",
-        "Pulse Biosciences Eyes AFib Breakthrough With Nanosecond PFA Platform"
+        "AeroVironment (AVAV) Q1 2027 Earnings Call Transcript",
+        "Why AeroVironment Stock Rocketed Higher Today"
       ]
     },
     {
       "rank": 2,
-      "symbol": "SUNB",
-      "price": 76.59,
-      "gap_pct": 10.49,
-      "premarket_volume": 7498860,
+      "symbol": "BSP",
+      "price": 41.2,
+      "gap_pct": 9.14,
+      "premarket_volume": 1228097,
       "is_premarket_data": false,
-      "catalyst": "Sunbelt Rentals shares rise 3% after Q1 results and higher fiscal 2027 guidance",
+      "catalyst": "Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising",
       "headlines": [
-        "Sunbelt Rentals shares rise 3% after Q1 results and higher fiscal 2027 guidance",
-        "Sunbelt Rentals Holdings (SUNB) Stock Trades At A 35% Discount To Fair Value"
+        "Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising",
+        "Bending Spoons to Acquire Miro in $1.36 Billion Enterprise Deal"
       ]
     },
     {
       "rank": 3,
-      "symbol": "SSL",
-      "price": 14.69,
-      "gap_pct": 10.45,
-      "premarket_volume": 2945057,
+      "symbol": "SWKS",
+      "price": 83.25,
+      "gap_pct": 8.77,
+      "premarket_volume": 3526983,
       "is_premarket_data": false,
-      "catalyst": "Sasol (SSL) Chases A Decade Low In Debt",
+      "catalyst": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
       "headlines": [
-        "Sasol (SSL) Chases A Decade Low In Debt",
-        "Sasol Ltd (SSL) (FY 2026) Earnings Call Highlights: Record Production and Strong Cash Flow Amid ..."
+        "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+        "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds"
       ]
     },
     {
       "rank": 4,
-      "symbol": "NET",
-      "price": 310.91,
-      "gap_pct": 9.36,
-      "premarket_volume": 2212141,
+      "symbol": "VIST",
+      "price": 79.71,
+      "gap_pct": 6.89,
+      "premarket_volume": 1011023,
       "is_premarket_data": false,
-      "catalyst": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+      "catalyst": "Vista Energy (BMV:VISTA A) Stock Gets Fair Value Trim After Analysts Refresh Targets",
       "headlines": [
-        "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
-        "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?"
+        "Vista Energy (BMV:VISTA A) Stock Gets Fair Value Trim After Analysts Refresh Targets",
+        "Peter Thiel’s $418 Million Bet On These 8 Companies Reveals AI’s Biggest Bottleneck"
       ]
     },
     {
       "rank": 5,
-      "symbol": "ASO",
-      "price": 48.75,
-      "gap_pct": 9.04,
-      "premarket_volume": 2761319,
+      "symbol": "RDDT",
+      "price": 156.5,
+      "gap_pct": 6.87,
+      "premarket_volume": 3102067,
       "is_premarket_data": false,
-      "catalyst": "Academy Sports and Outdoors Q2 Earnings Call Highlights",
+      "catalyst": "Reddit’s August User Growth Jumps 8% Month-On-Month, International Users Surge 29%: Report",
       "headlines": [
-        "Academy Sports and Outdoors Q2 Earnings Call Highlights",
-        "Academy Sports Lifts Earnings Outlook Despite Pressure on Consumer Spending"
+        "Reddit’s August User Growth Jumps 8% Month-On-Month, International Users Surge 29%: Report",
+        "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges"
       ]
     },
     {
       "rank": 6,
-      "symbol": "AEHR",
-      "price": 98.16,
-      "gap_pct": 8.12,
-      "premarket_volume": 2865503,
+      "symbol": "QRVO",
+      "price": 111.72,
+      "gap_pct": 6.15,
+      "premarket_volume": 627753,
       "is_premarket_data": false,
-      "catalyst": "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
+      "catalyst": "Qorvo (QRVO) Agreed to Be Acquired by Skyworks",
       "headlines": [
-        "Can AEHR Turn AI Processor Tests Into Long-Term Revenue Streams?",
-        "Are Computer and Technology Stocks Lagging  Aehr Test Systems (AEHR) This Year?"
+        "Qorvo (QRVO) Agreed to Be Acquired by Skyworks",
+        "Qorvo (QRVO) Up 6.3% Since Last Earnings Report: Can It Continue?"
       ]
     },
     {
       "rank": 7,
-      "symbol": "AMBA",
-      "price": 68.6,
-      "gap_pct": 8.07,
-      "premarket_volume": 2628627,
+      "symbol": "PLSE",
+      "price": 56.13,
+      "gap_pct": 5.97,
+      "premarket_volume": 244098,
       "is_premarket_data": false,
-      "catalyst": "Ambarella (AMBA) Grew 2Q Revenue 13.2% and Signed 7-Year Channel Agreements. Can Edge-AI Scale Reverse Margin Compression?",
+      "catalyst": "Why Pulse Biosciences Stock Popped Today",
       "headlines": [
-        "Ambarella (AMBA) Grew 2Q Revenue 13.2% and Signed 7-Year Channel Agreements. Can Edge-AI Scale Reverse Margin Compression?",
-        "Ambarella Beat Estimates but Fell as NXP Buyout Talk Lingered. Is the Edge-AI Upside Already Priced In?"
+        "Why Pulse Biosciences Stock Popped Today",
+        "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns"
       ]
     },
     {
       "rank": 8,
-      "symbol": "JMKE",
-      "price": 22.29,
-      "gap_pct": 7.07,
-      "premarket_volume": 4216964,
+      "symbol": "PAYP",
+      "price": 18.6,
+      "gap_pct": 5.78,
+      "premarket_volume": 969747,
       "is_premarket_data": false,
-      "catalyst": "John Ternus's first Apple product launch as CEO: What to Watch",
+      "catalyst": "Does Paypay (PAYP) Have the Potential to Rally 47.37% as Wall Street Analysts Expect?",
       "headlines": [
-        "John Ternus's first Apple product launch as CEO: What to Watch",
-        "Jersey Mike's Q2 Earnings Call Highlights"
+        "Does Paypay (PAYP) Have the Potential to Rally 47.37% as Wall Street Analysts Expect?",
+        "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping"
       ]
     },
     {
       "rank": 9,
-      "symbol": "DDOG",
-      "price": 223.88,
-      "gap_pct": 6.49,
-      "premarket_volume": 2456249,
+      "symbol": "FOUR",
+      "price": 43.41,
+      "gap_pct": 5.54,
+      "premarket_volume": 1344326,
       "is_premarket_data": false,
-      "catalyst": "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?",
+      "catalyst": "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
       "headlines": [
-        "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?",
-        "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump"
+        "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
+        "Why Shift4 Payments (FOUR) Is Back In The Spotlight"
       ]
     },
     {
       "rank": 10,
-      "symbol": "META",
-      "price": 652.73,
-      "gap_pct": 6.4,
-      "premarket_volume": 20920358,
+      "symbol": "IOND",
+      "price": 80.4,
+      "gap_pct": 5.43,
+      "premarket_volume": 287993,
       "is_premarket_data": false,
-      "catalyst": "Meta stock surges with Wall Street bullish on new AI agent",
+      "catalyst": "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
       "headlines": [
-        "Meta stock surges with Wall Street bullish on new AI agent",
-        "Bond yields tick higher as oil tops $100: AlphaCheck"
+        "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
+        "Is Ionic Digital (IOND) Fully Priced After Its Revenue Reported A Premium Valuation?"
       ]
     }
   ]
