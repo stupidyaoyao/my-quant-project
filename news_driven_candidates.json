@@ -1,36 +1,30 @@
 {
-  "scanned_at": "2026-09-09 15:53:18",
+  "scanned_at": "2026-09-10 15:48:04",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 4,
-      "example_headline": "Apple’s iPhone Rally Might Have to Wait"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage)"
     },
     {
-      "symbol": "MMM",
-      "company_name": "3M",
+      "symbol": "SMCI",
+      "company_name": "Supermicro",
       "mention_count": 1,
-      "example_headline": "3M Stock Rises 9.1% in a Year: Time to Buy, Hold or Exit?"
+      "example_headline": "Super Micro (SMCI) Up 3.5% Since Last Earnings Report: Can It Continue?"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
+      "symbol": "LITE",
+      "company_name": "Lumentum",
       "mention_count": 1,
-      "example_headline": "Brent oil passes $100 on Mideast flare-up, stoking inflation worries"
+      "example_headline": "Why Is Lumentum (LITE) Up 6.1% Since Last Earnings Report?"
     },
     {
-      "symbol": "BALL",
-      "company_name": "Ball Corporation",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
       "mention_count": 1,
-      "example_headline": "Stock Market Today (Sept. 9, 2026): Nasdaq futures fall as U.S.-Iran tensions boost oil prices"
-    },
-    {
-      "symbol": "COIN",
-      "company_name": "Coinbase",
-      "mention_count": 1,
-      "example_headline": "Coinbase’s Kalshi Push Gets New Backbone With ION’s Real-Time Trading Tech"
+      "example_headline": "Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum"
     }
   ]
 }
