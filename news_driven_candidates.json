@@ -1,30 +1,60 @@
 {
-  "scanned_at": "2026-09-10 15:48:04",
+  "scanned_at": "2026-09-11 15:50:16",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage)"
-    },
-    {
-      "symbol": "SMCI",
-      "company_name": "Supermicro",
-      "mention_count": 1,
-      "example_headline": "Super Micro (SMCI) Up 3.5% Since Last Earnings Report: Can It Continue?"
-    },
-    {
-      "symbol": "LITE",
-      "company_name": "Lumentum",
-      "mention_count": 1,
-      "example_headline": "Why Is Lumentum (LITE) Up 6.1% Since Last Earnings Report?"
-    },
-    {
       "symbol": "NVDA",
       "company_name": "Nvidia",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Rallies On Surprise Inflation Data; These Tech Names Lead This List (Live Coverage)"
+    },
+    {
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 2,
+      "example_headline": "Rocket Lab Has Something SpaceX Doesn’t. The Case to Buy the Stock."
+    },
+    {
+      "symbol": "INTU",
+      "company_name": "Intuit",
+      "mention_count": 2,
+      "example_headline": "Why Are Stocks Climbing After the Hot CPI Report?"
+    },
+    {
+      "symbol": "TECH",
+      "company_name": "Bio-Techne",
       "mention_count": 1,
-      "example_headline": "Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum"
+      "example_headline": "Why Is Techne (TECH) Down 0.1% Since Last Earnings Report?"
+    },
+    {
+      "symbol": "TRMB",
+      "company_name": "Trimble Inc.",
+      "mention_count": 1,
+      "example_headline": "Why Is Trimble (TRMB) Down 1.2% Since Last Earnings Report?"
+    },
+    {
+      "symbol": "CSCO",
+      "company_name": "Cisco",
+      "mention_count": 1,
+      "example_headline": "Cisco (CSCO) Down 5.3% Since Last Earnings Report: Can It Rebound?"
+    },
+    {
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
+      "mention_count": 1,
+      "example_headline": "SpaceX’s New AI Deal and 4 Other Revelations From Its CFO"
+    },
+    {
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 1,
+      "example_headline": "Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review"
+    },
+    {
+      "symbol": "ORCL",
+      "company_name": "Oracle Corporation",
+      "mention_count": 1,
+      "example_headline": "Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review"
     }
   ]
 }
