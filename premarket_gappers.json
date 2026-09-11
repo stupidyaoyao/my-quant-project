@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-10 16:16:49",
+  "scanned_at": "2026-09-11 16:20:08",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AVAV",
-      "price": 155.74,
-      "gap_pct": 10.59,
-      "premarket_volume": 5888298,
+      "symbol": "VICR",
+      "price": 198.59,
+      "gap_pct": 11.54,
+      "premarket_volume": 342905,
       "is_premarket_data": false,
-      "catalyst": "AeroVironment (AVAV) Q1 2027 Earnings Call Transcript",
+      "catalyst": "Vicor Rides on Strong Backlog Growth: Can It Beat ADI & TXN?",
       "headlines": [
-        "AeroVironment (AVAV) Q1 2027 Earnings Call Transcript",
-        "Why AeroVironment Stock Rocketed Higher Today"
+        "Vicor Rides on Strong Backlog Growth: Can It Beat ADI & TXN?",
+        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "BSP",
-      "price": 41.2,
-      "gap_pct": 9.14,
-      "premarket_volume": 1228097,
+      "symbol": "DELL",
+      "price": 561.73,
+      "gap_pct": 10.88,
+      "premarket_volume": 8961022,
       "is_premarket_data": false,
-      "catalyst": "Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising",
+      "catalyst": "Dell shares jump 11% to all-time high on RBC Outperform initiation",
       "headlines": [
-        "Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising",
-        "Bending Spoons to Acquire Miro in $1.36 Billion Enterprise Deal"
+        "Dell shares jump 11% to all-time high on RBC Outperform initiation",
+        "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%"
       ]
     },
     {
       "rank": 3,
-      "symbol": "SWKS",
-      "price": 83.25,
-      "gap_pct": 8.77,
-      "premarket_volume": 3526983,
+      "symbol": "HUT",
+      "price": 100.38,
+      "gap_pct": 10.79,
+      "premarket_volume": 2775033,
       "is_premarket_data": false,
-      "catalyst": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+      "catalyst": "How Billionaire VC Bill Tai Thinks AI Will Reshape the Global Economy",
       "headlines": [
-        "Skyworks Chair: It Will Be a While Before This Cycle Ends",
-        "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds"
+        "How Billionaire VC Bill Tai Thinks AI Will Reshape the Global Economy",
+        "Fluidstack in talks for $5 billion Pentagon AI infrastructure loan: WSJ"
       ]
     },
     {
       "rank": 4,
-      "symbol": "VIST",
-      "price": 79.71,
-      "gap_pct": 6.89,
-      "premarket_volume": 1011023,
+      "symbol": "HPE",
+      "price": 60.7,
+      "gap_pct": 9.91,
+      "premarket_volume": 18399119,
       "is_premarket_data": false,
-      "catalyst": "Vista Energy (BMV:VISTA A) Stock Gets Fair Value Trim After Analysts Refresh Targets",
+      "catalyst": "Is Ciena a Buy as 30% Growth Meets Its Premium Forward Valuation?",
       "headlines": [
-        "Vista Energy (BMV:VISTA A) Stock Gets Fair Value Trim After Analysts Refresh Targets",
-        "Peter Thiel’s $418 Million Bet On These 8 Companies Reveals AI’s Biggest Bottleneck"
+        "Is Ciena a Buy as 30% Growth Meets Its Premium Forward Valuation?",
+        "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%"
       ]
     },
     {
       "rank": 5,
-      "symbol": "RDDT",
-      "price": 156.5,
-      "gap_pct": 6.87,
-      "premarket_volume": 3102067,
+      "symbol": "MRNA",
+      "price": 148.63,
+      "gap_pct": 8.79,
+      "premarket_volume": 8999244,
       "is_premarket_data": false,
-      "catalyst": "Reddit’s August User Growth Jumps 8% Month-On-Month, International Users Surge 29%: Report",
+      "catalyst": "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
       "headlines": [
-        "Reddit’s August User Growth Jumps 8% Month-On-Month, International Users Surge 29%: Report",
-        "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges"
+        "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+        "Why Is Techne (TECH) Down 0.1% Since Last Earnings Report?"
       ]
     },
     {
       "rank": 6,
-      "symbol": "QRVO",
-      "price": 111.72,
-      "gap_pct": 6.15,
-      "premarket_volume": 627753,
+      "symbol": "VSH",
+      "price": 33.85,
+      "gap_pct": 8.18,
+      "premarket_volume": 1050162,
       "is_premarket_data": false,
-      "catalyst": "Qorvo (QRVO) Agreed to Be Acquired by Skyworks",
+      "catalyst": "Vishay Intertechnology Inc's Dividend Analysis",
       "headlines": [
-        "Qorvo (QRVO) Agreed to Be Acquired by Skyworks",
-        "Qorvo (QRVO) Up 6.3% Since Last Earnings Report: Can It Continue?"
+        "Vishay Intertechnology Inc's Dividend Analysis",
+        "3 Reasons to Avoid VSH and 1 Stock to Buy Instead"
       ]
     },
     {
       "rank": 7,
-      "symbol": "PLSE",
-      "price": 56.13,
-      "gap_pct": 5.97,
-      "premarket_volume": 244098,
+      "symbol": "MXL",
+      "price": 75.0,
+      "gap_pct": 8.17,
+      "premarket_volume": 1111583,
       "is_premarket_data": false,
-      "catalyst": "Why Pulse Biosciences Stock Popped Today",
+      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
       "headlines": [
-        "Why Pulse Biosciences Stock Popped Today",
-        "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns"
+        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
       ]
     },
     {
       "rank": 8,
-      "symbol": "PAYP",
-      "price": 18.6,
-      "gap_pct": 5.78,
-      "premarket_volume": 969747,
+      "symbol": "SEI",
+      "price": 69.36,
+      "gap_pct": 8.12,
+      "premarket_volume": 1272180,
       "is_premarket_data": false,
-      "catalyst": "Does Paypay (PAYP) Have the Potential to Rally 47.37% as Wall Street Analysts Expect?",
+      "catalyst": "Magnolia Oil & Gas Closes Transformative WildFire Energy Deal",
       "headlines": [
-        "Does Paypay (PAYP) Have the Potential to Rally 47.37% as Wall Street Analysts Expect?",
-        "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping"
+        "Magnolia Oil & Gas Closes Transformative WildFire Energy Deal",
+        "A Solaris Energy Director Buys Nearly 8,000 Company Shares Worth Over $500,000"
       ]
     },
     {
       "rank": 9,
-      "symbol": "FOUR",
-      "price": 43.41,
-      "gap_pct": 5.54,
-      "premarket_volume": 1344326,
+      "symbol": "BGSI",
+      "price": 88.08,
+      "gap_pct": 8.0,
+      "premarket_volume": 67884,
       "is_premarket_data": false,
-      "catalyst": "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
+      "catalyst": "Boyd Group Services (BGSI) Q2 2026 Earnings Call Transcript",
       "headlines": [
-        "How Shift4 Payments (FOUR) is Shaping the Future of Transactions",
-        "Why Shift4 Payments (FOUR) Is Back In The Spotlight"
+        "Boyd Group Services (BGSI) Q2 2026 Earnings Call Transcript",
+        "Boyd Group Services Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 10,
-      "symbol": "IOND",
-      "price": 80.4,
-      "gap_pct": 5.43,
-      "premarket_volume": 287993,
+      "symbol": "CIFR",
+      "price": 17.21,
+      "gap_pct": 8.0,
+      "premarket_volume": 19595233,
       "is_premarket_data": false,
-      "catalyst": "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
+      "catalyst": "Here are all of the former BTC miners who received Batch Zero classifications",
       "headlines": [
-        "Ionic Digital reports $48.6 million in second-quarter revenue as infrastructure leasing reaches 90% of sales: Earnings",
-        "Is Ionic Digital (IOND) Fully Priced After Its Revenue Reported A Premium Valuation?"
+        "Here are all of the former BTC miners who received Batch Zero classifications",
+        "Fluidstack in talks for $5 billion Pentagon AI infrastructure loan: WSJ"
       ]
     }
   ]
