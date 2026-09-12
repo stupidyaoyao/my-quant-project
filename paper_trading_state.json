@@ -90,7 +90,11 @@
     "in_position": false
   },
   "ONDS": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 7.2536249999999995,
+    "entry_date": "2026-09-10",
+    "highest_since_entry": 7.25,
+    "position_fraction": 0.10913979669763571
   },
   "PLUG": {
     "in_position": false
@@ -366,7 +370,7 @@
     "in_position": true,
     "entry_price": 9.704849809169769,
     "entry_date": "2026-09-04",
-    "highest_since_entry": 9.699999809265137,
+    "highest_since_entry": 10.210000038146973,
     "position_fraction": 0.10370370710231415
   },
   "HBAN": {
@@ -701,7 +705,7 @@
     "in_position": true,
     "entry_price": 54.46721862602234,
     "entry_date": "2026-09-03",
-    "highest_since_entry": 54.439998626708984,
+    "highest_since_entry": 55.220001220703125,
     "position_fraction": 0.124642882130349
   },
   "LULU": {
@@ -730,5 +734,12 @@
     "entry_date": "2026-09-10",
     "highest_since_entry": 10.1899995803833,
     "position_fraction": 0.3928807056203176
+  },
+  "KHC": {
+    "in_position": true,
+    "entry_price": 24.40219438934326,
+    "entry_date": "2026-09-10",
+    "highest_since_entry": 24.389999389648438,
+    "position_fraction": 0.2682902055830074
   }
 }
