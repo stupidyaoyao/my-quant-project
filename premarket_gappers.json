@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-11 16:20:08",
+  "scanned_at": "2026-09-14 18:00:58",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "VICR",
-      "price": 198.59,
-      "gap_pct": 11.54,
-      "premarket_volume": 342905,
+      "symbol": "S",
+      "price": 22.96,
+      "gap_pct": 16.25,
+      "premarket_volume": 10412199,
       "is_premarket_data": false,
-      "catalyst": "Vicor Rides on Strong Backlog Growth: Can It Beat ADI & TXN?",
+      "catalyst": "Did Repeat Buyers Tell You CrowdStrike Stock Would Run?",
       "headlines": [
-        "Vicor Rides on Strong Backlog Growth: Can It Beat ADI & TXN?",
-        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?"
+        "Did Repeat Buyers Tell You CrowdStrike Stock Would Run?",
+        "What Is Really Behind CrowdStrike Stock's Doubling?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "DELL",
-      "price": 561.73,
-      "gap_pct": 10.88,
-      "premarket_volume": 8961022,
+      "symbol": "RUM",
+      "price": 8.31,
+      "gap_pct": 15.9,
+      "premarket_volume": 20613610,
       "is_premarket_data": false,
-      "catalyst": "Dell shares jump 11% to all-time high on RBC Outperform initiation",
+      "catalyst": "RUM's $13.7B Compute Win Contradicts AI Safety Concerns",
       "headlines": [
-        "Dell shares jump 11% to all-time high on RBC Outperform initiation",
-        "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%"
+        "RUM's $13.7B Compute Win Contradicts AI Safety Concerns",
+        "Rumble stock jumps 27% on reported $13.7 billion Anthropic deal"
       ]
     },
     {
       "rank": 3,
-      "symbol": "HUT",
-      "price": 100.38,
-      "gap_pct": 10.79,
-      "premarket_volume": 2775033,
+      "symbol": "ZS",
+      "price": 190.66,
+      "gap_pct": 15.87,
+      "premarket_volume": 4760186,
       "is_premarket_data": false,
-      "catalyst": "How Billionaire VC Bill Tai Thinks AI Will Reshape the Global Economy",
+      "catalyst": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
       "headlines": [
-        "How Billionaire VC Bill Tai Thinks AI Will Reshape the Global Economy",
-        "Fluidstack in talks for $5 billion Pentagon AI infrastructure loan: WSJ"
+        "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
+        "Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions"
       ]
     },
     {
       "rank": 4,
-      "symbol": "HPE",
-      "price": 60.7,
-      "gap_pct": 9.91,
-      "premarket_volume": 18399119,
+      "symbol": "NTSK",
+      "price": 16.99,
+      "gap_pct": 15.58,
+      "premarket_volume": 8794085,
       "is_premarket_data": false,
-      "catalyst": "Is Ciena a Buy as 30% Growth Meets Its Premium Forward Valuation?",
+      "catalyst": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
       "headlines": [
-        "Is Ciena a Buy as 30% Growth Meets Its Premium Forward Valuation?",
-        "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%"
+        "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
+        "Netskope (NTSK) Q2 2027 Earnings Call Transcript"
       ]
     },
     {
       "rank": 5,
-      "symbol": "MRNA",
-      "price": 148.63,
-      "gap_pct": 8.79,
-      "premarket_volume": 8999244,
+      "symbol": "SAIL",
+      "price": 19.89,
+      "gap_pct": 15.34,
+      "premarket_volume": 6492612,
       "is_premarket_data": false,
-      "catalyst": "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+      "catalyst": "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase",
       "headlines": [
-        "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
-        "Why Is Techne (TECH) Down 0.1% Since Last Earnings Report?"
+        "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase",
+        "SailPoint AI Pipeline Could Drive Increasing Annual Recurring Revenue Upside, RBC Says"
       ]
     },
     {
       "rank": 6,
-      "symbol": "VSH",
-      "price": 33.85,
-      "gap_pct": 8.18,
-      "premarket_volume": 1050162,
+      "symbol": "QLYS",
+      "price": 173.26,
+      "gap_pct": 15.29,
+      "premarket_volume": 541055,
       "is_premarket_data": false,
-      "catalyst": "Vishay Intertechnology Inc's Dividend Analysis",
+      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
       "headlines": [
-        "Vishay Intertechnology Inc's Dividend Analysis",
-        "3 Reasons to Avoid VSH and 1 Stock to Buy Instead"
+        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+        "Chewy downgraded, Shopify initiated: Wall Street's top analyst calls"
       ]
     },
     {
       "rank": 7,
-      "symbol": "MXL",
-      "price": 75.0,
-      "gap_pct": 8.17,
-      "premarket_volume": 1111583,
+      "symbol": "CRWD",
+      "price": 237.76,
+      "gap_pct": 15.01,
+      "premarket_volume": 18904420,
       "is_premarket_data": false,
-      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+      "catalyst": "Tech pulls back on AI concerns, cybersecurity takes a step up",
       "headlines": [
-        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
-        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
+        "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "Cybersecurity stocks get a jolt on gloomy AI warnings from CEOs of Anthropic and OpenAI"
       ]
     },
     {
       "rank": 8,
-      "symbol": "SEI",
-      "price": 69.36,
-      "gap_pct": 8.12,
-      "premarket_volume": 1272180,
+      "symbol": "RBRK",
+      "price": 99.23,
+      "gap_pct": 14.52,
+      "premarket_volume": 3006850,
       "is_premarket_data": false,
-      "catalyst": "Magnolia Oil & Gas Closes Transformative WildFire Energy Deal",
+      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
       "headlines": [
-        "Magnolia Oil & Gas Closes Transformative WildFire Energy Deal",
-        "A Solaris Energy Director Buys Nearly 8,000 Company Shares Worth Over $500,000"
+        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+        "Is CrowdStrike Holdings (CRWD) Stock Still the Better Cybersecurity Bet as Rubrik (RBRK) Accelerates?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BGSI",
-      "price": 88.08,
-      "gap_pct": 8.0,
-      "premarket_volume": 67884,
+      "symbol": "PANW",
+      "price": 377.1,
+      "gap_pct": 14.05,
+      "premarket_volume": 8219220,
       "is_premarket_data": false,
-      "catalyst": "Boyd Group Services (BGSI) Q2 2026 Earnings Call Transcript",
+      "catalyst": "Tech pulls back on AI concerns, cybersecurity takes a step up",
       "headlines": [
-        "Boyd Group Services (BGSI) Q2 2026 Earnings Call Transcript",
-        "Boyd Group Services Q2 Earnings Call Highlights"
+        "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "Cybersecurity stocks get a jolt on gloomy AI warnings from CEOs of Anthropic and OpenAI"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CIFR",
-      "price": 17.21,
-      "gap_pct": 8.0,
-      "premarket_volume": 19595233,
+      "symbol": "TENB",
+      "price": 34.16,
+      "gap_pct": 13.43,
+      "premarket_volume": 7371040,
       "is_premarket_data": false,
-      "catalyst": "Here are all of the former BTC miners who received Batch Zero classifications",
+      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
       "headlines": [
-        "Here are all of the former BTC miners who received Batch Zero classifications",
-        "Fluidstack in talks for $5 billion Pentagon AI infrastructure loan: WSJ"
+        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+        "Chewy downgraded, Shopify initiated: Wall Street's top analyst calls"
       ]
     }
   ]
