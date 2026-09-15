@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-14 18:00:58",
+  "scanned_at": "2026-09-15 16:47:54",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "S",
-      "price": 22.96,
-      "gap_pct": 16.25,
-      "premarket_volume": 10412199,
+      "symbol": "SWKS",
+      "price": 89.18,
+      "gap_pct": 12.52,
+      "premarket_volume": 6228829,
       "is_premarket_data": false,
-      "catalyst": "Did Repeat Buyers Tell You CrowdStrike Stock Would Run?",
+      "catalyst": "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
       "headlines": [
-        "Did Repeat Buyers Tell You CrowdStrike Stock Would Run?",
-        "What Is Really Behind CrowdStrike Stock's Doubling?"
+        "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
+        "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%"
       ]
     },
     {
       "rank": 2,
-      "symbol": "RUM",
-      "price": 8.31,
-      "gap_pct": 15.9,
-      "premarket_volume": 20613610,
+      "symbol": "FPS",
+      "price": 32.14,
+      "gap_pct": 12.22,
+      "premarket_volume": 20304172,
       "is_premarket_data": false,
-      "catalyst": "RUM's $13.7B Compute Win Contradicts AI Safety Concerns",
+      "catalyst": "Forgent Power Solutions Shares Rise 10.9% After FY26 Results",
       "headlines": [
-        "RUM's $13.7B Compute Win Contradicts AI Safety Concerns",
-        "Rumble stock jumps 27% on reported $13.7 billion Anthropic deal"
+        "Forgent Power Solutions Shares Rise 10.9% After FY26 Results",
+        "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting"
       ]
     },
     {
       "rank": 3,
-      "symbol": "ZS",
-      "price": 190.66,
-      "gap_pct": 15.87,
-      "premarket_volume": 4760186,
+      "symbol": "TLX",
+      "price": 12.99,
+      "gap_pct": 10.27,
+      "premarket_volume": 694552,
       "is_premarket_data": false,
-      "catalyst": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
+      "catalyst": "TLX Stock Clocks 5% Gain This Week Ahead Of FDA Decision On Brain Cancer Imaging Agent",
       "headlines": [
-        "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-        "Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions"
+        "TLX Stock Clocks 5% Gain This Week Ahead Of FDA Decision On Brain Cancer Imaging Agent",
+        "Sector Update: Healthcare Stocks Advance Late Afternoon"
       ]
     },
     {
       "rank": 4,
-      "symbol": "NTSK",
-      "price": 16.99,
-      "gap_pct": 15.58,
-      "premarket_volume": 8794085,
+      "symbol": "RIG",
+      "price": 5.93,
+      "gap_pct": 8.89,
+      "premarket_volume": 28986147,
       "is_premarket_data": false,
-      "catalyst": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
+      "catalyst": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
       "headlines": [
-        "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
-        "Netskope (NTSK) Q2 2027 Earnings Call Transcript"
+        "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+        "3 Unprofitable Stocks We Think Twice About"
       ]
     },
     {
       "rank": 5,
-      "symbol": "SAIL",
-      "price": 19.89,
-      "gap_pct": 15.34,
-      "premarket_volume": 6492612,
+      "symbol": "QRVO",
+      "price": 117.43,
+      "gap_pct": 8.75,
+      "premarket_volume": 843224,
       "is_premarket_data": false,
-      "catalyst": "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase",
+      "catalyst": "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
       "headlines": [
-        "Agentic Fabric and AI Could Drive SailPoint’s (SAIL) Next Growth Phase",
-        "SailPoint AI Pipeline Could Drive Increasing Annual Recurring Revenue Upside, RBC Says"
+        "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
+        "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%"
       ]
     },
     {
       "rank": 6,
-      "symbol": "QLYS",
-      "price": 173.26,
-      "gap_pct": 15.29,
-      "premarket_volume": 541055,
+      "symbol": "TENB",
+      "price": 38.08,
+      "gap_pct": 8.55,
+      "premarket_volume": 2496985,
       "is_premarket_data": false,
-      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+      "catalyst": "Tenable (TENB) Moves 16.5% Higher: Will This Strength Last?",
       "headlines": [
-        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
-        "Chewy downgraded, Shopify initiated: Wall Street's top analyst calls"
+        "Tenable (TENB) Moves 16.5% Higher: Will This Strength Last?",
+        "Tenable (TENB) Stock Still Looks Undervalued Despite Its 54% Run"
       ]
     },
     {
       "rank": 7,
-      "symbol": "CRWD",
-      "price": 237.76,
-      "gap_pct": 15.01,
-      "premarket_volume": 18904420,
+      "symbol": "VAL",
+      "price": 87.94,
+      "gap_pct": 8.21,
+      "premarket_volume": 778222,
       "is_premarket_data": false,
-      "catalyst": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+      "catalyst": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
       "headlines": [
-        "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "Cybersecurity stocks get a jolt on gloomy AI warnings from CEOs of Anthropic and OpenAI"
+        "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+        "Why Valaris (VAL) Surged on a Takeover Bid"
       ]
     },
     {
       "rank": 8,
-      "symbol": "RBRK",
-      "price": 99.23,
-      "gap_pct": 14.52,
-      "premarket_volume": 3006850,
+      "symbol": "BFLY",
+      "price": 8.02,
+      "gap_pct": 8.16,
+      "premarket_volume": 3839393,
       "is_premarket_data": false,
-      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+      "catalyst": "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network",
       "headlines": [
-        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
-        "Is CrowdStrike Holdings (CRWD) Stock Still the Better Cybersecurity Bet as Rubrik (RBRK) Accelerates?"
+        "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network",
+        "3 Medical Info Systems Stocks to Gain From GenAI Boom Amid Cyber Risk"
       ]
     },
     {
       "rank": 9,
-      "symbol": "PANW",
-      "price": 377.1,
-      "gap_pct": 14.05,
-      "premarket_volume": 8219220,
+      "symbol": "CAI",
+      "price": 28.14,
+      "gap_pct": 8.02,
+      "premarket_volume": 4771205,
       "is_premarket_data": false,
-      "catalyst": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+      "catalyst": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
       "headlines": [
-        "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "Cybersecurity stocks get a jolt on gloomy AI warnings from CEOs of Anthropic and OpenAI"
+        "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
+        "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference"
       ]
     },
     {
       "rank": 10,
-      "symbol": "TENB",
-      "price": 34.16,
-      "gap_pct": 13.43,
-      "premarket_volume": 7371040,
+      "symbol": "WAY",
+      "price": 26.85,
+      "gap_pct": 7.83,
+      "premarket_volume": 3468969,
       "is_premarket_data": false,
-      "catalyst": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+      "catalyst": "WAY Stock Surges On Reported Sale Buzz — RBC Flags This Tech Giant As The ‘Obvious First Name’",
       "headlines": [
-        "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
-        "Chewy downgraded, Shopify initiated: Wall Street's top analyst calls"
+        "WAY Stock Surges On Reported Sale Buzz — RBC Flags This Tech Giant As The ‘Obvious First Name’",
+        "Top Midday Stories: Waystar Reportedly Mulling Potential Sale; Intel-Backed Altera Says Parent Company Files Confidentially for IPO"
       ]
     }
   ]
