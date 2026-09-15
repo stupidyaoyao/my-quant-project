@@ -1,42 +1,66 @@
 {
-  "scanned_at": "2026-09-14 17:38:55",
+  "scanned_at": "2026-09-15 16:12:27",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 3,
-      "example_headline": "Market Indexes Drop as Chip Stocks Take the Weekend's News Badly"
-    },
-    {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 3,
-      "example_headline": "Market Indexes Drop as Chip Stocks Take the Weekend's News Badly"
-    },
-    {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 1,
-      "example_headline": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day"
-    },
-    {
-      "symbol": "COST",
-      "company_name": "Costco",
-      "mention_count": 1,
-      "example_headline": "Should You Buy Costco Stock Before Sept. 24?"
+      "example_headline": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story"
     },
     {
       "symbol": "COIN",
       "company_name": "Coinbase",
-      "mention_count": 1,
-      "example_headline": "Should You Buy Coinbase Stock While Its Revenue Is Shrinking?"
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Dives As Yields Jump; Bitcoin, Coinbase Fall Ahead Of Clarity Act Vote (Live Coverage)"
     },
     {
-      "symbol": "PLTR",
-      "company_name": "Palantir Technologies",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Dives As Yields Jump; Bitcoin, Coinbase Fall Ahead Of Clarity Act Vote (Live Coverage)"
+    },
+    {
+      "symbol": "KR",
+      "company_name": "Kroger",
       "mention_count": 1,
-      "example_headline": "Can Palantir Deploy Fast Enough To Move Its Stock Higher?"
+      "example_headline": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story"
+    },
+    {
+      "symbol": "CAT",
+      "company_name": "Caterpillar Inc.",
+      "mention_count": 1,
+      "example_headline": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models"
+    },
+    {
+      "symbol": "IBM",
+      "company_name": "IBM",
+      "mention_count": 1,
+      "example_headline": "How Much Does IBM Stock Move When The Market Moves?"
+    },
+    {
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
+      "mention_count": 1,
+      "example_headline": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)"
+    },
+    {
+      "symbol": "ADSK",
+      "company_name": "Autodesk",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More"
+    },
+    {
+      "symbol": "NOC",
+      "company_name": "Northrop Grumman",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More"
+    },
+    {
+      "symbol": "ULTA",
+      "company_name": "Ulta Beauty",
+      "mention_count": 1,
+      "example_headline": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More"
     }
   ]
 }
