@@ -216,7 +216,7 @@
     "in_position": true,
     "entry_price": 60.619998931884766,
     "entry_date": "2026-07-14",
-    "highest_since_entry": 62.38999938964844,
+    "highest_since_entry": 62.689998626708984,
     "position_fraction": 0.3259137464439582
   },
   "LCID": {
@@ -737,5 +737,12 @@
     "entry_date": "2026-09-10",
     "highest_since_entry": 24.600000381469727,
     "position_fraction": 0.2682902055830074
+  },
+  "BZ": {
+    "in_position": true,
+    "entry_price": 16.448220534324644,
+    "entry_date": "2026-09-11",
+    "highest_since_entry": 16.440000534057617,
+    "position_fraction": 0.12888707063646318
   }
 }
