@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-15 16:47:54",
+  "scanned_at": "2026-09-16 16:40:35",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "SWKS",
-      "price": 89.18,
-      "gap_pct": 12.52,
-      "premarket_volume": 6228829,
+      "symbol": "FPS",
+      "price": 35.23,
+      "gap_pct": 12.34,
+      "premarket_volume": 9626284,
       "is_premarket_data": false,
-      "catalyst": "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
+      "catalyst": "Most Active Options Report: FPS, TEVA, AFL",
       "headlines": [
-        "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
-        "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%"
+        "Most Active Options Report: FPS, TEVA, AFL",
+        "FPS Stock’s Recent Correction Is ‘Overdone,’ JPMorgan Says — FY27 Outlook Implies 80%-Plus Organic Growth"
       ]
     },
     {
       "rank": 2,
-      "symbol": "FPS",
-      "price": 32.14,
-      "gap_pct": 12.22,
-      "premarket_volume": 20304172,
+      "symbol": "CIFR",
+      "price": 16.89,
+      "gap_pct": 11.96,
+      "premarket_volume": 38845085,
       "is_premarket_data": false,
-      "catalyst": "Forgent Power Solutions Shares Rise 10.9% After FY26 Results",
+      "catalyst": "CIFR Stock Snaps 2-Day Slide After ERCOT Conditional Nod For 2 Major Data-Center Projects In Texas",
       "headlines": [
-        "Forgent Power Solutions Shares Rise 10.9% After FY26 Results",
-        "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting"
+        "CIFR Stock Snaps 2-Day Slide After ERCOT Conditional Nod For 2 Major Data-Center Projects In Texas",
+        "IREN Rebounds After Earnings Dip: Time to Buy or Hold the Stock?"
       ]
     },
     {
       "rank": 3,
-      "symbol": "TLX",
-      "price": 12.99,
-      "gap_pct": 10.27,
-      "premarket_volume": 694552,
+      "symbol": "SMTC",
+      "price": 167.45,
+      "gap_pct": 10.96,
+      "premarket_volume": 1858430,
       "is_premarket_data": false,
-      "catalyst": "TLX Stock Clocks 5% Gain This Week Ahead Of FDA Decision On Brain Cancer Imaging Agent",
+      "catalyst": "Does Semtech (SMTC) Have the Potential to Rally 36.99% as Wall Street Analysts Expect?",
       "headlines": [
-        "TLX Stock Clocks 5% Gain This Week Ahead Of FDA Decision On Brain Cancer Imaging Agent",
-        "Sector Update: Healthcare Stocks Advance Late Afternoon"
+        "Does Semtech (SMTC) Have the Potential to Rally 36.99% as Wall Street Analysts Expect?",
+        "If You Invested $1000 in Semtech a Decade Ago, This is How Much It'd Be Worth Now"
       ]
     },
     {
       "rank": 4,
-      "symbol": "RIG",
-      "price": 5.93,
-      "gap_pct": 8.89,
-      "premarket_volume": 28986147,
+      "symbol": "WOR",
+      "price": 60.01,
+      "gap_pct": 10.38,
+      "premarket_volume": 303301,
       "is_premarket_data": false,
-      "catalyst": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+      "catalyst": "Quanex Building Products (NX) Beats Q3 Earnings and Revenue Estimates",
       "headlines": [
-        "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
-        "3 Unprofitable Stocks We Think Twice About"
+        "Quanex Building Products (NX) Beats Q3 Earnings and Revenue Estimates",
+        "3 Small-Cap Stocks We’re Skeptical Of"
       ]
     },
     {
       "rank": 5,
-      "symbol": "QRVO",
-      "price": 117.43,
-      "gap_pct": 8.75,
-      "premarket_volume": 843224,
+      "symbol": "AXTI",
+      "price": 63.59,
+      "gap_pct": 10.21,
+      "premarket_volume": 5662483,
       "is_premarket_data": false,
-      "catalyst": "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
+      "catalyst": "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
       "headlines": [
-        "Skyworks Solutions Stock Tops S&P 500. The Apple Supplier Picks Up Where It Left Off.",
-        "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%"
+        "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
+        "The Thing to Watch With AXTQ Is Not AXT. It Is How Long You Hold It"
       ]
     },
     {
       "rank": 6,
-      "symbol": "TENB",
-      "price": 38.08,
-      "gap_pct": 8.55,
-      "premarket_volume": 2496985,
+      "symbol": "LITE",
+      "price": 908.09,
+      "gap_pct": 8.24,
+      "premarket_volume": 2678388,
       "is_premarket_data": false,
-      "catalyst": "Tenable (TENB) Moves 16.5% Higher: Will This Strength Last?",
+      "catalyst": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
       "headlines": [
-        "Tenable (TENB) Moves 16.5% Higher: Will This Strength Last?",
-        "Tenable (TENB) Stock Still Looks Undervalued Despite Its 54% Run"
+        "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
+        "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%"
       ]
     },
     {
       "rank": 7,
-      "symbol": "VAL",
-      "price": 87.94,
-      "gap_pct": 8.21,
-      "premarket_volume": 778222,
+      "symbol": "PBLS",
+      "price": 38.62,
+      "gap_pct": 8.12,
+      "premarket_volume": 414230,
       "is_premarket_data": false,
-      "catalyst": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+      "catalyst": "Young startups miss out on biotech venture funding rebound, MassBio says",
       "headlines": [
-        "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
-        "Why Valaris (VAL) Surged on a Takeover Bid"
+        "Young startups miss out on biotech venture funding rebound, MassBio says",
+        "Parabilis Medicines (PBLS) Stock Valuation After Recent 10% Single Day Decline"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BFLY",
-      "price": 8.02,
-      "gap_pct": 8.16,
-      "premarket_volume": 3839393,
+      "symbol": "BRKR",
+      "price": 60.15,
+      "gap_pct": 7.89,
+      "premarket_volume": 1913967,
       "is_premarket_data": false,
-      "catalyst": "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network",
+      "catalyst": "Why Bruker (BRKR) Stock Is Falling Today",
       "headlines": [
-        "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network",
-        "3 Medical Info Systems Stocks to Gain From GenAI Boom Amid Cyber Risk"
+        "Why Bruker (BRKR) Stock Is Falling Today",
+        "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits"
       ]
     },
     {
       "rank": 9,
-      "symbol": "CAI",
-      "price": 28.14,
-      "gap_pct": 8.02,
-      "premarket_volume": 4771205,
+      "symbol": "ARQT",
+      "price": 25.34,
+      "gap_pct": 7.78,
+      "premarket_volume": 2177222,
       "is_premarket_data": false,
-      "catalyst": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
+      "catalyst": "Here's Why You Should Add ARQT Stock to Your Portfolio Now",
       "headlines": [
-        "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
-        "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference"
+        "Here's Why You Should Add ARQT Stock to Your Portfolio Now",
+        "Arcutis Biotherapeutics (ARQT) Faces A Valuation Test, Is It Still A Bargain?"
       ]
     },
     {
       "rank": 10,
-      "symbol": "WAY",
-      "price": 26.85,
-      "gap_pct": 7.83,
-      "premarket_volume": 3468969,
+      "symbol": "CRDO",
+      "price": 161.38,
+      "gap_pct": 7.3,
+      "premarket_volume": 5051893,
       "is_premarket_data": false,
-      "catalyst": "WAY Stock Surges On Reported Sale Buzz — RBC Flags This Tech Giant As The ‘Obvious First Name’",
+      "catalyst": "Credo’s $236 Million Adjusted Profit Came With Just $83 Million in Free Cash Flow",
       "headlines": [
-        "WAY Stock Surges On Reported Sale Buzz — RBC Flags This Tech Giant As The ‘Obvious First Name’",
-        "Top Midday Stories: Waystar Reportedly Mulling Potential Sale; Intel-Backed Altera Says Parent Company Files Confidentially for IPO"
+        "Credo’s $236 Million Adjusted Profit Came With Just $83 Million in Free Cash Flow",
+        "ALAB Broadens Leo Portfolio: Can It Stay Ahead of MRVL & CRDO?"
       ]
     }
   ]
