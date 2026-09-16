@@ -5,7 +5,7 @@
   },
   "QQQ_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "AAPL_long": {
     "date": "2026-09-16",
@@ -13,7 +13,7 @@
   },
   "AAPL_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "MSFT_long": {
     "date": "2026-09-16",
@@ -21,7 +21,7 @@
   },
   "MSFT_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u6301\u5009\u4e2d"
   },
   "NVDA_long": {
     "date": "2026-09-16",
@@ -29,7 +29,7 @@
   },
   "NVDA_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "TSLA_long": {
     "date": "2026-09-16",
@@ -45,7 +45,7 @@
   },
   "AMZN_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "GOOGL_long": {
     "date": "2026-09-16",
@@ -53,7 +53,7 @@
   },
   "GOOGL_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "META_long": {
     "date": "2026-09-16",
@@ -61,7 +61,7 @@
   },
   "META_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "INTC_long": {
     "date": "2026-09-16",
@@ -69,7 +69,7 @@
   },
   "INTC_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "XOM_long": {
     "date": "2026-09-16",
@@ -81,7 +81,7 @@
   },
   "JNJ_long": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u7b49\u5f85\u56de\u6e2c\u78ba\u8a8d"
   },
   "JNJ_short": {
     "date": "2026-09-16",
@@ -101,15 +101,15 @@
   },
   "PYPL_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "DIS_long": {
     "date": "2026-09-16",
-    "last_status": "\u6301\u5009\u4e2d"
+    "last_status": "\u5df2\u51fa\u5834"
   },
   "DIS_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u7b49\u5f85\u56de\u6e2c\u78ba\u8a8d"
   },
   "BA_long": {
     "date": "2026-09-16",
@@ -117,6 +117,6 @@
   },
   "BA_short": {
     "date": "2026-09-16",
-    "last_status": "\u5c1a\u672a\u7a81\u7834"
+    "last_status": "\u5df2\u51fa\u5834"
   }
 }
