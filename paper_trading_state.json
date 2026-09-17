@@ -39,7 +39,7 @@
     "in_position": true,
     "entry_price": 156.78836171722412,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 165.99000549316406,
+    "highest_since_entry": 169.32000732421875,
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
@@ -139,7 +139,11 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.9429700572490685,
+    "entry_date": "2026-09-15",
+    "highest_since_entry": 5.940000057220459,
+    "position_fraction": 0.1486327464484891
   },
   "RIVN": {
     "in_position": false
@@ -713,11 +717,7 @@
     "in_position": false
   },
   "AGNC": {
-    "in_position": true,
-    "entry_price": 10.195094580173492,
-    "entry_date": "2026-09-10",
-    "highest_since_entry": 10.1899995803833,
-    "position_fraction": 0.3928807056203176
+    "in_position": false
   },
   "KHC": {
     "in_position": true,
