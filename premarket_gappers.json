@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-16 16:40:35",
+  "scanned_at": "2026-09-17 16:47:32",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "FPS",
-      "price": 35.23,
-      "gap_pct": 12.34,
-      "premarket_volume": 9626284,
+      "symbol": "GNRC",
+      "price": 211.83,
+      "gap_pct": 20.97,
+      "premarket_volume": 5743707,
       "is_premarket_data": false,
-      "catalyst": "Most Active Options Report: FPS, TEVA, AFL",
+      "catalyst": "Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage)",
       "headlines": [
-        "Most Active Options Report: FPS, TEVA, AFL",
-        "FPS Stock’s Recent Correction Is ‘Overdone,’ JPMorgan Says — FY27 Outlook Implies 80%-Plus Organic Growth"
+        "Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage)",
+        "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally"
       ]
     },
     {
       "rank": 2,
-      "symbol": "CIFR",
-      "price": 16.89,
-      "gap_pct": 11.96,
-      "premarket_volume": 38845085,
+      "symbol": "SDGR",
+      "price": 28.0,
+      "gap_pct": 16.99,
+      "premarket_volume": 3823233,
       "is_premarket_data": false,
-      "catalyst": "CIFR Stock Snaps 2-Day Slide After ERCOT Conditional Nod For 2 Major Data-Center Projects In Texas",
+      "catalyst": "Schrodinger (SDGR) Soars 12.1%: Is Further Upside Left in the Stock?",
       "headlines": [
-        "CIFR Stock Snaps 2-Day Slide After ERCOT Conditional Nod For 2 Major Data-Center Projects In Texas",
-        "IREN Rebounds After Earnings Dip: Time to Buy or Hold the Stock?"
+        "Schrodinger (SDGR) Soars 12.1%: Is Further Upside Left in the Stock?",
+        "Can RXRX's Pipeline Expansion Strengthen Its Long-Term Growth Outlook?"
       ]
     },
     {
       "rank": 3,
-      "symbol": "SMTC",
-      "price": 167.45,
-      "gap_pct": 10.96,
-      "premarket_volume": 1858430,
+      "symbol": "VICR",
+      "price": 215.13,
+      "gap_pct": 16.98,
+      "premarket_volume": 790365,
       "is_premarket_data": false,
-      "catalyst": "Does Semtech (SMTC) Have the Potential to Rally 36.99% as Wall Street Analysts Expect?",
+      "catalyst": "3 Stocks Put Traders Are Targeting Today",
       "headlines": [
-        "Does Semtech (SMTC) Have the Potential to Rally 36.99% as Wall Street Analysts Expect?",
-        "If You Invested $1000 in Semtech a Decade Ago, This is How Much It'd Be Worth Now"
+        "3 Stocks Put Traders Are Targeting Today",
+        "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike"
       ]
     },
     {
       "rank": 4,
-      "symbol": "WOR",
-      "price": 60.01,
-      "gap_pct": 10.38,
-      "premarket_volume": 303301,
+      "symbol": "TEM",
+      "price": 79.94,
+      "gap_pct": 14.25,
+      "premarket_volume": 11564741,
       "is_premarket_data": false,
-      "catalyst": "Quanex Building Products (NX) Beats Q3 Earnings and Revenue Estimates",
+      "catalyst": "Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
       "headlines": [
-        "Quanex Building Products (NX) Beats Q3 Earnings and Revenue Estimates",
-        "3 Small-Cap Stocks We’re Skeptical Of"
+        "Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
+        "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir"
       ]
     },
     {
       "rank": 5,
-      "symbol": "AXTI",
-      "price": 63.59,
-      "gap_pct": 10.21,
-      "premarket_volume": 5662483,
+      "symbol": "OKLO",
+      "price": 40.42,
+      "gap_pct": 13.49,
+      "premarket_volume": 10415805,
       "is_premarket_data": false,
-      "catalyst": "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
+      "catalyst": "Don't Buy Oklo Stock Until This Catalyst Hits",
       "headlines": [
-        "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
-        "The Thing to Watch With AXTQ Is Not AXT. It Is How Long You Hold It"
+        "Don't Buy Oklo Stock Until This Catalyst Hits",
+        "Oklo Just Hit a 70-Week Low. Here's My Investing Reaction."
       ]
     },
     {
       "rank": 6,
-      "symbol": "LITE",
-      "price": 908.09,
-      "gap_pct": 8.24,
-      "premarket_volume": 2678388,
+      "symbol": "XE",
+      "price": 16.38,
+      "gap_pct": 12.39,
+      "premarket_volume": 5217076,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
+      "catalyst": "Has X-Energy (XE) Fallen Far Enough On Cash Flow Questions?",
       "headlines": [
-        "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
-        "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%"
+        "Has X-Energy (XE) Fallen Far Enough On Cash Flow Questions?",
+        "X-energy Xe-100 Reactor Accepted Into UK Nuclear Regulatory Review"
       ]
     },
     {
       "rank": 7,
-      "symbol": "PBLS",
-      "price": 38.62,
-      "gap_pct": 8.12,
-      "premarket_volume": 414230,
+      "symbol": "TWST",
+      "price": 160.05,
+      "gap_pct": 11.87,
+      "premarket_volume": 1837856,
       "is_premarket_data": false,
-      "catalyst": "Young startups miss out on biotech venture funding rebound, MassBio says",
+      "catalyst": "Twist Bioscience (TWST) Is Up 14.0% After Lilly AI Drug Discovery Tie-Up Is Announced - Has The Bull Case Changed?",
       "headlines": [
-        "Young startups miss out on biotech venture funding rebound, MassBio says",
-        "Parabilis Medicines (PBLS) Stock Valuation After Recent 10% Single Day Decline"
+        "Twist Bioscience (TWST) Is Up 14.0% After Lilly AI Drug Discovery Tie-Up Is Announced - Has The Bull Case Changed?",
+        "Sector Update: Healthcare Stocks Edge Lower Late Afternoon"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BRKR",
-      "price": 60.15,
-      "gap_pct": 7.89,
-      "premarket_volume": 1913967,
+      "symbol": "BHVN",
+      "price": 13.41,
+      "gap_pct": 11.56,
+      "premarket_volume": 1993123,
       "is_premarket_data": false,
-      "catalyst": "Why Bruker (BRKR) Stock Is Falling Today",
+      "catalyst": "Biohaven’s epilepsy drug hit with FDA clinical hold",
       "headlines": [
-        "Why Bruker (BRKR) Stock Is Falling Today",
-        "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits"
+        "Biohaven’s epilepsy drug hit with FDA clinical hold",
+        "Biohaven Plummets, A Boon For Rival Xenon, On A Surprise Seizure Setback"
       ]
     },
     {
       "rank": 9,
-      "symbol": "ARQT",
-      "price": 25.34,
-      "gap_pct": 7.78,
-      "premarket_volume": 2177222,
+      "symbol": "BLSH",
+      "price": 35.66,
+      "gap_pct": 11.14,
+      "premarket_volume": 718530,
       "is_premarket_data": false,
-      "catalyst": "Here's Why You Should Add ARQT Stock to Your Portfolio Now",
+      "catalyst": "3 U.S. Crypto Infrastructure Stocks Shaped By The SEC Push Into Tokenized Stocks",
       "headlines": [
-        "Here's Why You Should Add ARQT Stock to Your Portfolio Now",
-        "Arcutis Biotherapeutics (ARQT) Faces A Valuation Test, Is It Still A Bargain?"
+        "3 U.S. Crypto Infrastructure Stocks Shaped By The SEC Push Into Tokenized Stocks",
+        "Securitize Surges After SEC Clears Path for Tokenized Stock Trading"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CRDO",
-      "price": 161.38,
-      "gap_pct": 7.3,
-      "premarket_volume": 5051893,
+      "symbol": "SMCI",
+      "price": 40.9,
+      "gap_pct": 10.99,
+      "premarket_volume": 44354420,
       "is_premarket_data": false,
-      "catalyst": "Credo’s $236 Million Adjusted Profit Came With Just $83 Million in Free Cash Flow",
+      "catalyst": "Vertiv's Product Revenue Accelerates: Can It Outpace APH & SMCI?",
       "headlines": [
-        "Credo’s $236 Million Adjusted Profit Came With Just $83 Million in Free Cash Flow",
-        "ALAB Broadens Leo Portfolio: Can It Stay Ahead of MRVL & CRDO?"
+        "Vertiv's Product Revenue Accelerates: Can It Outpace APH & SMCI?",
+        "Can INTC's AI Inference Advancements Strengthen Its Growth Prospects?"
       ]
     }
   ]
