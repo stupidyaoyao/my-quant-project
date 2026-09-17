@@ -1,48 +1,48 @@
 {
-  "scanned_at": "2026-09-16 16:05:29",
+  "scanned_at": "2026-09-17 16:12:19",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 7,
-      "example_headline": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)"
-    },
-    {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
+      "symbol": "GNRC",
+      "company_name": "Generac",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)"
+      "example_headline": "Stock Market Today: Nasdaq Leads Dow After Surprise Jobs Data; Gold Name Vaults Higher (Live Coverage)"
     },
     {
-      "symbol": "AXP",
-      "company_name": "American Express",
-      "mention_count": 2,
-      "example_headline": "American Express and IBM Drag the Dow"
-    },
-    {
-      "symbol": "IBM",
-      "company_name": "IBM",
-      "mention_count": 2,
-      "example_headline": "American Express and IBM Drag the Dow"
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
+      "symbol": "SOLV",
+      "company_name": "Solventum",
       "mention_count": 1,
-      "example_headline": "ISRG Wins EU Nod to Expand da Vinci SP in Gynecologic Procedures"
+      "example_headline": "Here's Why You Should Hold Solventum Stock in Your Portfolio for Now"
     },
     {
-      "symbol": "ISRG",
-      "company_name": "Intuitive Surgical",
+      "symbol": "ADBE",
+      "company_name": "Adobe Inc.",
       "mention_count": 1,
-      "example_headline": "ISRG Wins EU Nod to Expand da Vinci SP in Gynecologic Procedures"
+      "example_headline": "How Much Upside Is Left In Adobe Stock?"
+    },
+    {
+      "symbol": "KEYS",
+      "company_name": "Keysight Technologies",
+      "mention_count": 1,
+      "example_headline": "Keysight (KEYS) Up 0.8% Since Last Earnings Report: Can It Continue?"
     },
     {
       "symbol": "NDAQ",
       "company_name": "Nasdaq, Inc.",
       "mention_count": 1,
-      "example_headline": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision"
+      "example_headline": "US Stock Futures Rise as Oil Prices and Treasury Yields Decline: Dow Jones, S&P, Nasdaq, Wall Street"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 1,
+      "example_headline": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%"
+    },
+    {
+      "symbol": "MU",
+      "company_name": "Micron Technology",
+      "mention_count": 1,
+      "example_headline": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%"
     }
   ]
 }
