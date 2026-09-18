@@ -1,48 +1,54 @@
 {
-  "scanned_at": "2026-09-17 16:12:19",
+  "scanned_at": "2026-09-18 15:47:23",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "GNRC",
-      "company_name": "Generac",
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Leads Dow After Surprise Jobs Data; Gold Name Vaults Higher (Live Coverage)"
+      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
     },
     {
-      "symbol": "SOLV",
-      "company_name": "Solventum",
-      "mention_count": 1,
-      "example_headline": "Here's Why You Should Hold Solventum Stock in Your Portfolio for Now"
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
     },
     {
-      "symbol": "ADBE",
-      "company_name": "Adobe Inc.",
-      "mention_count": 1,
-      "example_headline": "How Much Upside Is Left In Adobe Stock?"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
     },
     {
-      "symbol": "KEYS",
-      "company_name": "Keysight Technologies",
-      "mention_count": 1,
-      "example_headline": "Keysight (KEYS) Up 0.8% Since Last Earnings Report: Can It Continue?"
+      "symbol": "SCHW",
+      "company_name": "Charles Schwab Corporation",
+      "mention_count": 2,
+      "example_headline": "Stocks Slip After Rising Oil and Yields Take Away Early Morning Gains"
     },
     {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
+      "symbol": "NDSN",
+      "company_name": "Nordson Corporation",
       "mention_count": 1,
-      "example_headline": "US Stock Futures Rise as Oil Prices and Treasury Yields Decline: Dow Jones, S&P, Nasdaq, Wall Street"
+      "example_headline": "Nordson (NDSN) Down 6.9% Since Last Earnings Report: Can It Rebound?"
     },
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
+      "symbol": "TJX",
+      "company_name": "TJX Companies",
       "mention_count": 1,
-      "example_headline": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%"
+      "example_headline": "Why Is TJX (TJX) Down 10.1% Since Last Earnings Report?"
     },
     {
-      "symbol": "MU",
-      "company_name": "Micron Technology",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "Micron Jumps 5% as Intel CEO Says Memory Prices Have Surged Over 500%"
+      "example_headline": "Target (TGT) Up 1% Since Last Earnings Report: Can It Continue?"
+    },
+    {
+      "symbol": "LOW",
+      "company_name": "Lowe's",
+      "mention_count": 1,
+      "example_headline": "Lowe's (LOW) Down 10.7% Since Last Earnings Report: Can It Rebound?"
     }
   ]
 }
