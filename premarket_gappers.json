@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-17 16:47:32",
+  "scanned_at": "2026-09-18 16:16:07",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "GNRC",
-      "price": 211.83,
-      "gap_pct": 20.97,
-      "premarket_volume": 5743707,
+      "symbol": "ALMR",
+      "price": 36.93,
+      "gap_pct": 15.37,
+      "premarket_volume": 599546,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage)",
+      "catalyst": "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
       "headlines": [
-        "Stock Market Today: Nasdaq Charges Higher As AI Leaders Mount A Rally; Salesforce Extends Losses (Live Coverage)",
-        "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally"
+        "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
+        "Alamar Biosciences Inc (ALMR) (Q2 2026) Earnings Call Highlights: Revenue Surges 82% on 147% ..."
       ]
     },
     {
       "rank": 2,
-      "symbol": "SDGR",
-      "price": 28.0,
-      "gap_pct": 16.99,
-      "premarket_volume": 3823233,
+      "symbol": "MSTR",
+      "price": 149.35,
+      "gap_pct": 12.93,
+      "premarket_volume": 24501158,
       "is_premarket_data": false,
-      "catalyst": "Schrodinger (SDGR) Soars 12.1%: Is Further Upside Left in the Stock?",
+      "catalyst": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
       "headlines": [
-        "Schrodinger (SDGR) Soars 12.1%: Is Further Upside Left in the Stock?",
-        "Can RXRX's Pipeline Expansion Strengthen Its Long-Term Growth Outlook?"
+        "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
+        "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000"
       ]
     },
     {
       "rank": 3,
-      "symbol": "VICR",
-      "price": 215.13,
-      "gap_pct": 16.98,
-      "premarket_volume": 790365,
+      "symbol": "COIN",
+      "price": 193.55,
+      "gap_pct": 11.25,
+      "premarket_volume": 10763141,
       "is_premarket_data": false,
-      "catalyst": "3 Stocks Put Traders Are Targeting Today",
+      "catalyst": "Coinbase CEO recalls sending one bitcoin to entice early users",
       "headlines": [
-        "3 Stocks Put Traders Are Targeting Today",
-        "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike"
+        "Coinbase CEO recalls sending one bitcoin to entice early users",
+        "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000"
       ]
     },
     {
       "rank": 4,
-      "symbol": "TEM",
-      "price": 79.94,
-      "gap_pct": 14.25,
-      "premarket_volume": 11564741,
+      "symbol": "MARA",
+      "price": 12.79,
+      "gap_pct": 9.88,
+      "premarket_volume": 38128159,
       "is_premarket_data": false,
-      "catalyst": "Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
+      "catalyst": "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
       "headlines": [
-        "Tempus AI Is Ripping 30% Higher This Week After Morgan Stanley Boosts Revenue Outlook",
-        "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir"
+        "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
+        "MARA Holdings Just Rallied 21% in a Month: Take Profits, or Buy More?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "OKLO",
-      "price": 40.42,
-      "gap_pct": 13.49,
-      "premarket_volume": 10415805,
+      "symbol": "BTDR",
+      "price": 12.35,
+      "gap_pct": 9.88,
+      "premarket_volume": 5069839,
       "is_premarket_data": false,
-      "catalyst": "Don't Buy Oklo Stock Until This Catalyst Hits",
+      "catalyst": "Bitdeer adds 65.1MW Johor AI facility, estimates cloud pipeline above $7 billion",
       "headlines": [
-        "Don't Buy Oklo Stock Until This Catalyst Hits",
-        "Oklo Just Hit a 70-Week Low. Here's My Investing Reaction."
+        "Bitdeer adds 65.1MW Johor AI facility, estimates cloud pipeline above $7 billion",
+        "Bitdeer Says AI Pipeline Has Crossed $7B After Malaysia Expansion: BTDR Stock Still Slips"
       ]
     },
     {
       "rank": 6,
-      "symbol": "XE",
-      "price": 16.38,
-      "gap_pct": 12.39,
-      "premarket_volume": 5217076,
+      "symbol": "ALVO",
+      "price": 5.87,
+      "gap_pct": 9.83,
+      "premarket_volume": 1201369,
       "is_premarket_data": false,
-      "catalyst": "Has X-Energy (XE) Fallen Far Enough On Cash Flow Questions?",
+      "catalyst": "Why This Biotech Stock Just Got a Rare Double Upgrade",
       "headlines": [
-        "Has X-Energy (XE) Fallen Far Enough On Cash Flow Questions?",
-        "X-energy Xe-100 Reactor Accepted Into UK Nuclear Regulatory Review"
+        "Why This Biotech Stock Just Got a Rare Double Upgrade",
+        "ALVO Stock Jumps On Double Upgrade — Why Barclays Sees A 59% Upside"
       ]
     },
     {
       "rank": 7,
-      "symbol": "TWST",
-      "price": 160.05,
-      "gap_pct": 11.87,
-      "premarket_volume": 1837856,
+      "symbol": "IMOS",
+      "price": 59.96,
+      "gap_pct": 8.84,
+      "premarket_volume": 112991,
       "is_premarket_data": false,
-      "catalyst": "Twist Bioscience (TWST) Is Up 14.0% After Lilly AI Drug Discovery Tie-Up Is Announced - Has The Bull Case Changed?",
+      "catalyst": "ChipMOS TECHNOLOGIES Inc (IMOS) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
       "headlines": [
-        "Twist Bioscience (TWST) Is Up 14.0% After Lilly AI Drug Discovery Tie-Up Is Announced - Has The Bull Case Changed?",
-        "Sector Update: Healthcare Stocks Edge Lower Late Afternoon"
+        "ChipMOS TECHNOLOGIES Inc (IMOS) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+        "Chipmos Technologies Q2 Earnings Call Highlights"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BHVN",
-      "price": 13.41,
-      "gap_pct": 11.56,
-      "premarket_volume": 1993123,
+      "symbol": "MXL",
+      "price": 81.0,
+      "gap_pct": 8.01,
+      "premarket_volume": 1643917,
       "is_premarket_data": false,
-      "catalyst": "Biohaven’s epilepsy drug hit with FDA clinical hold",
+      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
       "headlines": [
-        "Biohaven’s epilepsy drug hit with FDA clinical hold",
-        "Biohaven Plummets, A Boon For Rival Xenon, On A Surprise Seizure Setback"
+        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BLSH",
-      "price": 35.66,
-      "gap_pct": 11.14,
-      "premarket_volume": 718530,
+      "symbol": "BMNR",
+      "price": 25.79,
+      "gap_pct": 7.93,
+      "premarket_volume": 27369414,
       "is_premarket_data": false,
-      "catalyst": "3 U.S. Crypto Infrastructure Stocks Shaped By The SEC Push Into Tokenized Stocks",
+      "catalyst": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
       "headlines": [
-        "3 U.S. Crypto Infrastructure Stocks Shaped By The SEC Push Into Tokenized Stocks",
-        "Securitize Surges After SEC Clears Path for Tokenized Stock Trading"
+        "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+        "Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?"
       ]
     },
     {
       "rank": 10,
-      "symbol": "SMCI",
-      "price": 40.9,
-      "gap_pct": 10.99,
-      "premarket_volume": 44354420,
+      "symbol": "HOOD",
+      "price": 118.35,
+      "gap_pct": 7.77,
+      "premarket_volume": 19955363,
       "is_premarket_data": false,
-      "catalyst": "Vertiv's Product Revenue Accelerates: Can It Outpace APH & SMCI?",
+      "catalyst": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
       "headlines": [
-        "Vertiv's Product Revenue Accelerates: Can It Outpace APH & SMCI?",
-        "Can INTC's AI Inference Advancements Strengthen Its Growth Prospects?"
+        "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+        "Why Bitcoin and Strategy Stock Are Rallying Against All the Odds"
       ]
     }
   ]
