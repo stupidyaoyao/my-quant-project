@@ -60,18 +60,10 @@
     "position_fraction": 0.19069169230318334
   },
   "NU": {
-    "in_position": true,
-    "entry_price": 13.880000114440918,
-    "entry_date": "2026-07-15",
-    "highest_since_entry": 15.680000305175781,
-    "position_fraction": 0.17503936488047464
+    "in_position": false
   },
   "SOFI": {
-    "in_position": true,
-    "entry_price": 16.478234313011168,
-    "entry_date": "2026-07-30",
-    "highest_since_entry": 19.18000030517578,
-    "position_fraction": 0.12128766341754749
+    "in_position": false
   },
   "AAL": {
     "in_position": false
@@ -109,11 +101,7 @@
     "in_position": false
   },
   "F": {
-    "in_position": true,
-    "entry_price": 14.62730988550186,
-    "entry_date": "2026-09-04",
-    "highest_since_entry": 14.619999885559082,
-    "position_fraction": 0.2503730078639318
+    "in_position": false
   },
   "BBD": {
     "in_position": false
@@ -253,7 +241,11 @@
     "position_fraction": 1.0
   },
   "IREN": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 42.64130893135071,
+    "entry_date": "2026-09-16",
+    "highest_since_entry": 42.619998931884766,
+    "position_fraction": 0.09867944825310694
   },
   "RKLB": {
     "in_position": false
@@ -349,11 +341,7 @@
     "in_position": false
   },
   "CDE": {
-    "in_position": true,
-    "entry_price": 20.940465305328367,
-    "entry_date": "2026-08-19",
-    "highest_since_entry": 22.209999084472656,
-    "position_fraction": 0.11743039214393562
+    "in_position": false
   },
   "SMCI": {
     "in_position": true,
