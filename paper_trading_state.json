@@ -11,7 +11,7 @@
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 2525.75,
+    "highest_since_entry": 2609.800048828125,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
@@ -25,7 +25,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 333.0799865722656,
+    "highest_since_entry": 337.0,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -60,7 +60,11 @@
     "position_fraction": 0.19069169230318334
   },
   "NU": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 13.846920152664184,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 13.84000015258789,
+    "position_fraction": 0.1681288003818505
   },
   "SOFI": {
     "in_position": false
@@ -117,7 +121,7 @@
     "in_position": true,
     "entry_price": 148.25408267211913,
     "entry_date": "2026-09-10",
-    "highest_since_entry": 151.2100067138672,
+    "highest_since_entry": 154.80999755859375,
     "position_fraction": 0.1608155529934975
   },
   "META": {
@@ -274,7 +278,7 @@
     "in_position": true,
     "entry_price": 404.59230125427246,
     "entry_date": "2026-07-16",
-    "highest_since_entry": 567.2899780273438,
+    "highest_since_entry": 588.4000244140625,
     "position_fraction": 0.0841277535361
   },
   "AVGO": {
@@ -341,7 +345,11 @@
     "in_position": false
   },
   "CDE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 19.989989542007446,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 19.979999542236328,
+    "position_fraction": 0.12276498524472956
   },
   "SMCI": {
     "in_position": true,
@@ -410,7 +418,11 @@
     "position_fraction": 0.18977912538371075
   },
   "BE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 280.9003897705078,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 280.760009765625,
+    "position_fraction": 0.10748571951101127
   },
   "ABEV": {
     "in_position": false
@@ -720,5 +732,26 @@
     "entry_date": "2026-09-11",
     "highest_since_entry": 16.440000534057617,
     "position_fraction": 0.12888707063646318
+  },
+  "PSKY": {
+    "in_position": true,
+    "entry_price": 10.625309885501862,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 10.619999885559082,
+    "position_fraction": 0.15891083784207832
+  },
+  "JHX": {
+    "in_position": true,
+    "entry_price": 25.922954847335813,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 25.90999984741211,
+    "position_fraction": 0.15591655219709838
+  },
+  "P": {
+    "in_position": true,
+    "entry_price": 104.0419928627014,
+    "entry_date": "2026-09-17",
+    "highest_since_entry": 103.98999786376953,
+    "position_fraction": 0.1367871592345438
   }
 }
