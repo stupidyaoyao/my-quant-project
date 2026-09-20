@@ -11,14 +11,14 @@
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 2609.800048828125,
+    "highest_since_entry": 2629.02001953125,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
     "in_position": true,
     "entry_price": 711.7256801147461,
     "entry_date": "2026-08-26",
-    "highest_since_entry": 721.1099853515625,
+    "highest_since_entry": 721.4500122070312,
     "position_fraction": 0.592872301037528
   },
   "AAPL": {
@@ -643,7 +643,7 @@
     "in_position": true,
     "entry_price": 12.836414923667906,
     "entry_date": "2026-08-27",
-    "highest_since_entry": 12.829999923706055,
+    "highest_since_entry": 14.09000015258789,
     "position_fraction": 0.08821766818275165
   },
   "VALE": {
@@ -751,7 +751,7 @@
     "in_position": true,
     "entry_price": 104.0419928627014,
     "entry_date": "2026-09-17",
-    "highest_since_entry": 103.98999786376953,
+    "highest_since_entry": 104.13999938964844,
     "position_fraction": 0.1367871592345438
   }
 }
