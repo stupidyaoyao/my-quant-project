@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-18 16:16:07",
+  "scanned_at": "2026-09-21 18:09:27",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "ALMR",
-      "price": 36.93,
-      "gap_pct": 15.37,
-      "premarket_volume": 599546,
+      "symbol": "GRAL",
+      "price": 109.49,
+      "gap_pct": 35.56,
+      "premarket_volume": 2551531,
       "is_premarket_data": false,
-      "catalyst": "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
+      "catalyst": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
       "headlines": [
-        "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
-        "Alamar Biosciences Inc (ALMR) (Q2 2026) Earnings Call Highlights: Revenue Surges 82% on 147% ..."
+        "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test",
+        "FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulatory Catalysts This Week"
       ]
     },
     {
       "rank": 2,
-      "symbol": "MSTR",
-      "price": 149.35,
-      "gap_pct": 12.93,
-      "premarket_volume": 24501158,
+      "symbol": "ARM",
+      "price": 318.16,
+      "gap_pct": 15.44,
+      "premarket_volume": 9332174,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
+      "catalyst": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
       "headlines": [
-        "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
-        "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000"
+        "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
+        "Arm’s Shift From Royalties to Silicon Manufacturing Could Reshape Chip Economics"
       ]
     },
     {
       "rank": 3,
-      "symbol": "COIN",
-      "price": 193.55,
-      "gap_pct": 11.25,
-      "premarket_volume": 10763141,
+      "symbol": "FSLY",
+      "price": 27.23,
+      "gap_pct": 14.09,
+      "premarket_volume": 6455548,
       "is_premarket_data": false,
-      "catalyst": "Coinbase CEO recalls sending one bitcoin to entice early users",
+      "catalyst": "Should You Be Bullish on Fastly (FSLY)?",
       "headlines": [
-        "Coinbase CEO recalls sending one bitcoin to entice early users",
-        "Strategy Climbs 12%, Coinbase Jumps 10% as Bitcoin Tops $80,000"
+        "Should You Be Bullish on Fastly (FSLY)?",
+        "Fastly (FSLY) Lands Comcast Partnership, Is The Stock Still Below Fair Value?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "MARA",
-      "price": 12.79,
-      "gap_pct": 9.88,
-      "premarket_volume": 38128159,
+      "symbol": "MRNA",
+      "price": 175.71,
+      "gap_pct": 14.07,
+      "premarket_volume": 14409243,
       "is_premarket_data": false,
-      "catalyst": "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
+      "catalyst": "Moderna To Present Additional Data From Key Melanoma Trial At ESMO Congress – Retail Says ‘Breakout Is Getting Hard To Ignore’",
       "headlines": [
-        "Can Applied Digital Stock Recover On Leases It Has Already Signed?",
-        "MARA Holdings Just Rallied 21% in a Month: Take Profits, or Buy More?"
+        "Moderna To Present Additional Data From Key Melanoma Trial At ESMO Congress – Retail Says ‘Breakout Is Getting Hard To Ignore’",
+        "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher"
       ]
     },
     {
       "rank": 5,
-      "symbol": "BTDR",
-      "price": 12.35,
-      "gap_pct": 9.88,
-      "premarket_volume": 5069839,
+      "symbol": "AXTI",
+      "price": 79.17,
+      "gap_pct": 13.05,
+      "premarket_volume": 8573586,
       "is_premarket_data": false,
-      "catalyst": "Bitdeer adds 65.1MW Johor AI facility, estimates cloud pipeline above $7 billion",
+      "catalyst": "Bear of the Day: Qualcomm (QCOM)",
       "headlines": [
-        "Bitdeer adds 65.1MW Johor AI facility, estimates cloud pipeline above $7 billion",
-        "Bitdeer Says AI Pipeline Has Crossed $7B After Malaysia Expansion: BTDR Stock Still Slips"
+        "Bear of the Day: Qualcomm (QCOM)",
+        "Bull of the Day: AXT (AXTI)"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ALVO",
-      "price": 5.87,
-      "gap_pct": 9.83,
-      "premarket_volume": 1201369,
+      "symbol": "LUNR",
+      "price": 15.62,
+      "gap_pct": 12.25,
+      "premarket_volume": 7754189,
       "is_premarket_data": false,
-      "catalyst": "Why This Biotech Stock Just Got a Rare Double Upgrade",
+      "catalyst": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
       "headlines": [
-        "Why This Biotech Stock Just Got a Rare Double Upgrade",
-        "ALVO Stock Jumps On Double Upgrade — Why Barclays Sees A 59% Upside"
+        "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+        "RKLB, ASTS, VOYG, LUNR Steal SpaceX’s Thunder — Here’s What Lit Up Space Stocks This Week"
       ]
     },
     {
       "rank": 7,
-      "symbol": "IMOS",
-      "price": 59.96,
-      "gap_pct": 8.84,
-      "premarket_volume": 112991,
+      "symbol": "DOCN",
+      "price": 145.93,
+      "gap_pct": 12.13,
+      "premarket_volume": 2331993,
       "is_premarket_data": false,
-      "catalyst": "ChipMOS TECHNOLOGIES Inc (IMOS) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+      "catalyst": "ZoomInfo, monday.com, Asure Software, DigitalOcean, and Amplitude Shares Are Falling, What You Need To Know",
       "headlines": [
-        "ChipMOS TECHNOLOGIES Inc (IMOS) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
-        "Chipmos Technologies Q2 Earnings Call Highlights"
+        "ZoomInfo, monday.com, Asure Software, DigitalOcean, and Amplitude Shares Are Falling, What You Need To Know",
+        "DigitalOcean’s (DOCN) $725M Bet On AI’s Next Wave"
       ]
     },
     {
       "rank": 8,
-      "symbol": "MXL",
-      "price": 81.0,
-      "gap_pct": 8.01,
-      "premarket_volume": 1643917,
+      "symbol": "AKAM",
+      "price": 116.99,
+      "gap_pct": 11.93,
+      "premarket_volume": 2733295,
       "is_premarket_data": false,
-      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+      "catalyst": "Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
       "headlines": [
-        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
-        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
+        "Akamai (AKAM) Wants to Be the Bouncer for Your AI Agents",
+        "BEKE or AKAM: Which Is the Better Value Stock Right Now?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BMNR",
-      "price": 25.79,
-      "gap_pct": 7.93,
-      "premarket_volume": 27369414,
+      "symbol": "INTC",
+      "price": 121.45,
+      "gap_pct": 11.83,
+      "premarket_volume": 135374735,
       "is_premarket_data": false,
-      "catalyst": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+      "catalyst": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
       "headlines": [
-        "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-        "Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?"
+        "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
+        "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck"
       ]
     },
     {
       "rank": 10,
-      "symbol": "HOOD",
-      "price": 118.35,
-      "gap_pct": 7.77,
-      "premarket_volume": 19955363,
+      "symbol": "VNET",
+      "price": 7.28,
+      "gap_pct": 11.58,
+      "premarket_volume": 7146730,
       "is_premarket_data": false,
-      "catalyst": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "catalyst": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
       "headlines": [
-        "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-        "Why Bitcoin and Strategy Stock Are Rallying Against All the Odds"
+        "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+        "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week"
       ]
     }
   ]
