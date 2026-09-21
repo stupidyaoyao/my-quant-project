@@ -1,54 +1,42 @@
 {
-  "scanned_at": "2026-09-18 15:47:23",
+  "scanned_at": "2026-09-21 17:50:42",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
-    },
-    {
-      "symbol": "AMD",
-      "company_name": "Advanced Micro Devices",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
       "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
+      "example_headline": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)"
     },
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)"
+      "example_headline": "Wall Street Futures Rise as Falling Oil Prices Support Market Sentiment: Dow Jones, S&P, Nasdaq"
     },
     {
-      "symbol": "SCHW",
-      "company_name": "Charles Schwab Corporation",
-      "mention_count": 2,
-      "example_headline": "Stocks Slip After Rising Oil and Yields Take Away Early Morning Gains"
-    },
-    {
-      "symbol": "NDSN",
-      "company_name": "Nordson Corporation",
+      "symbol": "AMGN",
+      "company_name": "Amgen",
       "mention_count": 1,
-      "example_headline": "Nordson (NDSN) Down 6.9% Since Last Earnings Report: Can It Rebound?"
+      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
     },
     {
-      "symbol": "TJX",
-      "company_name": "TJX Companies",
+      "symbol": "CRM",
+      "company_name": "Salesforce",
       "mention_count": 1,
-      "example_headline": "Why Is TJX (TJX) Down 10.1% Since Last Earnings Report?"
+      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
+      "symbol": "VEEV",
+      "company_name": "Veeva Systems",
       "mention_count": 1,
-      "example_headline": "Target (TGT) Up 1% Since Last Earnings Report: Can It Continue?"
+      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
     },
     {
-      "symbol": "LOW",
-      "company_name": "Lowe's",
+      "symbol": "MS",
+      "company_name": "Morgan Stanley",
       "mention_count": 1,
-      "example_headline": "Lowe's (LOW) Down 10.7% Since Last Earnings Report: Can It Rebound?"
+      "example_headline": "Stocks Pop in Early Trading as Oil Prices Slide on Reignited Iran Peace Hopes"
     }
   ]
 }
