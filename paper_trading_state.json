@@ -4,14 +4,14 @@
     "in_position": true,
     "entry_price": 64422.858499999995,
     "entry_date": "2026-07-25",
-    "highest_since_entry": 81343.2265625,
+    "highest_since_entry": 86263.5390625,
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
     "in_position": true,
     "entry_price": 1898.116190673828,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 2653.580078125,
+    "highest_since_entry": 2768.6298828125,
     "position_fraction": 0.20222419232574626
   },
   "QQQ": {
@@ -67,7 +67,11 @@
     "position_fraction": 0.1681288003818505
   },
   "SOFI": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 16.96847908401489,
+    "entry_date": "2026-09-18",
+    "highest_since_entry": 16.959999084472656,
+    "position_fraction": 0.1759792964429297
   },
   "AAL": {
     "in_position": false
@@ -125,7 +129,11 @@
     "position_fraction": 0.1608155529934975
   },
   "META": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 666.082875,
+    "entry_date": "2026-09-18",
+    "highest_since_entry": 665.75,
+    "position_fraction": 0.20370003510894982
   },
   "CRCL": {
     "in_position": false
@@ -339,7 +347,11 @@
     "position_fraction": 0.07426050214765281
   },
   "WBD": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 27.813899236679077,
+    "entry_date": "2026-09-18",
+    "highest_since_entry": 27.799999237060547,
+    "position_fraction": 0.5652858815717191
   },
   "CIFR": {
     "in_position": false
@@ -473,11 +485,7 @@
     "position_fraction": 0.13279484633351588
   },
   "NVO": {
-    "in_position": true,
-    "entry_price": 44.30213877868652,
-    "entry_date": "2026-08-04",
-    "highest_since_entry": 44.279998779296875,
-    "position_fraction": 0.1656432516157546
+    "in_position": false
   },
   "UBER": {
     "in_position": false
