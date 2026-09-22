@@ -1,42 +1,60 @@
 {
-  "scanned_at": "2026-09-21 17:50:42",
+  "scanned_at": "2026-09-22 16:15:10",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage)"
+    },
+    {
+      "symbol": "META",
+      "company_name": "Meta Platforms",
       "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)"
+      "example_headline": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes"
+    },
+    {
+      "symbol": "GM",
+      "company_name": "General Motors",
+      "mention_count": 1,
+      "example_headline": "Reasons Why You Should Hold General Motors Stock in Your Portfolio"
+    },
+    {
+      "symbol": "APP",
+      "company_name": "AppLovin",
+      "mention_count": 1,
+      "example_headline": "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back"
+    },
+    {
+      "symbol": "MA",
+      "company_name": "Mastercard",
+      "mention_count": 1,
+      "example_headline": "3 Big Reasons to Love Mastercard (MA)"
+    },
+    {
+      "symbol": "MRK",
+      "company_name": "Merck & Co.",
+      "mention_count": 1,
+      "example_headline": "3 Reasons to Sell MRK and 1 Stock to Buy Instead"
+    },
+    {
+      "symbol": "CRWD",
+      "company_name": "CrowdStrike",
+      "mention_count": 1,
+      "example_headline": "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?"
+    },
+    {
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
+      "mention_count": 1,
+      "example_headline": "A Bad Day for Bank Stocks Is Killing the Dow"
     },
     {
       "symbol": "INTC",
       "company_name": "Intel",
-      "mention_count": 2,
-      "example_headline": "Wall Street Futures Rise as Falling Oil Prices Support Market Sentiment: Dow Jones, S&P, Nasdaq"
-    },
-    {
-      "symbol": "AMGN",
-      "company_name": "Amgen",
       "mention_count": 1,
-      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
-    },
-    {
-      "symbol": "CRM",
-      "company_name": "Salesforce",
-      "mention_count": 1,
-      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
-    },
-    {
-      "symbol": "VEEV",
-      "company_name": "Veeva Systems",
-      "mention_count": 1,
-      "example_headline": "Veeva Expands Amgen Partnership With Global Vault CRM Rollout Plan"
-    },
-    {
-      "symbol": "MS",
-      "company_name": "Morgan Stanley",
-      "mention_count": 1,
-      "example_headline": "Stocks Pop in Early Trading as Oil Prices Slide on Reignited Iran Peace Hopes"
+      "example_headline": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes"
     }
   ]
 }
