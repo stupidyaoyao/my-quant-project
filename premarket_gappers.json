@@ -1,134 +1,82 @@
 {
-  "scanned_at": "2026-09-22 16:45:54",
+  "scanned_at": "2026-09-23 16:42:22",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "VKTX",
-      "price": 39.65,
-      "gap_pct": 31.69,
-      "premarket_volume": 31044439,
+      "symbol": "SECZ",
+      "price": 14.55,
+      "gap_pct": 11.96,
+      "premarket_volume": 5218919,
       "is_premarket_data": false,
-      "catalyst": "Viking Therapeutics stock surges on promising weight-loss data: A closer look",
+      "catalyst": "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
       "headlines": [
-        "Viking Therapeutics stock surges on promising weight-loss data: A closer look",
-        "Viking shares surge on updated obesity drug data"
+        "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
+        "Cantor Fitzgerald Flags 95% Upside in the Firm Putting Stocks Onchain"
       ]
     },
     {
       "rank": 2,
-      "symbol": "BFLY",
-      "price": 9.87,
-      "gap_pct": 21.19,
-      "premarket_volume": 9814586,
+      "symbol": "AR",
+      "price": 36.28,
+      "gap_pct": 5.4,
+      "premarket_volume": 2437276,
       "is_premarket_data": false,
-      "catalyst": "Executive Waves Goodbye to Nearly 14,000 Shares, Valued at More Than $100,000",
+      "catalyst": "Antero Resources (AR): Buy, Sell, or Hold Post Q2 Earnings?",
       "headlines": [
-        "Executive Waves Goodbye to Nearly 14,000 Shares, Valued at More Than $100,000",
-        "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network"
+        "Antero Resources (AR): Buy, Sell, or Hold Post Q2 Earnings?",
+        "Natural Gas Ends Week Lower, but LNG Demand Offers Support"
       ]
     },
     {
       "rank": 3,
-      "symbol": "VICR",
-      "price": 257.59,
-      "gap_pct": 15.05,
-      "premarket_volume": 964442,
+      "symbol": "VG",
+      "price": 13.59,
+      "gap_pct": 5.23,
+      "premarket_volume": 9683241,
       "is_premarket_data": false,
-      "catalyst": "Earnings Estimates Rising for Vicor (VICR): Will It Gain?",
+      "catalyst": "PNRG Gains 24% in a Year: Time to Bet on the Stock or Wait?",
       "headlines": [
-        "Earnings Estimates Rising for Vicor (VICR): Will It Gain?",
-        "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding, and More Stocks That Explain Today’s Market"
+        "PNRG Gains 24% in a Year: Time to Bet on the Stock or Wait?",
+        "Why Is Baker Hughes (BKR) Winning One Of America’s Biggest LNG Compression Orders?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "SGRY",
-      "price": 15.29,
-      "gap_pct": 11.88,
-      "premarket_volume": 3161217,
+      "symbol": "HUBS",
+      "price": 229.22,
+      "gap_pct": 5.2,
+      "premarket_volume": 636798,
       "is_premarket_data": false,
-      "catalyst": "Can Intuitive Surgical Make Up For A Lower Price Per Surgery?",
+      "catalyst": "Microsoft upgraded, HubSpot initiated: Wall Street's top analyst calls",
       "headlines": [
-        "Can Intuitive Surgical Make Up For A Lower Price Per Surgery?",
-        "Surgery Partners Director Teresa DeLuca Buys 11,250 Shares"
+        "Microsoft upgraded, HubSpot initiated: Wall Street's top analyst calls",
+        "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors"
       ]
     },
     {
       "rank": 5,
-      "symbol": "BLLN",
-      "price": 115.86,
-      "gap_pct": 11.55,
-      "premarket_volume": 588279,
+      "symbol": "IONQ",
+      "price": 42.83,
+      "gap_pct": 5.12,
+      "premarket_volume": 54331546,
       "is_premarket_data": false,
-      "catalyst": "BillionToOne SVP Sells 1,416 Shares",
+      "catalyst": "Quantum computing ETFs are booming this year. Here's why.",
       "headlines": [
-        "BillionToOne SVP Sells 1,416 Shares",
-        "BillionToOne CEO Liquidates Entire Directly-Held Stake in the Company for $3 Million"
+        "Quantum computing ETFs are booming this year. Here's why.",
+        "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ONON",
-      "price": 30.23,
-      "gap_pct": 10.65,
-      "premarket_volume": 28246736,
+      "symbol": "KVYO",
+      "price": 16.66,
+      "gap_pct": 5.01,
+      "premarket_volume": 2847701,
       "is_premarket_data": false,
-      "catalyst": "On Holding stock soaring on growth forecasts in new sports categories",
+      "catalyst": "Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates",
       "headlines": [
-        "On Holding stock soaring on growth forecasts in new sports categories",
-        "On Holding shares surge 11% despite analyst skepticism on investor day targets"
-      ]
-    },
-    {
-      "rank": 7,
-      "symbol": "DKS",
-      "price": 133.49,
-      "gap_pct": 7.98,
-      "premarket_volume": 2211210,
-      "is_premarket_data": false,
-      "catalyst": "1 Oversold Stock Ready to Bounce Back and 2 We Find Risky",
-      "headlines": [
-        "1 Oversold Stock Ready to Bounce Back and 2 We Find Risky",
-        "New Strong Sell Stocks for September 22nd"
-      ]
-    },
-    {
-      "rank": 8,
-      "symbol": "SHOP",
-      "price": 148.63,
-      "gap_pct": 7.77,
-      "premarket_volume": 15392095,
-      "is_premarket_data": false,
-      "catalyst": "Meta, Shopify, AutoZone lead stocks on the move for Sept. 22",
-      "headlines": [
-        "Meta, Shopify, AutoZone lead stocks on the move for Sept. 22",
-        "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "RMBS",
-      "price": 104.44,
-      "gap_pct": 7.72,
-      "premarket_volume": 2476221,
-      "is_premarket_data": false,
-      "catalyst": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-      "headlines": [
-        "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-        "3 AI Infrastructure Stocks Riding The White House Push Into Data Centers"
-      ]
-    },
-    {
-      "rank": 10,
-      "symbol": "CE",
-      "price": 47.75,
-      "gap_pct": 7.59,
-      "premarket_volume": 970776,
-      "is_premarket_data": false,
-      "catalyst": "Celanese (CE) Appoints Luis Fernandez Moreno To Board Of Directors",
-      "headlines": [
-        "Celanese (CE) Appoints Luis Fernandez Moreno To Board Of Directors",
-        "Celanese (CE) Stock Could Be A Bargain On Sales"
+        "Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates",
+        "Klaviyo (KVYO) Could Be 41% Undervalued After AI CRM Updates And MNTN Tie Up"
       ]
     }
   ]
