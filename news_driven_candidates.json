@@ -1,60 +1,66 @@
 {
-  "scanned_at": "2026-09-22 16:15:10",
+  "scanned_at": "2026-09-23 16:03:47",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage)"
+      "example_headline": "Where to find 'relative value' outside of US equities"
     },
     {
-      "symbol": "META",
-      "company_name": "Meta Platforms",
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 2,
-      "example_headline": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes"
+      "example_headline": "Home Depot (HD) is Positioned to benefit from Housing Market Recovery"
+    },
+    {
+      "symbol": "INTU",
+      "company_name": "Intuit",
+      "mention_count": 1,
+      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
+    },
+    {
+      "symbol": "ISRG",
+      "company_name": "Intuitive Surgical",
+      "mention_count": 1,
+      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
+    },
+    {
+      "symbol": "SYK",
+      "company_name": "Stryker Corporation",
+      "mention_count": 1,
+      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
+    },
+    {
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 1,
+      "example_headline": "Losing to Win: A VC Lens Will Find the Next Nvidia"
+    },
+    {
+      "symbol": "VLTO",
+      "company_name": "Veralto",
+      "mention_count": 1,
+      "example_headline": "VLTO Stock Rises 13.2% in Three Months: Here's What You Should Know"
+    },
+    {
+      "symbol": "NFLX",
+      "company_name": "Netflix",
+      "mention_count": 1,
+      "example_headline": "Are Netflix Shares Still Worth Watching?"
     },
     {
       "symbol": "GM",
       "company_name": "General Motors",
       "mention_count": 1,
-      "example_headline": "Reasons Why You Should Hold General Motors Stock in Your Portfolio"
-    },
-    {
-      "symbol": "APP",
-      "company_name": "AppLovin",
-      "mention_count": 1,
-      "example_headline": "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back"
-    },
-    {
-      "symbol": "MA",
-      "company_name": "Mastercard",
-      "mention_count": 1,
-      "example_headline": "3 Big Reasons to Love Mastercard (MA)"
-    },
-    {
-      "symbol": "MRK",
-      "company_name": "Merck & Co.",
-      "mention_count": 1,
-      "example_headline": "3 Reasons to Sell MRK and 1 Stock to Buy Instead"
-    },
-    {
-      "symbol": "CRWD",
-      "company_name": "CrowdStrike",
-      "mention_count": 1,
-      "example_headline": "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?"
-    },
-    {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 1,
-      "example_headline": "A Bad Day for Bank Stocks Is Killing the Dow"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 1,
-      "example_headline": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes"
+      "example_headline": "Trump’s State Dinner Makes Strange Bedfellows of Tesla’s Elon Musk and GM’s Mary Barra"
     }
   ]
 }
