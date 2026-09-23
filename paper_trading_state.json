@@ -4,7 +4,7 @@
     "in_position": true,
     "entry_price": 64422.858499999995,
     "entry_date": "2026-07-25",
-    "highest_since_entry": 86263.5390625,
+    "highest_since_entry": 86355.921875,
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
@@ -18,14 +18,14 @@
     "in_position": true,
     "entry_price": 711.7256801147461,
     "entry_date": "2026-08-26",
-    "highest_since_entry": 721.4500122070312,
+    "highest_since_entry": 741.469970703125,
     "position_fraction": 0.592872301037528
   },
   "AAPL": {
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 337.0,
+    "highest_since_entry": 338.9800109863281,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -63,15 +63,11 @@
     "in_position": true,
     "entry_price": 13.846920152664184,
     "entry_date": "2026-09-17",
-    "highest_since_entry": 13.84000015258789,
+    "highest_since_entry": 14.0600004196167,
     "position_fraction": 0.1681288003818505
   },
   "SOFI": {
-    "in_position": true,
-    "entry_price": 16.96847908401489,
-    "entry_date": "2026-09-18",
-    "highest_since_entry": 16.959999084472656,
-    "position_fraction": 0.1759792964429297
+    "in_position": false
   },
   "AAL": {
     "in_position": false
@@ -209,11 +205,7 @@
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
-    "in_position": true,
-    "entry_price": 60.619998931884766,
-    "entry_date": "2026-07-14",
-    "highest_since_entry": 62.689998626708984,
-    "position_fraction": 0.3259137464439582
+    "in_position": false
   },
   "LCID": {
     "in_position": false
@@ -350,7 +342,7 @@
     "in_position": true,
     "entry_price": 27.813899236679077,
     "entry_date": "2026-09-18",
-    "highest_since_entry": 27.799999237060547,
+    "highest_since_entry": 30.799999237060547,
     "position_fraction": 0.5652858815717191
   },
   "CIFR": {
@@ -400,11 +392,7 @@
     "in_position": false
   },
   "CMCSA": {
-    "in_position": true,
-    "entry_price": 26.343164923667906,
-    "entry_date": "2026-09-08",
-    "highest_since_entry": 26.329999923706055,
-    "position_fraction": 0.30152952445723086
+    "in_position": false
   },
   "VZ": {
     "in_position": false
@@ -761,5 +749,11 @@
     "entry_date": "2026-09-17",
     "highest_since_entry": 104.13999938964844,
     "position_fraction": 0.1367871592345438
+  },
+  "VKTX": {
+    "in_position": false
+  },
+  "CCL": {
+    "in_position": false
   }
 }
