@@ -1,82 +1,134 @@
 {
-  "scanned_at": "2026-09-23 16:42:22",
+  "scanned_at": "2026-09-24 16:59:59",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "SECZ",
-      "price": 14.55,
-      "gap_pct": 11.96,
-      "premarket_volume": 5218919,
+      "symbol": "P",
+      "price": 127.75,
+      "gap_pct": 16.51,
+      "premarket_volume": 7245221,
       "is_premarket_data": false,
-      "catalyst": "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
+      "catalyst": "🔎 Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
       "headlines": [
-        "Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?",
-        "Cantor Fitzgerald Flags 95% Upside in the Firm Putting Stocks Onchain"
+        "🔎 Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
+        "Everpure Stock Leads S&P 500 Gainers After Rosy Outlook on AI Demand"
       ]
     },
     {
       "rank": 2,
-      "symbol": "AR",
-      "price": 36.28,
-      "gap_pct": 5.4,
-      "premarket_volume": 2437276,
+      "symbol": "CDNA",
+      "price": 61.41,
+      "gap_pct": 13.07,
+      "premarket_volume": 973648,
       "is_premarket_data": false,
-      "catalyst": "Antero Resources (AR): Buy, Sell, or Hold Post Q2 Earnings?",
+      "catalyst": "4 Healthcare Stocks to Play Safe as Fed Gears Up for Rate Hike",
       "headlines": [
-        "Antero Resources (AR): Buy, Sell, or Hold Post Q2 Earnings?",
-        "Natural Gas Ends Week Lower, but LNG Demand Offers Support"
+        "4 Healthcare Stocks to Play Safe as Fed Gears Up for Rate Hike",
+        "Oil Surge Continues on Escalating Middle East Crisis: 4 Defensive Picks"
       ]
     },
     {
       "rank": 3,
-      "symbol": "VG",
-      "price": 13.59,
-      "gap_pct": 5.23,
-      "premarket_volume": 9683241,
+      "symbol": "LIFE",
+      "price": 37.4,
+      "gap_pct": 10.3,
+      "premarket_volume": 1212194,
       "is_premarket_data": false,
-      "catalyst": "PNRG Gains 24% in a Year: Time to Bet on the Stock or Wait?",
+      "catalyst": "Is Ethos Technologies (LIFE) Undervalued After Strong Revenue Growth And Ongoing Losses?",
       "headlines": [
-        "PNRG Gains 24% in a Year: Time to Bet on the Stock or Wait?",
-        "Why Is Baker Hughes (BKR) Winning One Of America’s Biggest LNG Compression Orders?"
+        "Is Ethos Technologies (LIFE) Undervalued After Strong Revenue Growth And Ongoing Losses?",
+        "Ethos Technologies Highlights Why Key Sell Rules Also Apply To New IPOs"
       ]
     },
     {
       "rank": 4,
-      "symbol": "HUBS",
-      "price": 229.22,
-      "gap_pct": 5.2,
-      "premarket_volume": 636798,
+      "symbol": "TWST",
+      "price": 174.78,
+      "gap_pct": 10.27,
+      "premarket_volume": 1886130,
       "is_premarket_data": false,
-      "catalyst": "Microsoft upgraded, HubSpot initiated: Wall Street's top analyst calls",
+      "catalyst": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
       "headlines": [
-        "Microsoft upgraded, HubSpot initiated: Wall Street's top analyst calls",
-        "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors"
+        "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+        "Practice Caution with This Hot Stock Up 493% in the Past Year"
       ]
     },
     {
       "rank": 5,
-      "symbol": "IONQ",
-      "price": 42.83,
-      "gap_pct": 5.12,
-      "premarket_volume": 54331546,
+      "symbol": "WRBY",
+      "price": 25.52,
+      "gap_pct": 9.31,
+      "premarket_volume": 2176641,
       "is_premarket_data": false,
-      "catalyst": "Quantum computing ETFs are booming this year. Here's why.",
+      "catalyst": "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
       "headlines": [
-        "Quantum computing ETFs are booming this year. Here's why.",
-        "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock"
+        "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
+        "Warby Parker (WRBY) Heads To Goldman Conference But Is The Upside Already Priced In"
       ]
     },
     {
       "rank": 6,
-      "symbol": "KVYO",
-      "price": 16.66,
-      "gap_pct": 5.01,
-      "premarket_volume": 2847701,
+      "symbol": "CHRN",
+      "price": 22.39,
+      "gap_pct": 9.17,
+      "premarket_volume": 109624,
       "is_premarket_data": false,
-      "catalyst": "Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates",
+      "catalyst": "Why Wall Street Is Bullish on the AI Service Market",
       "headlines": [
-        "Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates",
-        "Klaviyo (KVYO) Could Be 41% Undervalued After AI CRM Updates And MNTN Tie Up"
+        "Why Wall Street Is Bullish on the AI Service Market",
+        "Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "NBIS",
+      "price": 247.34,
+      "gap_pct": 9.15,
+      "premarket_volume": 16218403,
+      "is_premarket_data": false,
+      "catalyst": "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+      "headlines": [
+        "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+        "CoreWeave, Nebius take Platinum in SemiAnalysis rankings while IREN rated ‘Underperforming’"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "GRAL",
+      "price": 117.26,
+      "gap_pct": 8.05,
+      "premarket_volume": 1954799,
+      "is_premarket_data": false,
+      "catalyst": "Grail Surges After FDA Advisors Back Its Cancer-Finding Blood Test",
+      "headlines": [
+        "Grail Surges After FDA Advisors Back Its Cancer-Finding Blood Test",
+        "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers."
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "TXG",
+      "price": 81.5,
+      "gap_pct": 7.78,
+      "premarket_volume": 1658090,
+      "is_premarket_data": false,
+      "catalyst": "Surgery Partners, 10x Genomics, QuidelOrtho, Zimmer Biomet, and Tandem Diabetes Stocks Trade Down, What You Need To Know",
+      "headlines": [
+        "Surgery Partners, 10x Genomics, QuidelOrtho, Zimmer Biomet, and Tandem Diabetes Stocks Trade Down, What You Need To Know",
+        "Q2 Rundown: 10x Genomics (NASDAQ:TXG) Vs Other Life Sciences Tools & Services Stocks"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "PRGO",
+      "price": 14.89,
+      "gap_pct": 7.62,
+      "premarket_volume": 3745105,
+      "is_premarket_data": false,
+      "catalyst": "Perrigo (PRGO) Up 13.8% Since Last Earnings Report: Can It Continue?",
+      "headlines": [
+        "Perrigo (PRGO) Up 13.8% Since Last Earnings Report: Can It Continue?",
+        "PRGO or NEOG: Which Is the Better Value Stock Right Now?"
       ]
     }
   ]
