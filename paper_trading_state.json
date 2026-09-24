@@ -18,14 +18,14 @@
     "in_position": true,
     "entry_price": 711.7256801147461,
     "entry_date": "2026-08-26",
-    "highest_since_entry": 741.469970703125,
+    "highest_since_entry": 747.4600219726562,
     "position_fraction": 0.592872301037528
   },
   "AAPL": {
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 338.9800109863281,
+    "highest_since_entry": 339.75,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -43,11 +43,7 @@
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
-    "in_position": true,
-    "entry_price": 53.686829847335815,
-    "entry_date": "2026-08-28",
-    "highest_since_entry": 56.81999969482422,
-    "position_fraction": 0.18281678668908746
+    "in_position": false
   },
   "INTC": {
     "in_position": false
@@ -102,7 +98,11 @@
     "position_fraction": 0.205743998100693
   },
   "MARA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 13.636815114498138,
+    "entry_date": "2026-09-22",
+    "highest_since_entry": 13.630000114440918,
+    "position_fraction": 0.10226153411972119
   },
   "F": {
     "in_position": false
@@ -359,7 +359,7 @@
     "in_position": true,
     "entry_price": 37.25862167930603,
     "entry_date": "2026-08-21",
-    "highest_since_entry": 40.099998474121094,
+    "highest_since_entry": 41.540000915527344,
     "position_fraction": 0.09741405958700664
   },
   "SMR": {
@@ -392,7 +392,11 @@
     "in_position": false
   },
   "CMCSA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 22.431210076332093,
+    "entry_date": "2026-09-22",
+    "highest_since_entry": 22.420000076293945,
+    "position_fraction": 0.19339498783227668
   },
   "VZ": {
     "in_position": false
