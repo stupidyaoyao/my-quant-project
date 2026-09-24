@@ -1,66 +1,60 @@
 {
-  "scanned_at": "2026-09-23 16:03:47",
+  "scanned_at": "2026-09-24 16:28:20",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 3,
-      "example_headline": "Where to find 'relative value' outside of US equities"
-    },
-    {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)"
-    },
-    {
       "symbol": "INTC",
       "company_name": "Intel",
+      "mention_count": 3,
+      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bond sell-off troubles markets, China's Xi Jinping lands in US"
+    },
+    {
+      "symbol": "GDDY",
+      "company_name": "GoDaddy",
       "mention_count": 2,
-      "example_headline": "Home Depot (HD) is Positioned to benefit from Housing Market Recovery"
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
-      "mention_count": 1,
-      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
-    },
-    {
-      "symbol": "ISRG",
-      "company_name": "Intuitive Surgical",
-      "mention_count": 1,
-      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
-    },
-    {
-      "symbol": "SYK",
-      "company_name": "Stryker Corporation",
-      "mention_count": 1,
-      "example_headline": "Intuitive Surgical vs. Stryker: Which MedTech Stock Is the Better Buy Now?"
+      "example_headline": "Stock Market Today: Dow Extends Losses As Oil Surges; GoDaddy Hits Buy Zone (Live Coverage)"
     },
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 1,
-      "example_headline": "Losing to Win: A VC Lens Will Find the Next Nvidia"
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Dow Extends Losses As Oil Surges; GoDaddy Hits Buy Zone (Live Coverage)"
     },
     {
-      "symbol": "VLTO",
-      "company_name": "Veralto",
+      "symbol": "EXPD",
+      "company_name": "Expeditors International",
       "mention_count": 1,
-      "example_headline": "VLTO Stock Rises 13.2% in Three Months: Here's What You Should Know"
+      "example_headline": "3 Reasons to Sell EXPD and 1 Stock to Buy Instead"
     },
     {
-      "symbol": "NFLX",
-      "company_name": "Netflix",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "Are Netflix Shares Still Worth Watching?"
+      "example_headline": "XLV vs IBB: How Healthcare Diversification Compares to Biotech Concentration"
     },
     {
-      "symbol": "GM",
-      "company_name": "General Motors",
+      "symbol": "SHW",
+      "company_name": "Sherwin-Williams",
       "mention_count": 1,
-      "example_headline": "Trump’s State Dinner Makes Strange Bedfellows of Tesla’s Elon Musk and GM’s Mary Barra"
+      "example_headline": "3 Reasons to Avoid SHW and 1 Stock to Buy Instead"
+    },
+    {
+      "symbol": "BRK-B",
+      "company_name": "Berkshire Hathaway",
+      "mention_count": 1,
+      "example_headline": "Warren Buffett Says \"Father Time Always Wins.\" History Says Investors Who Do This 1 Thing Will Win Out Anyway."
+    },
+    {
+      "symbol": "FDS",
+      "company_name": "FactSet",
+      "mention_count": 1,
+      "example_headline": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally"
+    },
+    {
+      "symbol": "BA",
+      "company_name": "Boeing",
+      "mention_count": 1,
+      "example_headline": "Boeing Stock Falls as Hopes for a New China Jet Order Fade"
     }
   ]
 }
