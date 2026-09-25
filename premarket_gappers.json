@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-24 16:59:59",
+  "scanned_at": "2026-09-25 17:01:44",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "P",
-      "price": 127.75,
-      "gap_pct": 16.51,
-      "premarket_volume": 7245221,
+      "symbol": "MXL",
+      "price": 94.95,
+      "gap_pct": 11.3,
+      "premarket_volume": 2696500,
       "is_premarket_data": false,
-      "catalyst": "🔎 Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
+      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
       "headlines": [
-        "🔎 Under the Radar: S&P 500-Newcomer Everpure Soars on AI Demand Forecast",
-        "Everpure Stock Leads S&P 500 Gainers After Rosy Outlook on AI Demand"
+        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
       ]
     },
     {
       "rank": 2,
-      "symbol": "CDNA",
-      "price": 61.41,
-      "gap_pct": 13.07,
-      "premarket_volume": 973648,
+      "symbol": "PPLI",
+      "price": 39.89,
+      "gap_pct": 11.02,
+      "premarket_volume": 1345017,
       "is_premarket_data": false,
-      "catalyst": "4 Healthcare Stocks to Play Safe as Fed Gears Up for Rate Hike",
+      "catalyst": "People Incorporated shares rise over 10% on potential MGM takeover bid",
       "headlines": [
-        "4 Healthcare Stocks to Play Safe as Fed Gears Up for Rate Hike",
-        "Oil Surge Continues on Escalating Middle East Crisis: 4 Defensive Picks"
+        "People Incorporated shares rise over 10% on potential MGM takeover bid",
+        "Akamai Technologies Soars on Anthropic Deal; Costco Earnings Beat | Stock Movers"
       ]
     },
     {
       "rank": 3,
-      "symbol": "LIFE",
-      "price": 37.4,
-      "gap_pct": 10.3,
-      "premarket_volume": 1212194,
+      "symbol": "ALM",
+      "price": 13.74,
+      "gap_pct": 10.81,
+      "premarket_volume": 5369786,
       "is_premarket_data": false,
-      "catalyst": "Is Ethos Technologies (LIFE) Undervalued After Strong Revenue Growth And Ongoing Losses?",
+      "catalyst": "Stifel starts Almonty with $25 price target on Western tungsten expansion",
       "headlines": [
-        "Is Ethos Technologies (LIFE) Undervalued After Strong Revenue Growth And Ongoing Losses?",
-        "Ethos Technologies Highlights Why Key Sell Rules Also Apply To New IPOs"
+        "Stifel starts Almonty with $25 price target on Western tungsten expansion",
+        "Is Almonty Industries (ALM) the Next Big Breakout Stock?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "TWST",
-      "price": 174.78,
-      "gap_pct": 10.27,
-      "premarket_volume": 1886130,
+      "symbol": "MAAS",
+      "price": 15.44,
+      "gap_pct": 10.01,
+      "premarket_volume": 117480,
       "is_premarket_data": false,
-      "catalyst": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+      "catalyst": "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal",
       "headlines": [
-        "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-        "Practice Caution with This Hot Stock Up 493% in the Past Year"
+        "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal",
+        "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge"
       ]
     },
     {
       "rank": 5,
-      "symbol": "WRBY",
-      "price": 25.52,
-      "gap_pct": 9.31,
-      "premarket_volume": 2176641,
+      "symbol": "FLY",
+      "price": 25.32,
+      "gap_pct": 9.66,
+      "premarket_volume": 2656820,
       "is_premarket_data": false,
-      "catalyst": "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
+      "catalyst": "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
       "headlines": [
-        "Warby Parker’s Unusual Options Activity Points to a Covered Call Bet: Bullish on Growth, Cautious on Valuation",
-        "Warby Parker (WRBY) Heads To Goldman Conference But Is The Upside Already Priced In"
+        "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
+        "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX"
       ]
     },
     {
       "rank": 6,
-      "symbol": "CHRN",
-      "price": 22.39,
-      "gap_pct": 9.17,
-      "premarket_volume": 109624,
+      "symbol": "VIAV",
+      "price": 40.76,
+      "gap_pct": 9.47,
+      "premarket_volume": 3904306,
       "is_premarket_data": false,
-      "catalyst": "Why Wall Street Is Bullish on the AI Service Market",
+      "catalyst": "Should VIAV Be in Your Portfolio After a 196.4% Gain in a Year?",
       "headlines": [
-        "Why Wall Street Is Bullish on the AI Service Market",
-        "Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls"
+        "Should VIAV Be in Your Portfolio After a 196.4% Gain in a Year?",
+        "VIAV's NSE Segment Shows Strength: Is the Growth Story Intact?"
       ]
     },
     {
       "rank": 7,
-      "symbol": "NBIS",
-      "price": 247.34,
-      "gap_pct": 9.15,
-      "premarket_volume": 16218403,
+      "symbol": "BE",
+      "price": 291.21,
+      "gap_pct": 9.21,
+      "premarket_volume": 11728965,
       "is_premarket_data": false,
-      "catalyst": "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+      "catalyst": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
       "headlines": [
-        "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
-        "CoreWeave, Nebius take Platinum in SemiAnalysis rankings while IREN rated ‘Underperforming’"
+        "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
+        "3 Industrials Stocks to Consider Right Now"
       ]
     },
     {
       "rank": 8,
-      "symbol": "GRAL",
-      "price": 117.26,
-      "gap_pct": 8.05,
-      "premarket_volume": 1954799,
+      "symbol": "CRDO",
+      "price": 211.39,
+      "gap_pct": 7.87,
+      "premarket_volume": 7291353,
       "is_premarket_data": false,
-      "catalyst": "Grail Surges After FDA Advisors Back Its Cancer-Finding Blood Test",
+      "catalyst": "Accelerating AI Data Center Infrastructure Demand Drives Credo Technology (CRDO)",
       "headlines": [
-        "Grail Surges After FDA Advisors Back Its Cancer-Finding Blood Test",
-        "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers."
+        "Accelerating AI Data Center Infrastructure Demand Drives Credo Technology (CRDO)",
+        "One Under-the-Radar Stock With 100% Upside Potential"
       ]
     },
     {
       "rank": 9,
-      "symbol": "TXG",
-      "price": 81.5,
-      "gap_pct": 7.78,
-      "premarket_volume": 1658090,
+      "symbol": "HUM",
+      "price": 407.51,
+      "gap_pct": 7.15,
+      "premarket_volume": 971096,
       "is_premarket_data": false,
-      "catalyst": "Surgery Partners, 10x Genomics, QuidelOrtho, Zimmer Biomet, and Tandem Diabetes Stocks Trade Down, What You Need To Know",
+      "catalyst": "Humana Stock Jumps. Why It Could Be a Big Winner in Next Medicare Star Ratings.",
       "headlines": [
-        "Surgery Partners, 10x Genomics, QuidelOrtho, Zimmer Biomet, and Tandem Diabetes Stocks Trade Down, What You Need To Know",
-        "Q2 Rundown: 10x Genomics (NASDAQ:TXG) Vs Other Life Sciences Tools & Services Stocks"
+        "Humana Stock Jumps. Why It Could Be a Big Winner in Next Medicare Star Ratings.",
+        "Twilio downgraded, Synopsys upgraded: Wall Street's top analyst calls"
       ]
     },
     {
       "rank": 10,
-      "symbol": "PRGO",
-      "price": 14.89,
-      "gap_pct": 7.62,
-      "premarket_volume": 3745105,
+      "symbol": "VECO",
+      "price": 48.58,
+      "gap_pct": 6.89,
+      "premarket_volume": 382169,
       "is_premarket_data": false,
-      "catalyst": "Perrigo (PRGO) Up 13.8% Since Last Earnings Report: Can It Continue?",
+      "catalyst": "Veeco Instruments (VECO), Why Is The Story Getting More Complicated?",
       "headlines": [
-        "Perrigo (PRGO) Up 13.8% Since Last Earnings Report: Can It Continue?",
-        "PRGO or NEOG: Which Is the Better Value Stock Right Now?"
+        "Veeco Instruments (VECO), Why Is The Story Getting More Complicated?",
+        "Veeco (VECO) Stock Could Be 49% Above Fair Value On Cash Flow"
       ]
     }
   ]
