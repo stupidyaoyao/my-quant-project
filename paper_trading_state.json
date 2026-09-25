@@ -255,11 +255,7 @@
     "in_position": false
   },
   "BB": {
-    "in_position": true,
-    "entry_price": 9.664999961853027,
-    "entry_date": "2026-07-16",
-    "highest_since_entry": 9.664999961853027,
-    "position_fraction": 0.06736918491742738
+    "in_position": false
   },
   "TSM": {
     "in_position": true,
