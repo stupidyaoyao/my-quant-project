@@ -1,60 +1,36 @@
 {
-  "scanned_at": "2026-09-24 16:28:20",
+  "scanned_at": "2026-09-25 16:29:29",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "INTC",
       "company_name": "Intel",
       "mention_count": 3,
-      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bond sell-off troubles markets, China's Xi Jinping lands in US"
+      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields"
     },
     {
-      "symbol": "GDDY",
-      "company_name": "GoDaddy",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Extends Losses As Oil Surges; GoDaddy Hits Buy Zone (Live Coverage)"
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)"
     },
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Dow Extends Losses As Oil Surges; GoDaddy Hits Buy Zone (Live Coverage)"
+      "symbol": "SMCI",
+      "company_name": "Supermicro",
+      "mention_count": 3,
+      "example_headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)"
     },
     {
-      "symbol": "EXPD",
-      "company_name": "Expeditors International",
+      "symbol": "BAC",
+      "company_name": "Bank of America",
       "mention_count": 1,
-      "example_headline": "3 Reasons to Sell EXPD and 1 Stock to Buy Instead"
+      "example_headline": "Nike Slumps After Downgrade. Why the Stock Is in Trouble."
     },
     {
       "symbol": "TGT",
       "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "XLV vs IBB: How Healthcare Diversification Compares to Biotech Concentration"
-    },
-    {
-      "symbol": "SHW",
-      "company_name": "Sherwin-Williams",
-      "mention_count": 1,
-      "example_headline": "3 Reasons to Avoid SHW and 1 Stock to Buy Instead"
-    },
-    {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
-      "mention_count": 1,
-      "example_headline": "Warren Buffett Says \"Father Time Always Wins.\" History Says Investors Who Do This 1 Thing Will Win Out Anyway."
-    },
-    {
-      "symbol": "FDS",
-      "company_name": "FactSet",
-      "mention_count": 1,
-      "example_headline": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally"
-    },
-    {
-      "symbol": "BA",
-      "company_name": "Boeing",
-      "mention_count": 1,
-      "example_headline": "Boeing Stock Falls as Hopes for a New China Jet Order Fade"
+      "example_headline": "3M Stock Rises on Upgrade. Why This Analyst Likes Its Transformation."
     }
   ]
 }
