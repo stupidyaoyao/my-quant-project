@@ -46,7 +46,11 @@
     "in_position": false
   },
   "INTC": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 127.45369438934326,
+    "entry_date": "2026-09-24",
+    "highest_since_entry": 127.38999938964844,
+    "position_fraction": 0.12265042336681665
   },
   "NVDA": {
     "in_position": true,
@@ -145,14 +149,14 @@
     "in_position": false
   },
   "TSLA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 378.12897244262695,
+    "entry_date": "2026-09-24",
+    "highest_since_entry": 377.94000244140625,
+    "position_fraction": 0.21665987436204603
   },
   "AMZN": {
-    "in_position": true,
-    "entry_price": 261.440652557373,
-    "entry_date": "2026-08-17",
-    "highest_since_entry": 266.42999267578125,
-    "position_fraction": 0.174255171389741
+    "in_position": false
   },
   "PLTR": {
     "in_position": true,
@@ -248,7 +252,7 @@
     "in_position": true,
     "entry_price": 42.64130893135071,
     "entry_date": "2026-09-16",
-    "highest_since_entry": 42.619998931884766,
+    "highest_since_entry": 46.150001525878906,
     "position_fraction": 0.09867944825310694
   },
   "RKLB": {
