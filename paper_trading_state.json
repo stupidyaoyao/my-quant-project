@@ -25,14 +25,14 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 339.75,
+    "highest_since_entry": 341.07000732421875,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
     "in_position": true,
     "entry_price": 493.056402557373,
     "entry_date": "2026-08-04",
-    "highest_since_entry": 513.530029296875,
+    "highest_since_entry": 516.1699829101562,
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
@@ -92,7 +92,11 @@
     "in_position": false
   },
   "NOK": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 10.395195343494414,
+    "entry_date": "2026-09-25",
+    "highest_since_entry": 10.390000343322754,
+    "position_fraction": 0.1275964890398148
   },
   "T": {
     "in_position": true,
@@ -205,7 +209,7 @@
     "in_position": true,
     "entry_price": 20.25011977100372,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 26.450000762939453,
+    "highest_since_entry": 27.559999465942383,
     "position_fraction": 0.12992201036754286
   },
   "BAC": {
@@ -359,7 +363,7 @@
     "in_position": true,
     "entry_price": 37.25862167930603,
     "entry_date": "2026-08-21",
-    "highest_since_entry": 41.540000915527344,
+    "highest_since_entry": 43.2599983215332,
     "position_fraction": 0.09741405958700664
   },
   "SMR": {
