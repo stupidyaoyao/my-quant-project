@@ -1,51 +1,25 @@
 {
-  "scanned_at": "2026-09-25 17:01:44",
+  "scanned_at": "2026-09-28 19:33:50",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "MXL",
-      "price": 94.95,
-      "gap_pct": 11.3,
-      "premarket_volume": 2696500,
+      "symbol": "KOD",
+      "price": 93.81,
+      "gap_pct": 190.34,
+      "premarket_volume": 35257343,
       "is_premarket_data": false,
-      "catalyst": "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
+      "catalyst": "Under the Radar: Kodiak Shares Surge as Eye Drug Matches Regeneron's",
       "headlines": [
-        "MXL vs. VICR: Which Has the Better AI Infrastructure Opportunity?",
-        "Why Is NXP (NXPI) Down 7.4% Since Last Earnings Report?"
+        "Under the Radar: Kodiak Shares Surge as Eye Drug Matches Regeneron's",
+        "Kodiak Sciences soars as Zenkuda, tabirafusp-ted hit primary endpoints in phase III wet AMD trial"
       ]
     },
     {
       "rank": 2,
-      "symbol": "PPLI",
-      "price": 39.89,
-      "gap_pct": 11.02,
-      "premarket_volume": 1345017,
-      "is_premarket_data": false,
-      "catalyst": "People Incorporated shares rise over 10% on potential MGM takeover bid",
-      "headlines": [
-        "People Incorporated shares rise over 10% on potential MGM takeover bid",
-        "Akamai Technologies Soars on Anthropic Deal; Costco Earnings Beat | Stock Movers"
-      ]
-    },
-    {
-      "rank": 3,
-      "symbol": "ALM",
-      "price": 13.74,
-      "gap_pct": 10.81,
-      "premarket_volume": 5369786,
-      "is_premarket_data": false,
-      "catalyst": "Stifel starts Almonty with $25 price target on Western tungsten expansion",
-      "headlines": [
-        "Stifel starts Almonty with $25 price target on Western tungsten expansion",
-        "Is Almonty Industries (ALM) the Next Big Breakout Stock?"
-      ]
-    },
-    {
-      "rank": 4,
       "symbol": "MAAS",
-      "price": 15.44,
-      "gap_pct": 10.01,
-      "premarket_volume": 117480,
+      "price": 18.47,
+      "gap_pct": 20.17,
+      "premarket_volume": 319892,
       "is_premarket_data": false,
       "catalyst": "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal",
       "headlines": [
@@ -54,81 +28,107 @@
       ]
     },
     {
-      "rank": 5,
-      "symbol": "FLY",
-      "price": 25.32,
-      "gap_pct": 9.66,
-      "premarket_volume": 2656820,
+      "rank": 3,
+      "symbol": "ABCL",
+      "price": 14.06,
+      "gap_pct": 10.71,
+      "premarket_volume": 5683860,
       "is_premarket_data": false,
-      "catalyst": "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
+      "catalyst": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
       "headlines": [
-        "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
-        "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX"
+        "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
+        "AbCellera (ABCL) Soars 64% as Drug Candidate Holds Huge Market Opportunity"
+      ]
+    },
+    {
+      "rank": 4,
+      "symbol": "CAAP",
+      "price": 26.05,
+      "gap_pct": 9.09,
+      "premarket_volume": 928076,
+      "is_premarket_data": false,
+      "catalyst": "Corporacion America Airports Says Argentina Approves Changes to Aeropuertos Concession Deal",
+      "headlines": [
+        "Corporacion America Airports Says Argentina Approves Changes to Aeropuertos Concession Deal",
+        "Is Corporación América Airports (CAAP) a Deep-Value Bargain?"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "BB",
+      "price": 8.92,
+      "gap_pct": 8.62,
+      "premarket_volume": 25146517,
+      "is_premarket_data": false,
+      "catalyst": "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+      "headlines": [
+        "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+        "BlackBerry Raises FY27 Outlook: Can Strong Execution Continue?"
       ]
     },
     {
       "rank": 6,
-      "symbol": "VIAV",
-      "price": 40.76,
-      "gap_pct": 9.47,
-      "premarket_volume": 3904306,
+      "symbol": "LQDA",
+      "price": 74.22,
+      "gap_pct": 8.45,
+      "premarket_volume": 772546,
       "is_premarket_data": false,
-      "catalyst": "Should VIAV Be in Your Portfolio After a 196.4% Gain in a Year?",
+      "catalyst": "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
       "headlines": [
-        "Should VIAV Be in Your Portfolio After a 196.4% Gain in a Year?",
-        "VIAV's NSE Segment Shows Strength: Is the Growth Story Intact?"
+        "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
+        "LQDA Loses 13.9% in a Month: Should Investors Avoid the Stock Now?"
       ]
     },
     {
       "rank": 7,
-      "symbol": "BE",
-      "price": 291.21,
-      "gap_pct": 9.21,
-      "premarket_volume": 11728965,
+      "symbol": "HHH",
+      "price": 74.11,
+      "gap_pct": 8.3,
+      "premarket_volume": 1519633,
       "is_premarket_data": false,
-      "catalyst": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
+      "catalyst": "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
       "headlines": [
-        "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
-        "3 Industrials Stocks to Consider Right Now"
+        "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
+        "Why Howard Hughes Holdings (HHH) Stock Is Up Today"
       ]
     },
     {
       "rank": 8,
-      "symbol": "CRDO",
-      "price": 211.39,
-      "gap_pct": 7.87,
-      "premarket_volume": 7291353,
+      "symbol": "VSXY",
+      "price": 89.17,
+      "gap_pct": 7.55,
+      "premarket_volume": 1576916,
       "is_premarket_data": false,
-      "catalyst": "Accelerating AI Data Center Infrastructure Demand Drives Credo Technology (CRDO)",
+      "catalyst": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
       "headlines": [
-        "Accelerating AI Data Center Infrastructure Demand Drives Credo Technology (CRDO)",
-        "One Under-the-Radar Stock With 100% Upside Potential"
+        "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
+        "Can Victoria's Secret's Path to Potential Sustain Broad-Based Growth?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "HUM",
-      "price": 407.51,
-      "gap_pct": 7.15,
-      "premarket_volume": 971096,
+      "symbol": "ADMA",
+      "price": 10.08,
+      "gap_pct": 7.46,
+      "premarket_volume": 2120191,
       "is_premarket_data": false,
-      "catalyst": "Humana Stock Jumps. Why It Could Be a Big Winner in Next Medicare Star Ratings.",
+      "catalyst": "ADMA Biologics (ADMA), Why Is It Back In The Spotlight?",
       "headlines": [
-        "Humana Stock Jumps. Why It Could Be a Big Winner in Next Medicare Star Ratings.",
-        "Twilio downgraded, Synopsys upgraded: Wall Street's top analyst calls"
+        "ADMA Biologics (ADMA), Why Is It Back In The Spotlight?",
+        "Why Adma Biologics (ADMA) Dipped More Than Broader Market Today"
       ]
     },
     {
       "rank": 10,
-      "symbol": "VECO",
-      "price": 48.58,
-      "gap_pct": 6.89,
-      "premarket_volume": 382169,
+      "symbol": "BVC",
+      "price": 12.18,
+      "gap_pct": 7.31,
+      "premarket_volume": 87681,
       "is_premarket_data": false,
-      "catalyst": "Veeco Instruments (VECO), Why Is The Story Getting More Complicated?",
+      "catalyst": "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
       "headlines": [
-        "Veeco Instruments (VECO), Why Is The Story Getting More Complicated?",
-        "Veeco (VECO) Stock Could Be 49% Above Fair Value On Cash Flow"
+        "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
+        "Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple"
       ]
     }
   ]
