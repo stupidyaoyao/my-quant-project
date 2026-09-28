@@ -73,11 +73,7 @@
     "in_position": false
   },
   "PATH": {
-    "in_position": true,
-    "entry_price": 15.197594580173492,
-    "entry_date": "2026-09-04",
-    "highest_since_entry": 15.1899995803833,
-    "position_fraction": 0.1056118607634232
+    "in_position": false
   },
   "FRMI": {
     "in_position": false
@@ -396,11 +392,7 @@
     "in_position": false
   },
   "CMCSA": {
-    "in_position": true,
-    "entry_price": 22.431210076332093,
-    "entry_date": "2026-09-22",
-    "highest_since_entry": 22.420000076293945,
-    "position_fraction": 0.19339498783227668
+    "in_position": false
   },
   "VZ": {
     "in_position": false
