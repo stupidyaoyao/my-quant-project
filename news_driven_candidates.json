@@ -1,36 +1,42 @@
 {
-  "scanned_at": "2026-09-25 16:29:29",
+  "scanned_at": "2026-09-28 19:13:09",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 3,
-      "example_headline": "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields"
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 4,
+      "example_headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)"
     },
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
+      "symbol": "BALL",
+      "company_name": "Ball Corporation",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)"
+      "example_headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)"
     },
     {
-      "symbol": "SMCI",
-      "company_name": "Supermicro",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Supermicro Jumps (Live Coverage)"
-    },
-    {
-      "symbol": "BAC",
-      "company_name": "Bank of America",
+      "symbol": "AFL",
+      "company_name": "Aflac",
       "mention_count": 1,
-      "example_headline": "Nike Slumps After Downgrade. Why the Stock Is in Trouble."
+      "example_headline": "3 Reasons AFL is Risky and 1 Stock to Buy Instead"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
+      "symbol": "MSFT",
+      "company_name": "Microsoft",
       "mention_count": 1,
-      "example_headline": "3M Stock Rises on Upgrade. Why This Analyst Likes Its Transformation."
+      "example_headline": "Microsoft’s AI Gains Can Push the Stock Higher. That’s Good News for Software Peers."
+    },
+    {
+      "symbol": "LEN",
+      "company_name": "Lennar",
+      "mention_count": 1,
+      "example_headline": "3 Reasons LEN is Risky and 1 Stock to Buy Instead"
+    },
+    {
+      "symbol": "RSG",
+      "company_name": "Republic Services",
+      "mention_count": 1,
+      "example_headline": "3 Reasons to Sell RSG and 1 Stock to Buy Instead"
     }
   ]
 }
