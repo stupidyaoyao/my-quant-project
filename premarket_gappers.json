@@ -1,135 +1,105 @@
 {
-  "scanned_at": "2026-09-28 19:33:50",
+  "scanned_at": "2026-09-29 18:00:06",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "KOD",
-      "price": 93.81,
-      "gap_pct": 190.34,
-      "premarket_volume": 35257343,
+      "symbol": "IOVA",
+      "price": 14.82,
+      "gap_pct": 34.82,
+      "premarket_volume": 59096597,
       "is_premarket_data": false,
-      "catalyst": "Under the Radar: Kodiak Shares Surge as Eye Drug Matches Regeneron's",
-      "headlines": [
-        "Under the Radar: Kodiak Shares Surge as Eye Drug Matches Regeneron's",
-        "Kodiak Sciences soars as Zenkuda, tabirafusp-ted hit primary endpoints in phase III wet AMD trial"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 2,
-      "symbol": "MAAS",
-      "price": 18.47,
-      "gap_pct": 20.17,
-      "premarket_volume": 319892,
+      "symbol": "CCL",
+      "price": 24.98,
+      "gap_pct": 12.83,
+      "premarket_volume": 54446919,
       "is_premarket_data": false,
-      "catalyst": "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal",
-      "headlines": [
-        "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal",
-        "Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 3,
-      "symbol": "ABCL",
-      "price": 14.06,
-      "gap_pct": 10.71,
-      "premarket_volume": 5683860,
+      "symbol": "BE",
+      "price": 292.21,
+      "gap_pct": 11.16,
+      "premarket_volume": 18944847,
       "is_premarket_data": false,
-      "catalyst": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
-      "headlines": [
-        "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know",
-        "AbCellera (ABCL) Soars 64% as Drug Candidate Holds Huge Market Opportunity"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 4,
-      "symbol": "CAAP",
-      "price": 26.05,
-      "gap_pct": 9.09,
-      "premarket_volume": 928076,
+      "symbol": "WRBY",
+      "price": 27.09,
+      "gap_pct": 9.83,
+      "premarket_volume": 3398228,
       "is_premarket_data": false,
-      "catalyst": "Corporacion America Airports Says Argentina Approves Changes to Aeropuertos Concession Deal",
-      "headlines": [
-        "Corporacion America Airports Says Argentina Approves Changes to Aeropuertos Concession Deal",
-        "Is Corporación América Airports (CAAP) a Deep-Value Bargain?"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 5,
-      "symbol": "BB",
-      "price": 8.92,
-      "gap_pct": 8.62,
-      "premarket_volume": 25146517,
+      "symbol": "RCL",
+      "price": 259.28,
+      "gap_pct": 6.88,
+      "premarket_volume": 2203524,
       "is_premarket_data": false,
-      "catalyst": "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
-      "headlines": [
-        "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
-        "BlackBerry Raises FY27 Outlook: Can Strong Execution Continue?"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 6,
-      "symbol": "LQDA",
-      "price": 74.22,
-      "gap_pct": 8.45,
-      "premarket_volume": 772546,
+      "symbol": "MGNI",
+      "price": 24.98,
+      "gap_pct": 6.75,
+      "premarket_volume": 1570125,
       "is_premarket_data": false,
-      "catalyst": "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
-      "headlines": [
-        "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
-        "LQDA Loses 13.9% in a Month: Should Investors Avoid the Stock Now?"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 7,
-      "symbol": "HHH",
-      "price": 74.11,
-      "gap_pct": 8.3,
-      "premarket_volume": 1519633,
+      "symbol": "AGX",
+      "price": 377.21,
+      "gap_pct": 6.19,
+      "premarket_volume": 197625,
       "is_premarket_data": false,
-      "catalyst": "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
-      "headlines": [
-        "Does Howard Hughes Holdings (HHH) Have the Potential to Rally 31.04% as Wall Street Analysts Expect?",
-        "Why Howard Hughes Holdings (HHH) Stock Is Up Today"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 8,
-      "symbol": "VSXY",
-      "price": 89.17,
-      "gap_pct": 7.55,
-      "premarket_volume": 1576916,
+      "symbol": "PLBL",
+      "price": 5.95,
+      "gap_pct": 6.01,
+      "premarket_volume": 142686,
       "is_premarket_data": false,
-      "catalyst": "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
-      "headlines": [
-        "Can Victoria's Secret's Fashion Show Drive Customer and Demand Growth?",
-        "Can Victoria's Secret's Path to Potential Sustain Broad-Based Growth?"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 9,
-      "symbol": "ADMA",
-      "price": 10.08,
-      "gap_pct": 7.46,
-      "premarket_volume": 2120191,
+      "symbol": "HAFN",
+      "price": 9.67,
+      "gap_pct": 5.9,
+      "premarket_volume": 3014481,
       "is_premarket_data": false,
-      "catalyst": "ADMA Biologics (ADMA), Why Is It Back In The Spotlight?",
-      "headlines": [
-        "ADMA Biologics (ADMA), Why Is It Back In The Spotlight?",
-        "Why Adma Biologics (ADMA) Dipped More Than Broader Market Today"
-      ]
+      "catalyst": null,
+      "headlines": []
     },
     {
       "rank": 10,
-      "symbol": "BVC",
-      "price": 12.18,
-      "gap_pct": 7.31,
-      "premarket_volume": 87681,
+      "symbol": "WING",
+      "price": 107.8,
+      "gap_pct": 5.89,
+      "premarket_volume": 800459,
       "is_premarket_data": false,
-      "catalyst": "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
-      "headlines": [
-        "UK Penny Stocks: 3 Picks With Market Caps Over £50M",
-        "Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple"
-      ]
+      "catalyst": null,
+      "headlines": []
     }
   ]
 }
