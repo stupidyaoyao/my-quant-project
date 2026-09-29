@@ -60,11 +60,7 @@
     "position_fraction": 0.19069169230318334
   },
   "NU": {
-    "in_position": true,
-    "entry_price": 13.846920152664184,
-    "entry_date": "2026-09-17",
-    "highest_since_entry": 14.0600004196167,
-    "position_fraction": 0.1681288003818505
+    "in_position": false
   },
   "SOFI": {
     "in_position": false
@@ -73,7 +69,11 @@
     "in_position": false
   },
   "PATH": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 12.196094580173492,
+    "entry_date": "2026-09-28",
+    "highest_since_entry": 12.1899995803833,
+    "position_fraction": 0.113523574003028
   },
   "FRMI": {
     "in_position": false
@@ -115,11 +115,7 @@
     "in_position": false
   },
   "NFLX": {
-    "in_position": true,
-    "entry_price": 78.289125,
-    "entry_date": "2026-09-04",
-    "highest_since_entry": 78.25,
-    "position_fraction": 0.223959821505165
+    "in_position": false
   },
   "SPCX": {
     "in_position": true,
@@ -225,11 +221,7 @@
     "position_fraction": 0.09178422466429231
   },
   "HL": {
-    "in_position": true,
-    "entry_price": 18.82940969467163,
-    "entry_date": "2026-08-17",
-    "highest_since_entry": 20.700000762939453,
-    "position_fraction": 0.13460024144157154
+    "in_position": false
   },
   "ATAI": {
     "in_position": true,
@@ -285,7 +277,11 @@
     "in_position": false
   },
   "ARM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 283.4716515655517,
+    "entry_date": "2026-09-28",
+    "highest_since_entry": 283.3299865722656,
+    "position_fraction": 0.09198980355537946
   },
   "ABT": {
     "in_position": true,
@@ -328,7 +324,7 @@
     "in_position": true,
     "entry_price": 2.461230038166046,
     "entry_date": "2026-07-20",
-    "highest_since_entry": 2.8499999046325684,
+    "highest_since_entry": 3.2899999618530273,
     "position_fraction": 0.08968750757184708
   },
   "ACHR": {
@@ -342,7 +338,7 @@
     "in_position": true,
     "entry_price": 27.813899236679077,
     "entry_date": "2026-09-18",
-    "highest_since_entry": 30.799999237060547,
+    "highest_since_entry": 30.899999618530273,
     "position_fraction": 0.5652858815717191
   },
   "CIFR": {
@@ -754,6 +750,9 @@
     "in_position": false
   },
   "CCL": {
+    "in_position": false
+  },
+  "KOD": {
     "in_position": false
   }
 }
