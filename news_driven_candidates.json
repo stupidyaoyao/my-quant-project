@@ -1,42 +1,66 @@
 {
-  "scanned_at": "2026-09-28 19:13:09",
+  "scanned_at": "2026-09-30 17:34:49",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 4,
-      "example_headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)"
-    },
-    {
-      "symbol": "BALL",
-      "company_name": "Ball Corporation",
+      "symbol": "NTAP",
+      "company_name": "NetApp",
       "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)"
+      "example_headline": "Stock Market Today: Nasdaq Leads Rise; NetApp Outperforms These Chip Plays (Live Coverage)"
     },
     {
-      "symbol": "AFL",
-      "company_name": "Aflac",
-      "mention_count": 1,
-      "example_headline": "3 Reasons AFL is Risky and 1 Stock to Buy Instead"
+      "symbol": "BE",
+      "company_name": "Bloom Energy",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Futures Fall; Inflation Data, Micron Earnings Due Bloom Energy, AI Stocks Shrug Off Yields"
     },
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
       "mention_count": 1,
-      "example_headline": "Microsoft’s AI Gains Can Push the Stock Higher. That’s Good News for Software Peers."
+      "example_headline": "Sandisk bulls had a surprising third quarter"
     },
     {
-      "symbol": "LEN",
-      "company_name": "Lennar",
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
       "mention_count": 1,
-      "example_headline": "3 Reasons LEN is Risky and 1 Stock to Buy Instead"
+      "example_headline": "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold."
     },
     {
-      "symbol": "RSG",
-      "company_name": "Republic Services",
+      "symbol": "CI",
+      "company_name": "Cigna",
       "mention_count": 1,
-      "example_headline": "3 Reasons to Sell RSG and 1 Stock to Buy Instead"
+      "example_headline": "Cigna Investor Day Spotlights Specialty Drugs"
+    },
+    {
+      "symbol": "BRK-B",
+      "company_name": "Berkshire Hathaway",
+      "mention_count": 1,
+      "example_headline": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 1,
+      "example_headline": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks"
+    },
+    {
+      "symbol": "MRNA",
+      "company_name": "Moderna",
+      "mention_count": 1,
+      "example_headline": "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell."
+    },
+    {
+      "symbol": "BA",
+      "company_name": "Boeing",
+      "mention_count": 1,
+      "example_headline": "Boeing Wins Another Next-Generation Fighter Contract Worth $20 Billion"
+    },
+    {
+      "symbol": "ADP",
+      "company_name": "Automatic Data Processing",
+      "mention_count": 1,
+      "example_headline": "ADP September 2026 private payrolls beat expectations"
     }
   ]
 }
