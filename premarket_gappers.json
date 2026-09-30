@@ -1,105 +1,135 @@
 {
-  "scanned_at": "2026-09-29 18:00:06",
+  "scanned_at": "2026-09-30 17:56:07",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "IOVA",
-      "price": 14.82,
-      "gap_pct": 34.82,
-      "premarket_volume": 59096597,
+      "symbol": "UTHR",
+      "price": 547.97,
+      "gap_pct": 13.81,
+      "premarket_volume": 2183492,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "United Therapeutics (UTHR): Goldman Says Sell As The Base Business Shrinks, But 2027 Holds Real Catalysts",
+      "headlines": [
+        "United Therapeutics (UTHR): Goldman Says Sell As The Base Business Shrinks, But 2027 Holds Real Catalysts",
+        "What United Therapeutics (UTHR)'s Goldman Sell Call Amid Bold Pipeline And Buyback Means For Shareholders"
+      ]
     },
     {
       "rank": 2,
-      "symbol": "CCL",
-      "price": 24.98,
-      "gap_pct": 12.83,
-      "premarket_volume": 54446919,
+      "symbol": "NWCL",
+      "price": 8.16,
+      "gap_pct": 13.66,
+      "premarket_volume": 363934,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
+      "headlines": [
+        "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
+        "Newcleo to Go Public in US Through SPAC Merger With NewHold Investment"
+      ]
     },
     {
       "rank": 3,
-      "symbol": "BE",
-      "price": 292.21,
-      "gap_pct": 11.16,
-      "premarket_volume": 18944847,
+      "symbol": "ROG",
+      "price": 155.24,
+      "gap_pct": 12.35,
+      "premarket_volume": 796187,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "3 Russell 2000 Stocks We Steer Clear Of",
+      "headlines": [
+        "3 Russell 2000 Stocks We Steer Clear Of",
+        "Rogers (ROG) Stock Looks Overvalued After Its 73% Rise"
+      ]
     },
     {
       "rank": 4,
-      "symbol": "WRBY",
-      "price": 27.09,
-      "gap_pct": 9.83,
-      "premarket_volume": 3398228,
+      "symbol": "PGEN",
+      "price": 8.92,
+      "gap_pct": 10.81,
+      "premarket_volume": 6578648,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "KOD Stock Soars 178% on Positive Wet AMD Data as BLA Filing Nears",
+      "headlines": [
+        "KOD Stock Soars 178% on Positive Wet AMD Data as BLA Filing Nears",
+        "Mirum's Brelovitug Meets Goal in Phase III AZURE-1 Study in HDV"
+      ]
     },
     {
       "rank": 5,
-      "symbol": "RCL",
-      "price": 259.28,
-      "gap_pct": 6.88,
-      "premarket_volume": 2203524,
+      "symbol": "IBRX",
+      "price": 9.72,
+      "gap_pct": 10.14,
+      "premarket_volume": 19322269,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "A $5.8B Cancer Market Opportunity Is Emerging — Why GA-Courtenay Favors ImmunityBio (IBRX)",
+      "headlines": [
+        "A $5.8B Cancer Market Opportunity Is Emerging — Why GA-Courtenay Favors ImmunityBio (IBRX)",
+        "Biotech Lagged The Broader Market In September — Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI’s Slump?"
+      ]
     },
     {
       "rank": 6,
-      "symbol": "MGNI",
-      "price": 24.98,
-      "gap_pct": 6.75,
-      "premarket_volume": 1570125,
+      "symbol": "ZETA",
+      "price": 31.54,
+      "gap_pct": 8.89,
+      "premarket_volume": 5225658,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "UiPath vs. Zeta Global: Which AI Stock Is the Better Buy?",
+      "headlines": [
+        "UiPath vs. Zeta Global: Which AI Stock Is the Better Buy?",
+        "2 Cash-Producing Stocks with Exciting Potential and 1 That Underwhelm"
+      ]
     },
     {
       "rank": 7,
-      "symbol": "AGX",
-      "price": 377.21,
-      "gap_pct": 6.19,
-      "premarket_volume": 197625,
+      "symbol": "FORM",
+      "price": 146.87,
+      "gap_pct": 7.79,
+      "premarket_volume": 1099592,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "FormFactor Stock Jumps As Chip-Gear Firm Gets Fresh Buy Rating",
+      "headlines": [
+        "FormFactor Stock Jumps As Chip-Gear Firm Gets Fresh Buy Rating",
+        "Target upgraded, Moderna downgraded: Wall Street's top analyst calls"
+      ]
     },
     {
       "rank": 8,
-      "symbol": "PLBL",
-      "price": 5.95,
-      "gap_pct": 6.01,
-      "premarket_volume": 142686,
+      "symbol": "ALMR",
+      "price": 35.12,
+      "gap_pct": 7.57,
+      "premarket_volume": 445123,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
+      "headlines": [
+        "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
+        "Alamar Biosciences Inc (ALMR) (Q2 2026) Earnings Call Highlights: Revenue Surges 82% on 147% ..."
+      ]
     },
     {
       "rank": 9,
-      "symbol": "HAFN",
-      "price": 9.67,
-      "gap_pct": 5.9,
-      "premarket_volume": 3014481,
+      "symbol": "BRZE",
+      "price": 24.82,
+      "gap_pct": 7.21,
+      "premarket_volume": 1406944,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
+      "headlines": [
+        "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
+        "Braze, Manhattan Associates, and Agilysys Stocks Trade Down, What You Need To Know"
+      ]
     },
     {
       "rank": 10,
-      "symbol": "WING",
-      "price": 107.8,
-      "gap_pct": 5.89,
-      "premarket_volume": 800459,
+      "symbol": "PS",
+      "price": 57.15,
+      "gap_pct": 6.71,
+      "premarket_volume": 159771,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
+      "headlines": [
+        "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
+        "These 2 Numbers Explain Why Warren Buffett and Bill Ackman Love Alphabet, Amazon, Microsoft, and Meta"
+      ]
     }
   ]
 }
