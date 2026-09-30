@@ -60,7 +60,11 @@
     "position_fraction": 0.19069169230318334
   },
   "NU": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 12.236114542007446,
+    "entry_date": "2026-09-28",
+    "highest_since_entry": 12.229999542236328,
+    "position_fraction": 0.15742197082009773
   },
   "SOFI": {
     "in_position": false
@@ -217,11 +221,15 @@
     "in_position": true,
     "entry_price": 4.739999771118164,
     "entry_date": "2026-07-15",
-    "highest_since_entry": 8.989999771118164,
+    "highest_since_entry": 10.989999771118164,
     "position_fraction": 0.09178422466429231
   },
   "HL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 17.018505228996275,
+    "entry_date": "2026-09-28",
+    "highest_since_entry": 17.010000228881836,
+    "position_fraction": 0.11307690186326458
   },
   "ATAI": {
     "in_position": true,
@@ -753,6 +761,12 @@
     "in_position": false
   },
   "KOD": {
+    "in_position": false
+  },
+  "STLA": {
+    "in_position": false
+  },
+  "NVTS": {
     "in_position": false
   }
 }
