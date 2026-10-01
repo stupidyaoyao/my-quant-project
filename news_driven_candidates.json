@@ -1,13 +1,7 @@
 {
-  "scanned_at": "2026-09-30 17:34:49",
+  "scanned_at": "2026-10-01 17:58:50",
   "news_count": 30,
   "candidates": [
-    {
-      "symbol": "NTAP",
-      "company_name": "NetApp",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Leads Rise; NetApp Outperforms These Chip Plays (Live Coverage)"
-    },
     {
       "symbol": "BE",
       "company_name": "Bloom Energy",
@@ -15,40 +9,34 @@
       "example_headline": "Dow Jones Futures Fall; Inflation Data, Micron Earnings Due Bloom Energy, AI Stocks Shrug Off Yields"
     },
     {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
+      "symbol": "MRNA",
+      "company_name": "Moderna",
       "mention_count": 1,
-      "example_headline": "Sandisk bulls had a surprising third quarter"
+      "example_headline": "Citi Downgrades Moderna Stock, Warning $80 Billion Valuation Asks Too Much of Cancer Pipeline"
+    },
+    {
+      "symbol": "FDS",
+      "company_name": "FactSet",
+      "mention_count": 1,
+      "example_headline": "Jabil Stock Faces Its Worst Day in Over a Year. A Blistering AI Demand Outlook Isn’t Enough."
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 1,
+      "example_headline": "Jabil Stock Faces Its Worst Day in Over a Year. A Blistering AI Demand Outlook Isn’t Enough."
+    },
+    {
+      "symbol": "JBL",
+      "company_name": "Jabil",
+      "mention_count": 1,
+      "example_headline": "Jabil Stock Faces Its Worst Day in Over a Year. A Blistering AI Demand Outlook Isn’t Enough."
     },
     {
       "symbol": "TGT",
       "company_name": "Target Corporation",
       "mention_count": 1,
       "example_headline": "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold."
-    },
-    {
-      "symbol": "CI",
-      "company_name": "Cigna",
-      "mention_count": 1,
-      "example_headline": "Cigna Investor Day Spotlights Specialty Drugs"
-    },
-    {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
-      "mention_count": 1,
-      "example_headline": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 1,
-      "example_headline": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks"
-    },
-    {
-      "symbol": "MRNA",
-      "company_name": "Moderna",
-      "mention_count": 1,
-      "example_headline": "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell."
     },
     {
       "symbol": "BA",
@@ -61,6 +49,18 @@
       "company_name": "Automatic Data Processing",
       "mention_count": 1,
       "example_headline": "ADP September 2026 private payrolls beat expectations"
+    },
+    {
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 1,
+      "example_headline": "Nvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy"
+    },
+    {
+      "symbol": "DELL",
+      "company_name": "Dell Technologies",
+      "mention_count": 1,
+      "example_headline": "Where Will Dell Technologies Be in 3 Years?"
     }
   ]
 }
