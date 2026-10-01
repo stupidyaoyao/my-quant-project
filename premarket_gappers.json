@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-09-30 17:56:07",
+  "scanned_at": "2026-10-01 18:21:30",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "UTHR",
-      "price": 547.97,
-      "gap_pct": 13.81,
-      "premarket_volume": 2183492,
+      "symbol": "ACN",
+      "price": 214.85,
+      "gap_pct": 17.17,
+      "premarket_volume": 21580110,
       "is_premarket_data": false,
-      "catalyst": "United Therapeutics (UTHR): Goldman Says Sell As The Base Business Shrinks, But 2027 Holds Real Catalysts",
+      "catalyst": "Micron, Accenture, Google, IBM, Fair Isaac, Synopsys, and More Stocks That Explain Today’s Market",
       "headlines": [
-        "United Therapeutics (UTHR): Goldman Says Sell As The Base Business Shrinks, But 2027 Holds Real Catalysts",
-        "What United Therapeutics (UTHR)'s Goldman Sell Call Amid Bold Pipeline And Buyback Means For Shareholders"
+        "Micron, Accenture, Google, IBM, Fair Isaac, Synopsys, and More Stocks That Explain Today’s Market",
+        "Accenture Jumps 20% and IBM Climbs on Strong Outlook for 2027"
       ]
     },
     {
       "rank": 2,
-      "symbol": "NWCL",
-      "price": 8.16,
-      "gap_pct": 13.66,
-      "premarket_volume": 363934,
+      "symbol": "FICO",
+      "price": 669.65,
+      "gap_pct": 13.03,
+      "premarket_volume": 2117676,
       "is_premarket_data": false,
-      "catalyst": "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
+      "catalyst": "Fair Isaac Stock Is Surging After Its Worst Quarter on Record. Has the Stock Bottomed?",
       "headlines": [
-        "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up",
-        "Newcleo to Go Public in US Through SPAC Merger With NewHold Investment"
+        "Fair Isaac Stock Is Surging After Its Worst Quarter on Record. Has the Stock Bottomed?",
+        "Micron, Accenture, Google, IBM, Fair Isaac, Synopsys, and More Stocks That Explain Today’s Market"
       ]
     },
     {
       "rank": 3,
-      "symbol": "ROG",
-      "price": 155.24,
-      "gap_pct": 12.35,
-      "premarket_volume": 796187,
+      "symbol": "SNPS",
+      "price": 488.27,
+      "gap_pct": 12.26,
+      "premarket_volume": 4355084,
       "is_premarket_data": false,
-      "catalyst": "3 Russell 2000 Stocks We Steer Clear Of",
+      "catalyst": "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
       "headlines": [
-        "3 Russell 2000 Stocks We Steer Clear Of",
-        "Rogers (ROG) Stock Looks Overvalued After Its 73% Rise"
+        "Synopsys Stock Surges On AI-Driven Transformation Of Engineering",
+        "Synopsys Investor Day Impresses BofA and KeyBanc, Driving Higher Price Targets and Stronger Growth Outlook"
       ]
     },
     {
       "rank": 4,
-      "symbol": "PGEN",
-      "price": 8.92,
-      "gap_pct": 10.81,
-      "premarket_volume": 6578648,
+      "symbol": "EFXT",
+      "price": 25.21,
+      "gap_pct": 10.62,
+      "premarket_volume": 1357378,
       "is_premarket_data": false,
-      "catalyst": "KOD Stock Soars 178% on Positive Wet AMD Data as BLA Filing Nears",
+      "catalyst": "Enerflex (TSX:EFX) Completes Asia Pacific Divestiture",
       "headlines": [
-        "KOD Stock Soars 178% on Positive Wet AMD Data as BLA Filing Nears",
-        "Mirum's Brelovitug Meets Goal in Phase III AZURE-1 Study in HDV"
+        "Enerflex (TSX:EFX) Completes Asia Pacific Divestiture",
+        "New Strong Sell Stocks for September 1st"
       ]
     },
     {
       "rank": 5,
-      "symbol": "IBRX",
-      "price": 9.72,
-      "gap_pct": 10.14,
-      "premarket_volume": 19322269,
+      "symbol": "VICR",
+      "price": 318.95,
+      "gap_pct": 10.39,
+      "premarket_volume": 1057893,
       "is_premarket_data": false,
-      "catalyst": "A $5.8B Cancer Market Opportunity Is Emerging — Why GA-Courtenay Favors ImmunityBio (IBRX)",
+      "catalyst": "Vicor Stock Surges as Royalty Revenue Boosts Growth Outlook",
       "headlines": [
-        "A $5.8B Cancer Market Opportunity Is Emerging — Why GA-Courtenay Favors ImmunityBio (IBRX)",
-        "Biotech Lagged The Broader Market In September — Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI’s Slump?"
+        "Vicor Stock Surges as Royalty Revenue Boosts Growth Outlook",
+        "Top 3 EV Stocks To Watch In October 2026"
       ]
     },
     {
       "rank": 6,
-      "symbol": "ZETA",
-      "price": 31.54,
-      "gap_pct": 8.89,
-      "premarket_volume": 5225658,
+      "symbol": "INOD",
+      "price": 72.53,
+      "gap_pct": 10.3,
+      "premarket_volume": 1681729,
       "is_premarket_data": false,
-      "catalyst": "UiPath vs. Zeta Global: Which AI Stock Is the Better Buy?",
+      "catalyst": "Innodata vs. Nebius Group N.V.: Which AI Stock Is a Better Buy in 2026?",
       "headlines": [
-        "UiPath vs. Zeta Global: Which AI Stock Is the Better Buy?",
-        "2 Cash-Producing Stocks with Exciting Potential and 1 That Underwhelm"
+        "Innodata vs. Nebius Group N.V.: Which AI Stock Is a Better Buy in 2026?",
+        "INOD vs. EXLS: Which AI & Data Services Stock Has More Upside?"
       ]
     },
     {
       "rank": 7,
-      "symbol": "FORM",
-      "price": 146.87,
-      "gap_pct": 7.79,
-      "premarket_volume": 1099592,
+      "symbol": "KD",
+      "price": 12.38,
+      "gap_pct": 9.99,
+      "premarket_volume": 6065689,
       "is_premarket_data": false,
-      "catalyst": "FormFactor Stock Jumps As Chip-Gear Firm Gets Fresh Buy Rating",
+      "catalyst": "Why Kyndryl (KD) Shares Are Trading Lower Today",
       "headlines": [
-        "FormFactor Stock Jumps As Chip-Gear Firm Gets Fresh Buy Rating",
-        "Target upgraded, Moderna downgraded: Wall Street's top analyst calls"
+        "Why Kyndryl (KD) Shares Are Trading Lower Today",
+        "Kyndryl Holdings, Inc. (KD) Falls More Steeply Than Broader Market: What Investors Need to Know"
       ]
     },
     {
       "rank": 8,
-      "symbol": "ALMR",
-      "price": 35.12,
-      "gap_pct": 7.57,
-      "premarket_volume": 445123,
+      "symbol": "COHR",
+      "price": 316.43,
+      "gap_pct": 9.94,
+      "premarket_volume": 8935154,
       "is_premarket_data": false,
-      "catalyst": "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
+      "catalyst": "Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
       "headlines": [
-        "Alamar Biosciences (ALMR) Q2 2026 Earnings Call Transcript",
-        "Alamar Biosciences Inc (ALMR) (Q2 2026) Earnings Call Highlights: Revenue Surges 82% on 147% ..."
+        "Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
+        "Here's Why Investors Should Hold OMC Stock in Their Portfolios for Now"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BRZE",
-      "price": 24.82,
-      "gap_pct": 7.21,
-      "premarket_volume": 1406944,
+      "symbol": "GWRE",
+      "price": 156.39,
+      "gap_pct": 9.69,
+      "premarket_volume": 937075,
       "is_premarket_data": false,
-      "catalyst": "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
+      "catalyst": "Elevated Expectations Weigh on Guidewire (GWRE)",
       "headlines": [
-        "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
-        "Braze, Manhattan Associates, and Agilysys Stocks Trade Down, What You Need To Know"
+        "Elevated Expectations Weigh on Guidewire (GWRE)",
+        "Guidewire's Cash Flow and Buybacks: Can Both Keep Scaling?"
       ]
     },
     {
       "rank": 10,
-      "symbol": "PS",
-      "price": 57.15,
-      "gap_pct": 6.71,
-      "premarket_volume": 159771,
+      "symbol": "ASAN",
+      "price": 9.17,
+      "gap_pct": 8.78,
+      "premarket_volume": 3954196,
       "is_premarket_data": false,
-      "catalyst": "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
+      "catalyst": "Asana, Unity, C3.ai, Rapid7, and ZoomInfo Shares Are Soaring, What You Need To Know",
       "headlines": [
-        "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
-        "These 2 Numbers Explain Why Warren Buffett and Bill Ackman Love Alphabet, Amazon, Microsoft, and Meta"
+        "Asana, Unity, C3.ai, Rapid7, and ZoomInfo Shares Are Soaring, What You Need To Know",
+        "Meta Expands Muse AI Agent to Enterprise Software and Small Businesses"
       ]
     }
   ]
