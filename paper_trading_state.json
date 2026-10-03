@@ -56,7 +56,7 @@
     "in_position": true,
     "entry_price": 224.20204133605955,
     "entry_date": "2026-08-12",
-    "highest_since_entry": 230.36000061035156,
+    "highest_since_entry": 230.86000061035156,
     "position_fraction": 0.19069169230318334
   },
   "NU": {
@@ -643,11 +643,7 @@
     "position_fraction": 0.08821766818275165
   },
   "VALE": {
-    "in_position": true,
-    "entry_price": 15.317655419826506,
-    "entry_date": "2026-09-03",
-    "highest_since_entry": 15.5600004196167,
-    "position_fraction": 0.21638701070146818
+    "in_position": false
   },
   "HOOD": {
     "in_position": true,
