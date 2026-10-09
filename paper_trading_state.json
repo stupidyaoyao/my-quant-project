@@ -8,11 +8,7 @@
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
-    "in_position": true,
-    "entry_price": 1898.116190673828,
-    "entry_date": "2026-07-20",
-    "highest_since_entry": 2768.6298828125,
-    "position_fraction": 0.20222419232574626
+    "in_position": false
   },
   "QQQ": {
     "in_position": true,
@@ -46,11 +42,7 @@
     "in_position": false
   },
   "INTC": {
-    "in_position": true,
-    "entry_price": 127.45369438934326,
-    "entry_date": "2026-09-24",
-    "highest_since_entry": 127.38999938964844,
-    "position_fraction": 0.12265042336681665
+    "in_position": false
   },
   "NVDA": {
     "in_position": true,
@@ -91,14 +83,14 @@
     "position_fraction": 0.1275964890398148
   },
   "T": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 24.882435839653013,
+    "entry_date": "2026-10-08",
+    "highest_since_entry": 24.8700008392334,
+    "position_fraction": 0.37378394230740686
   },
   "MARA": {
-    "in_position": true,
-    "entry_price": 13.636815114498138,
-    "entry_date": "2026-09-22",
-    "highest_since_entry": 13.630000114440918,
-    "position_fraction": 0.10226153411972119
+    "in_position": false
   },
   "F": {
     "in_position": false
@@ -241,7 +233,11 @@
     "position_fraction": 1.0
   },
   "IREN": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 35.72785408401489,
+    "entry_date": "2026-10-08",
+    "highest_since_entry": 35.709999084472656,
+    "position_fraction": 0.09850842452913083
   },
   "RKLB": {
     "in_position": false
@@ -345,7 +341,11 @@
     "in_position": false
   },
   "CDE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 16.878435839653015,
+    "entry_date": "2026-10-08",
+    "highest_since_entry": 16.8700008392334,
+    "position_fraction": 0.138725452681747
   },
   "SMCI": {
     "in_position": true,
@@ -458,11 +458,7 @@
     "position_fraction": 1.0
   },
   "CMG": {
-    "in_position": true,
-    "entry_price": 33.836909694671625,
-    "entry_date": "2026-08-04",
-    "highest_since_entry": 33.81999969482422,
-    "position_fraction": 0.13279484633351588
+    "in_position": false
   },
   "NVO": {
     "in_position": false
@@ -805,7 +801,10 @@
     "in_position": true,
     "entry_price": 8.894445343494414,
     "entry_date": "2026-10-07",
-    "highest_since_entry": 8.890000343322754,
+    "highest_since_entry": 9.279999732971191,
     "position_fraction": 0.08625087915828154
+  },
+  "APLD": {
+    "in_position": false
   }
 }
