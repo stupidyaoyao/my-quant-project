@@ -11,7 +11,7 @@
     "in_position": true,
     "entry_price": 2492.009539550781,
     "entry_date": "2026-10-10",
-    "highest_since_entry": 2489.52001953125,
+    "highest_since_entry": 2503.2900390625,
     "position_fraction": 0.223153864112041
   },
   "QQQ": {
@@ -91,7 +91,11 @@
     "position_fraction": 0.1275964890398148
   },
   "T": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 22.19109030532837,
+    "entry_date": "2026-10-09",
+    "highest_since_entry": 22.18000030517578,
+    "position_fraction": 0.24947502810104288
   },
   "MARA": {
     "in_position": false
