@@ -32,14 +32,14 @@
     "in_position": true,
     "entry_price": 493.056402557373,
     "entry_date": "2026-08-04",
-    "highest_since_entry": 535.0700073242188,
+    "highest_since_entry": 541.1500244140625,
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
     "in_position": true,
     "entry_price": 156.78836171722412,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 169.32000732421875,
+    "highest_since_entry": 172.14999389648438,
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
@@ -94,7 +94,7 @@
     "in_position": true,
     "entry_price": 22.19109030532837,
     "entry_date": "2026-10-09",
-    "highest_since_entry": 22.18000030517578,
+    "highest_since_entry": 22.489999771118164,
     "position_fraction": 0.24947502810104288
   },
   "MARA": {
@@ -281,11 +281,7 @@
     "in_position": false
   },
   "ARM": {
-    "in_position": true,
-    "entry_price": 283.4716515655517,
-    "entry_date": "2026-09-28",
-    "highest_since_entry": 307.489990234375,
-    "position_fraction": 0.09198980355537946
+    "in_position": false
   },
   "ABT": {
     "in_position": true,
@@ -308,7 +304,7 @@
     "in_position": true,
     "entry_price": 5.532765209913253,
     "entry_date": "2026-08-24",
-    "highest_since_entry": 6.230000019073486,
+    "highest_since_entry": 6.53000020980835,
     "position_fraction": 0.13804045008282903
   },
   "KEEL": {
@@ -665,7 +661,11 @@
     "position_fraction": 0.19030350142713381
   },
   "IONQ": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 36.28813545799255,
+    "entry_date": "2026-10-12",
+    "highest_since_entry": 36.27000045776367,
+    "position_fraction": 0.08404379699472427
   },
   "FRVO": {
     "in_position": false
@@ -777,7 +777,7 @@
     "in_position": true,
     "entry_price": 88.01398622131347,
     "entry_date": "2026-10-05",
-    "highest_since_entry": 88.4800033569336,
+    "highest_since_entry": 91.93000030517578,
     "position_fraction": 0.3071426573524311
   },
   "PBR-A": {
@@ -817,5 +817,15 @@
     "entry_date": "2026-10-09",
     "highest_since_entry": 12.65999984741211,
     "position_fraction": 0.1758856673557311
+  },
+  "MMED": {
+    "in_position": true,
+    "entry_price": 18.809399236679077,
+    "entry_date": "2026-10-12",
+    "highest_since_entry": 18.799999237060547,
+    "position_fraction": 0.15624817141615824
+  },
+  "CCC": {
+    "in_position": false
   }
 }
