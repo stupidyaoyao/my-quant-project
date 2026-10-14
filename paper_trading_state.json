@@ -98,7 +98,11 @@
     "position_fraction": 0.24947502810104288
   },
   "MARA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 9.444719580173492,
+    "entry_date": "2026-10-12",
+    "highest_since_entry": 9.4399995803833,
+    "position_fraction": 0.09393036203741068
   },
   "F": {
     "in_position": false
@@ -281,7 +285,11 @@
     "in_position": false
   },
   "ARM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 255.36762549591063,
+    "entry_date": "2026-10-12",
+    "highest_since_entry": 255.24000549316406,
+    "position_fraction": 0.09882679796774015
   },
   "ABT": {
     "in_position": true,
@@ -434,11 +442,7 @@
     "position_fraction": 0.08784460991995546
   },
   "CRWV": {
-    "in_position": true,
-    "entry_price": 89.40468061065674,
-    "entry_date": "2026-09-04",
-    "highest_since_entry": 89.36000061035156,
-    "position_fraction": 0.11833525872401154
+    "in_position": false
   },
   "GME": {
     "in_position": false
