@@ -15,7 +15,11 @@
     "position_fraction": 0.223153864112041
   },
   "QQQ": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 728.3639999999999,
+    "entry_date": "2026-10-15",
+    "highest_since_entry": 728.0,
+    "position_fraction": 0.5100726671306586
   },
   "AAPL": {
     "in_position": true,
@@ -49,7 +53,11 @@
     "position_fraction": 0.12620429696231958
   },
   "NVDA": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 217.33861072540282,
+    "entry_date": "2026-10-15",
+    "highest_since_entry": 217.22999572753906,
+    "position_fraction": 0.2429865652925223
   },
   "NU": {
     "in_position": false
@@ -76,7 +84,11 @@
     "in_position": false
   },
   "NOK": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 9.57478469467163,
+    "entry_date": "2026-10-15",
+    "highest_since_entry": 9.569999694824219,
+    "position_fraction": 0.1323259217062114
   },
   "T": {
     "in_position": false
@@ -102,11 +114,7 @@
     "in_position": false
   },
   "SPCX": {
-    "in_position": true,
-    "entry_price": 148.25408267211913,
-    "entry_date": "2026-09-10",
-    "highest_since_entry": 171.08999633789062,
-    "position_fraction": 0.1608155529934975
+    "in_position": false
   },
   "META": {
     "in_position": true,
@@ -225,11 +233,7 @@
     "position_fraction": 1.0
   },
   "IREN": {
-    "in_position": true,
-    "entry_price": 35.72785408401489,
-    "entry_date": "2026-10-08",
-    "highest_since_entry": 35.709999084472656,
-    "position_fraction": 0.09850842452913083
+    "in_position": false
   },
   "RKLB": {
     "in_position": true,
@@ -252,14 +256,14 @@
     "in_position": false
   },
   "GLW": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 138.49920767211913,
+    "entry_date": "2026-10-15",
+    "highest_since_entry": 138.42999267578125,
+    "position_fraction": 0.10641735142268087
   },
   "DELL": {
-    "in_position": true,
-    "entry_price": 404.59230125427246,
-    "entry_date": "2026-07-16",
-    "highest_since_entry": 588.4000244140625,
-    "position_fraction": 0.0841277535361
+    "in_position": false
   },
   "AVGO": {
     "in_position": false
@@ -336,11 +340,7 @@
     "position_fraction": 0.138725452681747
   },
   "SMCI": {
-    "in_position": true,
-    "entry_price": 37.25862167930603,
-    "entry_date": "2026-08-21",
-    "highest_since_entry": 44.939998626708984,
-    "position_fraction": 0.09741405958700664
+    "in_position": false
   },
   "SMR": {
     "in_position": false
@@ -810,6 +810,10 @@
     "position_fraction": 0.15624817141615824
   },
   "CCC": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 7.633815114498138,
+    "entry_date": "2026-10-15",
+    "highest_since_entry": 7.630000114440918,
+    "position_fraction": 0.1713919305672948
   }
 }
