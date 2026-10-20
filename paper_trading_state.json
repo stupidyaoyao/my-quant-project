@@ -337,11 +337,7 @@
     "in_position": false
   },
   "CDE": {
-    "in_position": true,
-    "entry_price": 16.878435839653015,
-    "entry_date": "2026-10-08",
-    "highest_since_entry": 16.8700008392334,
-    "position_fraction": 0.138725452681747
+    "in_position": false
   },
   "SMCI": {
     "in_position": true,
@@ -357,7 +353,11 @@
     "in_position": false
   },
   "CLF": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 12.126059885501862,
+    "entry_date": "2026-10-16",
+    "highest_since_entry": 12.119999885559082,
+    "position_fraction": 0.12309030724499799
   },
   "GOOGL": {
     "in_position": false
