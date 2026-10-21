@@ -8,11 +8,7 @@
     "position_fraction": 0.2836886395399799
   },
   "ETH-USD": {
-    "in_position": true,
-    "entry_price": 2492.009539550781,
-    "entry_date": "2026-10-10",
-    "highest_since_entry": 2541.52001953125,
-    "position_fraction": 0.223153864112041
+    "in_position": false
   },
   "QQQ": {
     "in_position": true,
@@ -113,7 +109,7 @@
     "in_position": true,
     "entry_price": 146.10301377868652,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 146.02999877929688,
+    "highest_since_entry": 147.9600067138672,
     "position_fraction": 0.13105258223498156
   },
   "META": {
@@ -266,7 +262,7 @@
     "in_position": true,
     "entry_price": 451.9358464508056,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 451.7099914550781,
+    "highest_since_entry": 455.44000244140625,
     "position_fraction": 0.10166536029807625
   },
   "AVGO": {
@@ -356,7 +352,7 @@
     "in_position": true,
     "entry_price": 12.126059885501862,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 12.119999885559082,
+    "highest_since_entry": 14.100000381469727,
     "position_fraction": 0.12309030724499799
   },
   "GOOGL": {
@@ -823,5 +819,8 @@
     "entry_date": "2026-10-15",
     "highest_since_entry": 7.630000114440918,
     "position_fraction": 0.1713919305672948
+  },
+  "BRZE": {
+    "in_position": false
   }
 }
