@@ -178,11 +178,7 @@
     "in_position": false
   },
   "BMNR": {
-    "in_position": true,
-    "entry_price": 20.25011977100372,
-    "entry_date": "2026-08-19",
-    "highest_since_entry": 27.559999465942383,
-    "position_fraction": 0.12992201036754286
+    "in_position": false
   },
   "BAC": {
     "in_position": false
@@ -252,17 +248,13 @@
     "in_position": false
   },
   "GLW": {
-    "in_position": true,
-    "entry_price": 138.49920767211913,
-    "entry_date": "2026-10-15",
-    "highest_since_entry": 138.42999267578125,
-    "position_fraction": 0.10641735142268087
+    "in_position": false
   },
   "DELL": {
     "in_position": true,
     "entry_price": 451.9358464508056,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 455.44000244140625,
+    "highest_since_entry": 461.55999755859375,
     "position_fraction": 0.10166536029807625
   },
   "AVGO": {
@@ -339,7 +331,7 @@
     "in_position": true,
     "entry_price": 31.645814160346983,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 31.6299991607666,
+    "highest_since_entry": 32.470001220703125,
     "position_fraction": 0.08344075190737593
   },
   "SMR": {
