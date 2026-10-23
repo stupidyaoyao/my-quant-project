@@ -21,7 +21,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 343.4599914550781,
+    "highest_since_entry": 343.989990234375,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -52,11 +52,15 @@
     "in_position": true,
     "entry_price": 217.33861072540282,
     "entry_date": "2026-10-15",
-    "highest_since_entry": 217.22999572753906,
+    "highest_since_entry": 221.97000122070312,
     "position_fraction": 0.2429865652925223
   },
   "NU": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 15.05752519083023,
+    "entry_date": "2026-10-21",
+    "highest_since_entry": 15.050000190734863,
+    "position_fraction": 0.15251539892514715
   },
   "SOFI": {
     "in_position": false
@@ -80,11 +84,7 @@
     "in_position": false
   },
   "NOK": {
-    "in_position": true,
-    "entry_price": 9.57478469467163,
-    "entry_date": "2026-10-15",
-    "highest_since_entry": 9.569999694824219,
-    "position_fraction": 0.1323259217062114
+    "in_position": false
   },
   "T": {
     "in_position": false
@@ -109,7 +109,7 @@
     "in_position": true,
     "entry_price": 146.10301377868652,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 147.9600067138672,
+    "highest_since_entry": 159.30999755859375,
     "position_fraction": 0.13105258223498156
   },
   "META": {
@@ -132,7 +132,7 @@
     "in_position": true,
     "entry_price": 378.12897244262695,
     "entry_date": "2026-09-24",
-    "highest_since_entry": 382.70001220703125,
+    "highest_since_entry": 386.4700012207031,
     "position_fraction": 0.21665987436204603
   },
   "AMZN": {
@@ -254,7 +254,7 @@
     "in_position": true,
     "entry_price": 451.9358464508056,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 461.55999755859375,
+    "highest_since_entry": 485.8800048828125,
     "position_fraction": 0.10166536029807625
   },
   "AVGO": {
@@ -331,7 +331,7 @@
     "in_position": true,
     "entry_price": 31.645814160346983,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 32.470001220703125,
+    "highest_since_entry": 35.56999969482422,
     "position_fraction": 0.08344075190737593
   },
   "SMR": {
@@ -580,7 +580,7 @@
     "in_position": true,
     "entry_price": 174.4671948852539,
     "entry_date": "2026-08-19",
-    "highest_since_entry": 174.3800048828125,
+    "highest_since_entry": 245.80999755859375,
     "position_fraction": 0.09998879664102028
   },
   "WBS": {
@@ -814,5 +814,12 @@
   },
   "BRZE": {
     "in_position": false
+  },
+  "FPS": {
+    "in_position": true,
+    "entry_price": 31.775880228996275,
+    "entry_date": "2026-10-21",
+    "highest_since_entry": 31.760000228881836,
+    "position_fraction": 0.08345345746063762
   }
 }
