@@ -1,11 +1,7 @@
 {
   "in_position": false,
   "BTC-USD": {
-    "in_position": true,
-    "entry_price": 64422.858499999995,
-    "entry_date": "2026-07-25",
-    "highest_since_entry": 86449.75,
-    "position_fraction": 0.2836886395399799
+    "in_position": false
   },
   "ETH-USD": {
     "in_position": false
