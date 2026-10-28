@@ -4,7 +4,7 @@
     "in_position": true,
     "entry_price": 80080.53178124999,
     "entry_date": "2026-10-27",
-    "highest_since_entry": 80000.53125,
+    "highest_since_entry": 80537.2734375,
     "position_fraction": 0.2727161307590593
   },
   "ETH-USD": {
@@ -35,7 +35,7 @@
     "in_position": true,
     "entry_price": 156.78836171722412,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 183.2100067138672,
+    "highest_since_entry": 184.5399932861328,
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
@@ -45,7 +45,7 @@
     "in_position": true,
     "entry_price": 87.00347908401488,
     "entry_date": "2026-10-23",
-    "highest_since_entry": 86.95999908447266,
+    "highest_since_entry": 90.47000122070312,
     "position_fraction": 0.10642886889421747
   },
   "NVDA": {
@@ -56,11 +56,7 @@
     "position_fraction": 0.2429865652925223
   },
   "NU": {
-    "in_position": true,
-    "entry_price": 15.05752519083023,
-    "entry_date": "2026-10-21",
-    "highest_since_entry": 15.15999984741211,
-    "position_fraction": 0.15251539892514715
+    "in_position": false
   },
   "SOFI": {
     "in_position": false
@@ -96,11 +92,7 @@
     "in_position": false
   },
   "BBD": {
-    "in_position": true,
-    "entry_price": 4.072035171747207,
-    "entry_date": "2026-10-23",
-    "highest_since_entry": 4.070000171661377,
-    "position_fraction": 0.18974208061466483
+    "in_position": false
   },
   "NFLX": {
     "in_position": false
@@ -132,7 +124,7 @@
     "in_position": true,
     "entry_price": 378.12897244262695,
     "entry_date": "2026-09-24",
-    "highest_since_entry": 386.4700012207031,
+    "highest_since_entry": 391.6199951171875,
     "position_fraction": 0.21665987436204603
   },
   "AMZN": {
@@ -527,11 +519,7 @@
     "in_position": false
   },
   "ITUB": {
-    "in_position": true,
-    "entry_price": 8.094045152664185,
-    "entry_date": "2026-09-29",
-    "highest_since_entry": 10.15999984741211,
-    "position_fraction": 0.25168897364583764
+    "in_position": false
   },
   "ARX": {
     "in_position": false
@@ -747,11 +735,7 @@
     "position_fraction": 0.10104947430269395
   },
   "XP": {
-    "in_position": true,
-    "entry_price": 28.164074618339537,
-    "entry_date": "2026-10-05",
-    "highest_since_entry": 30.40999984741211,
-    "position_fraction": 0.14424012220436983
+    "in_position": false
   },
   "MDT": {
     "in_position": true,
@@ -834,5 +818,8 @@
     "entry_date": "2026-10-23",
     "highest_since_entry": 6.400000095367432,
     "position_fraction": 0.22288562939376785
+  },
+  "BA": {
+    "in_position": false
   }
 }
