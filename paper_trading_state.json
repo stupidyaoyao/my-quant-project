@@ -42,11 +42,7 @@
     "in_position": false
   },
   "INTC": {
-    "in_position": true,
-    "entry_price": 87.00347908401488,
-    "entry_date": "2026-10-23",
-    "highest_since_entry": 90.47000122070312,
-    "position_fraction": 0.10642886889421747
+    "in_position": false
   },
   "NVDA": {
     "in_position": true,
@@ -56,7 +52,11 @@
     "position_fraction": 0.2429865652925223
   },
   "NU": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 11.975985267162322,
+    "entry_date": "2026-10-28",
+    "highest_since_entry": 11.970000267028809,
+    "position_fraction": 0.10151750205539
   },
   "SOFI": {
     "in_position": false
@@ -92,7 +92,11 @@
     "in_position": false
   },
   "BBD": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 2.731365019083023,
+    "entry_date": "2026-10-28",
+    "highest_since_entry": 2.7300000190734863,
+    "position_fraction": 0.0823950437363473
   },
   "NFLX": {
     "in_position": false
@@ -246,7 +250,7 @@
     "in_position": true,
     "entry_price": 451.9358464508056,
     "entry_date": "2026-10-16",
-    "highest_since_entry": 485.8800048828125,
+    "highest_since_entry": 493.7900085449219,
     "position_fraction": 0.10166536029807625
   },
   "AVGO": {
@@ -371,11 +375,7 @@
     "in_position": false
   },
   "BSX": {
-    "in_position": true,
-    "entry_price": 48.194083168029785,
-    "entry_date": "2026-08-26",
-    "highest_since_entry": 48.16999816894531,
-    "position_fraction": 0.18977912538371075
+    "in_position": false
   },
   "BE": {
     "in_position": true,
@@ -789,7 +789,7 @@
     "in_position": true,
     "entry_price": 7.633815114498138,
     "entry_date": "2026-10-15",
-    "highest_since_entry": 7.630000114440918,
+    "highest_since_entry": 7.670000076293945,
     "position_fraction": 0.1713919305672948
   },
   "BRZE": {
