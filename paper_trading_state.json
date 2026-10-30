@@ -21,7 +21,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 348.2200012207031,
+    "highest_since_entry": 348.9100036621094,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -55,7 +55,7 @@
     "in_position": true,
     "entry_price": 11.975985267162322,
     "entry_date": "2026-10-28",
-    "highest_since_entry": 11.970000267028809,
+    "highest_since_entry": 12.050000190734863,
     "position_fraction": 0.10151750205539
   },
   "SOFI": {
@@ -349,7 +349,7 @@
     "in_position": true,
     "entry_price": 91.98597244262695,
     "entry_date": "2026-07-23",
-    "highest_since_entry": 91.94000244140625,
+    "highest_since_entry": 109.66999816894531,
     "position_fraction": 0.099049754744027
   },
   "ACI": {
@@ -519,7 +519,11 @@
     "in_position": false
   },
   "ITUB": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 7.373684885501861,
+    "entry_date": "2026-10-29",
+    "highest_since_entry": 7.369999885559082,
+    "position_fraction": 0.11483585839488568
   },
   "ARX": {
     "in_position": false
@@ -588,11 +592,7 @@
     "in_position": false
   },
   "PURR": {
-    "in_position": true,
-    "entry_price": 12.836414923667906,
-    "entry_date": "2026-08-27",
-    "highest_since_entry": 14.09000015258789,
-    "position_fraction": 0.08821766818275165
+    "in_position": false
   },
   "VALE": {
     "in_position": false
@@ -821,5 +821,28 @@
   },
   "BA": {
     "in_position": false
+  },
+  "ADT": {
+    "in_position": false
+  },
+  "GOOG": {
+    "in_position": false
+  },
+  "NCLH": {
+    "in_position": false
+  },
+  "HLN": {
+    "in_position": true,
+    "entry_price": 8.574284694671631,
+    "entry_date": "2026-10-29",
+    "highest_since_entry": 8.569999694824219,
+    "position_fraction": 0.19121843475651892
+  },
+  "PINS": {
+    "in_position": true,
+    "entry_price": 19.92996007633209,
+    "entry_date": "2026-10-29",
+    "highest_since_entry": 19.920000076293945,
+    "position_fraction": 0.137953558362838
   }
 }
