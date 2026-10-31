@@ -1,11 +1,7 @@
 {
   "in_position": false,
   "BTC-USD": {
-    "in_position": true,
-    "entry_price": 80080.53178124999,
-    "entry_date": "2026-10-27",
-    "highest_since_entry": 80537.2734375,
-    "position_fraction": 0.2727161307590593
+    "in_position": false
   },
   "ETH-USD": {
     "in_position": false
@@ -35,7 +31,7 @@
     "in_position": true,
     "entry_price": 156.78836171722412,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 184.5399932861328,
+    "highest_since_entry": 187.25,
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
@@ -45,11 +41,7 @@
     "in_position": false
   },
   "NVDA": {
-    "in_position": true,
-    "entry_price": 217.33861072540282,
-    "entry_date": "2026-10-15",
-    "highest_since_entry": 221.97000122070312,
-    "position_fraction": 0.2429865652925223
+    "in_position": false
   },
   "NU": {
     "in_position": true,
@@ -102,11 +94,7 @@
     "in_position": false
   },
   "SPCX": {
-    "in_position": true,
-    "entry_price": 146.10301377868652,
-    "entry_date": "2026-10-16",
-    "highest_since_entry": 159.30999755859375,
-    "position_fraction": 0.13105258223498156
+    "in_position": false
   },
   "META": {
     "in_position": true,
@@ -277,11 +265,7 @@
     "in_position": false
   },
   "SNAP": {
-    "in_position": true,
-    "entry_price": 5.532765209913253,
-    "entry_date": "2026-08-24",
-    "highest_since_entry": 6.53000020980835,
-    "position_fraction": 0.13804045008282903
+    "in_position": false
   },
   "KEEL": {
     "in_position": false
@@ -666,7 +650,11 @@
     "in_position": false
   },
   "KVUE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 19.319654465675352,
+    "entry_date": "2026-10-30",
+    "highest_since_entry": 19.309999465942383,
+    "position_fraction": 0.3056245512212604
   },
   "AGNC": {
     "in_position": false
