@@ -35,7 +35,11 @@
     "position_fraction": 0.34394261678921206
   },
   "PYPL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 57.03850332069397,
+    "entry_date": "2026-10-30",
+    "highest_since_entry": 57.0099983215332,
+    "position_fraction": 0.28547310446377633
   },
   "INTC": {
     "in_position": false
@@ -94,7 +98,11 @@
     "in_position": false
   },
   "SPCX": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 134.78736122131346,
+    "entry_date": "2026-10-30",
+    "highest_since_entry": 134.72000122070312,
+    "position_fraction": 0.11331895464239927
   },
   "META": {
     "in_position": true,
@@ -265,7 +273,11 @@
     "in_position": false
   },
   "SNAP": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.342670152664184,
+    "entry_date": "2026-10-30",
+    "highest_since_entry": 5.340000152587891,
+    "position_fraction": 0.0933858018018018
   },
   "KEEL": {
     "in_position": false
