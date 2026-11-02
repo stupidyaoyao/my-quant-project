@@ -115,7 +115,11 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 6.943470057249069,
+    "entry_date": "2026-10-30",
+    "highest_since_entry": 6.940000057220459,
+    "position_fraction": 0.17272884638582534
   },
   "RIVN": {
     "in_position": false
