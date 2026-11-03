@@ -7,11 +7,7 @@
     "in_position": false
   },
   "QQQ": {
-    "in_position": true,
-    "entry_price": 728.3639999999999,
-    "entry_date": "2026-10-15",
-    "highest_since_entry": 728.0,
-    "position_fraction": 0.5100726671306586
+    "in_position": false
   },
   "AAPL": {
     "in_position": true,
@@ -38,7 +34,7 @@
     "in_position": true,
     "entry_price": 57.03850332069397,
     "entry_date": "2026-10-30",
-    "highest_since_entry": 57.0099983215332,
+    "highest_since_entry": 58.779998779296875,
     "position_fraction": 0.28547310446377633
   },
   "INTC": {
@@ -101,7 +97,7 @@
     "in_position": true,
     "entry_price": 134.78736122131346,
     "entry_date": "2026-10-30",
-    "highest_since_entry": 134.72000122070312,
+    "highest_since_entry": 136.3699951171875,
     "position_fraction": 0.11331895464239927
   },
   "META": {
@@ -128,7 +124,7 @@
     "in_position": true,
     "entry_price": 378.12897244262695,
     "entry_date": "2026-09-24",
-    "highest_since_entry": 391.6199951171875,
+    "highest_since_entry": 403.82000732421875,
     "position_fraction": 0.21665987436204603
   },
   "AMZN": {
@@ -247,11 +243,7 @@
     "in_position": false
   },
   "DELL": {
-    "in_position": true,
-    "entry_price": 451.9358464508056,
-    "entry_date": "2026-10-16",
-    "highest_since_entry": 493.7900085449219,
-    "position_fraction": 0.10166536029807625
+    "in_position": false
   },
   "AVGO": {
     "in_position": false
@@ -270,7 +262,7 @@
     "in_position": true,
     "entry_price": 26.773380228996274,
     "entry_date": "2026-08-07",
-    "highest_since_entry": 29.020000457763672,
+    "highest_since_entry": 30.670000076293945,
     "position_fraction": 0.3517526954482469
   },
   "RKT": {
@@ -608,11 +600,7 @@
     "in_position": false
   },
   "MRVL": {
-    "in_position": true,
-    "entry_price": 287.1535147705078,
-    "entry_date": "2026-10-06",
-    "highest_since_entry": 287.010009765625,
-    "position_fraction": 0.14132204701117257
+    "in_position": false
   },
   "CNH": {
     "in_position": true,
