@@ -1,105 +1,135 @@
 {
-  "scanned_at": "2026-11-03 19:23:53",
+  "scanned_at": "2026-11-04 19:39:24",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AEHR",
-      "price": 64.51,
-      "gap_pct": 25.34,
-      "premarket_volume": 6721676,
+      "symbol": "KD",
+      "price": 17.68,
+      "gap_pct": 36.67,
+      "premarket_volume": 10718229,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Kyndryl (KD) Q2 2027 Earnings Call Transcript",
+      "headlines": [
+        "Kyndryl (KD) Q2 2027 Earnings Call Transcript",
+        "Kyndryl Holdings, Inc. Q2 2027 Earnings Call Summary"
+      ]
     },
     {
       "rank": 2,
-      "symbol": "XMTR",
-      "price": 115.24,
-      "gap_pct": 20.68,
-      "premarket_volume": 1270221,
+      "symbol": "DUOL",
+      "price": 168.77,
+      "gap_pct": 31.85,
+      "premarket_volume": 5726220,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Duolingo stock soars over 30% on strong user growth, monetization plans",
+      "headlines": [
+        "Duolingo stock soars over 30% on strong user growth, monetization plans",
+        "Duolingo Stock What Changed After Strong User Growth And Raised Guidance"
+      ]
     },
     {
       "rank": 3,
-      "symbol": "GPK",
-      "price": 11.2,
-      "gap_pct": 19.99,
-      "premarket_volume": 12260988,
+      "symbol": "YOU",
+      "price": 58.77,
+      "gap_pct": 23.04,
+      "premarket_volume": 5100416,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Clear Secure, Inc. Q3 2026 Earnings Call Summary",
+      "headlines": [
+        "Clear Secure, Inc. Q3 2026 Earnings Call Summary",
+        "Clear Secure (YOU) Q3 2026 Earnings Call Transcript"
+      ]
     },
     {
       "rank": 4,
-      "symbol": "FN",
-      "price": 369.08,
-      "gap_pct": 17.28,
-      "premarket_volume": 1634614,
+      "symbol": "LIVN",
+      "price": 97.46,
+      "gap_pct": 21.98,
+      "premarket_volume": 2465770,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "LivaNova (LIVN) Q3 2026 Earnings Call Transcript",
+      "headlines": [
+        "LivaNova (LIVN) Q3 2026 Earnings Call Transcript",
+        "LivaNova Q3 Earnings Call Highlights"
+      ]
     },
     {
       "rank": 5,
-      "symbol": "NBIX",
-      "price": 168.81,
-      "gap_pct": 16.14,
-      "premarket_volume": 2567858,
+      "symbol": "PCOR",
+      "price": 74.47,
+      "gap_pct": 17.89,
+      "premarket_volume": 5748482,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Procore (PCOR) Q3 2026 Earnings Call Transcript",
+      "headlines": [
+        "Procore (PCOR) Q3 2026 Earnings Call Transcript",
+        "Procore Technologies, Inc. Q3 2026 Earnings Call Summary"
+      ]
     },
     {
       "rank": 6,
-      "symbol": "HUT",
-      "price": 63.73,
-      "gap_pct": 15.87,
-      "premarket_volume": 4954498,
+      "symbol": "UFPT",
+      "price": 327.62,
+      "gap_pct": 16.85,
+      "premarket_volume": 271777,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "UFP Technologies (UFPT) Q3 2026 Earnings Call Transcript",
+      "headlines": [
+        "UFP Technologies (UFPT) Q3 2026 Earnings Call Transcript",
+        "UFP Technologies, Inc. Q3 2026 Earnings Call Summary"
+      ]
     },
     {
       "rank": 7,
-      "symbol": "BETA",
-      "price": 23.57,
-      "gap_pct": 15.68,
-      "premarket_volume": 2745098,
+      "symbol": "MDLN",
+      "price": 39.83,
+      "gap_pct": 16.84,
+      "premarket_volume": 15557701,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Sector Update: Healthcare Stocks Rise Wednesday Afternoon",
+      "headlines": [
+        "Sector Update: Healthcare Stocks Rise Wednesday Afternoon",
+        "AdaptHealth's Capitated Contract Margins Improve, RBC Says"
+      ]
     },
     {
       "rank": 8,
-      "symbol": "CIFR",
-      "price": 7.92,
-      "gap_pct": 15.54,
-      "premarket_volume": 40602551,
+      "symbol": "TREX",
+      "price": 58.2,
+      "gap_pct": 16.39,
+      "premarket_volume": 3234018,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Trex Company (TREX) Q3 2026 Earnings Call Transcript",
+      "headlines": [
+        "Trex Company (TREX) Q3 2026 Earnings Call Transcript",
+        "Trex Company, Inc. Q3 2026 Earnings Call Summary"
+      ]
     },
     {
       "rank": 9,
-      "symbol": "SRAD",
-      "price": 14.78,
-      "gap_pct": 14.8,
-      "premarket_volume": 4305255,
+      "symbol": "XYZ",
+      "price": 88.06,
+      "gap_pct": 15.87,
+      "premarket_volume": 13887315,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Block stock jumps as Jack Dorsey's AI bet shows signs of paying off",
+      "headlines": [
+        "Block stock jumps as Jack Dorsey's AI bet shows signs of paying off",
+        "Block earnings analysis: questions answered and next catalysts"
+      ]
     },
     {
       "rank": 10,
-      "symbol": "RIOT",
-      "price": 13.57,
-      "gap_pct": 14.61,
-      "premarket_volume": 23765202,
+      "symbol": "SWK",
+      "price": 120.44,
+      "gap_pct": 15.13,
+      "premarket_volume": 3870185,
       "is_premarket_data": false,
-      "catalyst": null,
-      "headlines": []
+      "catalyst": "Stanley Black & Decker, Inc. Q3 2026 Earnings Call Summary",
+      "headlines": [
+        "Stanley Black & Decker, Inc. Q3 2026 Earnings Call Summary",
+        "Stanley Black & Decker earnings analysis: questions answered and next catalysts"
+      ]
     }
   ]
 }
