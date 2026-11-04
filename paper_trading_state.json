@@ -7,7 +7,11 @@
     "in_position": false
   },
   "QQQ": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 681.4305718688964,
+    "entry_date": "2026-11-02",
+    "highest_since_entry": 681.0900268554688,
+    "position_fraction": 0.29823323212825514
   },
   "AAPL": {
     "in_position": true,
@@ -131,11 +135,7 @@
     "in_position": false
   },
   "PLTR": {
-    "in_position": true,
-    "entry_price": 155.99795816802978,
-    "entry_date": "2026-08-06",
-    "highest_since_entry": 209.0500030517578,
-    "position_fraction": 0.12326387822608927
+    "in_position": false
   },
   "JOBY": {
     "in_position": false
@@ -312,11 +312,7 @@
     "in_position": false
   },
   "SMCI": {
-    "in_position": true,
-    "entry_price": 31.645814160346983,
-    "entry_date": "2026-10-16",
-    "highest_since_entry": 35.56999969482422,
-    "position_fraction": 0.08344075190737593
+    "in_position": false
   },
   "SMR": {
     "in_position": false
@@ -600,7 +596,11 @@
     "in_position": false
   },
   "MRVL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 171.49570866394043,
+    "entry_date": "2026-11-02",
+    "highest_since_entry": 171.41000366210938,
+    "position_fraction": 0.059285786031127406
   },
   "CNH": {
     "in_position": true,
@@ -654,11 +654,7 @@
     "in_position": false
   },
   "KVUE": {
-    "in_position": true,
-    "entry_price": 19.319654465675352,
-    "entry_date": "2026-10-30",
-    "highest_since_entry": 19.309999465942383,
-    "position_fraction": 0.3056245512212604
+    "in_position": false
   },
   "AGNC": {
     "in_position": false
