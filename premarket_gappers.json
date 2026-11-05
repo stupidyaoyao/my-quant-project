@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-04 19:39:24",
+  "scanned_at": "2026-11-05 19:49:28",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "KD",
-      "price": 17.68,
-      "gap_pct": 36.67,
-      "premarket_volume": 10718229,
+      "symbol": "APP",
+      "price": 354.21,
+      "gap_pct": 30.33,
+      "premarket_volume": 18600596,
       "is_premarket_data": false,
-      "catalyst": "Kyndryl (KD) Q2 2027 Earnings Call Transcript",
+      "catalyst": "AppLovin stock soars after Q3 earnings, outlook beat",
       "headlines": [
-        "Kyndryl (KD) Q2 2027 Earnings Call Transcript",
-        "Kyndryl Holdings, Inc. Q2 2027 Earnings Call Summary"
+        "AppLovin stock soars after Q3 earnings, outlook beat",
+        "AppLovin Stocks Jump 31% as Cash Generation Backs a Larger Buyback"
       ]
     },
     {
       "rank": 2,
-      "symbol": "DUOL",
-      "price": 168.77,
-      "gap_pct": 31.85,
-      "premarket_volume": 5726220,
+      "symbol": "WRBY",
+      "price": 27.25,
+      "gap_pct": 28.02,
+      "premarket_volume": 7665448,
       "is_premarket_data": false,
-      "catalyst": "Duolingo stock soars over 30% on strong user growth, monetization plans",
+      "catalyst": "Warby Parker (WRBY) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "Duolingo stock soars over 30% on strong user growth, monetization plans",
-        "Duolingo Stock What Changed After Strong User Growth And Raised Guidance"
+        "Warby Parker (WRBY) Q3 2026 Earnings Call Transcript",
+        "Warby Parker Inc. (WRBY) Q3 Earnings and Revenues Surpass Estimates"
       ]
     },
     {
       "rank": 3,
-      "symbol": "YOU",
-      "price": 58.77,
-      "gap_pct": 23.04,
-      "premarket_volume": 5100416,
+      "symbol": "ADMA",
+      "price": 13.25,
+      "gap_pct": 26.47,
+      "premarket_volume": 11919344,
       "is_premarket_data": false,
-      "catalyst": "Clear Secure, Inc. Q3 2026 Earnings Call Summary",
+      "catalyst": "ADMA Biologics (ADMA) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "Clear Secure, Inc. Q3 2026 Earnings Call Summary",
-        "Clear Secure (YOU) Q3 2026 Earnings Call Transcript"
+        "ADMA Biologics (ADMA) Q3 2026 Earnings Call Transcript",
+        "ADMA Biologics Inc (ADMA) Q3 2026 Earnings Call Highlights: Asceniv Surge Drives Margin ..."
       ]
     },
     {
       "rank": 4,
-      "symbol": "LIVN",
-      "price": 97.46,
-      "gap_pct": 21.98,
-      "premarket_volume": 2465770,
+      "symbol": "XERS",
+      "price": 13.16,
+      "gap_pct": 25.81,
+      "premarket_volume": 9008555,
       "is_premarket_data": false,
-      "catalyst": "LivaNova (LIVN) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected – XERS Stock On Track To Hit Over 7-Year Highs",
       "headlines": [
-        "LivaNova (LIVN) Q3 2026 Earnings Call Transcript",
-        "LivaNova Q3 Earnings Call Highlights"
+        "Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected – XERS Stock On Track To Hit Over 7-Year Highs",
+        "Xeris Biopharma (XERS) Surpasses Q3 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 5,
-      "symbol": "PCOR",
-      "price": 74.47,
-      "gap_pct": 17.89,
-      "premarket_volume": 5748482,
+      "symbol": "ECPG",
+      "price": 122.31,
+      "gap_pct": 22.4,
+      "premarket_volume": 423961,
       "is_premarket_data": false,
-      "catalyst": "Procore (PCOR) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Encore Capital (ECPG) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "Procore (PCOR) Q3 2026 Earnings Call Transcript",
-        "Procore Technologies, Inc. Q3 2026 Earnings Call Summary"
+        "Encore Capital (ECPG) Q3 2026 Earnings Call Transcript",
+        "Encore Capital Group Inc (ECPG) Q3 2026 Earnings Call Highlights: Record Collections, 76% EPS ..."
       ]
     },
     {
       "rank": 6,
-      "symbol": "UFPT",
-      "price": 327.62,
-      "gap_pct": 16.85,
-      "premarket_volume": 271777,
+      "symbol": "MGNI",
+      "price": 27.69,
+      "gap_pct": 21.5,
+      "premarket_volume": 6635884,
       "is_premarket_data": false,
-      "catalyst": "UFP Technologies (UFPT) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Magnite: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "UFP Technologies (UFPT) Q3 2026 Earnings Call Transcript",
-        "UFP Technologies, Inc. Q3 2026 Earnings Call Summary"
+        "Magnite: 3 Key Takeaways for Long-Term Investors",
+        "Magnite (MGNI) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 7,
-      "symbol": "MDLN",
-      "price": 39.83,
-      "gap_pct": 16.84,
-      "premarket_volume": 15557701,
+      "symbol": "EPAM",
+      "price": 164.75,
+      "gap_pct": 19.94,
+      "premarket_volume": 2518754,
       "is_premarket_data": false,
-      "catalyst": "Sector Update: Healthcare Stocks Rise Wednesday Afternoon",
+      "catalyst": "What Just Happened To CDW Stock?",
       "headlines": [
-        "Sector Update: Healthcare Stocks Rise Wednesday Afternoon",
-        "AdaptHealth's Capitated Contract Margins Improve, RBC Says"
+        "What Just Happened To CDW Stock?",
+        "Epam (EPAM) Q3 Earnings and Revenues Surpass Estimates"
       ]
     },
     {
       "rank": 8,
-      "symbol": "TREX",
-      "price": 58.2,
-      "gap_pct": 16.39,
-      "premarket_volume": 3234018,
+      "symbol": "ARDT",
+      "price": 15.49,
+      "gap_pct": 19.25,
+      "premarket_volume": 1597435,
       "is_premarket_data": false,
-      "catalyst": "Trex Company (TREX) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates",
       "headlines": [
-        "Trex Company (TREX) Q3 2026 Earnings Call Transcript",
-        "Trex Company, Inc. Q3 2026 Earnings Call Summary"
+        "Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates",
+        "Ardent Health (ARDT) Stock Looks Like A Bargain As It Gains 43% YTD"
       ]
     },
     {
       "rank": 9,
-      "symbol": "XYZ",
-      "price": 88.06,
-      "gap_pct": 15.87,
-      "premarket_volume": 13887315,
+      "symbol": "SEZL",
+      "price": 159.99,
+      "gap_pct": 17.05,
+      "premarket_volume": 1576432,
       "is_premarket_data": false,
-      "catalyst": "Block stock jumps as Jack Dorsey's AI bet shows signs of paying off",
+      "catalyst": "Sezzle Has the Sizzle. How the Stock Can Surge Another 61%.",
       "headlines": [
-        "Block stock jumps as Jack Dorsey's AI bet shows signs of paying off",
-        "Block earnings analysis: questions answered and next catalysts"
+        "Sezzle Has the Sizzle. How the Stock Can Surge Another 61%.",
+        "Sezzle (SEZL) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 10,
-      "symbol": "SWK",
-      "price": 120.44,
-      "gap_pct": 15.13,
-      "premarket_volume": 3870185,
+      "symbol": "U",
+      "price": 49.12,
+      "gap_pct": 15.7,
+      "premarket_volume": 38897600,
       "is_premarket_data": false,
-      "catalyst": "Stanley Black & Decker, Inc. Q3 2026 Earnings Call Summary",
+      "catalyst": "Unity Software: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "Stanley Black & Decker, Inc. Q3 2026 Earnings Call Summary",
-        "Stanley Black & Decker earnings analysis: questions answered and next catalysts"
+        "Unity Software: 3 Key Takeaways for Long-Term Investors",
+        "Unity Software (U) Q3 2026 Earnings Call Transcript"
       ]
     }
   ]
