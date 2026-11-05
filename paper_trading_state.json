@@ -7,11 +7,7 @@
     "in_position": false
   },
   "QQQ": {
-    "in_position": true,
-    "entry_price": 681.4305718688964,
-    "entry_date": "2026-11-02",
-    "highest_since_entry": 681.0900268554688,
-    "position_fraction": 0.29823323212825514
+    "in_position": false
   },
   "AAPL": {
     "in_position": true,
@@ -48,11 +44,7 @@
     "in_position": false
   },
   "NU": {
-    "in_position": true,
-    "entry_price": 11.975985267162322,
-    "entry_date": "2026-10-28",
-    "highest_since_entry": 12.050000190734863,
-    "position_fraction": 0.10151750205539
+    "in_position": false
   },
   "SOFI": {
     "in_position": false
@@ -101,7 +93,7 @@
     "in_position": true,
     "entry_price": 134.78736122131346,
     "entry_date": "2026-10-30",
-    "highest_since_entry": 136.3699951171875,
+    "highest_since_entry": 141.30999755859375,
     "position_fraction": 0.11331895464239927
   },
   "META": {
@@ -115,11 +107,7 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": true,
-    "entry_price": 6.943470057249069,
-    "entry_date": "2026-10-30",
-    "highest_since_entry": 6.940000057220459,
-    "position_fraction": 0.17272884638582534
+    "in_position": false
   },
   "RIVN": {
     "in_position": false
