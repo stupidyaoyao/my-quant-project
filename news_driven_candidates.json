@@ -1,36 +1,66 @@
 {
-  "scanned_at": "2026-11-04 19:19:40",
+  "scanned_at": "2026-11-05 19:27:58",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 2,
-      "example_headline": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck"
+      "example_headline": "Why Intel Stock Is Down Today"
     },
     {
-      "symbol": "MSFT",
-      "company_name": "Microsoft",
+      "symbol": "ORCL",
+      "company_name": "Oracle Corporation",
       "mention_count": 2,
-      "example_headline": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck"
+      "example_headline": "Why Oracle Stock Is Sinking Today"
     },
     {
-      "symbol": "IT",
-      "company_name": "Gartner",
-      "mention_count": 1,
-      "example_headline": "Gartner Stock Sinks. Weak Forecast Underscores Threat From Cheaper AI Services."
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Nasdaq Craters 5% As Investors De-Risk; Sandisk, Micron Shares Tank (Live Coverage)"
     },
     {
-      "symbol": "BAC",
-      "company_name": "Bank of America",
+      "symbol": "FSLR",
+      "company_name": "First Solar",
       "mention_count": 1,
-      "example_headline": "Bank of America has unexpected verdict on AI stocks after post-midterm Democrat sweep"
+      "example_headline": "Is First Solar Stock Still Worth Owning After Its Quarter?"
+    },
+    {
+      "symbol": "AZO",
+      "company_name": "AutoZone",
+      "mention_count": 1,
+      "example_headline": "Is AutoZone’s Buyback Paying Off For Shareholders?"
+    },
+    {
+      "symbol": "IBKR",
+      "company_name": "Interactive Brokers",
+      "mention_count": 1,
+      "example_headline": "What the post-midterm market rally is revealing about Washington's big shift"
     },
     {
       "symbol": "AMD",
       "company_name": "Advanced Micro Devices",
       "mention_count": 1,
-      "example_headline": "AMD Stock Rebounds. Is Its AI Edge Built to Last?"
+      "example_headline": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand"
+    },
+    {
+      "symbol": "HLT",
+      "company_name": "Hilton Worldwide",
+      "mention_count": 1,
+      "example_headline": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand"
+    },
+    {
+      "symbol": "SBUX",
+      "company_name": "Starbucks",
+      "mention_count": 1,
+      "example_headline": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand"
+    },
+    {
+      "symbol": "INTU",
+      "company_name": "Intuit",
+      "mention_count": 1,
+      "example_headline": "Redwire Plunges 21% as Revenue Miss Overshadows Record Margins and Backlog; Intuitive Machines Sinks 15%, Planet Labs Tumbles 12%"
     }
   ]
 }
