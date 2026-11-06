@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-05 19:49:28",
+  "scanned_at": "2026-11-06 19:14:24",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "APP",
-      "price": 354.21,
-      "gap_pct": 30.33,
-      "premarket_volume": 18600596,
+      "symbol": "KRMN",
+      "price": 43.7,
+      "gap_pct": 36.16,
+      "premarket_volume": 5500287,
       "is_premarket_data": false,
-      "catalyst": "AppLovin stock soars after Q3 earnings, outlook beat",
+      "catalyst": "Karman Holdings (KRMN) Stock May Still Trade Above Fair Value Following Its 58% Slump",
       "headlines": [
-        "AppLovin stock soars after Q3 earnings, outlook beat",
-        "AppLovin Stocks Jump 31% as Cash Generation Backs a Larger Buyback"
+        "Karman Holdings (KRMN) Stock May Still Trade Above Fair Value Following Its 58% Slump",
+        "Karman Holdings (KRMN) Wins Mars Mission Parachute Design Contract"
       ]
     },
     {
       "rank": 2,
-      "symbol": "WRBY",
-      "price": 27.25,
-      "gap_pct": 28.02,
-      "premarket_volume": 7665448,
+      "symbol": "FROG",
+      "price": 100.83,
+      "gap_pct": 35.12,
+      "premarket_volume": 4830995,
       "is_premarket_data": false,
-      "catalyst": "Warby Parker (WRBY) Q3 2026 Earnings Call Transcript",
+      "catalyst": "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver.",
       "headlines": [
-        "Warby Parker (WRBY) Q3 2026 Earnings Call Transcript",
-        "Warby Parker Inc. (WRBY) Q3 Earnings and Revenues Surpass Estimates"
+        "JFrog Posts Blowout Earnings. AI Coding Was the Biggest Growth Driver.",
+        "JFrog (FROG) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 3,
-      "symbol": "ADMA",
-      "price": 13.25,
-      "gap_pct": 26.47,
-      "premarket_volume": 11919344,
+      "symbol": "FLY",
+      "price": 20.25,
+      "gap_pct": 33.44,
+      "premarket_volume": 9265731,
       "is_premarket_data": false,
-      "catalyst": "ADMA Biologics (ADMA) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Why Firefly Aerospace Stock Went to the Moon Today",
       "headlines": [
-        "ADMA Biologics (ADMA) Q3 2026 Earnings Call Transcript",
-        "ADMA Biologics Inc (ADMA) Q3 2026 Earnings Call Highlights: Asceniv Surge Drives Margin ..."
+        "Why Firefly Aerospace Stock Went to the Moon Today",
+        "Firefly Aerospace shares jump 23% on $1.3B rocket engine deal with AST SpaceMobile"
       ]
     },
     {
       "rank": 4,
-      "symbol": "XERS",
-      "price": 13.16,
-      "gap_pct": 25.81,
-      "premarket_volume": 9008555,
+      "symbol": "LASR",
+      "price": 37.85,
+      "gap_pct": 29.0,
+      "premarket_volume": 1626344,
       "is_premarket_data": false,
-      "catalyst": "Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected – XERS Stock On Track To Hit Over 7-Year Highs",
+      "catalyst": "nLIGHT Stock After Earnings As Revenue Reached US$236.54 Million Over Nine Months",
       "headlines": [
-        "Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected – XERS Stock On Track To Hit Over 7-Year Highs",
-        "Xeris Biopharma (XERS) Surpasses Q3 Earnings and Revenue Estimates"
+        "nLIGHT Stock After Earnings As Revenue Reached US$236.54 Million Over Nine Months",
+        "nLIGHT (LASR) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 5,
-      "symbol": "ECPG",
-      "price": 122.31,
-      "gap_pct": 22.4,
-      "premarket_volume": 423961,
+      "symbol": "TMDX",
+      "price": 87.62,
+      "gap_pct": 27.02,
+      "premarket_volume": 1806050,
       "is_premarket_data": false,
-      "catalyst": "Encore Capital (ECPG) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Unusual Options Volume Report: 3 Stocks Moving After Earnings",
       "headlines": [
-        "Encore Capital (ECPG) Q3 2026 Earnings Call Transcript",
-        "Encore Capital Group Inc (ECPG) Q3 2026 Earnings Call Highlights: Record Collections, 76% EPS ..."
+        "Unusual Options Volume Report: 3 Stocks Moving After Earnings",
+        "TransMedics Stock Gains Attention After Revenue Guidance Raise"
       ]
     },
     {
       "rank": 6,
-      "symbol": "MGNI",
-      "price": 27.69,
-      "gap_pct": 21.5,
-      "premarket_volume": 6635884,
+      "symbol": "OKLO",
+      "price": 23.87,
+      "gap_pct": 24.32,
+      "premarket_volume": 17784230,
       "is_premarket_data": false,
-      "catalyst": "Magnite: 3 Key Takeaways for Long-Term Investors",
+      "catalyst": "Why Oklo Stock Is Up 21.8% Today",
       "headlines": [
-        "Magnite: 3 Key Takeaways for Long-Term Investors",
-        "Magnite (MGNI) Q3 2026 Earnings Call Transcript"
+        "Why Oklo Stock Is Up 21.8% Today",
+        "Oklo (OKLO) Stock Fair Value Falls As Analysts Cut Targets On Rate And Execution Risks"
       ]
     },
     {
       "rank": 7,
-      "symbol": "EPAM",
-      "price": 164.75,
-      "gap_pct": 19.94,
-      "premarket_volume": 2518754,
+      "symbol": "IREN",
+      "price": 21.63,
+      "gap_pct": 19.97,
+      "premarket_volume": 85618933,
       "is_premarket_data": false,
-      "catalyst": "What Just Happened To CDW Stock?",
+      "catalyst": "Iren stock rebounds as company's Q1 AI cloud revenue surges",
       "headlines": [
-        "What Just Happened To CDW Stock?",
-        "Epam (EPAM) Q3 Earnings and Revenues Surpass Estimates"
+        "Iren stock rebounds as company's Q1 AI cloud revenue surges",
+        "IREN stock soars, driven by massive gains in AI cloud sales"
       ]
     },
     {
       "rank": 8,
-      "symbol": "ARDT",
-      "price": 15.49,
-      "gap_pct": 19.25,
-      "premarket_volume": 1597435,
+      "symbol": "INFQ",
+      "price": 8.88,
+      "gap_pct": 19.42,
+      "premarket_volume": 6058731,
       "is_premarket_data": false,
-      "catalyst": "Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates",
+      "catalyst": "Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32%",
       "headlines": [
-        "Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates",
-        "Ardent Health (ARDT) Stock Looks Like A Bargain As It Gains 43% YTD"
+        "Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32%",
+        "How This Under-the-Radar Quantum Stock Could More Than Double"
       ]
     },
     {
       "rank": 9,
-      "symbol": "SEZL",
-      "price": 159.99,
-      "gap_pct": 17.05,
-      "premarket_volume": 1576432,
+      "symbol": "IONQ",
+      "price": 31.52,
+      "gap_pct": 19.24,
+      "premarket_volume": 25199939,
       "is_premarket_data": false,
-      "catalyst": "Sezzle Has the Sizzle. How the Stock Can Surge Another 61%.",
+      "catalyst": "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
       "headlines": [
-        "Sezzle Has the Sizzle. How the Stock Can Surge Another 61%.",
-        "Sezzle (SEZL) Q3 2026 Earnings Call Transcript"
+        "Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”",
+        "IonQ Beat and Raised. Can the Quantum Stock Buck the Tech Selloff?"
       ]
     },
     {
       "rank": 10,
-      "symbol": "U",
-      "price": 49.12,
-      "gap_pct": 15.7,
-      "premarket_volume": 38897600,
+      "symbol": "LEU",
+      "price": 105.57,
+      "gap_pct": 18.58,
+      "premarket_volume": 910593,
       "is_premarket_data": false,
-      "catalyst": "Unity Software: 3 Key Takeaways for Long-Term Investors",
+      "catalyst": "Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress",
       "headlines": [
-        "Unity Software: 3 Key Takeaways for Long-Term Investors",
-        "Unity Software (U) Q3 2026 Earnings Call Transcript"
+        "Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress",
+        "Molson Coors downgraded, SiTime upgraded: Wall Street's top analyst calls"
       ]
     }
   ]
