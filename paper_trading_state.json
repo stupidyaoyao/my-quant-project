@@ -13,28 +13,24 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 348.9100036621094,
+    "highest_since_entry": 349.510009765625,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
     "in_position": true,
     "entry_price": 493.056402557373,
     "entry_date": "2026-08-04",
-    "highest_since_entry": 543.4500122070312,
+    "highest_since_entry": 555.7999877929688,
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
-    "in_position": true,
-    "entry_price": 156.78836171722412,
-    "entry_date": "2026-08-28",
-    "highest_since_entry": 187.25,
-    "position_fraction": 0.34394261678921206
+    "in_position": false
   },
   "PYPL": {
     "in_position": true,
     "entry_price": 57.03850332069397,
     "entry_date": "2026-10-30",
-    "highest_since_entry": 58.779998779296875,
+    "highest_since_entry": 60.20000076293945,
     "position_fraction": 0.28547310446377633
   },
   "INTC": {
@@ -107,7 +103,11 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 5.452724809169769,
+    "entry_date": "2026-11-04",
+    "highest_since_entry": 5.449999809265137,
+    "position_fraction": 0.10619344515213443
   },
   "RIVN": {
     "in_position": false
@@ -167,11 +167,7 @@
     "in_position": false
   },
   "MU": {
-    "in_position": true,
-    "entry_price": 1065.6425403442381,
-    "entry_date": "2026-09-30",
-    "highest_since_entry": 1065.1099853515625,
-    "position_fraction": 0.17175527846726463
+    "in_position": false
   },
   "IOVA": {
     "in_position": true,
@@ -260,7 +256,7 @@
     "in_position": true,
     "entry_price": 5.342670152664184,
     "entry_date": "2026-10-30",
-    "highest_since_entry": 5.340000152587891,
+    "highest_since_entry": 5.920000076293945,
     "position_fraction": 0.0933858018018018
   },
   "KEEL": {
@@ -414,7 +410,7 @@
     "in_position": true,
     "entry_price": 482.2910127868652,
     "entry_date": "2026-08-05",
-    "highest_since_entry": 482.04998779296875,
+    "highest_since_entry": 488.7799987792969,
     "position_fraction": 0.07740576736882014
   },
   "SHOP": {
@@ -584,11 +580,7 @@
     "in_position": false
   },
   "MRVL": {
-    "in_position": true,
-    "entry_price": 171.49570866394043,
-    "entry_date": "2026-11-02",
-    "highest_since_entry": 171.41000366210938,
-    "position_fraction": 0.059285786031127406
+    "in_position": false
   },
   "CNH": {
     "in_position": true,
