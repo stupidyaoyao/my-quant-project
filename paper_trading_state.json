@@ -24,7 +24,11 @@
     "position_fraction": 0.1832129806105212
   },
   "XOM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 165.9529301147461,
+    "entry_date": "2026-11-06",
+    "highest_since_entry": 165.8699951171875,
+    "position_fraction": 0.21282923254282296
   },
   "PYPL": {
     "in_position": true,
@@ -76,21 +80,13 @@
     "in_position": false
   },
   "BBD": {
-    "in_position": true,
-    "entry_price": 2.731365019083023,
-    "entry_date": "2026-10-28",
-    "highest_since_entry": 2.7300000190734863,
-    "position_fraction": 0.0823950437363473
+    "in_position": false
   },
   "NFLX": {
     "in_position": false
   },
   "SPCX": {
-    "in_position": true,
-    "entry_price": 134.78736122131346,
-    "entry_date": "2026-10-30",
-    "highest_since_entry": 141.30999755859375,
-    "position_fraction": 0.11331895464239927
+    "in_position": false
   },
   "META": {
     "in_position": true,
@@ -407,11 +403,7 @@
     "in_position": false
   },
   "AMD": {
-    "in_position": true,
-    "entry_price": 482.2910127868652,
-    "entry_date": "2026-08-05",
-    "highest_since_entry": 488.7799987792969,
-    "position_fraction": 0.07740576736882014
+    "in_position": false
   },
   "SHOP": {
     "in_position": true,
@@ -812,5 +804,11 @@
     "entry_date": "2026-10-29",
     "highest_since_entry": 19.920000076293945,
     "position_fraction": 0.137953558362838
+  },
+  "DKNG": {
+    "in_position": false
+  },
+  "MCHP": {
+    "in_position": false
   }
 }
