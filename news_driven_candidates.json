@@ -1,48 +1,36 @@
 {
-  "scanned_at": "2026-11-06 18:51:37",
+  "scanned_at": "2026-11-09 21:54:39",
   "news_count": 30,
   "candidates": [
+    {
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
+      "mention_count": 15,
+      "example_headline": "Update: Wall Street Rebounds From Last Week's Sell-Off; Nvidia Tumbles"
+    },
     {
       "symbol": "INTC",
       "company_name": "Intel",
       "mention_count": 6,
-      "example_headline": "Stock market today: Nasdaq, S&P 500 rebound after brutal sell-off as US adds 165K jobs"
+      "example_headline": "Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day"
     },
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 4,
-      "example_headline": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Rout; Nvidia, Intel Lead Chip Rebound (Live Coverage)"
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 2,
+      "example_headline": "Stocks Rally as Tech Rebound Continues and Hopes of a U.S.-Iran Deal Climb"
     },
     {
-      "symbol": "QCOM",
-      "company_name": "Qualcomm",
-      "mention_count": 3,
-      "example_headline": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
-      "mention_count": 3,
-      "example_headline": "Stock market today: Nasdaq, S&P 500 rebound after brutal sell-off as US adds 165K jobs"
-    },
-    {
-      "symbol": "MNST",
-      "company_name": "Monster Beverage",
+      "symbol": "AMZN",
+      "company_name": "Amazon",
       "mention_count": 1,
-      "example_headline": "Monster earnings analysis: questions answered and next catalysts"
+      "example_headline": "One nugget overlooked during the AI sell-off: token costs"
     },
     {
-      "symbol": "AXON",
-      "company_name": "Axon Enterprise",
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
       "mention_count": 1,
-      "example_headline": "Axon Enterprise earnings analysis: questions answered and next catalysts"
-    },
-    {
-      "symbol": "STT",
-      "company_name": "State Street Corporation",
-      "mention_count": 1,
-      "example_headline": "Sector Update: Tech Stocks Rise Friday Afternoon"
+      "example_headline": "One nugget overlooked during the AI sell-off: token costs"
     }
   ]
 }
