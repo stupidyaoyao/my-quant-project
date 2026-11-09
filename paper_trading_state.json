@@ -589,11 +589,7 @@
     "position_fraction": 0.19030350142713381
   },
   "IONQ": {
-    "in_position": true,
-    "entry_price": 36.28813545799255,
-    "entry_date": "2026-10-12",
-    "highest_since_entry": 36.27000045776367,
-    "position_fraction": 0.08404379699472427
+    "in_position": false
   },
   "FRVO": {
     "in_position": false
