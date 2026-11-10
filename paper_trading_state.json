@@ -13,7 +13,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 349.510009765625,
+    "highest_since_entry": 350.69000244140625,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -806,5 +806,15 @@
   },
   "MCHP": {
     "in_position": false
+  },
+  "HIMS": {
+    "in_position": false
+  },
+  "IBRX": {
+    "in_position": true,
+    "entry_price": 7.113555133581161,
+    "entry_date": "2026-11-09",
+    "highest_since_entry": 7.110000133514404,
+    "position_fraction": 0.06450860018814525
   }
 }
