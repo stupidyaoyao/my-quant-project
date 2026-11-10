@@ -1,36 +1,30 @@
 {
-  "scanned_at": "2026-11-09 21:54:39",
+  "scanned_at": "2026-11-10 19:17:10",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 15,
-      "example_headline": "Update: Wall Street Rebounds From Last Week's Sell-Off; Nvidia Tumbles"
+      "mention_count": 3,
+      "example_headline": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019"
     },
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 6,
-      "example_headline": "Intel took 25 years to get back to its dot-com peak — and lost it in 6 months: Chart of the Day"
-    },
-    {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
+      "symbol": "HPE",
+      "company_name": "Hewlett Packard Enterprise",
       "mention_count": 2,
-      "example_headline": "Stocks Rally as Tech Rebound Continues and Hopes of a U.S.-Iran Deal Climb"
+      "example_headline": "4 Undervalued Stocks That Could Benefit from a Wall Street Rally"
     },
     {
-      "symbol": "AMZN",
-      "company_name": "Amazon",
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
       "mention_count": 1,
-      "example_headline": "One nugget overlooked during the AI sell-off: token costs"
+      "example_headline": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy."
     },
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "MO",
+      "company_name": "Altria",
       "mention_count": 1,
-      "example_headline": "One nugget overlooked during the AI sell-off: token costs"
+      "example_headline": "Is Altria's 5.8% Dividend Yield Too Good to Be True Heading Into 2027?"
     }
   ]
 }
