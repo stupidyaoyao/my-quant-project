@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-10 19:36:16",
+  "scanned_at": "2026-11-11 19:29:24",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "AAON",
-      "price": 75.92,
-      "gap_pct": 20.77,
-      "premarket_volume": 3429901,
+      "symbol": "CRWV",
+      "price": 60.55,
+      "gap_pct": 24.27,
+      "premarket_volume": 126893357,
       "is_premarket_data": false,
-      "catalyst": "Can Comfort Systems' Mechanical Margins Offset Electrical Weakness?",
+      "catalyst": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
       "headlines": [
-        "Can Comfort Systems' Mechanical Margins Offset Electrical Weakness?",
-        "AAON Stock Soars: AI Infrastructure Firm Guides High After Huge Beat"
+        "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
+        "CoreWeave surges, but bigger tests loom for the AI trade"
       ]
     },
     {
       "rank": 2,
-      "symbol": "CSQR",
-      "price": 18.04,
-      "gap_pct": 18.19,
-      "premarket_volume": 4502764,
+      "symbol": "AZTA",
+      "price": 49.26,
+      "gap_pct": 21.56,
+      "premarket_volume": 1152915,
       "is_premarket_data": false,
-      "catalyst": "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
+      "catalyst": "What Azenta (AZTA) Said on Its Q4 Earnings Call",
       "headlines": [
-        "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
-        "Csquare (CSQR) Q3 2026 Earnings Call Transcript"
+        "What Azenta (AZTA) Said on Its Q4 Earnings Call",
+        "Azenta (NASDAQ:AZTA) reports upbeat Q3 CY2026, stock jumps 10.3%"
       ]
     },
     {
       "rank": 3,
-      "symbol": "ACAD",
-      "price": 18.18,
-      "gap_pct": 10.18,
-      "premarket_volume": 4311817,
+      "symbol": "AXTI",
+      "price": 47.66,
+      "gap_pct": 21.23,
+      "premarket_volume": 10867471,
       "is_premarket_data": false,
-      "catalyst": "Acadia Pharmaceuticals Fell While Sales Rose",
+      "catalyst": "AXTI's AI Data Center Boom: Can Substrate Demand Sustain Growth?",
       "headlines": [
-        "Acadia Pharmaceuticals Fell While Sales Rose",
-        "Acadia Pharmaceuticals (ACAD) Stock Still Looks Like A Bargain Today"
+        "AXTI's AI Data Center Boom: Can Substrate Demand Sustain Growth?",
+        "AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings"
       ]
     },
     {
       "rank": 4,
-      "symbol": "CHTR",
-      "price": 132.02,
-      "gap_pct": 8.93,
-      "premarket_volume": 2514862,
+      "symbol": "NBIS",
+      "price": 157.07,
+      "gap_pct": 17.22,
+      "premarket_volume": 27219956,
       "is_premarket_data": false,
-      "catalyst": "As tech stumbles, is this telecom’s 6.2% dividend yield a safe haven?",
+      "catalyst": "Nvidia-Backed Nebius Faces Crucial Wall Street Test",
       "headlines": [
-        "As tech stumbles, is this telecom’s 6.2% dividend yield a safe haven?",
-        "These 6 Telecom Stocks Collect Monthly Bills No Matter What the Market Does"
+        "Nvidia-Backed Nebius Faces Crucial Wall Street Test",
+        "Nebius Group Stocks Jump Nearly 17% Ahead of Thursday Results as CoreWeave Lifts AI Clouds"
       ]
     },
     {
       "rank": 5,
-      "symbol": "TTWO",
-      "price": 223.8,
-      "gap_pct": 7.91,
-      "premarket_volume": 6039019,
+      "symbol": "AAOI",
+      "price": 56.44,
+      "gap_pct": 16.79,
+      "premarket_volume": 11197902,
       "is_premarket_data": false,
-      "catalyst": "Earnings live updates: On Holding stock falls as direct-to-consumer business comes under pressure",
+      "catalyst": "Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Climbs 7%",
       "headlines": [
-        "Earnings live updates: On Holding stock falls as direct-to-consumer business comes under pressure",
-        "Take-Two stock rises on 'unprecedented' preorders for 'Grand Theft Auto VI'"
+        "Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Climbs 7%",
+        "ETFs Are Selling Applied Optoelectronics (AAOI) on Nov. 9"
       ]
     },
     {
       "rank": 6,
-      "symbol": "MARA",
-      "price": 7.14,
-      "gap_pct": 7.61,
-      "premarket_volume": 51182831,
+      "symbol": "SNDK",
+      "price": 994.0,
+      "gap_pct": 15.58,
+      "premarket_volume": 12423466,
       "is_premarket_data": false,
-      "catalyst": "MARA Holdings Stocks Jump 10.77% on $500 Million Buyback and Debt Paydown",
+      "catalyst": "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
       "headlines": [
-        "MARA Holdings Stocks Jump 10.77% on $500 Million Buyback and Debt Paydown",
-        "Sen. Warren targets Trump family crypto firms, and miner MARA sold BTC for $1.1 B"
+        "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
+        "Credo Technology Stocks Climb 10.8% as AI Connectivity Names Rally"
       ]
     },
     {
       "rank": 7,
-      "symbol": "PRCH",
-      "price": 22.18,
-      "gap_pct": 7.44,
-      "premarket_volume": 2067711,
+      "symbol": "RUM",
+      "price": 5.89,
+      "gap_pct": 15.36,
+      "premarket_volume": 6895496,
       "is_premarket_data": false,
-      "catalyst": "Porch Group Stock Earnings Beat Raises Guidance After Insurance Growth",
+      "catalyst": "What Rumble (RUM) Said on Its Q3 Earnings Call",
       "headlines": [
-        "Porch Group Stock Earnings Beat Raises Guidance After Insurance Growth",
-        "Porch Group, Inc. Q3 2026 Earnings Call Summary"
+        "What Rumble (RUM) Said on Its Q3 Earnings Call",
+        "RUM Group Inc. (RUM) Reports Q3 Loss, Beats Revenue Estimates"
       ]
     },
     {
       "rank": 8,
-      "symbol": "ZETA",
-      "price": 34.83,
-      "gap_pct": 7.43,
-      "premarket_volume": 8185833,
+      "symbol": "REZI",
+      "price": 22.43,
+      "gap_pct": 15.35,
+      "premarket_volume": 5734153,
       "is_premarket_data": false,
-      "catalyst": "Zeta Global (ZETA) Q3 earnings report preview: what to look for",
+      "catalyst": "Resideo: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "Zeta Global (ZETA) Q3 earnings report preview: what to look for",
-        "ZETA Q3 Earnings Call Highlights AI Growth and Higher Outlook"
+        "Resideo: 3 Key Takeaways for Long-Term Investors",
+        "Resideo (REZI) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 9,
-      "symbol": "EMBJ",
-      "price": 82.57,
-      "gap_pct": 7.14,
-      "premarket_volume": 2769383,
+      "symbol": "BE",
+      "price": 212.28,
+      "gap_pct": 14.49,
+      "premarket_volume": 14404205,
       "is_premarket_data": false,
-      "catalyst": "Embraer SA (EMBJ) (Q3 2026) Earnings Call Highlights: Record $35. ...",
+      "catalyst": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
       "headlines": [
-        "Embraer SA (EMBJ) (Q3 2026) Earnings Call Highlights: Record $35. ...",
-        "Embraer Stocks Rise 5.51% as Record $35.7 Billion Backlog Comes With Higher Guidance"
+        "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
+        "Here's Why Bloom Energy Stock Popped Today"
       ]
     },
     {
       "rank": 10,
-      "symbol": "MRCY",
-      "price": 84.96,
-      "gap_pct": 6.71,
-      "premarket_volume": 525401,
+      "symbol": "DELL",
+      "price": 378.75,
+      "gap_pct": 13.27,
+      "premarket_volume": 6639005,
       "is_premarket_data": false,
-      "catalyst": "Defense Sector Concerns Weigh on Mercury Systems (MRCY) Shares",
+      "catalyst": "Dell Stocks Jump 11.42% as CoreWeave's Bigger Spending Plan Revives AI Server Bets",
       "headlines": [
-        "Defense Sector Concerns Weigh on Mercury Systems (MRCY) Shares",
-        "Embraer to Report Q3 Results: What's in Store for the Stock?"
+        "Dell Stocks Jump 11.42% as CoreWeave's Bigger Spending Plan Revives AI Server Bets",
+        "Why Is Dell Technologies (DELL) Talking Up 157 PB Storage And AI Racks?"
       ]
     }
   ]
