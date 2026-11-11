@@ -649,11 +649,7 @@
     "position_fraction": 0.15891083784207832
   },
   "JHX": {
-    "in_position": true,
-    "entry_price": 25.922954847335813,
-    "entry_date": "2026-09-17",
-    "highest_since_entry": 25.90999984741211,
-    "position_fraction": 0.15591655219709838
+    "in_position": false
   },
   "P": {
     "in_position": true,
@@ -816,5 +812,8 @@
     "entry_date": "2026-11-09",
     "highest_since_entry": 7.110000133514404,
     "position_fraction": 0.06450860018814525
+  },
+  "FOXA": {
+    "in_position": false
   }
 }
