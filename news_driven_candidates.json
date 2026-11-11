@@ -1,30 +1,66 @@
 {
-  "scanned_at": "2026-11-10 19:17:10",
+  "scanned_at": "2026-11-11 19:13:34",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
+      "mention_count": 8,
+      "example_headline": "Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings"
+    },
+    {
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 8,
+      "example_headline": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 5,
+      "example_headline": "Stock Market Today: Nasdaq Soars On AI Rally, But This Major Tech Icon Gets Left Out (Live Coverage)"
+    },
+    {
+      "symbol": "NDAQ",
+      "company_name": "Nasdaq, Inc.",
       "mention_count": 3,
-      "example_headline": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019"
+      "example_headline": "Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings"
     },
     {
-      "symbol": "HPE",
-      "company_name": "Hewlett Packard Enterprise",
+      "symbol": "ADBE",
+      "company_name": "Adobe Inc.",
       "mention_count": 2,
-      "example_headline": "4 Undervalued Stocks That Could Benefit from a Wall Street Rally"
+      "example_headline": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next"
     },
     {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 1,
-      "example_headline": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy."
+      "symbol": "QCOM",
+      "company_name": "Qualcomm",
+      "mention_count": 2,
+      "example_headline": "Here’s Why Barclays’ Tom O’Malley Kept a Sell on Qualcomm (QCOM)"
     },
     {
-      "symbol": "MO",
-      "company_name": "Altria",
+      "symbol": "MCHP",
+      "company_name": "Microchip Technology",
+      "mention_count": 2,
+      "example_headline": "Here’s Why Truist and Evercore Slashed Their Price Targets on Microchip (MCHP)"
+    },
+    {
+      "symbol": "BE",
+      "company_name": "Bloom Energy",
       "mention_count": 1,
-      "example_headline": "Is Altria's 5.8% Dividend Yield Too Good to Be True Heading Into 2027?"
+      "example_headline": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks"
+    },
+    {
+      "symbol": "TEL",
+      "company_name": "TE Connectivity",
+      "mention_count": 1,
+      "example_headline": "Is TE Connectivity’s Buyback Still Lifting Earnings Per Share?"
+    },
+    {
+      "symbol": "COIN",
+      "company_name": "Coinbase",
+      "mention_count": 1,
+      "example_headline": "OKXICE targets Nov. 23 launch for tokenized securities trading"
     }
   ]
 }
