@@ -1,134 +1,133 @@
 {
-  "scanned_at": "2026-11-11 19:29:24",
+  "scanned_at": "2026-11-12 19:47:32",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "CRWV",
-      "price": 60.55,
-      "gap_pct": 24.27,
-      "premarket_volume": 126893357,
+      "symbol": "PLBL",
+      "price": 7.11,
+      "gap_pct": 25.95,
+      "premarket_volume": 1021818,
       "is_premarket_data": false,
-      "catalyst": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
+      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
       "headlines": [
-        "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
-        "CoreWeave surges, but bigger tests loom for the AI trade"
+        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
       ]
     },
     {
       "rank": 2,
-      "symbol": "AZTA",
-      "price": 49.26,
-      "gap_pct": 21.56,
-      "premarket_volume": 1152915,
+      "symbol": "MBGL",
+      "price": 22.94,
+      "gap_pct": 15.16,
+      "premarket_volume": 4870117,
       "is_premarket_data": false,
-      "catalyst": "What Azenta (AZTA) Said on Its Q4 Earnings Call",
+      "catalyst": "Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million",
       "headlines": [
-        "What Azenta (AZTA) Said on Its Q4 Earnings Call",
-        "Azenta (NASDAQ:AZTA) reports upbeat Q3 CY2026, stock jumps 10.3%"
+        "Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million",
+        "Mobility Global shares rise 3% on raised profit guidance"
       ]
     },
     {
       "rank": 3,
-      "symbol": "AXTI",
-      "price": 47.66,
-      "gap_pct": 21.23,
-      "premarket_volume": 10867471,
+      "symbol": "LUNR",
+      "price": 13.49,
+      "gap_pct": 10.76,
+      "premarket_volume": 23038964,
       "is_premarket_data": false,
-      "catalyst": "AXTI's AI Data Center Boom: Can Substrate Demand Sustain Growth?",
+      "catalyst": "LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B",
       "headlines": [
-        "AXTI's AI Data Center Boom: Can Substrate Demand Sustain Growth?",
-        "AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings"
+        "LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B",
+        "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3%, Rocket Lab Slips 2%"
       ]
     },
     {
       "rank": 4,
-      "symbol": "NBIS",
-      "price": 157.07,
-      "gap_pct": 17.22,
-      "premarket_volume": 27219956,
+      "symbol": "CHA",
+      "price": 13.45,
+      "gap_pct": 9.08,
+      "premarket_volume": 2169081,
       "is_premarket_data": false,
-      "catalyst": "Nvidia-Backed Nebius Faces Crucial Wall Street Test",
+      "catalyst": "Can Keurig Dr Pepper's Planned 2027 Split Drive Long-Term Value?",
       "headlines": [
-        "Nvidia-Backed Nebius Faces Crucial Wall Street Test",
-        "Nebius Group Stocks Jump Nearly 17% Ahead of Thursday Results as CoreWeave Lifts AI Clouds"
+        "Can Keurig Dr Pepper's Planned 2027 Split Drive Long-Term Value?",
+        "Can Primo Brands' Purified Water Sales Accelerate Further?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "AAOI",
-      "price": 56.44,
-      "gap_pct": 16.79,
-      "premarket_volume": 11197902,
+      "symbol": "FIGR",
+      "price": 26.04,
+      "gap_pct": 7.65,
+      "premarket_volume": 8284867,
       "is_premarket_data": false,
-      "catalyst": "Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Climbs 7%",
+      "catalyst": "Figure Technology Solutions Q3 Earnings Call Highlights",
       "headlines": [
-        "Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Climbs 7%",
-        "ETFs Are Selling Applied Optoelectronics (AAOI) on Nov. 9"
+        "Figure Technology Solutions Q3 Earnings Call Highlights",
+        "Figure Technology (FIGR) Tops Q3 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 6,
-      "symbol": "SNDK",
-      "price": 994.0,
-      "gap_pct": 15.58,
-      "premarket_volume": 12423466,
+      "symbol": "HUBS",
+      "price": 217.87,
+      "gap_pct": 7.39,
+      "premarket_volume": 1476807,
       "is_premarket_data": false,
-      "catalyst": "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
+      "catalyst": "HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul",
       "headlines": [
-        "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
-        "Credo Technology Stocks Climb 10.8% as AI Connectivity Names Rally"
+        "HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul",
+        "The Man Behind MrBeast Burgers"
       ]
     },
     {
       "rank": 7,
-      "symbol": "RUM",
-      "price": 5.89,
-      "gap_pct": 15.36,
-      "premarket_volume": 6895496,
+      "symbol": "DPC",
+      "price": 33.93,
+      "gap_pct": 7.1,
+      "premarket_volume": 1793794,
       "is_premarket_data": false,
-      "catalyst": "What Rumble (RUM) Said on Its Q3 Earnings Call",
+      "catalyst": "DPC Holdings (DPC) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "What Rumble (RUM) Said on Its Q3 Earnings Call",
-        "RUM Group Inc. (RUM) Reports Q3 Loss, Beats Revenue Estimates"
+        "DPC Holdings (DPC) Q3 2026 Earnings Call Transcript",
+        "DPC Holdings (DPC) Stock Sees Modest Fair Value Cut As Analysts Weigh Competition"
       ]
     },
     {
       "rank": 8,
-      "symbol": "REZI",
-      "price": 22.43,
-      "gap_pct": 15.35,
-      "premarket_volume": 5734153,
+      "symbol": "BLTE",
+      "price": 165.8,
+      "gap_pct": 6.32,
+      "premarket_volume": 349965,
       "is_premarket_data": false,
-      "catalyst": "Resideo: 3 Key Takeaways for Long-Term Investors",
+      "catalyst": "Belite Bio (BLTE) Stock May Trade Above Fair Value On Book Value",
       "headlines": [
-        "Resideo: 3 Key Takeaways for Long-Term Investors",
-        "Resideo (REZI) Q3 2026 Earnings Call Transcript"
+        "Belite Bio (BLTE) Stock May Trade Above Fair Value On Book Value",
+        "Belite Bio Stock In Focus After Stargardt Drug Filings In Three Markets"
       ]
     },
     {
       "rank": 9,
-      "symbol": "BE",
-      "price": 212.28,
-      "gap_pct": 14.49,
-      "premarket_volume": 14404205,
+      "symbol": "CDLR",
+      "price": 6.98,
+      "gap_pct": 6.08,
+      "premarket_volume": 206985,
       "is_premarket_data": false,
-      "catalyst": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
+      "catalyst": "Cadeler (OB:CDLR) Wins Dogger Bank C Work, Is It Still Below Fair Value?",
       "headlines": [
-        "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
-        "Here's Why Bloom Energy Stock Popped Today"
+        "Cadeler (OB:CDLR) Wins Dogger Bank C Work, Is It Still Below Fair Value?",
+        "Cadeler wins contract for 1.2GW Dogger Bank C offshore turbine installation"
       ]
     },
     {
       "rank": 10,
-      "symbol": "DELL",
-      "price": 378.75,
-      "gap_pct": 13.27,
-      "premarket_volume": 6639005,
+      "symbol": "LMND",
+      "price": 43.09,
+      "gap_pct": 5.98,
+      "premarket_volume": 1065152,
       "is_premarket_data": false,
-      "catalyst": "Dell Stocks Jump 11.42% as CoreWeave's Bigger Spending Plan Revives AI Server Bets",
+      "catalyst": "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
       "headlines": [
-        "Dell Stocks Jump 11.42% as CoreWeave's Bigger Spending Plan Revives AI Server Bets",
-        "Why Is Dell Technologies (DELL) Talking Up 157 PB Storage And AI Racks?"
+        "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
+        "Lemonade (LMND) Stock Could Be Fully Priced Despite Strong Q3 Revenue"
       ]
     }
   ]
