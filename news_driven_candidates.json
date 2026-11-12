@@ -1,66 +1,30 @@
 {
-  "scanned_at": "2026-11-11 19:13:34",
+  "scanned_at": "2026-11-12 19:30:45",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 8,
-      "example_headline": "Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings"
+      "mention_count": 19,
+      "example_headline": "Stock market today: S&P 500, Nasdaq fall as Nvidia CEO exit, rising bond yields roil markets"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 8,
-      "example_headline": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next"
-    },
-    {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 5,
-      "example_headline": "Stock Market Today: Nasdaq Soars On AI Rally, But This Major Tech Icon Gets Left Out (Live Coverage)"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
+      "symbol": "TXN",
+      "company_name": "Texas Instruments",
       "mention_count": 3,
-      "example_headline": "Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings"
+      "example_headline": "Stock Market Today: Dow Higher As Nvidia's Chief Exits; Texas Instruments Eyes Entry (Live Coverage)"
     },
     {
-      "symbol": "ADBE",
-      "company_name": "Adobe Inc.",
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
       "mention_count": 2,
-      "example_headline": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next"
+      "example_headline": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher"
     },
     {
-      "symbol": "QCOM",
-      "company_name": "Qualcomm",
-      "mention_count": 2,
-      "example_headline": "Here’s Why Barclays’ Tom O’Malley Kept a Sell on Qualcomm (QCOM)"
-    },
-    {
-      "symbol": "MCHP",
-      "company_name": "Microchip Technology",
-      "mention_count": 2,
-      "example_headline": "Here’s Why Truist and Evercore Slashed Their Price Targets on Microchip (MCHP)"
-    },
-    {
-      "symbol": "BE",
-      "company_name": "Bloom Energy",
+      "symbol": "CVS",
+      "company_name": "CVS Health",
       "mention_count": 1,
-      "example_headline": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks"
-    },
-    {
-      "symbol": "TEL",
-      "company_name": "TE Connectivity",
-      "mention_count": 1,
-      "example_headline": "Is TE Connectivity’s Buyback Still Lifting Earnings Per Share?"
-    },
-    {
-      "symbol": "COIN",
-      "company_name": "Coinbase",
-      "mention_count": 1,
-      "example_headline": "OKXICE targets Nov. 23 launch for tokenized securities trading"
+      "example_headline": "What Could Go Wrong At CVS Health From Here?"
     }
   ]
 }
