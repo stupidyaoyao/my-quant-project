@@ -1,30 +1,54 @@
 {
-  "scanned_at": "2026-11-12 19:30:45",
+  "scanned_at": "2026-11-13 19:10:54",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 19,
-      "example_headline": "Stock market today: S&P 500, Nasdaq fall as Nvidia CEO exit, rising bond yields roil markets"
+      "mention_count": 12,
+      "example_headline": "Update: Equities Fall Intraday as Nvidia Declines"
     },
     {
-      "symbol": "TXN",
-      "company_name": "Texas Instruments",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Dow Higher As Nvidia's Chief Exits; Texas Instruments Eyes Entry (Live Coverage)"
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
+      "mention_count": 2,
+      "example_headline": "Goldman Sachs sees upside for S&P 500 in 2027 — even as earnings growth slows"
     },
     {
       "symbol": "AMD",
       "company_name": "Advanced Micro Devices",
       "mention_count": 2,
-      "example_headline": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher"
+      "example_headline": "Why Advanced Micro Devices Stock Is Down Today"
     },
     {
-      "symbol": "CVS",
-      "company_name": "CVS Health",
+      "symbol": "SNDK",
+      "company_name": "Sandisk",
+      "mention_count": 2,
+      "example_headline": "Why Sandisk Stock Is Falling Today"
+    },
+    {
+      "symbol": "AMAT",
+      "company_name": "Applied Materials",
+      "mention_count": 2,
+      "example_headline": "Stock Market Today: Nasdaq In Red As Nvidia Wipes Out $650 Billion; Applied Materials Sinks (Live Coverage)"
+    },
+    {
+      "symbol": "ADI",
+      "company_name": "Analog Devices",
       "mention_count": 1,
-      "example_headline": "What Could Go Wrong At CVS Health From Here?"
+      "example_headline": "Why ADI Global Distribution Stock Plunged This Week"
+    },
+    {
+      "symbol": "RDDT",
+      "company_name": "Reddit",
+      "mention_count": 1,
+      "example_headline": "Should You Wait Before Buying Reddit Stock?"
+    },
+    {
+      "symbol": "INTU",
+      "company_name": "Intuit",
+      "mention_count": 1,
+      "example_headline": "AST SpaceMobile Sinks 6%, Rocket Lab Down 5% as Space Stocks Give Back a Stellar Week"
     }
   ]
 }
