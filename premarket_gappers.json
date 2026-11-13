@@ -1,133 +1,134 @@
 {
-  "scanned_at": "2026-11-12 19:47:32",
+  "scanned_at": "2026-11-13 19:30:35",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "PLBL",
-      "price": 7.11,
-      "gap_pct": 25.95,
-      "premarket_volume": 1021818,
+      "symbol": "MOD",
+      "price": 136.97,
+      "gap_pct": 29.1,
+      "premarket_volume": 6764725,
       "is_premarket_data": false,
-      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
+      "catalyst": "Options Bulls Target 2 Rallying AI Infrastructure Stocks",
       "headlines": [
-        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
+        "Options Bulls Target 2 Rallying AI Infrastructure Stocks",
+        "Samsung Wants to Buy an American AI Data Center Cooling Company"
       ]
     },
     {
       "rank": 2,
-      "symbol": "MBGL",
-      "price": 22.94,
-      "gap_pct": 15.16,
-      "premarket_volume": 4870117,
+      "symbol": "LFTO",
+      "price": 23.34,
+      "gap_pct": 24.77,
+      "premarket_volume": 6768952,
       "is_premarket_data": false,
-      "catalyst": "Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million",
+      "catalyst": "This AI Advertising Stock Is Having Its Best Day Ever. Analysts Say Price Could Double.",
       "headlines": [
-        "Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million",
-        "Mobility Global shares rise 3% on raised profit guidance"
+        "This AI Advertising Stock Is Having Its Best Day Ever. Analysts Say Price Could Double.",
+        "Liftoff Mobile shares surge 25% as AI advertising growth drives earnings beat"
       ]
     },
     {
       "rank": 3,
-      "symbol": "LUNR",
-      "price": 13.49,
-      "gap_pct": 10.76,
-      "premarket_volume": 23038964,
+      "symbol": "STN",
+      "price": 85.27,
+      "gap_pct": 13.5,
+      "premarket_volume": 668131,
       "is_premarket_data": false,
-      "catalyst": "LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B",
+      "catalyst": "Stantec Q3 Earnings Call Highlights",
       "headlines": [
-        "LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B",
-        "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3%, Rocket Lab Slips 2%"
+        "Stantec Q3 Earnings Call Highlights",
+        "Stantec (STN) Tops Q3 Earnings and Revenue Estimates"
       ]
     },
     {
       "rank": 4,
-      "symbol": "CHA",
-      "price": 13.45,
-      "gap_pct": 9.08,
-      "premarket_volume": 2169081,
+      "symbol": "CBRS",
+      "price": 110.31,
+      "gap_pct": 12.85,
+      "premarket_volume": 30060065,
       "is_premarket_data": false,
-      "catalyst": "Can Keurig Dr Pepper's Planned 2027 Split Drive Long-Term Value?",
+      "catalyst": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
       "headlines": [
-        "Can Keurig Dr Pepper's Planned 2027 Split Drive Long-Term Value?",
-        "Can Primo Brands' Purified Water Sales Accelerate Further?"
+        "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
+        "Cerebras Stocks Jump 11.70% After Raising Outlook and Confirming Microsoft Cloud Deal"
       ]
     },
     {
       "rank": 5,
-      "symbol": "FIGR",
-      "price": 26.04,
-      "gap_pct": 7.65,
-      "premarket_volume": 8284867,
+      "symbol": "NU",
+      "price": 13.03,
+      "gap_pct": 10.1,
+      "premarket_volume": 117814512,
       "is_premarket_data": false,
-      "catalyst": "Figure Technology Solutions Q3 Earnings Call Highlights",
+      "catalyst": "Nu Holdings Stocks Jump 7.72% After Record $1.1 Billion Quarterly Profit",
       "headlines": [
-        "Figure Technology Solutions Q3 Earnings Call Highlights",
-        "Figure Technology (FIGR) Tops Q3 Earnings and Revenue Estimates"
+        "Nu Holdings Stocks Jump 7.72% After Record $1.1 Billion Quarterly Profit",
+        "Nu Holdings Soars 11% on Record $1.1 Billion Profit as It Takes “First Steps Beyond Latin America”"
       ]
     },
     {
       "rank": 6,
-      "symbol": "HUBS",
-      "price": 217.87,
-      "gap_pct": 7.39,
-      "premarket_volume": 1476807,
+      "symbol": "STVN",
+      "price": 15.63,
+      "gap_pct": 8.88,
+      "premarket_volume": 1019800,
       "is_premarket_data": false,
-      "catalyst": "HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul",
+      "catalyst": "Broader Biologics Growth Strengthens Stevanato’s (STVN) Long-Term Outlook",
       "headlines": [
-        "HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul",
-        "The Man Behind MrBeast Burgers"
+        "Broader Biologics Growth Strengthens Stevanato’s (STVN) Long-Term Outlook",
+        "UBS turns cautious on Schott Pharma as glass syringe demand risks mount"
       ]
     },
     {
       "rank": 7,
-      "symbol": "DPC",
-      "price": 33.93,
-      "gap_pct": 7.1,
-      "premarket_volume": 1793794,
+      "symbol": "CLBT",
+      "price": 11.77,
+      "gap_pct": 8.08,
+      "premarket_volume": 2700374,
       "is_premarket_data": false,
-      "catalyst": "DPC Holdings (DPC) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Cellebrite (CLBT) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "DPC Holdings (DPC) Q3 2026 Earnings Call Transcript",
-        "DPC Holdings (DPC) Stock Sees Modest Fair Value Cut As Analysts Weigh Competition"
+        "Cellebrite (CLBT) Q3 2026 Earnings Call Transcript",
+        "Cellebrite DI Q3 Earnings Call Highlights"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BLTE",
-      "price": 165.8,
-      "gap_pct": 6.32,
-      "premarket_volume": 349965,
+      "symbol": "WWW",
+      "price": 24.62,
+      "gap_pct": 7.65,
+      "premarket_volume": 1479973,
       "is_premarket_data": false,
-      "catalyst": "Belite Bio (BLTE) Stock May Trade Above Fair Value On Book Value",
+      "catalyst": "Wolverine World Wide Q3 Earnings Call Highlights",
       "headlines": [
-        "Belite Bio (BLTE) Stock May Trade Above Fair Value On Book Value",
-        "Belite Bio Stock In Focus After Stargardt Drug Filings In Three Markets"
+        "Wolverine World Wide Q3 Earnings Call Highlights",
+        "Wolverine Q3 Earnings Beat on Saucony Growth, 2026 Outlook Raised"
       ]
     },
     {
       "rank": 9,
-      "symbol": "CDLR",
-      "price": 6.98,
-      "gap_pct": 6.08,
-      "premarket_volume": 206985,
+      "symbol": "ALM",
+      "price": 8.19,
+      "gap_pct": 7.34,
+      "premarket_volume": 4276575,
       "is_premarket_data": false,
-      "catalyst": "Cadeler (OB:CDLR) Wins Dogger Bank C Work, Is It Still Below Fair Value?",
+      "catalyst": "Almonty Industries Inc. (ALM) Misses Q3 Earnings and Revenue Estimates",
       "headlines": [
-        "Cadeler (OB:CDLR) Wins Dogger Bank C Work, Is It Still Below Fair Value?",
-        "Cadeler wins contract for 1.2GW Dogger Bank C offshore turbine installation"
+        "Almonty Industries Inc. (ALM) Misses Q3 Earnings and Revenue Estimates",
+        "Integra Resources Corp. (ITRG) Q3 Earnings Meet Estimates"
       ]
     },
     {
       "rank": 10,
-      "symbol": "LMND",
-      "price": 43.09,
-      "gap_pct": 5.98,
-      "premarket_volume": 1065152,
+      "symbol": "KLAR",
+      "price": 13.6,
+      "gap_pct": 7.0,
+      "premarket_volume": 6847103,
       "is_premarket_data": false,
-      "catalyst": "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
+      "catalyst": "The challenges facing Klarna’s new CFO",
       "headlines": [
-        "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
-        "Lemonade (LMND) Stock Could Be Fully Priced Despite Strong Q3 Revenue"
+        "The challenges facing Klarna’s new CFO",
+        "Nayax (NYAX) Surpasses Q3 Earnings Estimates"
       ]
     }
   ]
