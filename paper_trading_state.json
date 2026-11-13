@@ -357,11 +357,7 @@
     "position_fraction": 0.06559243884186065
   },
   "ABEV": {
-    "in_position": true,
-    "entry_price": 3.2516249999999998,
-    "entry_date": "2026-10-05",
-    "highest_since_entry": 3.299999952316284,
-    "position_fraction": 0.250987796454415
+    "in_position": false
   },
   "RBLX": {
     "in_position": true,
@@ -815,5 +811,12 @@
   },
   "FOXA": {
     "in_position": false
+  },
+  "KDP": {
+    "in_position": true,
+    "entry_price": 38.269124999999995,
+    "entry_date": "2026-11-11",
+    "highest_since_entry": 38.25,
+    "position_fraction": 0.21755022567381344
   }
 }
