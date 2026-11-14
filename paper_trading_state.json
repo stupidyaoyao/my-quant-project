@@ -13,7 +13,7 @@
     "in_position": true,
     "entry_price": 319.85986221313476,
     "entry_date": "2026-08-28",
-    "highest_since_entry": 355.6300048828125,
+    "highest_since_entry": 356.2699890136719,
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
@@ -27,7 +27,7 @@
     "in_position": true,
     "entry_price": 165.9529301147461,
     "entry_date": "2026-11-06",
-    "highest_since_entry": 166.7100067138672,
+    "highest_since_entry": 170.58999633789062,
     "position_fraction": 0.21282923254282296
   },
   "PYPL": {
@@ -818,5 +818,8 @@
     "entry_date": "2026-11-11",
     "highest_since_entry": 38.25,
     "position_fraction": 0.21755022567381344
+  },
+  "CBRS": {
+    "in_position": false
   }
 }
