@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-13 19:30:35",
+  "scanned_at": "2026-11-16 21:54:17",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "MOD",
-      "price": 136.97,
-      "gap_pct": 29.1,
-      "premarket_volume": 6764725,
+      "symbol": "CGON",
+      "price": 84.78,
+      "gap_pct": 13.95,
+      "premarket_volume": 9851612,
       "is_premarket_data": false,
-      "catalyst": "Options Bulls Target 2 Rallying AI Infrastructure Stocks",
+      "catalyst": "CG Oncology Exceeds Even The 'Most Bullish Conversations;' Shares Break Out",
       "headlines": [
-        "Options Bulls Target 2 Rallying AI Infrastructure Stocks",
-        "Samsung Wants to Buy an American AI Data Center Cooling Company"
+        "CG Oncology Exceeds Even The 'Most Bullish Conversations;' Shares Break Out",
+        "2 Cancer-Drug Developers Seeing Unusual Options Volume"
       ]
     },
     {
       "rank": 2,
-      "symbol": "LFTO",
-      "price": 23.34,
-      "gap_pct": 24.77,
-      "premarket_volume": 6768952,
+      "symbol": "TU",
+      "price": 9.57,
+      "gap_pct": 12.19,
+      "premarket_volume": 46329180,
       "is_premarket_data": false,
-      "catalyst": "This AI Advertising Stock Is Having Its Best Day Ever. Analysts Say Price Could Double.",
+      "catalyst": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
       "headlines": [
-        "This AI Advertising Stock Is Having Its Best Day Ever. Analysts Say Price Could Double.",
-        "Liftoff Mobile shares surge 25% as AI advertising growth drives earnings beat"
+        "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+        "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal"
       ]
     },
     {
       "rank": 3,
-      "symbol": "STN",
-      "price": 85.27,
-      "gap_pct": 13.5,
-      "premarket_volume": 668131,
+      "symbol": "MOH",
+      "price": 233.09,
+      "gap_pct": 11.27,
+      "premarket_volume": 1773379,
       "is_premarket_data": false,
-      "catalyst": "Stantec Q3 Earnings Call Highlights",
+      "catalyst": "Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher",
       "headlines": [
-        "Stantec Q3 Earnings Call Highlights",
-        "Stantec (STN) Tops Q3 Earnings and Revenue Estimates"
+        "Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher",
+        "Can Medicaid Rate Improvements Drive Elevance's 2027 Margin Recovery?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "CBRS",
-      "price": 110.31,
-      "gap_pct": 12.85,
-      "premarket_volume": 30060065,
+      "symbol": "HTHT",
+      "price": 54.88,
+      "gap_pct": 8.91,
+      "premarket_volume": 3515724,
       "is_premarket_data": false,
-      "catalyst": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
+      "catalyst": "H World Group: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
-        "Cerebras Stocks Jump 11.70% After Raising Outlook and Confirming Microsoft Cloud Deal"
+        "H World Group: 3 Key Takeaways for Long-Term Investors",
+        "H World Group (HTHT) Q3 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 5,
-      "symbol": "NU",
-      "price": 13.03,
-      "gap_pct": 10.1,
-      "premarket_volume": 117814512,
+      "symbol": "TSN",
+      "price": 63.95,
+      "gap_pct": 8.72,
+      "premarket_volume": 8344582,
       "is_premarket_data": false,
-      "catalyst": "Nu Holdings Stocks Jump 7.72% After Record $1.1 Billion Quarterly Profit",
+      "catalyst": "Tyson Q4 earnings: Beef business could return to profit in 2027",
       "headlines": [
-        "Nu Holdings Stocks Jump 7.72% After Record $1.1 Billion Quarterly Profit",
-        "Nu Holdings Soars 11% on Record $1.1 Billion Profit as It Takes “First Steps Beyond Latin America”"
+        "Tyson Q4 earnings: Beef business could return to profit in 2027",
+        "US Equity Markets End Lower Amid Sell-Off in Mega-Cap Chipmakers After Commerce Department's Planned Restrictions"
       ]
     },
     {
       "rank": 6,
-      "symbol": "STVN",
-      "price": 15.63,
-      "gap_pct": 8.88,
-      "premarket_volume": 1019800,
+      "symbol": "HUBS",
+      "price": 231.98,
+      "gap_pct": 6.78,
+      "premarket_volume": 2221320,
       "is_premarket_data": false,
-      "catalyst": "Broader Biologics Growth Strengthens Stevanato’s (STVN) Long-Term Outlook",
+      "catalyst": "CEO Halligan Backs His HubSpot Turnaround With $5 Million of Stock",
       "headlines": [
-        "Broader Biologics Growth Strengthens Stevanato’s (STVN) Long-Term Outlook",
-        "UBS turns cautious on Schott Pharma as glass syringe demand risks mount"
+        "CEO Halligan Backs His HubSpot Turnaround With $5 Million of Stock",
+        "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
       ]
     },
     {
       "rank": 7,
-      "symbol": "CLBT",
-      "price": 11.77,
-      "gap_pct": 8.08,
-      "premarket_volume": 2700374,
+      "symbol": "POWL",
+      "price": 151.2,
+      "gap_pct": 5.94,
+      "premarket_volume": 2363587,
       "is_premarket_data": false,
-      "catalyst": "Cellebrite (CLBT) Q3 2026 Earnings Call Transcript",
+      "catalyst": "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
       "headlines": [
-        "Cellebrite (CLBT) Q3 2026 Earnings Call Transcript",
-        "Cellebrite DI Q3 Earnings Call Highlights"
+        "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
+        "3 US AI Infrastructure Stocks Backing The Data Center Power Buildout"
       ]
     },
     {
       "rank": 8,
-      "symbol": "WWW",
-      "price": 24.62,
-      "gap_pct": 7.65,
-      "premarket_volume": 1479973,
+      "symbol": "BILL",
+      "price": 57.63,
+      "gap_pct": 5.78,
+      "premarket_volume": 2626662,
       "is_premarket_data": false,
-      "catalyst": "Wolverine World Wide Q3 Earnings Call Highlights",
+      "catalyst": "William Blair upgrades Bill Holdings on margin and monetization tailwinds",
       "headlines": [
-        "Wolverine World Wide Q3 Earnings Call Highlights",
-        "Wolverine Q3 Earnings Beat on Saucony Growth, 2026 Outlook Raised"
+        "William Blair upgrades Bill Holdings on margin and monetization tailwinds",
+        "BILL Bets on Bigger Customers and AI After Deep Job Cuts, Sees Growth Rebound"
       ]
     },
     {
       "rank": 9,
-      "symbol": "ALM",
-      "price": 8.19,
-      "gap_pct": 7.34,
-      "premarket_volume": 4276575,
+      "symbol": "QLYS",
+      "price": 182.01,
+      "gap_pct": 5.24,
+      "premarket_volume": 976023,
       "is_premarket_data": false,
-      "catalyst": "Almonty Industries Inc. (ALM) Misses Q3 Earnings and Revenue Estimates",
+      "catalyst": "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
       "headlines": [
-        "Almonty Industries Inc. (ALM) Misses Q3 Earnings and Revenue Estimates",
-        "Integra Resources Corp. (ITRG) Q3 Earnings Meet Estimates"
+        "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
+        "Qualys Inc (QLYS) Q3 2026 Earnings Call Highlights: Double-Digit Revenue Growth, Record Federal ..."
       ]
     },
     {
       "rank": 10,
-      "symbol": "KLAR",
-      "price": 13.6,
-      "gap_pct": 7.0,
-      "premarket_volume": 6847103,
+      "symbol": "HNGE",
+      "price": 121.29,
+      "gap_pct": 5.11,
+      "premarket_volume": 2072139,
       "is_premarket_data": false,
-      "catalyst": "The challenges facing Klarna’s new CFO",
+      "catalyst": "Add These 4 Top-Performing Liquid Stocks to Maximize Returns",
       "headlines": [
-        "The challenges facing Klarna’s new CFO",
-        "Nayax (NYAX) Surpasses Q3 Earnings Estimates"
+        "Add These 4 Top-Performing Liquid Stocks to Maximize Returns",
+        "Bull of the Day: Hinge Health, Inc. (HNGE)"
       ]
     }
   ]
