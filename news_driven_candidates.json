@@ -1,54 +1,30 @@
 {
-  "scanned_at": "2026-11-13 19:10:54",
+  "scanned_at": "2026-11-16 21:37:19",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 12,
-      "example_headline": "Update: Equities Fall Intraday as Nvidia Declines"
+      "mention_count": 13,
+      "example_headline": "The S&P 500's shot at 4 straight double-digit years is in Nvidia's hands"
     },
     {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 2,
-      "example_headline": "Goldman Sachs sees upside for S&P 500 in 2027 — even as earnings growth slows"
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 3,
+      "example_headline": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms"
     },
     {
-      "symbol": "AMD",
-      "company_name": "Advanced Micro Devices",
-      "mention_count": 2,
-      "example_headline": "Why Advanced Micro Devices Stock Is Down Today"
-    },
-    {
-      "symbol": "SNDK",
-      "company_name": "Sandisk",
-      "mention_count": 2,
-      "example_headline": "Why Sandisk Stock Is Falling Today"
-    },
-    {
-      "symbol": "AMAT",
-      "company_name": "Applied Materials",
-      "mention_count": 2,
-      "example_headline": "Stock Market Today: Nasdaq In Red As Nvidia Wipes Out $650 Billion; Applied Materials Sinks (Live Coverage)"
-    },
-    {
-      "symbol": "ADI",
-      "company_name": "Analog Devices",
+      "symbol": "SBUX",
+      "company_name": "Starbucks",
       "mention_count": 1,
-      "example_headline": "Why ADI Global Distribution Stock Plunged This Week"
+      "example_headline": "Tyson, Starbucks Lead The S&P 500, Nasdaq 100 As Investors Play Defense"
     },
     {
-      "symbol": "RDDT",
-      "company_name": "Reddit",
+      "symbol": "STT",
+      "company_name": "State Street Corporation",
       "mention_count": 1,
-      "example_headline": "Should You Wait Before Buying Reddit Stock?"
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
-      "mention_count": 1,
-      "example_headline": "AST SpaceMobile Sinks 6%, Rocket Lab Down 5% as Space Stocks Give Back a Stellar Week"
+      "example_headline": "Sector Update: Energy Stocks Decline Monday Afternoon"
     }
   ]
 }
