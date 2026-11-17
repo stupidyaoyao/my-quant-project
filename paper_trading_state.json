@@ -253,11 +253,7 @@
     "in_position": false
   },
   "SNAP": {
-    "in_position": true,
-    "entry_price": 5.342670152664184,
-    "entry_date": "2026-10-30",
-    "highest_since_entry": 5.920000076293945,
-    "position_fraction": 0.0933858018018018
+    "in_position": false
   },
   "KEEL": {
     "in_position": false
@@ -821,5 +817,12 @@
   },
   "CBRS": {
     "in_position": false
+  },
+  "TU": {
+    "in_position": true,
+    "entry_price": 9.57478469467163,
+    "entry_date": "2026-11-16",
+    "highest_since_entry": 9.569999694824219,
+    "position_fraction": 0.20580639259011363
   }
 }
