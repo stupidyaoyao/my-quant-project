@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-16 21:54:17",
+  "scanned_at": "2026-11-17 20:44:43",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "CGON",
-      "price": 84.78,
-      "gap_pct": 13.95,
-      "premarket_volume": 9851612,
+      "symbol": "SLS",
+      "price": 18.87,
+      "gap_pct": 152.61,
+      "premarket_volume": 109448074,
       "is_premarket_data": false,
-      "catalyst": "CG Oncology Exceeds Even The 'Most Bullish Conversations;' Shares Break Out",
+      "catalyst": "Another Cancer Vaccine Just Scored A Home Run; Shares Catapult 170%",
       "headlines": [
-        "CG Oncology Exceeds Even The 'Most Bullish Conversations;' Shares Break Out",
-        "2 Cancer-Drug Developers Seeing Unusual Options Volume"
+        "Another Cancer Vaccine Just Scored A Home Run; Shares Catapult 170%",
+        "Sellas Life Sciences shares surge 175% after cancer vaccine succeeds in late-stage trial"
       ]
     },
     {
       "rank": 2,
-      "symbol": "TU",
-      "price": 9.57,
-      "gap_pct": 12.19,
-      "premarket_volume": 46329180,
+      "symbol": "ACM",
+      "price": 81.82,
+      "gap_pct": 12.86,
+      "premarket_volume": 2840416,
       "is_premarket_data": false,
-      "catalyst": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+      "catalyst": "AECOM Stocks Jump 11.21% as Record Margins Lead to Upbeat 2027 Outlook",
       "headlines": [
-        "Sector Update: Consumer Stocks Mixed Monday Afternoon",
-        "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal"
+        "AECOM Stocks Jump 11.21% as Record Margins Lead to Upbeat 2027 Outlook",
+        "AECOM shares jump more than 12% as 2027 earnings outlook beats estimates"
       ]
     },
     {
       "rank": 3,
-      "symbol": "MOH",
-      "price": 233.09,
-      "gap_pct": 11.27,
-      "premarket_volume": 1773379,
+      "symbol": "BILL",
+      "price": 64.66,
+      "gap_pct": 12.2,
+      "premarket_volume": 8302829,
       "is_premarket_data": false,
-      "catalyst": "Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher",
+      "catalyst": "BILL Stock Hits Fresh 21-Month High On Report Of TPG Nearing Take-Private Deal",
       "headlines": [
-        "Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher",
-        "Can Medicaid Rate Improvements Drive Elevance's 2027 Margin Recovery?"
+        "BILL Stock Hits Fresh 21-Month High On Report Of TPG Nearing Take-Private Deal",
+        "Bill Holdings shares surge on reports of looming TPG take-private deal"
       ]
     },
     {
       "rank": 4,
-      "symbol": "HTHT",
-      "price": 54.88,
-      "gap_pct": 8.91,
-      "premarket_volume": 3515724,
+      "symbol": "MNSO",
+      "price": 12.19,
+      "gap_pct": 8.41,
+      "premarket_volume": 2355995,
       "is_premarket_data": false,
-      "catalyst": "H World Group: 3 Key Takeaways for Long-Term Investors",
+      "catalyst": "MINISO Reports 14.3% Third-Quarter Revenue Growth to RMB6.63 Billion, Beating Analyst Estimates",
       "headlines": [
-        "H World Group: 3 Key Takeaways for Long-Term Investors",
-        "H World Group (HTHT) Q3 2026 Earnings Call Transcript"
+        "MINISO Reports 14.3% Third-Quarter Revenue Growth to RMB6.63 Billion, Beating Analyst Estimates",
+        "Is Global Store Expansion Altering The Investment Case For MINISO Stock (MNSO)?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "TSN",
-      "price": 63.95,
-      "gap_pct": 8.72,
-      "premarket_volume": 8344582,
+      "symbol": "UNFI",
+      "price": 52.3,
+      "gap_pct": 8.09,
+      "premarket_volume": 583828,
       "is_premarket_data": false,
-      "catalyst": "Tyson Q4 earnings: Beef business could return to profit in 2027",
+      "catalyst": "UNFI Gets A Goldman Sachs Upgrade, New Price Target Implies Over 15% Upside – What’s Driving The Upgrade?",
       "headlines": [
-        "Tyson Q4 earnings: Beef business could return to profit in 2027",
-        "US Equity Markets End Lower Amid Sell-Off in Mega-Cap Chipmakers After Commerce Department's Planned Restrictions"
+        "UNFI Gets A Goldman Sachs Upgrade, New Price Target Implies Over 15% Upside – What’s Driving The Upgrade?",
+        "Cisco upgraded, PepsiCo downgraded: Wall Street's top analyst calls"
       ]
     },
     {
       "rank": 6,
-      "symbol": "HUBS",
-      "price": 231.98,
-      "gap_pct": 6.78,
-      "premarket_volume": 2221320,
+      "symbol": "SNAP",
+      "price": 5.47,
+      "gap_pct": 7.56,
+      "premarket_volume": 66496062,
       "is_premarket_data": false,
-      "catalyst": "CEO Halligan Backs His HubSpot Turnaround With $5 Million of Stock",
+      "catalyst": "Roblox Stock Fell Nearly 8%. What Happened?",
       "headlines": [
-        "CEO Halligan Backs His HubSpot Turnaround With $5 Million of Stock",
-        "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
+        "Roblox Stock Fell Nearly 8%. What Happened?",
+        "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date"
       ]
     },
     {
       "rank": 7,
-      "symbol": "POWL",
-      "price": 151.2,
-      "gap_pct": 5.94,
-      "premarket_volume": 2363587,
+      "symbol": "RYTM",
+      "price": 115.35,
+      "gap_pct": 7.32,
+      "premarket_volume": 2155189,
       "is_premarket_data": false,
-      "catalyst": "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
+      "catalyst": "Rhythm Pharmaceuticals Says Rare Obesity Drug Delivers Sustained Two-Year BMI Reductions",
       "headlines": [
-        "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
-        "3 US AI Infrastructure Stocks Backing The Data Center Power Buildout"
+        "Rhythm Pharmaceuticals Says Rare Obesity Drug Delivers Sustained Two-Year BMI Reductions",
+        "European Stocks Close Mostly Lower in Thursday Trading as Investors Parse Earnings Reports, US Elections, Rising Oil Prices"
       ]
     },
     {
       "rank": 8,
-      "symbol": "BILL",
-      "price": 57.63,
-      "gap_pct": 5.78,
-      "premarket_volume": 2626662,
+      "symbol": "SA",
+      "price": 26.21,
+      "gap_pct": 6.98,
+      "premarket_volume": 1621637,
       "is_premarket_data": false,
-      "catalyst": "William Blair upgrades Bill Holdings on margin and monetization tailwinds",
+      "catalyst": "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus",
       "headlines": [
-        "William Blair upgrades Bill Holdings on margin and monetization tailwinds",
-        "BILL Bets on Bigger Customers and AI After Deep Job Cuts, Sees Growth Rebound"
+        "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus",
+        "What Does Seabridge Gold (TSX:SEA) Acquiring Slaughterhouse Mean For Investors?"
       ]
     },
     {
       "rank": 9,
-      "symbol": "QLYS",
-      "price": 182.01,
-      "gap_pct": 5.24,
-      "premarket_volume": 976023,
+      "symbol": "TME",
+      "price": 9.43,
+      "gap_pct": 6.2,
+      "premarket_volume": 10146626,
       "is_premarket_data": false,
-      "catalyst": "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
+      "catalyst": "Tencent Music Entertainment Group Q3 Earnings Call Highlights",
       "headlines": [
-        "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
-        "Qualys Inc (QLYS) Q3 2026 Earnings Call Highlights: Double-Digit Revenue Growth, Record Federal ..."
+        "Tencent Music Entertainment Group Q3 Earnings Call Highlights",
+        "Tencent Music posts mixed Q3 as revenue misses, profit beats forecasts"
       ]
     },
     {
       "rank": 10,
-      "symbol": "HNGE",
-      "price": 121.29,
-      "gap_pct": 5.11,
-      "premarket_volume": 2072139,
+      "symbol": "ESLT",
+      "price": 720.77,
+      "gap_pct": 5.88,
+      "premarket_volume": 90243,
       "is_premarket_data": false,
-      "catalyst": "Add These 4 Top-Performing Liquid Stocks to Maximize Returns",
+      "catalyst": "Elbit Systems Stocks Jump 7.8% as Backlog Hits Record $33 Billion",
       "headlines": [
-        "Add These 4 Top-Performing Liquid Stocks to Maximize Returns",
-        "Bull of the Day: Hinge Health, Inc. (HNGE)"
+        "Elbit Systems Stocks Jump 7.8% as Backlog Hits Record $33 Billion",
+        "What Elbit Systems (ESLT) Said on Its Q3 Earnings Call"
       ]
     }
   ]
