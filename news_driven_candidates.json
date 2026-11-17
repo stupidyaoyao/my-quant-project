@@ -1,30 +1,48 @@
 {
-  "scanned_at": "2026-11-16 21:37:19",
+  "scanned_at": "2026-11-17 20:26:47",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
       "mention_count": 13,
-      "example_headline": "The S&P 500's shot at 4 straight double-digit years is in Nvidia's hands"
+      "example_headline": "How Risky Is USA Rare Earth Stock?"
     },
     {
-      "symbol": "INTC",
-      "company_name": "Intel",
-      "mention_count": 3,
-      "example_headline": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms"
+      "symbol": "GS",
+      "company_name": "Goldman Sachs",
+      "mention_count": 2,
+      "example_headline": "Goldman Sachs is looking for a big year for stocks in 2027"
     },
     {
-      "symbol": "SBUX",
-      "company_name": "Starbucks",
+      "symbol": "WMT",
+      "company_name": "Walmart",
+      "mention_count": 2,
+      "example_headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due"
+    },
+    {
+      "symbol": "BALL",
+      "company_name": "Ball Corporation",
+      "mention_count": 2,
+      "example_headline": "Stocks are sliding again, and it's not just AI — the dollar wrecking ball has already leveled the debasement trade"
+    },
+    {
+      "symbol": "BRK-B",
+      "company_name": "Berkshire Hathaway",
       "mention_count": 1,
-      "example_headline": "Tyson, Starbucks Lead The S&P 500, Nasdaq 100 As Investors Play Defense"
+      "example_headline": "Berkshire Hathaway Is Up 18% in Its First Year Without Buffett as CEO. Can BRK.B Stock Hit $700 by 2027?"
+    },
+    {
+      "symbol": "GM",
+      "company_name": "General Motors",
+      "mention_count": 1,
+      "example_headline": "GM CEO Mary Barra Might Be Leaving. Who Could Replace Her."
     },
     {
       "symbol": "STT",
       "company_name": "State Street Corporation",
       "mention_count": 1,
-      "example_headline": "Sector Update: Energy Stocks Decline Monday Afternoon"
+      "example_headline": "Sector Update: Energy Stocks Lower in Afternoon Trading"
     }
   ]
 }
