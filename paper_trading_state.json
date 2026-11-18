@@ -50,7 +50,11 @@
     "in_position": false
   },
   "AAL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 12.926460076332091,
+    "entry_date": "2026-11-17",
+    "highest_since_entry": 12.920000076293945,
+    "position_fraction": 0.13656472864872285
   },
   "PATH": {
     "in_position": false
@@ -498,7 +502,11 @@
     "in_position": false
   },
   "NKE": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 35.867923473358154,
+    "entry_date": "2026-11-17",
+    "highest_since_entry": 35.849998474121094,
+    "position_fraction": 0.15017950933661886
   },
   "DNN": {
     "in_position": false
@@ -824,5 +832,15 @@
     "entry_date": "2026-11-16",
     "highest_since_entry": 9.569999694824219,
     "position_fraction": 0.20580639259011363
+  },
+  "SLS": {
+    "in_position": false
+  },
+  "CHYM": {
+    "in_position": true,
+    "entry_price": 32.98648622131348,
+    "entry_date": "2026-11-17",
+    "highest_since_entry": 32.970001220703125,
+    "position_fraction": 0.14892318704820898
   }
 }
