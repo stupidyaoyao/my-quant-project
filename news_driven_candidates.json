@@ -1,18 +1,12 @@
 {
-  "scanned_at": "2026-11-17 20:26:47",
+  "scanned_at": "2026-11-18 19:56:47",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 13,
-      "example_headline": "How Risky Is USA Rare Earth Stock?"
-    },
-    {
-      "symbol": "GS",
-      "company_name": "Goldman Sachs",
-      "mention_count": 2,
-      "example_headline": "Goldman Sachs is looking for a big year for stocks in 2027"
+      "mention_count": 18,
+      "example_headline": "Wall Street mixed after Nvidia earnings, Fed minutes"
     },
     {
       "symbol": "WMT",
@@ -21,28 +15,34 @@
       "example_headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due"
     },
     {
-      "symbol": "BALL",
-      "company_name": "Ball Corporation",
-      "mention_count": 2,
-      "example_headline": "Stocks are sliding again, and it's not just AI — the dollar wrecking ball has already leveled the debasement trade"
+      "symbol": "TGT",
+      "company_name": "Target Corporation",
+      "mention_count": 1,
+      "example_headline": "Wells Fargo resets its S&P 500 price target for 2027"
     },
     {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
+      "symbol": "WFC",
+      "company_name": "Wells Fargo",
       "mention_count": 1,
-      "example_headline": "Berkshire Hathaway Is Up 18% in Its First Year Without Buffett as CEO. Can BRK.B Stock Hit $700 by 2027?"
+      "example_headline": "Wells Fargo resets its S&P 500 price target for 2027"
     },
     {
-      "symbol": "GM",
-      "company_name": "General Motors",
+      "symbol": "CMS",
+      "company_name": "CMS Energy",
       "mention_count": 1,
-      "example_headline": "GM CEO Mary Barra Might Be Leaving. Who Could Replace Her."
+      "example_headline": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule"
     },
     {
-      "symbol": "STT",
-      "company_name": "State Street Corporation",
+      "symbol": "COIN",
+      "company_name": "Coinbase",
       "mention_count": 1,
-      "example_headline": "Sector Update: Energy Stocks Lower in Afternoon Trading"
+      "example_headline": "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states"
+    },
+    {
+      "symbol": "NDAQ",
+      "company_name": "Nasdaq, Inc.",
+      "mention_count": 1,
+      "example_headline": "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states"
     }
   ]
 }
