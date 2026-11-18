@@ -1,134 +1,133 @@
 {
-  "scanned_at": "2026-11-17 20:44:43",
+  "scanned_at": "2026-11-18 20:20:21",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "SLS",
-      "price": 18.87,
-      "gap_pct": 152.61,
-      "premarket_volume": 109448074,
+      "symbol": "PLBL",
+      "price": 8.83,
+      "gap_pct": 16.18,
+      "premarket_volume": 259769,
       "is_premarket_data": false,
-      "catalyst": "Another Cancer Vaccine Just Scored A Home Run; Shares Catapult 170%",
+      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
       "headlines": [
-        "Another Cancer Vaccine Just Scored A Home Run; Shares Catapult 170%",
-        "Sellas Life Sciences shares surge 175% after cancer vaccine succeeds in late-stage trial"
+        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
       ]
     },
     {
       "rank": 2,
-      "symbol": "ACM",
-      "price": 81.82,
-      "gap_pct": 12.86,
-      "premarket_volume": 2840416,
+      "symbol": "TENB",
+      "price": 44.84,
+      "gap_pct": 16.17,
+      "premarket_volume": 3104890,
       "is_premarket_data": false,
-      "catalyst": "AECOM Stocks Jump 11.21% as Record Margins Lead to Upbeat 2027 Outlook",
+      "catalyst": "Are Options Traders Betting on a Big Move in Tenable Stock?",
       "headlines": [
-        "AECOM Stocks Jump 11.21% as Record Margins Lead to Upbeat 2027 Outlook",
-        "AECOM shares jump more than 12% as 2027 earnings outlook beats estimates"
+        "Are Options Traders Betting on a Big Move in Tenable Stock?",
+        "Tenable Stock Is Raising Guidance After Earnings Beat And Atos Client Win"
       ]
     },
     {
       "rank": 3,
-      "symbol": "BILL",
-      "price": 64.66,
-      "gap_pct": 12.2,
-      "premarket_volume": 8302829,
+      "symbol": "MFP",
+      "price": 48.05,
+      "gap_pct": 13.42,
+      "premarket_volume": 588647,
       "is_premarket_data": false,
-      "catalyst": "BILL Stock Hits Fresh 21-Month High On Report Of TPG Nearing Take-Private Deal",
+      "catalyst": "Midera Sustains Double-Digit Organic Order Growth, Raises FY Outlook",
       "headlines": [
-        "BILL Stock Hits Fresh 21-Month High On Report Of TPG Nearing Take-Private Deal",
-        "Bill Holdings shares surge on reports of looming TPG take-private deal"
+        "Midera Sustains Double-Digit Organic Order Growth, Raises FY Outlook",
+        "Midera Food Processing (MFP) Stock Trades At A Discount To Fair Value"
       ]
     },
     {
       "rank": 4,
-      "symbol": "MNSO",
-      "price": 12.19,
-      "gap_pct": 8.41,
-      "premarket_volume": 2355995,
+      "symbol": "SAIL",
+      "price": 22.62,
+      "gap_pct": 12.09,
+      "premarket_volume": 2427828,
       "is_premarket_data": false,
-      "catalyst": "MINISO Reports 14.3% Third-Quarter Revenue Growth to RMB6.63 Billion, Beating Analyst Estimates",
+      "catalyst": "Should Okta Stock Holders Look At Salesforce Instead?",
       "headlines": [
-        "MINISO Reports 14.3% Third-Quarter Revenue Growth to RMB6.63 Billion, Beating Analyst Estimates",
-        "Is Global Store Expansion Altering The Investment Case For MINISO Stock (MNSO)?"
+        "Should Okta Stock Holders Look At Salesforce Instead?",
+        "BILL or SAIL: Which Is the Better Value Stock Right Now?"
       ]
     },
     {
       "rank": 5,
-      "symbol": "UNFI",
-      "price": 52.3,
-      "gap_pct": 8.09,
-      "premarket_volume": 583828,
+      "symbol": "QLYS",
+      "price": 195.74,
+      "gap_pct": 12.06,
+      "premarket_volume": 763364,
       "is_premarket_data": false,
-      "catalyst": "UNFI Gets A Goldman Sachs Upgrade, New Price Target Implies Over 15% Upside – What’s Driving The Upgrade?",
+      "catalyst": "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
       "headlines": [
-        "UNFI Gets A Goldman Sachs Upgrade, New Price Target Implies Over 15% Upside – What’s Driving The Upgrade?",
-        "Cisco upgraded, PepsiCo downgraded: Wall Street's top analyst calls"
+        "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
+        "Qualys Inc (QLYS) Q3 2026 Earnings Call Highlights: Double-Digit Revenue Growth, Record Federal ..."
       ]
     },
     {
       "rank": 6,
-      "symbol": "SNAP",
-      "price": 5.47,
-      "gap_pct": 7.56,
-      "premarket_volume": 66496062,
+      "symbol": "OKTA",
+      "price": 194.42,
+      "gap_pct": 11.39,
+      "premarket_volume": 3403432,
       "is_premarket_data": false,
-      "catalyst": "Roblox Stock Fell Nearly 8%. What Happened?",
+      "catalyst": "Palo Alto Soars 7%, Okta Up 11% as DHS Chief Warns of “A Severe Cyber Threat”",
       "headlines": [
-        "Roblox Stock Fell Nearly 8%. What Happened?",
-        "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date"
+        "Palo Alto Soars 7%, Okta Up 11% as DHS Chief Warns of “A Severe Cyber Threat”",
+        "AI Risks Lift Cyber Stocks as Software Looks to Shrug Off Slump"
       ]
     },
     {
       "rank": 7,
-      "symbol": "RYTM",
-      "price": 115.35,
-      "gap_pct": 7.32,
-      "premarket_volume": 2155189,
+      "symbol": "FSLY",
+      "price": 17.7,
+      "gap_pct": 11.32,
+      "premarket_volume": 7881377,
       "is_premarket_data": false,
-      "catalyst": "Rhythm Pharmaceuticals Says Rare Obesity Drug Delivers Sustained Two-Year BMI Reductions",
+      "catalyst": "Docusign vs. Fastly: Which Technology Stock Is a Better Buy for 2027?",
       "headlines": [
-        "Rhythm Pharmaceuticals Says Rare Obesity Drug Delivers Sustained Two-Year BMI Reductions",
-        "European Stocks Close Mostly Lower in Thursday Trading as Investors Parse Earnings Reports, US Elections, Rising Oil Prices"
+        "Docusign vs. Fastly: Which Technology Stock Is a Better Buy for 2027?",
+        "Fastly (FSLY) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now"
       ]
     },
     {
       "rank": 8,
-      "symbol": "SA",
-      "price": 26.21,
-      "gap_pct": 6.98,
-      "premarket_volume": 1621637,
+      "symbol": "NTSK",
+      "price": 23.21,
+      "gap_pct": 11.32,
+      "premarket_volume": 4565732,
       "is_premarket_data": false,
-      "catalyst": "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus",
+      "catalyst": "Perion Network (PERI) Misses Q3 Earnings and Revenue Estimates",
       "headlines": [
-        "Canadian Stock Market Today: TSX Futures Steady On Oil Support And BoC Rate Focus",
-        "What Does Seabridge Gold (TSX:SEA) Acquiring Slaughterhouse Mean For Investors?"
+        "Perion Network (PERI) Misses Q3 Earnings and Revenue Estimates",
+        "MultiSensor AI Holdings, Inc. (MSAI) Reports Q3 Loss, Lags Revenue Estimates"
       ]
     },
     {
       "rank": 9,
-      "symbol": "TME",
-      "price": 9.43,
-      "gap_pct": 6.2,
-      "premarket_volume": 10146626,
+      "symbol": "ATEN",
+      "price": 32.56,
+      "gap_pct": 11.2,
+      "premarket_volume": 1128047,
       "is_premarket_data": false,
-      "catalyst": "Tencent Music Entertainment Group Q3 Earnings Call Highlights",
+      "catalyst": "A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why",
       "headlines": [
-        "Tencent Music Entertainment Group Q3 Earnings Call Highlights",
-        "Tencent Music posts mixed Q3 as revenue misses, profit beats forecasts"
+        "A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why",
+        "3 Cybersecurity Stocks Built For Rising Demand In Digital Defense"
       ]
     },
     {
       "rank": 10,
-      "symbol": "ESLT",
-      "price": 720.77,
-      "gap_pct": 5.88,
-      "premarket_volume": 90243,
+      "symbol": "FROG",
+      "price": 116.56,
+      "gap_pct": 10.9,
+      "premarket_volume": 2429191,
       "is_premarket_data": false,
-      "catalyst": "Elbit Systems Stocks Jump 7.8% as Backlog Hits Record $33 Billion",
+      "catalyst": "What iShares Russell 2000 Index Fund (IWM) Bought: First Advantage Leads on Nov. 16",
       "headlines": [
-        "Elbit Systems Stocks Jump 7.8% as Backlog Hits Record $33 Billion",
-        "What Elbit Systems (ESLT) Said on Its Q3 Earnings Call"
+        "What iShares Russell 2000 Index Fund (IWM) Bought: First Advantage Leads on Nov. 16",
+        "Michael Burry Still Bearish On Nvidia, AI Trade, Buys These Software Names"
       ]
     }
   ]
