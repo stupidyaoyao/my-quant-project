@@ -123,7 +123,7 @@
     "in_position": true,
     "entry_price": 266.3030984344482,
     "entry_date": "2026-11-11",
-    "highest_since_entry": 266.1700134277344,
+    "highest_since_entry": 267.739990234375,
     "position_fraction": 0.17209935167482215
   },
   "PLTR": {
@@ -842,5 +842,26 @@
     "entry_date": "2026-11-17",
     "highest_since_entry": 32.970001220703125,
     "position_fraction": 0.14892318704820898
+  },
+  "AES": {
+    "in_position": true,
+    "entry_price": 15.027510457992554,
+    "entry_date": "2026-11-18",
+    "highest_since_entry": 15.020000457763672,
+    "position_fraction": 1.0
+  },
+  "MDLN": {
+    "in_position": true,
+    "entry_price": 39.179579847335816,
+    "entry_date": "2026-11-18",
+    "highest_since_entry": 39.15999984741211,
+    "position_fraction": 0.12427943761839048
+  },
+  "PRMB": {
+    "in_position": true,
+    "entry_price": 22.97147908401489,
+    "entry_date": "2026-11-18",
+    "highest_since_entry": 22.959999084472656,
+    "position_fraction": 0.1521969232180846
   }
 }
