@@ -1,48 +1,36 @@
 {
-  "scanned_at": "2026-11-18 19:56:47",
+  "scanned_at": "2026-11-19 19:55:46",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 18,
-      "example_headline": "Wall Street mixed after Nvidia earnings, Fed minutes"
-    },
-    {
       "symbol": "WMT",
       "company_name": "Walmart",
-      "mention_count": 2,
-      "example_headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due"
+      "mention_count": 4,
+      "example_headline": "Stock Market Today: Major Indexes, AI Players Slide After Anthropic's Debut (Live Coverage)"
     },
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 1,
-      "example_headline": "Wells Fargo resets its S&P 500 price target for 2027"
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 3,
+      "example_headline": "Stock market today: Dow drops 800 points, S&P 500 and Nasdaq tank as Anthropic stock surges in public debut"
     },
     {
-      "symbol": "WFC",
-      "company_name": "Wells Fargo",
+      "symbol": "NFLX",
+      "company_name": "Netflix",
       "mention_count": 1,
-      "example_headline": "Wells Fargo resets its S&P 500 price target for 2027"
+      "example_headline": "Why Netflix's Fall Could Pay Off At Tax Time"
     },
     {
-      "symbol": "CMS",
-      "company_name": "CMS Energy",
+      "symbol": "AVGO",
+      "company_name": "Broadcom",
       "mention_count": 1,
-      "example_headline": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule"
+      "example_headline": "Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public"
     },
     {
-      "symbol": "COIN",
-      "company_name": "Coinbase",
+      "symbol": "NVDA",
+      "company_name": "Nvidia",
       "mention_count": 1,
-      "example_headline": "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states"
-    },
-    {
-      "symbol": "NDAQ",
-      "company_name": "Nasdaq, Inc.",
-      "mention_count": 1,
-      "example_headline": "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states"
+      "example_headline": "Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public"
     }
   ]
 }
