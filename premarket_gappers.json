@@ -1,133 +1,134 @@
 {
-  "scanned_at": "2026-11-18 20:20:21",
+  "scanned_at": "2026-11-19 20:24:33",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "PLBL",
-      "price": 8.83,
-      "gap_pct": 16.18,
-      "premarket_volume": 259769,
+      "symbol": "INSM",
+      "price": 145.32,
+      "gap_pct": 21.3,
+      "premarket_volume": 11962118,
       "is_premarket_data": false,
-      "catalyst": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner",
+      "catalyst": "Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say",
       "headlines": [
-        "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
+        "Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say",
+        "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years"
       ]
     },
     {
       "rank": 2,
-      "symbol": "TENB",
-      "price": 44.84,
-      "gap_pct": 16.17,
-      "premarket_volume": 3104890,
+      "symbol": "ANT",
+      "price": 95.28,
+      "gap_pct": 14.8,
+      "premarket_volume": 768443702,
       "is_premarket_data": false,
-      "catalyst": "Are Options Traders Betting on a Big Move in Tenable Stock?",
+      "catalyst": "'Kind of cool': Early Anthropic investor and actor Ashton Kutcher celebrates IPO",
       "headlines": [
-        "Are Options Traders Betting on a Big Move in Tenable Stock?",
-        "Tenable Stock Is Raising Guidance After Earnings Beat And Atos Client Win"
+        "'Kind of cool': Early Anthropic investor and actor Ashton Kutcher celebrates IPO",
+        "Why AI competition from China won't be a risk US tech companies"
       ]
     },
     {
       "rank": 3,
-      "symbol": "MFP",
-      "price": 48.05,
-      "gap_pct": 13.42,
-      "premarket_volume": 588647,
+      "symbol": "TU",
+      "price": 10.74,
+      "gap_pct": 12.99,
+      "premarket_volume": 21910973,
       "is_premarket_data": false,
-      "catalyst": "Midera Sustains Double-Digit Organic Order Growth, Raises FY Outlook",
+      "catalyst": "Quebecor Says Combining Bell And Telus Will Not Be A Good Outcome For Customers",
       "headlines": [
-        "Midera Sustains Double-Digit Organic Order Growth, Raises FY Outlook",
-        "Midera Food Processing (MFP) Stock Trades At A Discount To Fair Value"
+        "Quebecor Says Combining Bell And Telus Will Not Be A Good Outcome For Customers",
+        "S&P/TSX Composite Index Falls to More Than Five-Month Low"
       ]
     },
     {
       "rank": 4,
-      "symbol": "SAIL",
-      "price": 22.62,
-      "gap_pct": 12.09,
-      "premarket_volume": 2427828,
+      "symbol": "PDD",
+      "price": 86.13,
+      "gap_pct": 11.21,
+      "premarket_volume": 17869783,
       "is_premarket_data": false,
-      "catalyst": "Should Okta Stock Holders Look At Salesforce Instead?",
+      "catalyst": "PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue",
       "headlines": [
-        "Should Okta Stock Holders Look At Salesforce Instead?",
-        "BILL or SAIL: Which Is the Better Value Stock Right Now?"
+        "PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue",
+        "PDD Q3 Earnings Call Highlights"
       ]
     },
     {
       "rank": 5,
-      "symbol": "QLYS",
-      "price": 195.74,
-      "gap_pct": 12.06,
-      "premarket_volume": 763364,
+      "symbol": "VVV",
+      "price": 36.47,
+      "gap_pct": 9.29,
+      "premarket_volume": 5624320,
       "is_premarket_data": false,
-      "catalyst": "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
+      "catalyst": "Valvoline: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "Palo Alto Networks to Report Q1 Earnings: Buy, Sell or Hold the Stock?",
-        "Qualys Inc (QLYS) Q3 2026 Earnings Call Highlights: Double-Digit Revenue Growth, Record Federal ..."
+        "Valvoline: 3 Key Takeaways for Long-Term Investors",
+        "Valvoline (VVV) Q4 2026 Earnings Call Transcript"
       ]
     },
     {
       "rank": 6,
-      "symbol": "OKTA",
-      "price": 194.42,
-      "gap_pct": 11.39,
-      "premarket_volume": 3403432,
+      "symbol": "AMBA",
+      "price": 59.59,
+      "gap_pct": 9.05,
+      "premarket_volume": 2019553,
       "is_premarket_data": false,
-      "catalyst": "Palo Alto Soars 7%, Okta Up 11% as DHS Chief Warns of “A Severe Cyber Threat”",
+      "catalyst": "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
       "headlines": [
-        "Palo Alto Soars 7%, Okta Up 11% as DHS Chief Warns of “A Severe Cyber Threat”",
-        "AI Risks Lift Cyber Stocks as Software Looks to Shrug Off Slump"
+        "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
+        "QuickLogic (QUIK) Reports Q3 Loss, Lags Revenue Estimates"
       ]
     },
     {
       "rank": 7,
-      "symbol": "FSLY",
-      "price": 17.7,
-      "gap_pct": 11.32,
-      "premarket_volume": 7881377,
+      "symbol": "YMM",
+      "price": 8.96,
+      "gap_pct": 6.98,
+      "premarket_volume": 7312751,
       "is_premarket_data": false,
-      "catalyst": "Docusign vs. Fastly: Which Technology Stock Is a Better Buy for 2027?",
+      "catalyst": "Full Truck Alliance Co Ltd (YMM) (Q3 2026) Earnings Call Highlights: Strong Profit Growth Amid ...",
       "headlines": [
-        "Docusign vs. Fastly: Which Technology Stock Is a Better Buy for 2027?",
-        "Fastly (FSLY) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now"
+        "Full Truck Alliance Co Ltd (YMM) (Q3 2026) Earnings Call Highlights: Strong Profit Growth Amid ...",
+        "Full Truck Alliance Q3 Earnings Call Highlights"
       ]
     },
     {
       "rank": 8,
-      "symbol": "NTSK",
-      "price": 23.21,
-      "gap_pct": 11.32,
-      "premarket_volume": 4565732,
+      "symbol": "DPC",
+      "price": 33.84,
+      "gap_pct": 6.02,
+      "premarket_volume": 1401315,
       "is_premarket_data": false,
-      "catalyst": "Perion Network (PERI) Misses Q3 Earnings and Revenue Estimates",
+      "catalyst": "Wall Street Analysts Think DPC (DPC) Could Surge 64.79%: Read This Before Placing a Bet",
       "headlines": [
-        "Perion Network (PERI) Misses Q3 Earnings and Revenue Estimates",
-        "MultiSensor AI Holdings, Inc. (MSAI) Reports Q3 Loss, Lags Revenue Estimates"
+        "Wall Street Analysts Think DPC (DPC) Could Surge 64.79%: Read This Before Placing a Bet",
+        "DPC Q3 Earnings Call Highlights"
       ]
     },
     {
       "rank": 9,
-      "symbol": "ATEN",
-      "price": 32.56,
-      "gap_pct": 11.2,
-      "premarket_volume": 1128047,
+      "symbol": "PURR",
+      "price": 8.42,
+      "gap_pct": 5.91,
+      "premarket_volume": 15357430,
       "is_premarket_data": false,
-      "catalyst": "A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why",
+      "catalyst": "Hyperliquid Strategies Inc (PURR) (Q1 2027) Earnings Call Highlights: HYPE Treasury Triples to ...",
       "headlines": [
-        "A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why",
-        "3 Cybersecurity Stocks Built For Rising Demand In Digital Defense"
+        "Hyperliquid Strategies Inc (PURR) (Q1 2027) Earnings Call Highlights: HYPE Treasury Triples to ...",
+        "Hyperliquid Strategies Posts $620.6 Million Profit, Applies to Become a Futures Broker"
       ]
     },
     {
       "rank": 10,
-      "symbol": "FROG",
-      "price": 116.56,
-      "gap_pct": 10.9,
-      "premarket_volume": 2429191,
+      "symbol": "FUTU",
+      "price": 87.96,
+      "gap_pct": 5.75,
+      "premarket_volume": 2271012,
       "is_premarket_data": false,
-      "catalyst": "What iShares Russell 2000 Index Fund (IWM) Bought: First Advantage Leads on Nov. 16",
+      "catalyst": "Futu Holdings Limited Q3 2026 Earnings Call Summary",
       "headlines": [
-        "What iShares Russell 2000 Index Fund (IWM) Bought: First Advantage Leads on Nov. 16",
-        "Michael Burry Still Bearish On Nvidia, AI Trade, Buys These Software Names"
+        "Futu Holdings Limited Q3 2026 Earnings Call Summary",
+        "What Futu (FUTU) Said on Its Q3 Earnings Call"
       ]
     }
   ]
