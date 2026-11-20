@@ -1,134 +1,56 @@
 {
-  "scanned_at": "2026-11-19 20:24:33",
+  "scanned_at": "2026-11-20 19:55:48",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "INSM",
-      "price": 145.32,
-      "gap_pct": 21.3,
-      "premarket_volume": 11962118,
+      "symbol": "GAP",
+      "price": 20.95,
+      "gap_pct": 11.47,
+      "premarket_volume": 20868854,
       "is_premarket_data": false,
-      "catalyst": "Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say",
+      "catalyst": "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
       "headlines": [
-        "Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say",
-        "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years"
+        "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
+        "Gap CEO: 'Consumer is resilient but discerning'"
       ]
     },
     {
       "rank": 2,
-      "symbol": "ANT",
-      "price": 95.28,
-      "gap_pct": 14.8,
-      "premarket_volume": 768443702,
+      "symbol": "GPN",
+      "price": 91.63,
+      "gap_pct": 9.71,
+      "premarket_volume": 6212967,
       "is_premarket_data": false,
-      "catalyst": "'Kind of cool': Early Anthropic investor and actor Ashton Kutcher celebrates IPO",
+      "catalyst": "Global Payments shares jump on report of $50B GTCR deal",
       "headlines": [
-        "'Kind of cool': Early Anthropic investor and actor Ashton Kutcher celebrates IPO",
-        "Why AI competition from China won't be a risk US tech companies"
+        "Global Payments shares jump on report of $50B GTCR deal",
+        "Visa Targets Secure AI Agent Payments Through Expanded Industry Partnership"
       ]
     },
     {
       "rank": 3,
-      "symbol": "TU",
-      "price": 10.74,
-      "gap_pct": 12.99,
-      "premarket_volume": 21910973,
+      "symbol": "BKE",
+      "price": 44.46,
+      "gap_pct": 6.41,
+      "premarket_volume": 432024,
       "is_premarket_data": false,
-      "catalyst": "Quebecor Says Combining Bell And Telus Will Not Be A Good Outcome For Customers",
+      "catalyst": "Buckle (BKE) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "Quebecor Says Combining Bell And Telus Will Not Be A Good Outcome For Customers",
-        "S&P/TSX Composite Index Falls to More Than Five-Month Low"
+        "Buckle (BKE) Q3 2026 Earnings Call Transcript",
+        "Buckle Q3 Earnings Call Highlights"
       ]
     },
     {
       "rank": 4,
-      "symbol": "PDD",
-      "price": 86.13,
-      "gap_pct": 11.21,
-      "premarket_volume": 17869783,
+      "symbol": "PLMR",
+      "price": 165.36,
+      "gap_pct": 5.54,
+      "premarket_volume": 263067,
       "is_premarket_data": false,
-      "catalyst": "PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue",
+      "catalyst": "Insurer Tops Alternative Buy Point As Investors Play Defense",
       "headlines": [
-        "PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue",
-        "PDD Q3 Earnings Call Highlights"
-      ]
-    },
-    {
-      "rank": 5,
-      "symbol": "VVV",
-      "price": 36.47,
-      "gap_pct": 9.29,
-      "premarket_volume": 5624320,
-      "is_premarket_data": false,
-      "catalyst": "Valvoline: 3 Key Takeaways for Long-Term Investors",
-      "headlines": [
-        "Valvoline: 3 Key Takeaways for Long-Term Investors",
-        "Valvoline (VVV) Q4 2026 Earnings Call Transcript"
-      ]
-    },
-    {
-      "rank": 6,
-      "symbol": "AMBA",
-      "price": 59.59,
-      "gap_pct": 9.05,
-      "premarket_volume": 2019553,
-      "is_premarket_data": false,
-      "catalyst": "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
-      "headlines": [
-        "Ambarella Stock Soars on Potential Billion-Dollar Chip Deal",
-        "QuickLogic (QUIK) Reports Q3 Loss, Lags Revenue Estimates"
-      ]
-    },
-    {
-      "rank": 7,
-      "symbol": "YMM",
-      "price": 8.96,
-      "gap_pct": 6.98,
-      "premarket_volume": 7312751,
-      "is_premarket_data": false,
-      "catalyst": "Full Truck Alliance Co Ltd (YMM) (Q3 2026) Earnings Call Highlights: Strong Profit Growth Amid ...",
-      "headlines": [
-        "Full Truck Alliance Co Ltd (YMM) (Q3 2026) Earnings Call Highlights: Strong Profit Growth Amid ...",
-        "Full Truck Alliance Q3 Earnings Call Highlights"
-      ]
-    },
-    {
-      "rank": 8,
-      "symbol": "DPC",
-      "price": 33.84,
-      "gap_pct": 6.02,
-      "premarket_volume": 1401315,
-      "is_premarket_data": false,
-      "catalyst": "Wall Street Analysts Think DPC (DPC) Could Surge 64.79%: Read This Before Placing a Bet",
-      "headlines": [
-        "Wall Street Analysts Think DPC (DPC) Could Surge 64.79%: Read This Before Placing a Bet",
-        "DPC Q3 Earnings Call Highlights"
-      ]
-    },
-    {
-      "rank": 9,
-      "symbol": "PURR",
-      "price": 8.42,
-      "gap_pct": 5.91,
-      "premarket_volume": 15357430,
-      "is_premarket_data": false,
-      "catalyst": "Hyperliquid Strategies Inc (PURR) (Q1 2027) Earnings Call Highlights: HYPE Treasury Triples to ...",
-      "headlines": [
-        "Hyperliquid Strategies Inc (PURR) (Q1 2027) Earnings Call Highlights: HYPE Treasury Triples to ...",
-        "Hyperliquid Strategies Posts $620.6 Million Profit, Applies to Become a Futures Broker"
-      ]
-    },
-    {
-      "rank": 10,
-      "symbol": "FUTU",
-      "price": 87.96,
-      "gap_pct": 5.75,
-      "premarket_volume": 2271012,
-      "is_premarket_data": false,
-      "catalyst": "Futu Holdings Limited Q3 2026 Earnings Call Summary",
-      "headlines": [
-        "Futu Holdings Limited Q3 2026 Earnings Call Summary",
-        "What Futu (FUTU) Said on Its Q3 Earnings Call"
+        "Insurer Tops Alternative Buy Point As Investors Play Defense",
+        "Can PLMR Balance Rapid Premium Growth With Underwriting Discipline?"
       ]
     }
   ]
