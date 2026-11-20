@@ -17,11 +17,7 @@
     "position_fraction": 0.35303681595560676
   },
   "MSFT": {
-    "in_position": true,
-    "entry_price": 493.056402557373,
-    "entry_date": "2026-08-04",
-    "highest_since_entry": 555.7999877929688,
-    "position_fraction": 0.1832129806105212
+    "in_position": false
   },
   "XOM": {
     "in_position": true,
@@ -479,11 +475,7 @@
     "in_position": false
   },
   "ITUB": {
-    "in_position": true,
-    "entry_price": 7.373684885501861,
-    "entry_date": "2026-10-29",
-    "highest_since_entry": 7.369999885559082,
-    "position_fraction": 0.11483585839488568
+    "in_position": false
   },
   "ARX": {
     "in_position": false
@@ -863,5 +855,11 @@
     "entry_date": "2026-11-18",
     "highest_since_entry": 22.959999084472656,
     "position_fraction": 0.1521969232180846
+  },
+  "ANT": {
+    "in_position": false
+  },
+  "LYG": {
+    "in_position": false
   }
 }
