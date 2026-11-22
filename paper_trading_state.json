@@ -31,7 +31,11 @@
     "position_fraction": 0.21282923254282296
   },
   "PYPL": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 53.316645915985106,
+    "entry_date": "2026-11-20",
+    "highest_since_entry": 53.290000915527344,
+    "position_fraction": 0.20762821250856667
   },
   "INTC": {
     "in_position": false
