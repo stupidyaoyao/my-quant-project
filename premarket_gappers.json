@@ -1,56 +1,134 @@
 {
-  "scanned_at": "2026-11-20 19:55:48",
+  "scanned_at": "2026-11-23 23:44:45",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "GAP",
-      "price": 20.95,
-      "gap_pct": 11.47,
-      "premarket_volume": 20868854,
+      "symbol": "NVDA",
+      "price": 165.05,
+      "gap_pct": 31.48,
+      "premarket_volume": 776225888,
       "is_premarket_data": false,
-      "catalyst": "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
+      "catalyst": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
       "headlines": [
-        "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
-        "Gap CEO: 'Consumer is resilient but discerning'"
+        "Jensen Huang is back: Does Washington have a seat in the boardroom?",
+        "Ex-Nvidia employee: 'Stability and accountability can coexist'"
       ]
     },
     {
       "rank": 2,
-      "symbol": "GPN",
-      "price": 91.63,
-      "gap_pct": 9.71,
-      "premarket_volume": 6212967,
+      "symbol": "KYMR",
+      "price": 150.37,
+      "gap_pct": 30.4,
+      "premarket_volume": 7824537,
       "is_premarket_data": false,
-      "catalyst": "Global Payments shares jump on report of $50B GTCR deal",
+      "catalyst": "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
       "headlines": [
-        "Global Payments shares jump on report of $50B GTCR deal",
-        "Visa Targets Secure AI Agent Payments Through Expanded Industry Partnership"
+        "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
+        "Kymera Surges 30%-Plus As It Takes On $18 Billion Blockbuster Dupixent"
       ]
     },
     {
       "rank": 3,
-      "symbol": "BKE",
-      "price": 44.46,
-      "gap_pct": 6.41,
-      "premarket_volume": 432024,
+      "symbol": "AXTI",
+      "price": 38.02,
+      "gap_pct": 24.37,
+      "premarket_volume": 14983161,
       "is_premarket_data": false,
-      "catalyst": "Buckle (BKE) Q3 2026 Earnings Call Transcript",
+      "catalyst": "3 Top AI Stocks To Watch With Up To 43% Revenue Growth",
       "headlines": [
-        "Buckle (BKE) Q3 2026 Earnings Call Transcript",
-        "Buckle Q3 Earnings Call Highlights"
+        "3 Top AI Stocks To Watch With Up To 43% Revenue Growth",
+        "Can AXTI Convert Its $500M InP Backlog Into Sustained Revenue Growth?"
       ]
     },
     {
       "rank": 4,
-      "symbol": "PLMR",
-      "price": 165.36,
-      "gap_pct": 5.54,
-      "premarket_volume": 263067,
+      "symbol": "IREN",
+      "price": 14.64,
+      "gap_pct": 23.86,
+      "premarket_volume": 124604189,
       "is_premarket_data": false,
-      "catalyst": "Insurer Tops Alternative Buy Point As Investors Play Defense",
+      "catalyst": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
       "headlines": [
-        "Insurer Tops Alternative Buy Point As Investors Play Defense",
-        "Can PLMR Balance Rapid Premium Growth With Underwriting Discipline?"
+        "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
+        "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade"
+      ]
+    },
+    {
+      "rank": 5,
+      "symbol": "ALAB",
+      "price": 222.12,
+      "gap_pct": 23.16,
+      "premarket_volume": 8449583,
+      "is_premarket_data": false,
+      "catalyst": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls (Live Coverage)",
+      "headlines": [
+        "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls (Live Coverage)",
+        "What Sent Astera Labs Stock Lower?"
+      ]
+    },
+    {
+      "rank": 6,
+      "symbol": "CRDO",
+      "price": 122.46,
+      "gap_pct": 22.63,
+      "premarket_volume": 10485909,
+      "is_premarket_data": false,
+      "catalyst": "5 Stocks Up 20% Or More on Monday Following NVIDIA CEO Jensen Huang’s Return",
+      "headlines": [
+        "5 Stocks Up 20% Or More on Monday Following NVIDIA CEO Jensen Huang’s Return",
+        "Credo Technology’s AI rebound potential versus Broadcom"
+      ]
+    },
+    {
+      "rank": 7,
+      "symbol": "CRWV",
+      "price": 48.33,
+      "gap_pct": 22.32,
+      "premarket_volume": 94607762,
+      "is_premarket_data": false,
+      "catalyst": "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
+      "headlines": [
+        "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
+        "Jensen Huang back at Nvidia, stock soars; Anthropic slides"
+      ]
+    },
+    {
+      "rank": 8,
+      "symbol": "SITM",
+      "price": 438.82,
+      "gap_pct": 21.48,
+      "premarket_volume": 1050818,
+      "is_premarket_data": false,
+      "catalyst": "SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday",
+      "headlines": [
+        "SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday",
+        "Cognex Sees More Margin Upside, Targets Deeper Customer Ties in 2027"
+      ]
+    },
+    {
+      "rank": 9,
+      "symbol": "MXL",
+      "price": 50.31,
+      "gap_pct": 21.38,
+      "premarket_volume": 3377286,
+      "is_premarket_data": false,
+      "catalyst": "MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday",
+      "headlines": [
+        "MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday",
+        "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News"
+      ]
+    },
+    {
+      "rank": 10,
+      "symbol": "ASX",
+      "price": 31.88,
+      "gap_pct": 21.36,
+      "premarket_volume": 19092402,
+      "is_premarket_data": false,
+      "catalyst": "Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading",
+      "headlines": [
+        "Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading",
+        "UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout"
       ]
     }
   ]
