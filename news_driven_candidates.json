@@ -1,30 +1,36 @@
 {
-  "scanned_at": "2026-11-20 19:35:57",
+  "scanned_at": "2026-11-23 23:21:41",
   "news_count": 30,
   "candidates": [
     {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 4,
-      "example_headline": "Why the markets are being hit with a 'perfect storm' for AI"
+      "mention_count": 20,
+      "example_headline": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO"
     },
     {
-      "symbol": "WMT",
-      "company_name": "Walmart",
-      "mention_count": 3,
-      "example_headline": "Stock Market Today: Nasdaq Turns Negative For 2026 As Fear Gauge Spikes; Walmart Advances (Live Coverage)"
-    },
-    {
-      "symbol": "AMD",
-      "company_name": "Advanced Micro Devices",
+      "symbol": "CRWD",
+      "company_name": "CrowdStrike",
       "mention_count": 2,
-      "example_headline": "Why the markets are being hit with a 'perfect storm' for AI"
+      "example_headline": "Why CrowdStrike Stock Was Down Today"
     },
     {
-      "symbol": "BRK-B",
-      "company_name": "Berkshire Hathaway",
+      "symbol": "INTC",
+      "company_name": "Intel",
       "mention_count": 1,
-      "example_headline": "Berkshire Hathaway Is Up 14% in 2026 While the NASDAQ 100 Has Gone Nowhere. Is It Time to Dump Tech Stocks and Buy Berkshire?"
+      "example_headline": "U.S. Stocks Jump as Huang Return Triggers AI Rally"
+    },
+    {
+      "symbol": "BA",
+      "company_name": "Boeing",
+      "mention_count": 1,
+      "example_headline": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls (Live Coverage)"
+    },
+    {
+      "symbol": "CME",
+      "company_name": "CME Group",
+      "mention_count": 1,
+      "example_headline": "Nasdaq futures tripped a circuit breaker built for market crashes as Jensen Huang returned to Nvidia"
     }
   ]
 }
