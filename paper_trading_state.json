@@ -20,21 +20,17 @@
     "in_position": true,
     "entry_price": 484.7622490081787,
     "entry_date": "2026-11-20",
-    "highest_since_entry": 484.5199890136719,
+    "highest_since_entry": 492.5,
     "position_fraction": 0.17326749024463392
   },
   "XOM": {
-    "in_position": true,
-    "entry_price": 165.9529301147461,
-    "entry_date": "2026-11-06",
-    "highest_since_entry": 170.58999633789062,
-    "position_fraction": 0.21282923254282296
+    "in_position": false
   },
   "PYPL": {
     "in_position": true,
     "entry_price": 53.316645915985106,
     "entry_date": "2026-11-20",
-    "highest_since_entry": 53.290000915527344,
+    "highest_since_entry": 55.2400016784668,
     "position_fraction": 0.20762821250856667
   },
   "INTC": {
@@ -270,7 +266,11 @@
     "position_fraction": 0.13914327015969705
   },
   "GRAB": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 2.8114049427509307,
+    "entry_date": "2026-11-23",
+    "highest_since_entry": 2.809999942779541,
+    "position_fraction": 0.12371068207015543
   },
   "AMC": {
     "in_position": true,
@@ -737,7 +737,7 @@
     "in_position": true,
     "entry_price": 7.633815114498138,
     "entry_date": "2026-10-15",
-    "highest_since_entry": 7.670000076293945,
+    "highest_since_entry": 7.71999979019165,
     "position_fraction": 0.1713919305672948
   },
   "BRZE": {
