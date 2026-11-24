@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-23 23:44:45",
+  "scanned_at": "2026-11-24 22:16:25",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "NVDA",
-      "price": 165.05,
-      "gap_pct": 31.48,
-      "premarket_volume": 776225888,
+      "symbol": "AMTM",
+      "price": 24.8,
+      "gap_pct": 20.1,
+      "premarket_volume": 10302559,
       "is_premarket_data": false,
-      "catalyst": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
+      "catalyst": "Amentum (AMTM) Q4 2026 Earnings Call Transcript",
       "headlines": [
-        "Jensen Huang is back: Does Washington have a seat in the boardroom?",
-        "Ex-Nvidia employee: 'Stability and accountability can coexist'"
+        "Amentum (AMTM) Q4 2026 Earnings Call Transcript",
+        "What Amentum (AMTM) Said on Its Q4 Earnings Call"
       ]
     },
     {
       "rank": 2,
-      "symbol": "KYMR",
-      "price": 150.37,
-      "gap_pct": 30.4,
-      "premarket_volume": 7824537,
+      "symbol": "ANF",
+      "price": 168.1,
+      "gap_pct": 19.69,
+      "premarket_volume": 4697649,
       "is_premarket_data": false,
-      "catalyst": "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
+      "catalyst": "Abercrombie (ANF) Q3 2026 Earnings Call Transcript",
       "headlines": [
-        "IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught",
-        "Kymera Surges 30%-Plus As It Takes On $18 Billion Blockbuster Dupixent"
+        "Abercrombie (ANF) Q3 2026 Earnings Call Transcript",
+        "Abercrombie & Fitch Co. Q3 2026 Earnings Call Summary"
       ]
     },
     {
       "rank": 3,
-      "symbol": "AXTI",
-      "price": 38.02,
-      "gap_pct": 24.37,
-      "premarket_volume": 14983161,
+      "symbol": "KSS",
+      "price": 25.33,
+      "gap_pct": 19.48,
+      "premarket_volume": 11531246,
       "is_premarket_data": false,
-      "catalyst": "3 Top AI Stocks To Watch With Up To 43% Revenue Growth",
+      "catalyst": "Kohl's stock soars after retailer posts sales growth for first time in 4 years",
       "headlines": [
-        "3 Top AI Stocks To Watch With Up To 43% Revenue Growth",
-        "Can AXTI Convert Its $500M InP Backlog Into Sustained Revenue Growth?"
+        "Kohl's stock soars after retailer posts sales growth for first time in 4 years",
+        "Stocks give back gains as Anthropic dips below IPO price"
       ]
     },
     {
       "rank": 4,
-      "symbol": "IREN",
-      "price": 14.64,
-      "gap_pct": 23.86,
-      "premarket_volume": 124604189,
+      "symbol": "CELC",
+      "price": 68.02,
+      "gap_pct": 18.48,
+      "premarket_volume": 1825469,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
+      "catalyst": "Celcuity (CELC) Stock Is Up 11.0% Today Without Company News",
       "headlines": [
-        "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
-        "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade"
+        "Celcuity (CELC) Stock Is Up 11.0% Today Without Company News",
+        "How FDA Review Acceptance At Celcuity (CELC) Has Changed Its Investment Story"
       ]
     },
     {
       "rank": 5,
-      "symbol": "ALAB",
-      "price": 222.12,
-      "gap_pct": 23.16,
-      "premarket_volume": 8449583,
+      "symbol": "COGT",
+      "price": 33.01,
+      "gap_pct": 17.43,
+      "premarket_volume": 7106000,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls (Live Coverage)",
+      "catalyst": "COGT Stock Heads For Best Session In Over A Year After FDA Approves Gastrointestinal Cancer Drug",
       "headlines": [
-        "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls (Live Coverage)",
-        "What Sent Astera Labs Stock Lower?"
+        "COGT Stock Heads For Best Session In Over A Year After FDA Approves Gastrointestinal Cancer Drug",
+        "Cogent Biosciences stock surges on FDA approval of EKITNA"
       ]
     },
     {
       "rank": 6,
-      "symbol": "CRDO",
-      "price": 122.46,
-      "gap_pct": 22.63,
-      "premarket_volume": 10485909,
+      "symbol": "NAMS",
+      "price": 24.45,
+      "gap_pct": 16.93,
+      "premarket_volume": 3710647,
       "is_premarket_data": false,
-      "catalyst": "5 Stocks Up 20% Or More on Monday Following NVIDIA CEO Jensen Huang’s Return",
+      "catalyst": "NewAmsterdam Pharma (NAMS) Stock Is Soaring 17.9% Today: Biotech Rally",
       "headlines": [
-        "5 Stocks Up 20% Or More on Monday Following NVIDIA CEO Jensen Huang’s Return",
-        "Credo Technology’s AI rebound potential versus Broadcom"
+        "NewAmsterdam Pharma (NAMS) Stock Is Soaring 17.9% Today: Biotech Rally",
+        "NewAmsterdam Pharma (NAMS) Stock Is Up 12.4% Today Without Company News"
       ]
     },
     {
       "rank": 7,
-      "symbol": "CRWV",
-      "price": 48.33,
-      "gap_pct": 22.32,
-      "premarket_volume": 94607762,
+      "symbol": "STOK",
+      "price": 32.84,
+      "gap_pct": 16.74,
+      "premarket_volume": 1619697,
       "is_premarket_data": false,
-      "catalyst": "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
+      "catalyst": "Why Is Stoke (STOK) Stock Up Today? Biotech Rally on Insmed Deal",
       "headlines": [
-        "CoreWeave, Nebius lead neocloud stocks higher as Jensen Huang's Nvidia return lifts AI trade",
-        "Jensen Huang back at Nvidia, stock soars; Anthropic slides"
+        "Why Is Stoke (STOK) Stock Up Today? Biotech Rally on Insmed Deal",
+        "Stoke Therapeutics: 3 Key Takeaways for Long-Term Investors"
       ]
     },
     {
       "rank": 8,
-      "symbol": "SITM",
-      "price": 438.82,
-      "gap_pct": 21.48,
-      "premarket_volume": 1050818,
+      "symbol": "KYMR",
+      "price": 173.92,
+      "gap_pct": 15.66,
+      "premarket_volume": 6518871,
       "is_premarket_data": false,
-      "catalyst": "SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday",
+      "catalyst": "Top Midday Gainers",
       "headlines": [
-        "SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday",
-        "Cognex Sees More Margin Upside, Targets Deeper Customer Ties in 2027"
+        "Top Midday Gainers",
+        "GILD, KYMR Stocks Hit Record Highs – Wall Street Backs Gilead's Resilience, Kymera's Eczema Data"
       ]
     },
     {
       "rank": 9,
-      "symbol": "MXL",
-      "price": 50.31,
-      "gap_pct": 21.38,
-      "premarket_volume": 3377286,
+      "symbol": "IRON",
+      "price": 88.34,
+      "gap_pct": 15.3,
+      "premarket_volume": 946006,
       "is_premarket_data": false,
-      "catalyst": "MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday",
+      "catalyst": "Disc Medicine (IRON) Stock Is Up 8.5% Today Without Company News",
       "headlines": [
-        "MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday",
-        "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News"
+        "Disc Medicine (IRON) Stock Is Up 8.5% Today Without Company News",
+        "Disc Medicine, Inc. (IRON) Upgraded to Buy: Here's What You Should Know"
       ]
     },
     {
       "rank": 10,
-      "symbol": "ASX",
-      "price": 31.88,
-      "gap_pct": 21.36,
-      "premarket_volume": 19092402,
+      "symbol": "DKS",
+      "price": 153.17,
+      "gap_pct": 14.59,
+      "premarket_volume": 5759236,
       "is_premarket_data": false,
-      "catalyst": "Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading",
+      "catalyst": "Stocks give back gains as Anthropic dips below IPO price",
       "headlines": [
-        "Asian Equities Traded in the US as American Depositary Receipts Soar in Monday Trading",
-        "UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout"
+        "Stocks give back gains as Anthropic dips below IPO price",
+        "Why Five Below (FIVE) Stock Is Up Today: Strong Retail Earnings Lift Peers"
       ]
     }
   ]
