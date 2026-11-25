@@ -1,42 +1,24 @@
 {
-  "scanned_at": "2026-11-24 21:54:15",
+  "scanned_at": "2026-11-25 21:00:44",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "NVDA",
-      "company_name": "Nvidia",
-      "mention_count": 14,
-      "example_headline": "Update: Wall Street Mixed as AI Concerns Drive Nvidia, Anthropic Sell-Off"
-    },
-    {
-      "symbol": "EQT",
-      "company_name": "EQT Corporation",
-      "mention_count": 1,
-      "example_headline": "Gas Prices Are Weak, but EQT (EQT) Made Our List of Dirt-Cheap Stocks for 2027"
-    },
-    {
-      "symbol": "KMB",
-      "company_name": "Kimberly-Clark",
-      "mention_count": 1,
-      "example_headline": "Revenue Jump Without Selling More Diapers? Why Kimberly-Clark (KMB) Looks Cheap for 2027"
-    },
-    {
-      "symbol": "STT",
-      "company_name": "State Street Corporation",
-      "mention_count": 1,
-      "example_headline": "Sector Update: Energy Stocks Advance Late Afternoon"
+      "symbol": "ANET",
+      "company_name": "Arista Networks",
+      "mention_count": 2,
+      "example_headline": "Did Arista Networks Stock Fall On Its Own?"
     },
     {
       "symbol": "NDAQ",
       "company_name": "Nasdaq, Inc.",
-      "mention_count": 1,
-      "example_headline": "Nasdaq, S&P 500 end lower following Monday's Nvidia-fueled rally"
+      "mention_count": 2,
+      "example_headline": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains"
     },
     {
-      "symbol": "ABBV",
-      "company_name": "AbbVie",
+      "symbol": "QCOM",
+      "company_name": "Qualcomm",
       "mention_count": 1,
-      "example_headline": "Why Is AbbVie (ABBV) Stock Up Today? Health Care Rally as Tech Slides"
+      "example_headline": "What Sent Qualcomm Stock Higher?"
     }
   ]
 }
