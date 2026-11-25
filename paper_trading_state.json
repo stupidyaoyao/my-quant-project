@@ -20,17 +20,21 @@
     "in_position": true,
     "entry_price": 484.7622490081787,
     "entry_date": "2026-11-20",
-    "highest_since_entry": 492.5,
+    "highest_since_entry": 496.1300048828125,
     "position_fraction": 0.17326749024463392
   },
   "XOM": {
-    "in_position": false
+    "in_position": true,
+    "entry_price": 158.30911072540283,
+    "entry_date": "2026-11-24",
+    "highest_since_entry": 158.22999572753906,
+    "position_fraction": 0.271722510135306
   },
   "PYPL": {
     "in_position": true,
     "entry_price": 53.316645915985106,
     "entry_date": "2026-11-20",
-    "highest_since_entry": 55.2400016784668,
+    "highest_since_entry": 56.16999816894531,
     "position_fraction": 0.20762821250856667
   },
   "INTC": {
@@ -99,11 +103,7 @@
     "in_position": false
   },
   "RIG": {
-    "in_position": true,
-    "entry_price": 5.452724809169769,
-    "entry_date": "2026-11-04",
-    "highest_since_entry": 5.449999809265137,
-    "position_fraction": 0.10619344515213443
+    "in_position": false
   },
   "RIVN": {
     "in_position": false
@@ -177,11 +177,7 @@
     "position_fraction": 0.09178422466429231
   },
   "HL": {
-    "in_position": true,
-    "entry_price": 17.018505228996275,
-    "entry_date": "2026-09-28",
-    "highest_since_entry": 17.149999618530273,
-    "position_fraction": 0.11307690186326458
+    "in_position": false
   },
   "ATAI": {
     "in_position": true,
@@ -868,5 +864,12 @@
   },
   "SNDK": {
     "in_position": false
+  },
+  "INSM": {
+    "in_position": true,
+    "entry_price": 170.2350688934326,
+    "entry_date": "2026-11-24",
+    "highest_since_entry": 170.14999389648438,
+    "position_fraction": 0.13745925139386314
   }
 }
