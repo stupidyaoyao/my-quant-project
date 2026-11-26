@@ -1,17 +1,17 @@
 {
-  "scanned_at": "2026-11-25 21:32:07",
+  "scanned_at": "2026-11-26 21:19:56",
   "gappers": [
     {
       "rank": 1,
       "symbol": "BZ",
       "price": 14.34,
       "gap_pct": 12.56,
-      "premarket_volume": 8339725,
+      "premarket_volume": 8340953,
       "is_premarket_data": false,
-      "catalyst": "Stock Market Today: Huangover Is Causing Headache for Tech Stocks",
+      "catalyst": "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback",
       "headlines": [
-        "Stock Market Today: Huangover Is Causing Headache for Tech Stocks",
-        "KANZHUN Q3 Earnings Call Highlights"
+        "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback",
+        "Kanzhun Ltd. (BZ) Gets a Major Lift From $900M Initiative"
       ]
     },
     {
@@ -19,12 +19,12 @@
       "symbol": "HPQ",
       "price": 31.15,
       "gap_pct": 11.49,
-      "premarket_volume": 38999995,
+      "premarket_volume": 39060684,
       "is_premarket_data": false,
-      "catalyst": "HPQ earnings analysis: questions answered and next catalysts",
+      "catalyst": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
       "headlines": [
-        "HPQ earnings analysis: questions answered and next catalysts",
-        "Chips and iPhones Are Safe From New Tariffs. Here’s What Isn’t."
+        "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
+        "HP Stock Earnings Beat Has The Bull Case Changed?"
       ]
     },
     {
@@ -32,12 +32,12 @@
       "symbol": "LI",
       "price": 11.88,
       "gap_pct": 11.03,
-      "premarket_volume": 10474612,
+      "premarket_volume": 10477747,
       "is_premarket_data": false,
-      "catalyst": "Li Auto earnings analysis: questions answered and next catalysts",
+      "catalyst": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
       "headlines": [
-        "Li Auto earnings analysis: questions answered and next catalysts",
-        "Li (LI) Q3 2026 Earnings Call Transcript"
+        "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+        "Li Auto (LI) Scores Double-Digit Gains on Key Achievement"
       ]
     },
     {
@@ -45,12 +45,12 @@
       "symbol": "ASTS",
       "price": 26.02,
       "gap_pct": 10.25,
-      "premarket_volume": 26214990,
+      "premarket_volume": 26322800,
       "is_premarket_data": false,
-      "catalyst": "AST SpaceMobile Surges 9%, Erasing Early Losses as Space Stocks Diverge; SpaceX Eases, Rocket Lab Holds Steady",
+      "catalyst": "SpaceX Just Slid 11% in a Week. Can Elon Musk’s FCC Win for 1 Million Satellites Get SPCX Stock Back Above Its $135 IPO Price?",
       "headlines": [
-        "AST SpaceMobile Surges 9%, Erasing Early Losses as Space Stocks Diverge; SpaceX Eases, Rocket Lab Holds Steady",
-        "AST SpaceMobile Issued 10 Million Shares to Firefly. What Does That Buy?"
+        "SpaceX Just Slid 11% in a Week. Can Elon Musk’s FCC Win for 1 Million Satellites Get SPCX Stock Back Above Its $135 IPO Price?",
+        "AST SpaceMobile Is Still Down 64% in 2026. Can Insider Buying and a B. Riley Upgrade Get ASTS Stock Back to $40?"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "symbol": "CAR",
       "price": 141.82,
       "gap_pct": 9.62,
-      "premarket_volume": 607616,
+      "premarket_volume": 609281,
       "is_premarket_data": false,
       "catalyst": "Avis Budget (CAR) Stock Is Up 7.7% Today Without Company News",
       "headlines": [
@@ -71,12 +71,12 @@
       "symbol": "DKNG",
       "price": 17.65,
       "gap_pct": 9.56,
-      "premarket_volume": 17197862,
+      "premarket_volume": 17264172,
       "is_premarket_data": false,
-      "catalyst": "DraftKings (DKNG) Stock Is Up 8.1% Today as Gambling Peers Rise",
+      "catalyst": "Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?",
       "headlines": [
-        "DraftKings (DKNG) Stock Is Up 8.1% Today as Gambling Peers Rise",
-        "Codere Online (CDRO) Stock Is Up 7.4% Today Without Company News"
+        "Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?",
+        "Is DraftKings Stock Worth Buying at Its Lower Sales Multiple Today?"
       ]
     },
     {
@@ -84,12 +84,12 @@
       "symbol": "COGT",
       "price": 36.08,
       "gap_pct": 9.3,
-      "premarket_volume": 6124156,
+      "premarket_volume": 6127264,
       "is_premarket_data": false,
-      "catalyst": "Cogent Biosciences (COGT) Stock Is Up 6.7% Today Without Company News",
+      "catalyst": "Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?",
       "headlines": [
-        "Cogent Biosciences (COGT) Stock Is Up 6.7% Today Without Company News",
-        "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head"
+        "Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?",
+        "Cogent Biosciences (COGT) Stock Is Up 6.7% Today Without Company News"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "RH",
       "price": 112.42,
       "gap_pct": 8.67,
-      "premarket_volume": 1039490,
+      "premarket_volume": 1039764,
       "is_premarket_data": false,
       "catalyst": "RH (RH) Stock Is Up 9.0% Today Without Company News",
       "headlines": [
@@ -110,12 +110,12 @@
       "symbol": "QXO",
       "price": 11.97,
       "gap_pct": 8.62,
-      "premarket_volume": 28441391,
+      "premarket_volume": 28441961,
       "is_premarket_data": false,
-      "catalyst": "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks",
+      "catalyst": "QXO Inc. (QXO) Gets 9% Boost From Wall Street",
       "headlines": [
-        "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks",
-        "What BTIG Sees in QXO (QXO) Beyond Housing"
+        "QXO Inc. (QXO) Gets 9% Boost From Wall Street",
+        "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks"
       ]
     },
     {
@@ -123,12 +123,12 @@
       "symbol": "CHTR",
       "price": 147.27,
       "gap_pct": 8.39,
-      "premarket_volume": 3684111,
+      "premarket_volume": 3685739,
       "is_premarket_data": false,
-      "catalyst": "The Biggest Earnings Winners Grind Dell And Sandisk Into The Dust",
+      "catalyst": "Why Charter Communications Stock Is Back In Focus After $2 Billion Cost Saving Plan",
       "headlines": [
-        "The Biggest Earnings Winners Grind Dell And Sandisk Into The Dust",
-        "Charter Communications (CHTR) Stock Is Up 7.4% Today Without Company News"
+        "Why Charter Communications Stock Is Back In Focus After $2 Billion Cost Saving Plan",
+        "Charter Communications (CHTR) Jumps After Cox Deal, Is It Still Cheap?"
       ]
     }
   ]
