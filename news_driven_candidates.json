@@ -1,66 +1,54 @@
 {
-  "scanned_at": "2026-11-26 20:54:11",
+  "scanned_at": "2026-11-27 20:39:57",
   "news_count": 30,
   "candidates": [
     {
-      "symbol": "TGT",
-      "company_name": "Target Corporation",
-      "mention_count": 3,
-      "example_headline": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target"
-    },
-    {
-      "symbol": "INTU",
-      "company_name": "Intuit",
-      "mention_count": 1,
-      "example_headline": "Intuitive Surgical, Inc. (ISRG)’s Recurring Revenue and da Vinci 5 Platform Support Its 2027 Outlook"
-    },
-    {
-      "symbol": "ISRG",
-      "company_name": "Intuitive Surgical",
-      "mention_count": 1,
-      "example_headline": "Intuitive Surgical, Inc. (ISRG)’s Recurring Revenue and da Vinci 5 Platform Support Its 2027 Outlook"
-    },
-    {
-      "symbol": "ABBV",
-      "company_name": "AbbVie",
-      "mention_count": 1,
-      "example_headline": "AbbVie Inc. (ABBV) Is Moving Beyond Humira. Is ABBV Stock a Buy for 2027?"
-    },
-    {
-      "symbol": "VRTX",
-      "company_name": "Vertex Pharmaceuticals",
-      "mention_count": 1,
-      "example_headline": "Vertex Pharmaceuticals Incorporated (VRTX) CF Dominance and Pipeline Strengthen Investment Outlook"
-    },
-    {
-      "symbol": "ABT",
-      "company_name": "Abbott Laboratories",
-      "mention_count": 1,
-      "example_headline": "Abbott Laboratories (ABT) Offers Diversified Healthcare Exposure and Long-Term Growth Potential"
-    },
-    {
-      "symbol": "CVX",
-      "company_name": "Chevron Corporation",
-      "mention_count": 1,
-      "example_headline": "Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim"
-    },
-    {
-      "symbol": "AMGN",
-      "company_name": "Amgen",
-      "mention_count": 1,
-      "example_headline": "Dow Investors Chased Tech Swings—While Amgen Quietly Surged 77%"
-    },
-    {
       "symbol": "NVDA",
       "company_name": "Nvidia",
-      "mention_count": 1,
-      "example_headline": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger"
+      "mention_count": 5,
+      "example_headline": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back"
     },
     {
-      "symbol": "AAPL",
-      "company_name": "Apple Inc.",
+      "symbol": "V",
+      "company_name": "Visa Inc.",
       "mention_count": 1,
-      "example_headline": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker"
+      "example_headline": "What Is The One Risk Facing Visa Stock Now?"
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel",
+      "mention_count": 1,
+      "example_headline": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street"
+    },
+    {
+      "symbol": "DELL",
+      "company_name": "Dell Technologies",
+      "mention_count": 1,
+      "example_headline": "Jim Cramer Named His Buy-the-Dip Price for Dell Stock"
+    },
+    {
+      "symbol": "APH",
+      "company_name": "Amphenol",
+      "mention_count": 1,
+      "example_headline": "Why Jim Cramer Favors Corning Over Amphenol for Fiber"
+    },
+    {
+      "symbol": "GLW",
+      "company_name": "Corning Inc.",
+      "mention_count": 1,
+      "example_headline": "Why Jim Cramer Favors Corning Over Amphenol for Fiber"
+    },
+    {
+      "symbol": "AKAM",
+      "company_name": "Akamai Technologies",
+      "mention_count": 1,
+      "example_headline": "Jim Cramer Backs Akamai Stock as Anthropic Spending Comes First"
+    },
+    {
+      "symbol": "Q",
+      "company_name": "Qnity Electronics",
+      "mention_count": 1,
+      "example_headline": "Jim Cramer’s Case for Qnity Electronics Goes Beyond AI"
     }
   ]
 }
