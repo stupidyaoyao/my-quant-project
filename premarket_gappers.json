@@ -1,134 +1,134 @@
 {
-  "scanned_at": "2026-11-26 21:19:56",
+  "scanned_at": "2026-11-27 21:00:37",
   "gappers": [
     {
       "rank": 1,
-      "symbol": "BZ",
-      "price": 14.34,
-      "gap_pct": 12.56,
-      "premarket_volume": 8340953,
+      "symbol": "XP",
+      "price": 16.99,
+      "gap_pct": 18.07,
+      "premarket_volume": 23853140,
       "is_premarket_data": false,
-      "catalyst": "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback",
+      "catalyst": "XP: 3 Key Takeaways for Long-Term Investors",
       "headlines": [
-        "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback",
-        "Kanzhun Ltd. (BZ) Gets a Major Lift From $900M Initiative"
+        "XP: 3 Key Takeaways for Long-Term Investors",
+        "XP (XP) Stock Jumps 19.5% Premarket Without Company News"
       ]
     },
     {
       "rank": 2,
-      "symbol": "HPQ",
-      "price": 31.15,
-      "gap_pct": 11.49,
-      "premarket_volume": 39060684,
+      "symbol": "IQMX",
+      "price": 7.76,
+      "gap_pct": 17.58,
+      "premarket_volume": 955686,
       "is_premarket_data": false,
-      "catalyst": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
+      "catalyst": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
       "headlines": [
-        "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target",
-        "HP Stock Earnings Beat Has The Bull Case Changed?"
+        "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers",
+        "IQM Quantum Computers Oyj (HLSE:IQMX) Could Be 48% Above Fair Value On Q3 Results"
       ]
     },
     {
       "rank": 3,
-      "symbol": "LI",
-      "price": 11.88,
-      "gap_pct": 11.03,
-      "premarket_volume": 10477747,
+      "symbol": "VERA",
+      "price": 34.26,
+      "gap_pct": 16.14,
+      "premarket_volume": 2803036,
       "is_premarket_data": false,
-      "catalyst": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+      "catalyst": "Review Delay May Give Vera Therapeutics Stock More Time To Build TRUTAKNA Share",
       "headlines": [
-        "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
-        "Li Auto (LI) Scores Double-Digit Gains on Key Achievement"
+        "Review Delay May Give Vera Therapeutics Stock More Time To Build TRUTAKNA Share",
+        "Here's Why Vera Therapeutics Stock Surged Today (Hint: It's Not Great News For Vertex Shareholders)"
       ]
     },
     {
       "rank": 4,
-      "symbol": "ASTS",
-      "price": 26.02,
-      "gap_pct": 10.25,
-      "premarket_volume": 26322800,
+      "symbol": "SNDK",
+      "price": 85.36,
+      "gap_pct": 15.96,
+      "premarket_volume": 96234051,
       "is_premarket_data": false,
-      "catalyst": "SpaceX Just Slid 11% in a Week. Can Elon Musk’s FCC Win for 1 Million Satellites Get SPCX Stock Back Above Its $135 IPO Price?",
+      "catalyst": "How Leopold Aschenbrenner made a $225 million bet on AI infrastructure",
       "headlines": [
-        "SpaceX Just Slid 11% in a Week. Can Elon Musk’s FCC Win for 1 Million Satellites Get SPCX Stock Back Above Its $135 IPO Price?",
-        "AST SpaceMobile Is Still Down 64% in 2026. Can Insider Buying and a B. Riley Upgrade Get ASTS Stock Back to $40?"
+        "How Leopold Aschenbrenner made a $225 million bet on AI infrastructure",
+        "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years"
       ]
     },
     {
       "rank": 5,
-      "symbol": "CAR",
-      "price": 141.82,
-      "gap_pct": 9.62,
-      "premarket_volume": 609281,
+      "symbol": "AYA",
+      "price": 22.84,
+      "gap_pct": 15.01,
+      "premarket_volume": 1284061,
       "is_premarket_data": false,
-      "catalyst": "Avis Budget (CAR) Stock Is Up 7.7% Today Without Company News",
+      "catalyst": "Is Aya Gold & Silver (TSX:AYA) Above Fair Value After A 176% Run?",
       "headlines": [
-        "Avis Budget (CAR) Stock Is Up 7.7% Today Without Company News",
-        "Can Avis Budget Stock Jump 50%?"
+        "Is Aya Gold & Silver (TSX:AYA) Above Fair Value After A 176% Run?",
+        "Aya Gold & Silver (TSX:AYA) Lifted 2026 Guidance, Is It A Bargain?"
       ]
     },
     {
       "rank": 6,
-      "symbol": "DKNG",
-      "price": 17.65,
-      "gap_pct": 9.56,
-      "premarket_volume": 17264172,
+      "symbol": "COHR",
+      "price": 223.79,
+      "gap_pct": 14.07,
+      "premarket_volume": 6972190,
       "is_premarket_data": false,
-      "catalyst": "Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?",
+      "catalyst": "Coherent Jumps 12% as Optical Stocks Rebound From Wednesday’s AI Selloff; Applied Optoelectronics and Lumentum Rise 7%",
       "headlines": [
-        "Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?",
-        "Is DraftKings Stock Worth Buying at Its Lower Sales Multiple Today?"
+        "Coherent Jumps 12% as Optical Stocks Rebound From Wednesday’s AI Selloff; Applied Optoelectronics and Lumentum Rise 7%",
+        "Anthropic Stock Jumps to Reveal Its True Place in the AI Trade"
       ]
     },
     {
       "rank": 7,
-      "symbol": "COGT",
-      "price": 36.08,
-      "gap_pct": 9.3,
-      "premarket_volume": 6127264,
+      "symbol": "AXTI",
+      "price": 36.37,
+      "gap_pct": 13.73,
+      "premarket_volume": 7942651,
       "is_premarket_data": false,
-      "catalyst": "Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?",
+      "catalyst": "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
       "headlines": [
-        "Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?",
-        "Cogent Biosciences (COGT) Stock Is Up 6.7% Today Without Company News"
+        "Bet on 3 Momentum Anomaly Stocks Amid NVIDIA Volte-Face, Tariff Threat",
+        "3 Great Automation Stocks To Own In November 2026"
       ]
     },
     {
       "rank": 8,
-      "symbol": "RH",
-      "price": 112.42,
-      "gap_pct": 8.67,
-      "premarket_volume": 1039764,
+      "symbol": "ELPC",
+      "price": 11.71,
+      "gap_pct": 13.36,
+      "premarket_volume": 565218,
       "is_premarket_data": false,
-      "catalyst": "RH (RH) Stock Is Up 9.0% Today Without Company News",
+      "catalyst": "Has Companhia Paranaense de Energia - Copel Unsponsored ADR (ELPC) Outpaced Other Utilities Stocks This Year?",
       "headlines": [
-        "RH (RH) Stock Is Up 9.0% Today Without Company News",
-        "RH (RH) Suffers a Larger Drop Than the General Market: Key Insights"
+        "Has Companhia Paranaense de Energia - Copel Unsponsored ADR (ELPC) Outpaced Other Utilities Stocks This Year?",
+        "Copel CEO Daniel Slaviero Talks Its Renewable Abilities Before Its Investor Day"
       ]
     },
     {
       "rank": 9,
-      "symbol": "QXO",
-      "price": 11.97,
-      "gap_pct": 8.62,
-      "premarket_volume": 28441961,
+      "symbol": "SA",
+      "price": 21.52,
+      "gap_pct": 13.32,
+      "premarket_volume": 789760,
       "is_premarket_data": false,
-      "catalyst": "QXO Inc. (QXO) Gets 9% Boost From Wall Street",
+      "catalyst": "Basic Materials Roundup: Market Talk",
       "headlines": [
-        "QXO Inc. (QXO) Gets 9% Boost From Wall Street",
-        "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks"
+        "Basic Materials Roundup: Market Talk",
+        "Fund Trims and Adds Seabridge Gold (SA) on Volatility"
       ]
     },
     {
       "rank": 10,
-      "symbol": "CHTR",
-      "price": 147.27,
-      "gap_pct": 8.39,
-      "premarket_volume": 3685739,
+      "symbol": "SKE",
+      "price": 29.14,
+      "gap_pct": 12.38,
+      "premarket_volume": 428445,
       "is_premarket_data": false,
-      "catalyst": "Why Charter Communications Stock Is Back In Focus After $2 Billion Cost Saving Plan",
+      "catalyst": "Skeena Resources (TSX:SKE) Stock May Be Below Fair Value On Cash Flow",
       "headlines": [
-        "Why Charter Communications Stock Is Back In Focus After $2 Billion Cost Saving Plan",
-        "Charter Communications (CHTR) Jumps After Cox Deal, Is It Still Cheap?"
+        "Skeena Resources (TSX:SKE) Stock May Be Below Fair Value On Cash Flow",
+        "New Strong Sell Stocks for October 23rd"
       ]
     }
   ]
